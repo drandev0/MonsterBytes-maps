@@ -1,0 +1,6123 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6772.3,
+   "py": 4435.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6803.5,
+   "py": 4760,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6728.9,
+   "py": 5009.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6803.8,
+   "py": 5564.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6726.4,
+   "py": 6214.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6750.7,
+   "py": 6262,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6802.4,
+   "py": 6187.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6720.5,
+   "py": 5827.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6817.8,
+   "py": 5501.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6724.1,
+   "py": 5163.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6828.2,
+   "py": 4932.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra, Kandra",
+   "px": 6738.4,
+   "py": 4610.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 728,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (4Falls Dungon Kendra01):\nKandra (LV14) (Spawner: 4Falls Dungon kendra01, up to 2)\nKandra (LV14) (Spawner: 4Falls Dungon Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6684.5,
+   "py": 6616.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6316.2,
+   "py": 6799.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6080.5,
+   "py": 6698.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 5846,
+   "py": 6729.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 5730.2,
+   "py": 7044,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6330.1,
+   "py": 7052.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 5628.6,
+   "py": 6913.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6139.2,
+   "py": 7229.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 5978.4,
+   "py": 6780.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 5940.1,
+   "py": 7398.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6199.3,
+   "py": 6956,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6462.5,
+   "py": 7143.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6753.3,
+   "py": 6800,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6847.3,
+   "py": 6812.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7041,
+   "py": 6700.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7732.1,
+   "py": 7168.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7211,
+   "py": 7038.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7853.2,
+   "py": 6913,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7457.9,
+   "py": 7289.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7554.7,
+   "py": 6809.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7624.7,
+   "py": 7422.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7369.6,
+   "py": 6951.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 7236.8,
+   "py": 7189.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6890.7,
+   "py": 7113.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6719,
+   "py": 7250.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6521.2,
+   "py": 7138.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6686.2,
+   "py": 7004.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Taldon, Skarshar",
+   "px": 6645,
+   "py": 6792.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 4,
+     "name": "Taldon",
+     "level": 9
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 1 (4Falls Dungon Skarshar01):\nTaldon (LV9) (Spawner: 4Falls Dungon Tilidon01, up to 2)\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6784.1,
+   "py": 4510.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6810.2,
+   "py": 5009.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6734.5,
+   "py": 5569.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6794.9,
+   "py": 6088.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6771.7,
+   "py": 6363.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6731.3,
+   "py": 5808.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6724.7,
+   "py": 5325.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6768,
+   "py": 4804.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright, High Priest of Cron",
+   "px": 6727,
+   "py": 4584.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (4Falls Dungon Writh01):\nWright (LV16) (Spawner: 4Falls Dungon Writh01, up to 2)\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6657.5,
+   "py": 3200.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6906.8,
+   "py": 2847.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6694.3,
+   "py": 2696.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6622.6,
+   "py": 3021.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6868.1,
+   "py": 3213.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6913.3,
+   "py": 3538.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6751.5,
+   "py": 3639.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6633.7,
+   "py": 3418.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 3 (4Falls Dungon Writh02):\nWright (LV16) (Spawner: 4Falls Dungon Writh02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6705.4,
+   "py": 3179.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6882.5,
+   "py": 3003.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6920.2,
+   "py": 2836.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6765.2,
+   "py": 2733.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6619.8,
+   "py": 2879.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6651.8,
+   "py": 3019.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6800.8,
+   "py": 3208.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6906.7,
+   "py": 3299.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6881.4,
+   "py": 3476,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6786.3,
+   "py": 3626.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6741.7,
+   "py": 3470.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6630.4,
+   "py": 3356,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vavalon",
+   "px": 6641.2,
+   "py": 3280.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 340,
+     "name": "Vavalon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 4 (4Falls Dungon Slions01):\nVavalon (LV6) (Spawner: 4Falls Dungon Vavalon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6774.5,
+   "py": 2535.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6775.8,
+   "py": 2193,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6095.3,
+   "py": 2205,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 5624,
+   "py": 2198.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 5904.9,
+   "py": 2197.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6469.2,
+   "py": 2175.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6726.6,
+   "py": 2184.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6767.2,
+   "py": 2299.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6760.9,
+   "py": 2451,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 5 (4Falls Dungon Writh03):\nWright (LV16) (Spawner: 4Falls Dungon Writh03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5284.7,
+   "py": 2071,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5222.3,
+   "py": 1817.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5309.6,
+   "py": 1738,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5334.2,
+   "py": 1836.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5077.2,
+   "py": 1737.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4861.8,
+   "py": 1818.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4821.8,
+   "py": 1724.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4912.6,
+   "py": 1582,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4801.3,
+   "py": 1452.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4892.4,
+   "py": 1361.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4951.7,
+   "py": 1450.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4854,
+   "py": 1581.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 4974.8,
+   "py": 1810.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5139.8,
+   "py": 1812.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5275.1,
+   "py": 1887.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sliglith",
+   "px": 5168.7,
+   "py": 2099.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 16 on AI web 6 (4Falls Dungon Silion02):\nSliglith (LV6) (Spawner: 4falls Dungon Sliglith01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 1772.6,
+   "py": 1394.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2132.1,
+   "py": 1494.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2546.3,
+   "py": 1400.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2984.6,
+   "py": 1488.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 3382.9,
+   "py": 1403.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 3555.4,
+   "py": 1443.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 3375.2,
+   "py": 1479.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2985.3,
+   "py": 1400.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2572.2,
+   "py": 1494.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2116.3,
+   "py": 1405.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 1842.3,
+   "py": 1481.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 7 (4Falls Dungon Kendra02):\nKandra (LV14) (Spawner: 4Falls Dungon Kendra02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 2711.4,
+   "py": 1439.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 3190.8,
+   "py": 1448.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 3563.1,
+   "py": 1443.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 3390.6,
+   "py": 1438.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 2950.7,
+   "py": 1418.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 2726.7,
+   "py": 1467.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 2147.5,
+   "py": 1425.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 1586.9,
+   "py": 1504.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 992.5,
+   "py": 1268.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 565.6,
+   "py": 1410.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 1069.8,
+   "py": 1514.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 1655.8,
+   "py": 1439.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 2045.9,
+   "py": 1411.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Crid",
+   "px": 2410.2,
+   "py": 1471.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (4Falls Dungon HPOC02):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC02, up to 2)\nCrid (LV10) (Spawner: 4Falls Dungon Crid01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 1399.9,
+   "py": 1490.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 726,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 9 (4Falls Dungon HOPC (rare)):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 1121.7,
+   "py": 1995.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 726,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 9 (4Falls Dungon HOPC (rare)):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 882.7,
+   "py": 2018.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 726,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 9 (4Falls Dungon HOPC (rare)):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 710.1,
+   "py": 1470.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 726,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 9 (4Falls Dungon HOPC (rare)):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 891.9,
+   "py": 797.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 726,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 9 (4Falls Dungon HOPC (rare)):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 1300.9,
+   "py": 782.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 726,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 9 (4Falls Dungon HOPC (rare)):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 1321.7,
+   "py": 1201,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 726,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 9 (4Falls Dungon HOPC (rare)):\nHigh Priest of Cron (LV16) (Spawner: 4Falls Dungon HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1394.2,
+   "py": 1566.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 854.9,
+   "py": 2039.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1073,
+   "py": 2509.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 774.3,
+   "py": 2186.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1195.5,
+   "py": 2207.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 775.5,
+   "py": 2457.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1049.5,
+   "py": 1994.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 848.4,
+   "py": 1459.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 848.4,
+   "py": 912.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1188,
+   "py": 336.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1048.1,
+   "py": 946.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 811.9,
+   "py": 437.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1271.3,
+   "py": 724.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 755.7,
+   "py": 758.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1047.9,
+   "py": 659,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1220.4,
+   "py": 940.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 1207,
+   "py": 1306.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 17 on AI web 10 (4Falls Dungon Skarshar02):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 6994.5,
+   "py": 1359.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 11 (4Falls Dungon Eyezora01):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 7425.8,
+   "py": 1142.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 11 (4Falls Dungon Eyezora01):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 7061.2,
+   "py": 1099.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 11 (4Falls Dungon Eyezora01):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 7079.6,
+   "py": 1413.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 11 (4Falls Dungon Eyezora01):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 7133,
+   "py": 1121,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 11 (4Falls Dungon Eyezora01):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 7444.5,
+   "py": 1419.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 11 (4Falls Dungon Eyezora01):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 7440.9,
+   "py": 1172.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 11 (4Falls Dungon Eyezora01):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3721.3,
+   "py": 2657.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3644.4,
+   "py": 2585.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3784.9,
+   "py": 2583.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3792.6,
+   "py": 2716.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3646.4,
+   "py": 2725.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3393.9,
+   "py": 2573.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3445.4,
+   "py": 2705.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3299.2,
+   "py": 2739.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3303.1,
+   "py": 2595.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3381.6,
+   "py": 2646.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3045,
+   "py": 2649.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2964.5,
+   "py": 2728.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2969,
+   "py": 2603.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3093.5,
+   "py": 2587.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3106,
+   "py": 2716.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2954.9,
+   "py": 3049.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2953.7,
+   "py": 2935.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3106.1,
+   "py": 2925.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3106.1,
+   "py": 3079.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3029.1,
+   "py": 3010.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3368.7,
+   "py": 3002.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3295.4,
+   "py": 3072.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3290.9,
+   "py": 2933.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3443.4,
+   "py": 2925.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3445.1,
+   "py": 3061.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3622,
+   "py": 2920.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3616.4,
+   "py": 3061.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3775.2,
+   "py": 3074.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3782.8,
+   "py": 2929.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3709.7,
+   "py": 2988,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3389.5,
+   "py": 3004.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3373.8,
+   "py": 3432.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3299.6,
+   "py": 3381.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3294.1,
+   "py": 3521.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3424,
+   "py": 3533.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3434.1,
+   "py": 3397.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3110.7,
+   "py": 3521.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3109.7,
+   "py": 3408.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3237.1,
+   "py": 3444.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3378.4,
+   "py": 3324.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3369.8,
+   "py": 3048.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3375.7,
+   "py": 2748.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3588.5,
+   "py": 2641.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 12 (4Falls Dungon Left Area):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon01, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon01, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3740.8,
+   "py": 2620.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3550,
+   "py": 2680.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3373.8,
+   "py": 2615.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3045.8,
+   "py": 2711.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 2942.9,
+   "py": 2660.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3034.8,
+   "py": 2592.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3332.6,
+   "py": 2713.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3540.8,
+   "py": 2622.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3694.8,
+   "py": 2712,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (4Falls Dungon Skarshar03):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar03, up to 2)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3812.1,
+   "py": 2996.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3572.7,
+   "py": 2941.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3277.1,
+   "py": 3047,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 2990.3,
+   "py": 2913.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 2985.2,
+   "py": 3050.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3317.2,
+   "py": 2943.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3537.9,
+   "py": 3055.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Tolplop",
+   "px": 3769.4,
+   "py": 2927.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 339,
+     "name": "Tolplop",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (4Falls Dungon Skarshar04):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar04, up to 1)\nTolplop (LV6) (Spawner: 4Falls Dungon Tolplop02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2962.3,
+   "py": 3860.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2959.1,
+   "py": 3739.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3116.6,
+   "py": 3879.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3116.6,
+   "py": 3726.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2959.5,
+   "py": 3534.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 2959.5,
+   "py": 3384.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3110.2,
+   "py": 3381.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3108.7,
+   "py": 3518.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3030.9,
+   "py": 3789.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3283.2,
+   "py": 3868,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3289.6,
+   "py": 3718.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3436.1,
+   "py": 3718.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3451.1,
+   "py": 3873,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3367.9,
+   "py": 3800.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3696.3,
+   "py": 3800.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3620.8,
+   "py": 3877.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3777.5,
+   "py": 3877.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3778.3,
+   "py": 3738.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3655.5,
+   "py": 3721.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3714.1,
+   "py": 3499,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3786.6,
+   "py": 3546,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3791.5,
+   "py": 3400.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3648.6,
+   "py": 3370.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3633.8,
+   "py": 3516.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3394.7,
+   "py": 3455.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3454.2,
+   "py": 3381.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3316.4,
+   "py": 3374.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3299.2,
+   "py": 3535.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3428.2,
+   "py": 3533.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3330.1,
+   "py": 3767.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon, Ligon",
+   "px": 3169.4,
+   "py": 3754.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    },
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 31 on AI web 15 (4Falls Dungon Room2):\nGonlon (LV8) (Spawner: 4Falls Dungon Gonlon02, up to 6)\nLigon (LV5) (Spawner: 4Falls Dungon Ligon02, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora, Wright",
+   "px": 2040.3,
+   "py": 4159.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    },
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 16 (4Falls Dungon Eyezora02):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora02, up to 2)\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare01), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora, Wright",
+   "px": 2421.5,
+   "py": 4132.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    },
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 16 (4Falls Dungon Eyezora02):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora02, up to 2)\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare01), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora, Wright",
+   "px": 2383.2,
+   "py": 3775.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    },
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 16 (4Falls Dungon Eyezora02):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora02, up to 2)\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare01), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora, Wright",
+   "px": 2383.5,
+   "py": 3414.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    },
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 16 (4Falls Dungon Eyezora02):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora02, up to 2)\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare01), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora, Wright",
+   "px": 2049.1,
+   "py": 3490.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    },
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 16 (4Falls Dungon Eyezora02):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora02, up to 2)\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare01), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora, Wright",
+   "px": 2073.3,
+   "py": 3850.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    },
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 16 (4Falls Dungon Eyezora02):\nEyezora (LV10) (Spawner: 4Falls Dungon Eyezora02, up to 2)\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare01), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 5908.9,
+   "py": 2357.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 724,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (4Falls Dungon Writh (rare02)):\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare02), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6039.9,
+   "py": 2502.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 724,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (4Falls Dungon Writh (rare02)):\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare02), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 6032.6,
+   "py": 2739.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 724,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (4Falls Dungon Writh (rare02)):\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare02), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 5856.9,
+   "py": 2885.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 724,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (4Falls Dungon Writh (rare02)):\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare02), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 5669.3,
+   "py": 2812.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 724,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (4Falls Dungon Writh (rare02)):\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare02), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 5585.5,
+   "py": 2613.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 724,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (4Falls Dungon Writh (rare02)):\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare02), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 5713.3,
+   "py": 2411.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 724,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (4Falls Dungon Writh (rare02)):\nWright (LV16) (Spawner: 4Falls Dungon Writh (rare02), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4975.1,
+   "py": 1505.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5161,
+   "py": 1505,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5521.9,
+   "py": 1520,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5802.1,
+   "py": 1498.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 6067.9,
+   "py": 1513.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5813.1,
+   "py": 1511.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5558.7,
+   "py": 1490.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5090.9,
+   "py": 1512,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 18 (4Falls Dungon Skarshar05):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar05, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5164.2,
+   "py": 2028.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 19 (4Falls Dungon Rigprion01):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5178.4,
+   "py": 1607.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 19 (4Falls Dungon Rigprion01):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5165,
+   "py": 1147.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 19 (4Falls Dungon Rigprion01):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5175,
+   "py": 925.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 19 (4Falls Dungon Rigprion01):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5176.3,
+   "py": 1134,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 19 (4Falls Dungon Rigprion01):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5157.1,
+   "py": 1562.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 19 (4Falls Dungon Rigprion01):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5171.7,
+   "py": 1999.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 19 (4Falls Dungon Rigprion01):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4001.8,
+   "py": 1730.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 20 (4Falls Dungon Skarshar07):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4431.5,
+   "py": 1723.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 20 (4Falls Dungon Skarshar07):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4789.4,
+   "py": 1740.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 20 (4Falls Dungon Skarshar07):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4920,
+   "py": 1727.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 20 (4Falls Dungon Skarshar07):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4744.1,
+   "py": 1722.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 20 (4Falls Dungon Skarshar07):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4421.7,
+   "py": 1738.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 20 (4Falls Dungon Skarshar07):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4015.4,
+   "py": 1718.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 20 (4Falls Dungon Skarshar07):\nSkarshar (LV13) (Spawner: 4Falls Dungon Skarshar06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 5689.9,
+   "py": 1414.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 21 (4Falls Dungon Phision01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 5516.8,
+   "py": 1425.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 21 (4Falls Dungon Phision01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 5520.8,
+   "py": 1625.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 21 (4Falls Dungon Phision01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 5605.1,
+   "py": 1497.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 21 (4Falls Dungon Phision01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 5652,
+   "py": 1580.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 21 (4Falls Dungon Phision01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 3580.5,
+   "py": 1952.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 22 (4Falls Dungon Phision02):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 3649.1,
+   "py": 2059.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 22 (4Falls Dungon Phision02):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 3742.6,
+   "py": 1969,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 22 (4Falls Dungon Phision02):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 3678.3,
+   "py": 1833.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 22 (4Falls Dungon Phision02):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 4469.3,
+   "py": 2249.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 23 (4Falls Dungon Pidion01):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 4319.9,
+   "py": 2387.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 23 (4Falls Dungon Pidion01):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 4456.5,
+   "py": 2398.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 23 (4Falls Dungon Pidion01):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 4310.2,
+   "py": 2259.8,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 23 (4Falls Dungon Pidion01):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3940.7,
+   "py": 2417.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (4Falls Dungon Pidion02):\nGrision (LV15) (Spawner: 4Falls Dungon Grision03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3778.5,
+   "py": 2250.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (4Falls Dungon Pidion02):\nGrision (LV15) (Spawner: 4Falls Dungon Grision03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3935.8,
+   "py": 2268.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (4Falls Dungon Pidion02):\nGrision (LV15) (Spawner: 4Falls Dungon Grision03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3782.8,
+   "py": 2412.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (4Falls Dungon Pidion02):\nGrision (LV15) (Spawner: 4Falls Dungon Grision03, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 3320.5,
+   "py": 2765.9,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 25 (4Falls Dungon Pidion03):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 3488.5,
+   "py": 2925.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 25 (4Falls Dungon Pidion03):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 3487.8,
+   "py": 2772.5,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 25 (4Falls Dungon Pidion03):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 3341.9,
+   "py": 2916.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 25 (4Falls Dungon Pidion03):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3328.3,
+   "py": 3273,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 26 (4Falls Dungon Pidion04):\nGrision (LV15) (Spawner: 4Falls Dungon Grision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3487.7,
+   "py": 3428.7,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 26 (4Falls Dungon Pidion04):\nGrision (LV15) (Spawner: 4Falls Dungon Grision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3331,
+   "py": 3420,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 26 (4Falls Dungon Pidion04):\nGrision (LV15) (Spawner: 4Falls Dungon Grision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3491,
+   "py": 3288.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 26 (4Falls Dungon Pidion04):\nGrision (LV15) (Spawner: 4Falls Dungon Grision02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 3856.1,
+   "py": 3269,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 27 (4Falls Dungon Pidion05):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 4011.7,
+   "py": 3429.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 27 (4Falls Dungon Pidion05):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 3862.3,
+   "py": 3427,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 27 (4Falls Dungon Pidion05):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 4018.3,
+   "py": 3279.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 27 (4Falls Dungon Pidion05):\nPidion (LV10) (Spawner: 4Falls Dungon Pidion01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4317,
+   "py": 2920.2,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 28 (4Falls Dungon Pidion06):\nGrision (LV15) (Spawner: 4Falls Dungon Grision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4455.9,
+   "py": 2762.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 28 (4Falls Dungon Pidion06):\nGrision (LV15) (Spawner: 4Falls Dungon Grision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4456.4,
+   "py": 2909.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 28 (4Falls Dungon Pidion06):\nGrision (LV15) (Spawner: 4Falls Dungon Grision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4323.6,
+   "py": 2762.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 28 (4Falls Dungon Pidion06):\nGrision (LV15) (Spawner: 4Falls Dungon Grision01, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 3832.6,
+   "py": 2887.4,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 29 (4Falls Dungon Torik01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 4060.9,
+   "py": 2754.3,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 29 (4Falls Dungon Torik01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 3834.1,
+   "py": 2991,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 29 (4Falls Dungon Torik01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 3863.4,
+   "py": 2672.1,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 29 (4Falls Dungon Torik01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Phsion",
+   "px": 4035.3,
+   "py": 2971.6,
+   "radiusPx": 25.8,
+   "mobs": [
+    {
+     "id": 95,
+     "name": "Phsion",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 29 (4Falls Dungon Torik01):\nPhsion (LV12) (Spawner: 4Falls Dungon Phision03, up to 2)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 3",
+   "px": 6631.6,
+   "py": 4876.4,
+   "npcId": 440,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Crom wings",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Wings of Crom"
+      },
+      {
+       "name": "Chest"
+      }
+     ]
+    },
+    {
+     "title": "crom wings2"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Euhim",
+   "px": 3973.2,
+   "py": 2876,
+   "npcId": 607,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Signet of Overking"
+      }
+     ]
+    },
+    {
+     "title": "Neronicle Quest: Part 5 of 13",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Fire Rune"
+      },
+      {
+       "name": "Air Rune"
+      },
+      {
+       "name": "Water Rune"
+      },
+      {
+       "name": "Earth Rune"
+      },
+      {
+       "name": "Power Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Power Core"
+      }
+     ]
+    },
+    {
+     "title": "Neronicle Quest: Part 6 of 13",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Channel Mission List"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 17 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Grey Stone Rune"
+      },
+      {
+       "name": "Stone of Spirits"
+      },
+      {
+       "name": "Blue Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Channel Crystal"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 18 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Xelly",
+   "px": 4547.3,
+   "py": 990.9,
+   "npcId": 739,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 15"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 15"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 20 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "High Priest Robe"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 21 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Elder Eye"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Xelly Says Hello to Celeste"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 22 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 5",
+   "px": 6452.9,
+   "py": 6934.7,
+   "npcId": 1473,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Flob",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Flob2"
+    },
+    {
+     "title": "Flob3",
+     "needs": [
+      {
+       "name": "Flob Shell",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Flob4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 6",
+   "px": 5581.2,
+   "py": 1501.7,
+   "npcId": 1474,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "rancon",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "rancon2"
+    },
+    {
+     "title": "rancon3",
+     "needs": [
+      {
+       "name": "Rancon Hide",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Rancon4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 2",
+   "px": 4924.2,
+   "py": 1490.4,
+   "npcId": 1475,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Elder Shocks",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Elder shocks2"
+    },
+    {
+     "title": "Elder shocks3",
+     "needs": [
+      {
+       "name": "Elder Shockion Head",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Elder shocks4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 9",
+   "px": 6403.3,
+   "py": 2251.5,
+   "npcId": 1476,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "HPOC",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "HPOC2"
+    },
+    {
+     "title": "HPOC3",
+     "needs": [
+      {
+       "name": "High Priest Plasma",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "HPOC4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 4",
+   "px": 3024,
+   "py": 3338,
+   "npcId": 1477,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Grision",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Grision2"
+    },
+    {
+     "title": "Grision3",
+     "needs": [
+      {
+       "name": "Grision Plasma",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Grision4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 10",
+   "px": 289.2,
+   "py": 1422.8,
+   "npcId": 1478,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "wright",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "wright2"
+    },
+    {
+     "title": "wright3",
+     "needs": [
+      {
+       "name": "Wright Essence",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "wright4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 1",
+   "px": 7548.5,
+   "py": 1483.1,
+   "npcId": 1479,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "trisk",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "trisk2"
+    },
+    {
+     "title": "trisk3",
+     "needs": [
+      {
+       "name": "Trisk Tentacles",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "trisk4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 3",
+   "px": 2512.6,
+   "py": 2356.5,
+   "npcId": 1480,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "tilidon",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "tilidon2"
+    },
+    {
+     "title": "tilidon3",
+     "needs": [
+      {
+       "name": "Tilidon Head",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "tilidon4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Momiji Chest 8",
+   "px": 4509.4,
+   "py": 1066.3,
+   "npcId": 1481,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Eyezora",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Eyezora2"
+    },
+    {
+     "title": "Eyezora3",
+     "needs": [
+      {
+       "name": "Eyezora Eye",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      }
+     ]
+    },
+    {
+     "title": "Eyezora4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Scout",
+   "px": 6749.9,
+   "py": 7739.9,
+   "npcId": 1591,
+   "template": "Bron",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 4537.8,
+   "py": 2884,
+   "npcId": 1103,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 2497,
+      "py": 5273.1
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 4537.5,
+   "py": 2886.6,
+   "radiusPx": 38.8,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 536 (PORTOUTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 24",
+   "px": 4537.5,
+   "py": 2886.6,
+   "radiusPx": 646.1,
+   "detail": "Action 6: play soundtrack, argument 24\nRadius: 500\nObject 536 (PORTOUTa.ARW)"
+  }
+ ]
+}

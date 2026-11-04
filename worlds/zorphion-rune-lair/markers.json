@@ -1,0 +1,292 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Siltron",
+   "px": 3821.5,
+   "py": 3690.3,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 11,
+     "name": "Siltron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Siltron",
+   "px": 2501.4,
+   "py": 3219.8,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 11,
+     "name": "Siltron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Siltron",
+   "px": 1256,
+   "py": 2195.7,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 11,
+     "name": "Siltron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Siltron",
+   "px": 3023.4,
+   "py": 1111.1,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 11,
+     "name": "Siltron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Siltron",
+   "px": 3799.4,
+   "py": 1860.5,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 11,
+     "name": "Siltron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Siltron",
+   "px": 3941.9,
+   "py": 3030.6,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 11,
+     "name": "Siltron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Water Stone",
+   "px": 2557.4,
+   "py": 3603,
+   "npcId": 531,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Wstone",
+     "needs": [
+      {
+       "name": "Extractor 3 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Water Stone"
+      },
+      {
+       "name": "Extractor 3 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Water Stone",
+   "px": 2623.3,
+   "py": 3154.4,
+   "npcId": 532,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Wstone",
+     "needs": [
+      {
+       "name": "Extractor 3 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Water Stone"
+      },
+      {
+       "name": "Extractor 3 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Water Stone",
+   "px": 2540.1,
+   "py": 4506.2,
+   "npcId": 533,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Wstone",
+     "needs": [
+      {
+       "name": "Extractor 3 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 3 (Minerals)"
+      },
+      {
+       "name": "Water Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 2395.2,
+   "py": 7844.4,
+   "npcId": 1077,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 2912.8,
+      "py": 4010.7
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Water Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 2281.4,
+   "py": 7844,
+   "npcId": 1119,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 2912.8,
+      "py": 4010.7
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Zorphion Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2338.2,
+   "py": 7846.1,
+   "radiusPx": 61,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 60\nObject 256 (EYEPORT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 12",
+   "px": 2338.2,
+   "py": 7846.1,
+   "radiusPx": 304.8,
+   "detail": "Action 6: play soundtrack, argument 12\nRadius: 300\nObject 257 (EYEPORT02a.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "EYEMEBAWATER",
+   "px": 2549.2,
+   "py": 4212.8,
+   "box": [
+    -242.1,
+    -23.4,
+    5340.6,
+    8449
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

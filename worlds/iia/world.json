@@ -1,0 +1,104 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "iia",
+  "title": "IIA",
+  "places": [
+    "Black Market Island",
+    "Blobic Colonies",
+    "HC - Death Valley & Petrified Forest",
+    "Petrified Forest",
+    "Sial Island",
+    "Sia Island",
+    "HC - Trendor Bridge",
+    "HC - Northern Penn",
+    "Moon Rifts",
+    "Amphibious Island",
+    "Amphibious Island Cave",
+    "AP Island",
+    "Black Market Stone Maze",
+    "Solothic Caves",
+    "Sluggith Island",
+    "Arilous Mining Cave",
+    "AMC",
+    "Blobic Caves",
+    "Root of the Oracle",
+    "Dark Sea",
+    "Unity",
+    "UGC Penn"
+  ],
+  "group": "lands",
+  "worldId": 11,
+  "source": {
+    "world": "MAINWORLD_BETA02.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 15.234503269195557,
+    "origin": {
+      "x": -62400.51953125,
+      "z": 62400.53125
+    }
+  },
+  "width": 8192,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#4cbfbf",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 3583
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 299
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 21
+    },
+    {
+      "id": "gather",
+      "title": "Gathering and chests",
+      "color": "#8bc34a",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "shops",
+      "title": "Shop counters",
+      "color": "#8d6e63",
+      "shown": false,
+      "count": 9
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 24
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 57
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 39
+    }
+  ],
+  "note": "The main world. Its caves and side areas are in the same map, away from the islands."
+}

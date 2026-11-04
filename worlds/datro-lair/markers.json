@@ -1,0 +1,1803 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Rigprion",
+   "px": 1629.6,
+   "py": 4938.4,
+   "mobs": [
+    {
+     "id": 79,
+     "name": "Rigprion",
+     "level": 13
+    }
+   ],
+   "spawner": "RIGPRION 26 DIM 2 CATACOMBS HALL2",
+   "capacity": 3,
+   "detail": "Spawner: RIGPRION 26 DIM 2 CATACOMBS HALL2\nAI config: 79\nUp to 3 at once, 250/1000 chance a round\nAI web 27, node 8"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clidion",
+   "px": 817.7,
+   "py": 5171.2,
+   "mobs": [
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "spawner": "CLIDION 26 DIM 2 MIDROOMCATACOMBS",
+   "capacity": 3,
+   "detail": "Spawner: CLIDION 26 DIM 2 MIDROOMCATACOMBS\nAI config: 78\nUp to 3 at once, 250/1000 chance a round\nAI web 29, node 0"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 817.7,
+   "py": 2723.2,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 1199.6,
+   "py": 2718.6,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 960.6,
+   "py": 2867.8,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 817,
+   "py": 2511.1,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 960.5,
+   "py": 2723.7,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 1122.2,
+   "py": 2572.6,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Agron",
+   "px": 901.8,
+   "py": 4354.9,
+   "mobs": [
+    {
+     "id": 59,
+     "name": "Agron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Agron",
+   "px": 1037,
+   "py": 4335.7,
+   "mobs": [
+    {
+     "id": 59,
+     "name": "Agron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Agron",
+   "px": 960.6,
+   "py": 4494.7,
+   "mobs": [
+    {
+     "id": 59,
+     "name": "Agron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Agron",
+   "px": 995.3,
+   "py": 3014,
+   "mobs": [
+    {
+     "id": 59,
+     "name": "Agron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Agron",
+   "px": 987.1,
+   "py": 3853.6,
+   "mobs": [
+    {
+     "id": 59,
+     "name": "Agron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Agron",
+   "px": 981.2,
+   "py": 3429.4,
+   "mobs": [
+    {
+     "id": 59,
+     "name": "Agron",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lauder",
+   "px": 926.2,
+   "py": 4364.6,
+   "mobs": [
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lauder",
+   "px": 1061.4,
+   "py": 4345.5,
+   "mobs": [
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lauder",
+   "px": 985,
+   "py": 4504.5,
+   "mobs": [
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lauder",
+   "px": 1190.9,
+   "py": 4405.6,
+   "mobs": [
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lauder",
+   "px": 605.9,
+   "py": 4403.1,
+   "mobs": [
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lauder",
+   "px": 1010.7,
+   "py": 4396.7,
+   "mobs": [
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 385.4,
+   "py": 5016.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 327.4,
+   "py": 4817,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 322,
+   "py": 4653.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 389.2,
+   "py": 4514.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 485,
+   "py": 4398.3,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 441,
+   "py": 4450.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 341,
+   "py": 4572.3,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 322.8,
+   "py": 4778,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 351.4,
+   "py": 4948.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon",
+   "px": 817.7,
+   "py": 5171.2,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon",
+   "px": 1199.6,
+   "py": 5126.6,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon",
+   "px": 960.6,
+   "py": 5315.8,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon",
+   "px": 817,
+   "py": 4959.1,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon",
+   "px": 960.5,
+   "py": 4958.9,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon",
+   "px": 1122.2,
+   "py": 5020.6,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon",
+   "px": 844.5,
+   "py": 5236.4,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 878.7,
+   "py": 6392.2,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1199.6,
+   "py": 6347.6,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 960.6,
+   "py": 6536.8,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 846.9,
+   "py": 6206.2,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 960.5,
+   "py": 6179.9,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1122.2,
+   "py": 6241.6,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 844.5,
+   "py": 6457.4,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 1818.1,
+   "py": 6445.1,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 31 (CATACOMBSUB2):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBSSUB2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 1164.5,
+   "py": 7111.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 33 (BLOBCATACOMBS):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 1175.4,
+   "py": 7163,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 34 (BLBO1):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 1075.4,
+   "py": 7196.1,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 35 (BLOB3):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 1062.9,
+   "py": 7136.5,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 36 (BLOBLIC4):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBSPORTAL ROOM, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 401.1,
+   "py": 7111.9,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 37 (BLOBLIC4):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS PORTAL, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 474.8,
+   "py": 7080.6,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 38 (BLOBLIC5):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS PORTAL, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 522.4,
+   "py": 7204.7,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 39 (BLOBLIC6):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 440,
+   "py": 7204.7,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 40 (BLOBLIC7):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2090.8,
+   "py": 5675.2,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2917.8,
+   "py": 5670.7,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2439.1,
+   "py": 5894.8,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2295.5,
+   "py": 5463.1,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2227.7,
+   "py": 5675.7,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2840.8,
+   "py": 5524.6,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro, Skarshar",
+   "px": 2218.2,
+   "py": 6870.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro, Skarshar",
+   "px": 2763.3,
+   "py": 6865.9,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro, Skarshar",
+   "px": 2439.1,
+   "py": 6960.9,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro, Skarshar",
+   "px": 2295.5,
+   "py": 6658.3,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro, Skarshar",
+   "px": 2327.6,
+   "py": 6870.9,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro, Skarshar",
+   "px": 2707.3,
+   "py": 6719.9,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossEntRm Chest01",
+   "px": 3255,
+   "py": 5611.5,
+   "npcId": 22,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Key of Tombs"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Datro Altar Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossEntRm Chest02 (EMPTY)",
+   "px": 3243.1,
+   "py": 5575.7,
+   "npcId": 23,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossEntRm Chest03 (EMPTY)",
+   "px": 3244.8,
+   "py": 5583.3,
+   "npcId": 24,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossEntRm Chest04 (EMPTY)",
+   "px": 3226.2,
+   "py": 5736.2,
+   "npcId": 25,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest01 (KEYS)",
+   "px": 2224.1,
+   "py": 5822.4,
+   "npcId": 26,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Chest"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest03 (EMPTY)",
+   "px": 2416.6,
+   "py": 5643,
+   "npcId": 27,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest02 (EMPTY)",
+   "px": 2415.5,
+   "py": 5703.7,
+   "npcId": 28,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest04 (EMPTY)",
+   "px": 2506.5,
+   "py": 5602,
+   "npcId": 29,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest05 (EMPTY)",
+   "px": 2534.3,
+   "py": 5704.8,
+   "npcId": 30,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest06 (EMPTY)",
+   "px": 2475.7,
+   "py": 5767,
+   "npcId": 31,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest07 (EMPTY)",
+   "px": 2390.4,
+   "py": 5709.9,
+   "npcId": 32,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest08",
+   "px": 2486.6,
+   "py": 5360.9,
+   "npcId": 33,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Gena Root"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest09 (EMPTY)",
+   "px": 2575.3,
+   "py": 5504.3,
+   "npcId": 34,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest10 (EMPTY)",
+   "px": 2591.5,
+   "py": 5608.1,
+   "npcId": 35,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest11 (EMPTY)",
+   "px": 2681.5,
+   "py": 5743.3,
+   "npcId": 36,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest12 (EMPTY)",
+   "px": 2503.5,
+   "py": 5697.4,
+   "npcId": 37,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm01 Chest13",
+   "px": 2678.5,
+   "py": 5530.9,
+   "npcId": 38,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Key of Tombs"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Key of Serpents"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm02 Chest01",
+   "px": 2477.2,
+   "py": 5855.7,
+   "npcId": 39,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Chest"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) DropRm02 Chest02",
+   "px": 2383.5,
+   "py": 5715.8,
+   "npcId": 40,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Key of Tombs"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Ligian of Kanasta",
+   "px": 2418.4,
+   "py": 5593,
+   "npcId": 41,
+   "template": "Human Male",
+   "says": [
+    "The beast awaits... it is overwhelmed with hate and fury... we will surely all die soon enough...",
+    "I have been trapped here for days, with no way to return outside... the beast blocks the path... and I am just one man...",
+    "I can not help you for I have already lost all of my will to power my Shial..."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest01",
+   "px": 3009.4,
+   "py": 5995.6,
+   "npcId": 42,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Chest"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest02",
+   "px": 2484.3,
+   "py": 5022.6,
+   "npcId": 43,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest03 (EMPTY)",
+   "px": 1860.1,
+   "py": 6931.6,
+   "npcId": 44,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest04 (EMPTY)",
+   "px": 3093.8,
+   "py": 6977.1,
+   "npcId": 45,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest05 (EMPTY)",
+   "px": 3029.7,
+   "py": 6946,
+   "npcId": 46,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest06 (SoC)",
+   "px": 2960.5,
+   "py": 6963.1,
+   "npcId": 47,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Plankl Key"
+      },
+      {
+       "name": "Crom Key"
+      },
+      {
+       "name": "Kanastas Key of Retribution"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Sword of Crom (D) (Lv15)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest08 (EMPTY)",
+   "px": 2346.7,
+   "py": 6727,
+   "npcId": 49,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest09 (EMPTY)",
+   "px": 1966.3,
+   "py": 6963.3,
+   "npcId": 50,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest10",
+   "px": 2475,
+   "py": 6535.3,
+   "npcId": 51,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest11",
+   "px": 2605.6,
+   "py": 6774.9,
+   "npcId": 52,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest12 (EMPTY)",
+   "px": 2477.8,
+   "py": 6418.3,
+   "npcId": 53,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest13 (EMPTY)",
+   "px": 2479.3,
+   "py": 6432,
+   "npcId": 54,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest14 (EMPTY)",
+   "px": 2477.9,
+   "py": 6456.2,
+   "npcId": 55,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest15",
+   "px": 2479.6,
+   "py": 6351.9,
+   "npcId": 56,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Key of Tombs"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Datro Altar Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest16 (EMPTY)",
+   "px": 2673.6,
+   "py": 5616,
+   "npcId": 57,
+   "template": "Misc Inventory"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest17",
+   "px": 2501.4,
+   "py": 5223.8,
+   "npcId": 58,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Chest"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 3420.8,
+   "py": 5668.9,
+   "npcId": 1148,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 546.1,
+      "py": 4204.2
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Kanastas Key of Shial"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 3418,
+   "py": 5669.5,
+   "npcId": 1573,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 576.2,
+      "py": 4470.9
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2480.1,
+   "py": 6881.4,
+   "npcId": 1574,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 576.2,
+      "py": 4470.9
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 2522.7,
+   "py": 5935.1,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 978.5,
+   "py": 1046.7,
+   "radiusPx": 1077.7,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 1500\nObject 82 (PORTTRIG_MainEntDropa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 978.7,
+   "py": 2522.4,
+   "radiusPx": 10.8,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 83 (PORTTRIG_MainEntTombSeca.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 6",
+   "px": 2476.7,
+   "py": 5668.4,
+   "radiusPx": 718.4,
+   "detail": "Action 6: play soundtrack, argument 6\nRadius: 1000\nObject 161 (DROPRMGLOWBALLa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 3420.9,
+   "py": 5668.6,
+   "radiusPx": 21.6,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 183 (PARTTRIG_BOSSSECENTPORTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2476.7,
+   "py": 6879.5,
+   "radiusPx": 53.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 207 (DROPRMGLOWBALL02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 17",
+   "px": 2476.7,
+   "py": 6879.5,
+   "radiusPx": 1796.1,
+   "detail": "Action 6: play soundtrack, argument 17\nRadius: 2500\nObject 208 (DROPRMGLOWBALL03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2478.9,
+   "py": 7992.6,
+   "radiusPx": 53.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 251 (MAINEXITPORT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 3421.1,
+   "py": 5668.7,
+   "radiusPx": 21.6,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 293 (PORTTRIG_BossSecReturna.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2479.2,
+   "py": 7093.4,
+   "radiusPx": 107.8,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 150\nObject 296 (PORTTRIG_BossSecKeyDra.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2479.2,
+   "py": 7160.7,
+   "radiusPx": 10.8,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 297 (PORTTRIG_BossSecKeyDr01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2478.8,
+   "py": 7799.7,
+   "radiusPx": 10.8,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 298 (PORTTRIG_MnCataExita.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs01",
+   "px": 978.1,
+   "py": 2675.6,
+   "box": [
+    669.2,
+    2366.6,
+    1287,
+    2984.5
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs02",
+   "px": 978.1,
+   "py": 3616.7,
+   "box": [
+    897.3,
+    2970.1,
+    1058.9,
+    4263.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs03",
+   "px": 978.1,
+   "py": 4404.1,
+   "box": [
+    789.5,
+    4215.5,
+    1166.7,
+    4592.7
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs04",
+   "px": 978.1,
+   "py": 4404.1,
+   "box": [
+    583,
+    4323.3,
+    1373.3,
+    4484.9
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs05",
+   "px": 705.1,
+   "py": 5122.7,
+   "box": [
+    611.7,
+    5043.7,
+    798.5,
+    5201.8
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs06",
+   "px": 1254.4,
+   "py": 5122.7,
+   "box": [
+    1161,
+    5043.7,
+    1347.8,
+    5201.8
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs07",
+   "px": 978.8,
+   "py": 5705,
+   "box": [
+    951.8,
+    5345.7,
+    1005.7,
+    6064.2
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs08",
+   "px": 977.7,
+   "py": 6350.3,
+   "box": [
+    694,
+    6053.9,
+    1261.5,
+    6646.6
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs09",
+   "px": 977.7,
+   "py": 6350.3,
+   "box": [
+    941.8,
+    6314.4,
+    1013.7,
+    6386.2
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs10",
+   "px": 977.7,
+   "py": 6547.5,
+   "box": [
+    941.8,
+    6367.9,
+    1013.7,
+    6727.1
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs11",
+   "px": 866.2,
+   "py": 6713.9,
+   "box": [
+    722.6,
+    6534.3,
+    1009.9,
+    6893.5
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs12",
+   "px": 810.9,
+   "py": 7041.2,
+   "box": [
+    757,
+    6892.2,
+    864.8,
+    7190.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs13",
+   "px": 810.1,
+   "py": 7243.7,
+   "box": [
+    734.6,
+    7171.9,
+    885.5,
+    7315.6
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs14",
+   "px": 815.5,
+   "py": 7176.5,
+   "box": [
+    792.1,
+    7129.8,
+    838.8,
+    7223.2
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs15",
+   "px": 650.4,
+   "py": 7192.5,
+   "box": [
+    542.7,
+    7162,
+    758.2,
+    7223
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs16",
+   "px": 511.4,
+   "py": 7170.7,
+   "box": [
+    437.8,
+    7116.8,
+    585,
+    7224.6
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs17",
+   "px": 1016.1,
+   "py": 7191.2,
+   "box": [
+    881.4,
+    7083.4,
+    1150.9,
+    7299
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs18",
+   "px": 823.4,
+   "py": 7458.9,
+   "box": [
+    787.4,
+    7306.2,
+    859.3,
+    7611.5
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs19",
+   "px": 811.5,
+   "py": 7627.3,
+   "box": [
+    719.9,
+    7537.4,
+    903.1,
+    7717.1
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

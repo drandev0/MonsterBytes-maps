@@ -1,0 +1,19 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "entities",
+   "name": "Human Male",
+   "px": 1427,
+   "py": 3305.9,
+   "detail": "Entity template 39\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 55",
+   "px": 3411.2,
+   "py": 2313.8,
+   "detail": "Action 6: play soundtrack, argument 55\nRadius: 9000\nObject 25 (Nexus_INT01.ARW)"
+  }
+ ]
+}

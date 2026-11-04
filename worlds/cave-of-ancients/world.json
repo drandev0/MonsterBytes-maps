@@ -1,0 +1,75 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "cave-of-ancients",
+  "title": "Cave of Ancients",
+  "places": [
+    "Cave of Ancients"
+  ],
+  "group": "dungeons",
+  "worldId": 25,
+  "source": {
+    "world": "Coa.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 2.9682353734970093,
+    "origin": {
+      "x": -13186.3173828125,
+      "z": 1835.603759765625
+    }
+  },
+  "width": 8192,
+  "height": 5392,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#68f4f4",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 243
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 26
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "gather",
+      "title": "Gathering and chests",
+      "color": "#8bc34a",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 8
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 1
+    }
+  ]
+}

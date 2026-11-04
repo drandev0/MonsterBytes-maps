@@ -1,0 +1,54 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "zeth-rune-lair",
+  "title": "Zeth Rune Lair",
+  "places": [
+    "Zeth Rune Lair"
+  ],
+  "group": "dungeons",
+  "worldId": 18,
+  "source": {
+    "world": "ZETH_RUNEZONE.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.8010754585266113,
+    "origin": {
+      "x": -12819.388671875,
+      "z": -18979.7578125
+    }
+  },
+  "width": 8192,
+  "height": 3462,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#190000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 15
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 4
+    }
+  ]
+}

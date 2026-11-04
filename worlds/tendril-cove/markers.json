@@ -1,0 +1,23 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "portals",
+   "name": "Travelers",
+   "px": 3908.4,
+   "py": 1114.9,
+   "npcId": 1647,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 3294.6,
+      "py": 3241.7
+     },
+     "title": "Back to 4 Falls"
+    }
+   ]
+  }
+ ]
+}

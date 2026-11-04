@@ -1,0 +1,1850 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 3316.1,
+   "py": 4741.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2875.7,
+   "py": 4741.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2879.8,
+   "py": 4294.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 3328.6,
+   "py": 4298.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 3316.9,
+   "py": 4731.5,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2892.8,
+   "py": 4742.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 3318.7,
+   "py": 4735.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 3309.8,
+   "py": 4292.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2883.8,
+   "py": 4326.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2906.5,
+   "py": 4717,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Eyezora01):\nAscherion (LV8) (Spawner: Eyezora01 left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2718.8,
+   "py": 4742.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2289.2,
+   "py": 4742.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2298,
+   "py": 4302.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2312.6,
+   "py": 4731.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2703.2,
+   "py": 4720.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2843.2,
+   "py": 4627.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2905.8,
+   "py": 4778.4,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2730.7,
+   "py": 4837.4,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Eyezora02):\nAscherion (LV8) (Spawner: Eyezora02 Left, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 1258.9,
+   "py": 4336.4,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 1273.6,
+   "py": 4750.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 860.3,
+   "py": 4733.5,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 770.3,
+   "py": 4626.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 648.1,
+   "py": 4652,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 632.6,
+   "py": 4810.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 782.9,
+   "py": 4858.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 866,
+   "py": 4751.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 1236,
+   "py": 4757.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (eyezora03):\nAscherion (LV8) (Spawner: Eyezora03 right, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 608.2,
+   "py": 4743.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 206,
+   "py": 4740.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 219.4,
+   "py": 4299.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 666.4,
+   "py": 4288.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 664.9,
+   "py": 4747.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 216.1,
+   "py": 4732.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 662.8,
+   "py": 4740.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 662.8,
+   "py": 4292,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 217.6,
+   "py": 4296.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion, Ascherion",
+   "px": 209.7,
+   "py": 4732.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 762,
+     "name": "Elite Ascherion",
+     "level": 10
+    },
+    {
+     "id": 761,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 3 (Eyezora04):\nElite Ascherion (LV10) (Spawner: Writh01, up to 1)\nAscherion (LV8) (Spawner: Eyezora04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 2961.8,
+   "py": 4385,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 764,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 5 (Eyezora (rare)):\nBreakable Chest (Spawner: 4Falls temple Eyezora (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 3090.2,
+   "py": 4385,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 764,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 5 (Eyezora (rare)):\nBreakable Chest (Spawner: 4Falls temple Eyezora (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 2352.9,
+   "py": 4904.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 2349.3,
+   "py": 5072.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 1853.3,
+   "py": 5064.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 1853.2,
+   "py": 5481.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 1680.2,
+   "py": 5481.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 1680.1,
+   "py": 5070.5,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 1185.5,
+   "py": 5074.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 1183.6,
+   "py": 4899.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest, Dark Jouster",
+   "px": 1764.9,
+   "py": 4899.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    },
+    {
+     "id": 766,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 6 (HPOC01):\nBreakable Chest (Spawner: HPOC01, up to 1)\nDark Jouster (LV13) (Spawner: 4Falls Temple HPOC (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 1764.2,
+   "py": 7053.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 7 (Writh01):\nWright (LV16) (Spawner: 4Falls Temple Writh (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 1382.2,
+   "py": 7171.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 7 (Writh01):\nWright (LV16) (Spawner: 4Falls Temple Writh (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 1748.2,
+   "py": 7928.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 7 (Writh01):\nWright (LV16) (Spawner: 4Falls Temple Writh (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 2284.3,
+   "py": 7487.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 727,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 7 (Writh01):\nWright (LV16) (Spawner: 4Falls Temple Writh (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 1245.3,
+   "py": 3301,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 1245.4,
+   "py": 3123.4,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 1689.4,
+   "py": 3134.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 1689.5,
+   "py": 2768.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 1857.1,
+   "py": 2768.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 1857,
+   "py": 3117.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 2344,
+   "py": 3114.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 2331.2,
+   "py": 3294.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Breakable Chest",
+   "px": 1761.7,
+   "py": 3275.5,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 763,
+     "name": "Breakable Chest",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 8 (HPOC02):\nBreakable Chest (Spawner: HPOC02, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1226.8,
+   "py": 3226.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 719,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 9 (Grsiion (rare)):\nGrision (LV15) (Spawner: 4Falls Temple Grision (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1761.3,
+   "py": 3139.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 719,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 9 (Grsiion (rare)):\nGrision (LV15) (Spawner: 4Falls Temple Grision (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 2333.2,
+   "py": 3243.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 719,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 9 (Grsiion (rare)):\nGrision (LV15) (Spawner: 4Falls Temple Grision (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 2307.5,
+   "py": 3142.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 719,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 9 (Grsiion (rare)):\nGrision (LV15) (Spawner: 4Falls Temple Grision (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1768.4,
+   "py": 3240.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 719,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 9 (Grsiion (rare)):\nGrision (LV15) (Spawner: 4Falls Temple Grision (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1220,
+   "py": 3142.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 719,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 9 (Grsiion (rare)):\nGrision (LV15) (Spawner: 4Falls Temple Grision (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Pidion",
+   "px": 1753.5,
+   "py": 284.4,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 725,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 10 (Grision01):\nGrision (LV15) (Spawner: Grision01, up to 2)\nPidion (LV10) (Spawner: 4Falls Temple Pidion 15 emblem, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Pidion",
+   "px": 1402,
+   "py": 443.5,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 725,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 10 (Grision01):\nGrision (LV15) (Spawner: Grision01, up to 2)\nPidion (LV10) (Spawner: 4Falls Temple Pidion 15 emblem, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Pidion",
+   "px": 1295.3,
+   "py": 806.5,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 725,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 10 (Grision01):\nGrision (LV15) (Spawner: Grision01, up to 2)\nPidion (LV10) (Spawner: 4Falls Temple Pidion 15 emblem, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Pidion",
+   "px": 1591.2,
+   "py": 1124.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 725,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 10 (Grision01):\nGrision (LV15) (Spawner: Grision01, up to 2)\nPidion (LV10) (Spawner: 4Falls Temple Pidion 15 emblem, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Pidion",
+   "px": 2038.2,
+   "py": 1062.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 725,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 10 (Grision01):\nGrision (LV15) (Spawner: Grision01, up to 2)\nPidion (LV10) (Spawner: 4Falls Temple Pidion 15 emblem, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Pidion",
+   "px": 2224.7,
+   "py": 551.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 725,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 10 (Grision01):\nGrision (LV15) (Spawner: Grision01, up to 2)\nPidion (LV10) (Spawner: 4Falls Temple Pidion 15 emblem, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Pidion",
+   "px": 1779.2,
+   "py": 250,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 725,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 10 (Grision01):\nGrision (LV15) (Spawner: Grision01, up to 2)\nPidion (LV10) (Spawner: 4Falls Temple Pidion 15 emblem, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Sliglith",
+   "px": 1768.4,
+   "py": 4952.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 11 (Grision02):\nGrision (LV15) (Spawner: Grision02, up to 2)\nSliglith (LV6) (Spawner: 4Falls Temple Sligith, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Sliglith",
+   "px": 2282.1,
+   "py": 5048.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 11 (Grision02):\nGrision (LV15) (Spawner: Grision02, up to 2)\nSliglith (LV6) (Spawner: 4Falls Temple Sligith, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Sliglith",
+   "px": 2348.8,
+   "py": 4946.4,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 11 (Grision02):\nGrision (LV15) (Spawner: Grision02, up to 2)\nSliglith (LV6) (Spawner: 4Falls Temple Sligith, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Sliglith",
+   "px": 1753,
+   "py": 5063.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 11 (Grision02):\nGrision (LV15) (Spawner: Grision02, up to 2)\nSliglith (LV6) (Spawner: 4Falls Temple Sligith, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Sliglith",
+   "px": 1224.4,
+   "py": 4930.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 11 (Grision02):\nGrision (LV15) (Spawner: Grision02, up to 2)\nSliglith (LV6) (Spawner: 4Falls Temple Sligith, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Sliglith",
+   "px": 1239.4,
+   "py": 5057,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 338,
+     "name": "Sliglith",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 11 (Grision02):\nGrision (LV15) (Spawner: Grision02, up to 2)\nSliglith (LV6) (Spawner: 4Falls Temple Sligith, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 1824.5,
+   "py": 4939.7,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 721,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 12 (Pidion (rare)):\nPidion (LV10) (Spawner: 4Falls Temple Pidion (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 1716.8,
+   "py": 4937.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 721,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 12 (Pidion (rare)):\nPidion (LV10) (Spawner: 4Falls Temple Pidion (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 1840,
+   "py": 5381.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 721,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 12 (Pidion (rare)):\nPidion (LV10) (Spawner: 4Falls Temple Pidion (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 1706.2,
+   "py": 5364.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 721,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 12 (Pidion (rare)):\nPidion (LV10) (Spawner: 4Falls Temple Pidion (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 181.5,
+   "py": 4270.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 717,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 13 (Kendra Rare dropper):\nKandra (LV14) (Spawner: 4Falls temple Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 233.4,
+   "py": 4270.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 717,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 13 (Kendra Rare dropper):\nKandra (LV14) (Spawner: 4Falls temple Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 241.3,
+   "py": 4323.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 717,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 13 (Kendra Rare dropper):\nKandra (LV14) (Spawner: 4Falls temple Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 182.6,
+   "py": 4320.5,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 717,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 13 (Kendra Rare dropper):\nKandra (LV14) (Spawner: 4Falls temple Kendra (rare), up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3318.6,
+   "py": 4478,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3364.6,
+   "py": 4572.9,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3282.2,
+   "py": 4575.6,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3320.8,
+   "py": 4479.1,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3321.6,
+   "py": 4157.3,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3276.1,
+   "py": 4056.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3365.2,
+   "py": 4056.2,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elder Shockion",
+   "px": 3320.9,
+   "py": 4157.8,
+   "radiusPx": 22.5,
+   "mobs": [
+    {
+     "id": 767,
+     "name": "Elder Shockion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 14 (Pidion LF Patrol):\nElder Shockion (LV13) (Spawner: 4Falls Temple Pidion LF Patrol, up to 1)"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Crom Chest) Thigh Armor",
+   "px": 1769.3,
+   "py": 5008.2,
+   "npcId": 442,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Chest"
+      },
+      {
+       "name": "(AP) Crom Shin Armor (Lv15)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "General Jin",
+   "px": 3363.4,
+   "py": 3645.9,
+   "npcId": 717,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Gidion 15"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Gidion 15"
+      }
+     ]
+    },
+    {
+     "title": "Strife Quest: Part 20 of 23",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Elder Eye"
+      }
+     ]
+    },
+    {
+     "title": "Strife Quest: Part 21 of 23",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Lost Stone"
+      }
+     ]
+    },
+    {
+     "title": "Strife Quest: Part 22 of 23",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Strife Gem"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Jin Approval Badge"
+      }
+     ]
+    },
+    {
+     "title": "Strife Quest: Part 23 of 23",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Manic",
+   "px": 2869.4,
+   "py": 4746.9,
+   "npcId": 722,
+   "template": "Bloblic",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "BL",
+     "skill": "Weapon Tech 14",
+     "needs": [
+      {
+       "name": "Wright Badge",
+       "qty": 3
+      },
+      {
+       "name": "(BL) Bo Badge 15"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Bo Badge 15"
+      }
+     ]
+    },
+    {
+     "title": "Bo Crest Quest: Part 19 of 20",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Manics Rescued Letter"
+      }
+     ]
+    },
+    {
+     "title": "Bo Crest Quest: Part 20 of 21",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sivlon Scout",
+   "px": 664.1,
+   "py": 4753.4,
+   "npcId": 1563,
+   "template": "Shapra",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Spawn!",
+     "needs": [
+      {
+       "name": "Shockion Scout Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Shockion Scout Mission"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sabur",
+   "px": 2285.3,
+   "py": 3358.7,
+   "npcId": 1584,
+   "template": "Human Male",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "EyezoraGuard",
+   "px": 2285.3,
+   "py": 3358.7,
+   "npcId": 1585,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "HighPriest",
+   "px": 2285.3,
+   "py": 3358.7,
+   "npcId": 1586,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1769.2,
+   "py": 4300.1,
+   "npcId": 1100,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 1214.4,
+      "py": 3136.3
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 3329.9,
+   "py": 3677.4,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1768.9,
+   "py": 4299.7,
+   "radiusPx": 45.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 40\nObject 46 (AztecTempleEntPorta.ARW)"
+  }
+ ]
+}

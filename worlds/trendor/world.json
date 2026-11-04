@@ -1,0 +1,84 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "trendor",
+  "title": "Trendor",
+  "places": [
+    "Trendor Tower Caves",
+    "Trendor Sewers"
+  ],
+  "group": "lands",
+  "worldId": 17,
+  "source": {
+    "world": "UGC_REV04.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 2.824467182159424,
+    "origin": {
+      "x": -17995.509765625,
+      "z": 16564.740234375
+    }
+  },
+  "width": 8192,
+  "height": 7173,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#190204",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 201
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 51
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 17
+    },
+    {
+      "id": "shops",
+      "title": "Shop counters",
+      "color": "#8d6e63",
+      "shown": false,
+      "count": 9
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 8
+    },
+    {
+      "id": "players",
+      "title": "Player start",
+      "color": "#ffffff",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 35
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 11
+    }
+  ],
+  "note": "Its interiors are in the same map, away from the main area."
+}

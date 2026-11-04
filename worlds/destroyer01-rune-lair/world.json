@@ -1,0 +1,54 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "destroyer01-rune-lair",
+  "title": "Destroyer01 Rune Lair",
+  "places": [
+    "Destroyer01 Rune Lair"
+  ],
+  "group": "dungeons",
+  "worldId": 7,
+  "source": {
+    "world": "DESTROYER01_RUNEZONE.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.3427734375,
+    "origin": {
+      "x": -7229.8857421875,
+      "z": -18925.75390625
+    }
+  },
+  "width": 4712,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#190000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 6
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 2
+    }
+  ]
+}

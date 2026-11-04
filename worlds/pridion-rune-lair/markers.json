@@ -1,0 +1,199 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Pridion, Dark Jouster",
+   "px": 1529.4,
+   "py": 1159.9,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion, Dark Jouster",
+   "px": 911.7,
+   "py": 2219.6,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion, Dark Jouster",
+   "px": 1928.8,
+   "py": 2857.7,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion, Dark Jouster",
+   "px": 2239.6,
+   "py": 2240.9,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion, Dark Jouster",
+   "px": 2890.8,
+   "py": 3794.6,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion, Dark Jouster",
+   "px": 2886.3,
+   "py": 3120.6,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 7090.9,
+   "py": 3039.7,
+   "npcId": 1089,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4714.7,
+      "py": 5293.6
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Air Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 7084,
+   "py": 2905.8,
+   "npcId": 1108,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4714.7,
+      "py": 5293.6
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Pridion Rune Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 2156.8,
+   "py": 2790.7,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 7088.6,
+   "py": 2974.9,
+   "radiusPx": 112.7,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 50\nObject 4 (RUNEPORT_PRIDIONa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 54",
+   "px": 7088.6,
+   "py": 2974.9,
+   "radiusPx": 789.2,
+   "detail": "Action 6: play soundtrack, argument 54\nRadius: 350\nObject 4 (RUNEPORT_PRIDIONa.ARW)"
+  }
+ ]
+}

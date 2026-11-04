@@ -1,0 +1,199 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Shipron, Shrite",
+   "px": 6696.5,
+   "py": 3207.9,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 155,
+     "name": "Shipron",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 50 (SHIPRION_AITREE):\nShipron (LV15 BOSS) (Spawner: 49 SHIPRON DIM 1, up to 1)\nShrite (LV7) (Spawner: 49 SHRITE DIM 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shipron, Shrite",
+   "px": 7314.1,
+   "py": 2148.2,
+   "mobs": [
+    {
+     "id": 155,
+     "name": "Shipron",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 50 (SHIPRION_AITREE):\nShipron (LV15 BOSS) (Spawner: 49 SHIPRON DIM 1, up to 1)\nShrite (LV7) (Spawner: 49 SHRITE DIM 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shipron, Shrite",
+   "px": 6297,
+   "py": 1510.1,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 155,
+     "name": "Shipron",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 50 (SHIPRION_AITREE):\nShipron (LV15 BOSS) (Spawner: 49 SHIPRON DIM 1, up to 1)\nShrite (LV7) (Spawner: 49 SHRITE DIM 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shipron, Shrite",
+   "px": 5986.2,
+   "py": 2126.9,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 155,
+     "name": "Shipron",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 50 (SHIPRION_AITREE):\nShipron (LV15 BOSS) (Spawner: 49 SHIPRON DIM 1, up to 1)\nShrite (LV7) (Spawner: 49 SHRITE DIM 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shipron, Shrite",
+   "px": 5335,
+   "py": 573.2,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 155,
+     "name": "Shipron",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 50 (SHIPRION_AITREE):\nShipron (LV15 BOSS) (Spawner: 49 SHIPRON DIM 1, up to 1)\nShrite (LV7) (Spawner: 49 SHRITE DIM 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shipron, Shrite",
+   "px": 5339.5,
+   "py": 1247.2,
+   "radiusPx": 2.3,
+   "mobs": [
+    {
+     "id": 155,
+     "name": "Shipron",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 50 (SHIPRION_AITREE):\nShipron (LV15 BOSS) (Spawner: 49 SHIPRON DIM 1, up to 1)\nShrite (LV7) (Spawner: 49 SHRITE DIM 0, up to 4)"
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 1211.9,
+   "py": 1448.2,
+   "npcId": 1073,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 5179.1,
+      "py": 3341.5
+     },
+     "title": "Use Earth Rune",
+     "needs": [
+      {
+       "name": "Earth Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 1169.8,
+   "py": 1310.8,
+   "npcId": 1115,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 5179.1,
+      "py": 3341.5
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Shipron Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 6906.7,
+   "py": 1105,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1188.2,
+   "py": 1369.3,
+   "radiusPx": 112.7,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 50\nObject 4 (RUNEPORT_LORDSHRITEa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 6",
+   "px": 1188.2,
+   "py": 1369.3,
+   "radiusPx": 676.5,
+   "detail": "Action 6: play soundtrack, argument 6\nRadius: 300\nObject 4 (RUNEPORT_LORDSHRITEa.ARW)"
+  }
+ ]
+}

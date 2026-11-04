@@ -1,0 +1,335 @@
+{
+  "about": "Which worlds to build, what to call them, and which of the guide's places each holds. Keyed by the game's world file. worldId is the game's world id (stencil channel). places are the guide's location names, so a place's page can show its map. group sorts the maps page: lands, dungeons, arenas or other.",
+  "worlds": {
+    "NewbieZone.EXG": {
+      "worldId": 1,
+      "slug": "newbie-zone",
+      "title": "Newbie Zone",
+      "places": [
+        "Newbie Zone"
+      ],
+      "group": "lands"
+    },
+    "Boomtown.EXG": {
+      "worldId": 2,
+      "slug": "boomtown",
+      "title": "Boomtown",
+      "places": [
+        "Boomtown"
+      ],
+      "group": "lands"
+    },
+    "Final_SS_Trial.EXG": {
+      "worldId": 3,
+      "slug": "final-ss-trial",
+      "title": "Final SS Trial",
+      "group": "dungeons"
+    },
+    "Airworld_cv.EXG": {
+      "worldId": 5,
+      "slug": "air-kingdom",
+      "title": "Air Kingdom",
+      "group": "lands"
+    },
+    "Chronicle_Crypt.EXG": {
+      "worldId": 6,
+      "slug": "chronicle-crypt",
+      "title": "Chronicle Crypt",
+      "skip": true,
+      "group": "dungeons"
+    },
+    "DESTROYER01_RUNEZONE.EXG": {
+      "worldId": 7,
+      "slug": "destroyer01-rune-lair",
+      "title": "Destroyer01 Rune Lair",
+      "places": [
+        "Destroyer01 Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "EYEMEBA_RUNEZONE.EXG": {
+      "worldId": 8,
+      "slug": "zorphion-rune-lair",
+      "title": "Zorphion Rune Lair",
+      "places": [
+        "Zorphion Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "FRUBE_RUNEZONE.EXG": {
+      "worldId": 9,
+      "slug": "frube-rune-lair",
+      "title": "Frube Rune Lair",
+      "places": [
+        "Frube Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "MuseumSection1.EXG": {
+      "worldId": 10,
+      "slug": "museum",
+      "title": "Museum (AFK Zone)",
+      "group": "other"
+    },
+    "MAINWORLD_BETA02.EXG": {
+      "worldId": 11,
+      "slug": "iia",
+      "title": "IIA",
+      "places": [
+        "Black Market Island",
+        "Blobic Colonies",
+        "HC - Death Valley & Petrified Forest",
+        "Petrified Forest",
+        "Sial Island",
+        "Sia Island",
+        "HC - Trendor Bridge",
+        "HC - Northern Penn",
+        "Moon Rifts",
+        "Amphibious Island",
+        "Amphibious Island Cave",
+        "AP Island",
+        "Black Market Stone Maze",
+        "Solothic Caves",
+        "Sluggith Island",
+        "Arilous Mining Cave",
+        "AMC",
+        "Blobic Caves",
+        "Root of the Oracle",
+        "Dark Sea",
+        "Unity",
+        "UGC Penn"
+      ],
+      "note": "The main world. Its caves and side areas are in the same map, away from the islands.",
+      "group": "lands"
+    },
+    "PRIDION_RUNEZONE.EXG": {
+      "worldId": 12,
+      "slug": "pridion-rune-lair",
+      "title": "Pridion Rune Lair",
+      "places": [
+        "Pridion Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "RIFTFIRECAVE.EXG": {
+      "worldId": 13,
+      "slug": "rift-fire-cave",
+      "title": "Rift Fire Cave",
+      "group": "dungeons"
+    },
+    "SHIPRON_RUNEZONE.EXG": {
+      "worldId": 14,
+      "slug": "shipron-rune-lair",
+      "title": "Shipron Rune Lair",
+      "places": [
+        "Shipron Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "SKELCY_RUNEZONE.EXG": {
+      "worldId": 15,
+      "slug": "skelcy-rune-lair",
+      "title": "Skelcy Rune Lair",
+      "places": [
+        "Skelcy Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "SLATEBRIKE_RUNEZONE.EXG": {
+      "worldId": 16,
+      "slug": "slate-and-brike-rune-lair",
+      "title": "Slate and Brike Rune Lair",
+      "places": [
+        "Slate Rune Lair",
+        "Brike Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "UGC_REV04.EXG": {
+      "worldId": 17,
+      "slug": "trendor",
+      "title": "Trendor",
+      "places": [
+        "Trendor Tower Caves",
+        "Trendor Sewers"
+      ],
+      "note": "Its interiors are in the same map, away from the main area.",
+      "group": "lands"
+    },
+    "ZETH_RUNEZONE.EXG": {
+      "worldId": 18,
+      "slug": "zeth-rune-lair",
+      "title": "Zeth Rune Lair",
+      "places": [
+        "Zeth Rune Lair"
+      ],
+      "group": "dungeons"
+    },
+    "4Falls.EXG": {
+      "worldId": 19,
+      "slug": "4-falls",
+      "title": "4 Falls",
+      "places": [
+        "4-Falls",
+        "Four Falls Magic Store"
+      ],
+      "group": "lands"
+    },
+    "4FallsDungeon.EXG": {
+      "worldId": 20,
+      "slug": "4-falls-dungeon",
+      "title": "4 Falls Dungeon",
+      "places": [
+        "15 Dungeon",
+        "14 Dungeon",
+        "Crypt (4-Falls)"
+      ],
+      "group": "dungeons"
+    },
+    "4FallsTemple.EXG": {
+      "worldId": 21,
+      "slug": "4-falls-temple",
+      "title": "4 Falls Temple",
+      "group": "dungeons"
+    },
+    "BlackMarketDungeon.EXG": {
+      "worldId": 22,
+      "slug": "black-market-dungeon",
+      "title": "Black Market Dungeon",
+      "places": [
+        "Black Market Dungeon"
+      ],
+      "group": "dungeons"
+    },
+    "BlackMarketInside.EXG": {
+      "worldId": 23,
+      "slug": "black-market-inside",
+      "title": "Black Market (inside)",
+      "group": "lands"
+    },
+    "CATACOMBS.EXG": {
+      "worldId": 24,
+      "slug": "catacombs",
+      "title": "Catacombs",
+      "places": [
+        "Catacombs"
+      ],
+      "note": "Its parts are spread out in one map, with empty space between them.",
+      "group": "dungeons"
+    },
+    "Coa.EXG": {
+      "worldId": 25,
+      "slug": "cave-of-ancients",
+      "title": "Cave of Ancients",
+      "places": [
+        "Cave of Ancients"
+      ],
+      "group": "dungeons"
+    },
+    "arenadome1.EXG": {
+      "worldId": 26,
+      "slug": "arena-dome",
+      "title": "Arena Dome",
+      "group": "arenas"
+    },
+    "Labrynth_Arena.EXG": {
+      "worldId": 27,
+      "slug": "labrynth-arena",
+      "title": "Labrynth Arena",
+      "group": "arenas"
+    },
+    "nubiestarterzone.EXG": {
+      "worldId": 28,
+      "slug": "gold-nub-zone",
+      "title": "Gold Nub Zone",
+      "group": "lands"
+    },
+    "NubieZone_R2.EXG": {
+      "worldId": 29,
+      "slug": "beta-nub-zone",
+      "title": "Beta Nub Zone",
+      "group": "lands"
+    },
+    "DATRO_LAIR.EXG": {
+      "worldId": 30,
+      "slug": "datro-lair",
+      "title": "Datro Lair",
+      "places": [
+        "Datro Lair"
+      ],
+      "group": "dungeons"
+    },
+    "Labrynth_Dungeon.EXG": {
+      "worldId": 31,
+      "slug": "labrynth-dungeon",
+      "title": "Labrynth Dungeon",
+      "group": "dungeons"
+    },
+    "CentralRegion.EXG": {
+      "worldId": 32,
+      "slug": "central-region",
+      "title": "Central Region",
+      "group": "arenas"
+    },
+    "ComStatArena.EXG": {
+      "worldId": 33,
+      "slug": "com-stat-arena",
+      "title": "Com Stat Arena",
+      "group": "arenas"
+    },
+    "Needle.EXG": {
+      "worldId": 34,
+      "slug": "needle",
+      "title": "Needle",
+      "group": "other"
+    },
+    "Nexxus.EXG": {
+      "worldId": 35,
+      "slug": "nexxus",
+      "title": "Nexxus",
+      "group": "other"
+    },
+    "NorthernRegion.EXG": {
+      "worldId": 36,
+      "slug": "northern-region",
+      "title": "Northern Region",
+      "group": "other"
+    },
+    "TendrilCove.EXG": {
+      "worldId": 37,
+      "slug": "tendril-cove",
+      "title": "Tendril Cove",
+      "group": "other"
+    },
+    "TheMitscher.EXG": {
+      "worldId": 38,
+      "slug": "the-mitscher",
+      "title": "The Mitscher",
+      "group": "other"
+    },
+    "TheUnderpond.EXG": {
+      "worldId": 39,
+      "slug": "the-underpond",
+      "title": "The Underpond",
+      "group": "other"
+    },
+    "Training.EXG": {
+      "worldId": 40,
+      "slug": "training",
+      "title": "Training",
+      "group": "other"
+    },
+    "WesternRegion.EXG": {
+      "worldId": 41,
+      "slug": "western-region",
+      "title": "Western Region",
+      "group": "other"
+    },
+    "iiaS.EXG": {
+      "worldId": 167,
+      "slug": "iia-south",
+      "title": "IIA South",
+      "group": "lands"
+    }
+  }
+}

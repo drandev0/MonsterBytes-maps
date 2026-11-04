@@ -1,0 +1,772 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Info Totem",
+   "px": 2509,
+   "py": 6385.8,
+   "npcId": 752,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Trial Intro 1"
+    },
+    {
+     "title": "Trial Intro 2",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Normal Totem",
+   "px": 4150.1,
+   "py": 4306.1,
+   "npcId": 753,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "race": "template 1"
+    },
+    {
+     "title": "Normal Challenge",
+     "needs": [
+      {
+       "name": "Normal Spirit Stone"
+      }
+     ]
+    },
+    {
+     "title": "Close Challenge",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Earth Totem",
+   "px": 4752.9,
+   "py": 5888.2,
+   "npcId": 754,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "race": "template 20"
+    },
+    {
+     "title": "Earth Challenge",
+     "needs": [
+      {
+       "name": "Earth Spirit Stone"
+      }
+     ]
+    },
+    {
+     "title": "Close Challenge",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Water Totem",
+   "px": 4946.4,
+   "py": 1881.7,
+   "npcId": 755,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "race": "template 3"
+    },
+    {
+     "title": "Water Challenge",
+     "needs": [
+      {
+       "name": "Water Spirit Stone"
+      }
+     ]
+    },
+    {
+     "title": "Close Challenge",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Fire Totem",
+   "px": 1542.2,
+   "py": 5193.7,
+   "npcId": 756,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "race": "template 23"
+    },
+    {
+     "title": "Fire Challenge",
+     "needs": [
+      {
+       "name": "Fire Spirit Stone"
+      }
+     ]
+    },
+    {
+     "title": "Close Challenge",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Air Totem",
+   "px": 2286.2,
+   "py": 2697.6,
+   "npcId": 757,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "race": "template 34"
+    },
+    {
+     "title": "Air Challenge",
+     "needs": [
+      {
+       "name": "Air Spirit Stone"
+      }
+     ]
+    },
+    {
+     "title": "Close Challenge",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Gatekeeper",
+   "px": 2508.5,
+   "py": 5768.4,
+   "npcId": 764,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Earth Spirit Stone"
+      },
+      {
+       "name": "Water Spirit Stone"
+      },
+      {
+       "name": "Fire Spirit Stone"
+      },
+      {
+       "name": "Normal Spirit Stone"
+      },
+      {
+       "name": "Air Spirit Stone"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Question Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(SS Trial) Reward Totem",
+   "px": 1218.3,
+   "py": 1811.3,
+   "npcId": 821,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Blink! BL",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "SS Reward Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Orb of HF (Lv18)"
+      }
+     ]
+    },
+    {
+     "title": "Blink! AP",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "SS Reward Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Orb of HM (Lv18)"
+      }
+     ]
+    },
+    {
+     "title": "Blink! HM",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "SS Reward Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Orb of BL (Lv18)"
+      }
+     ]
+    },
+    {
+     "title": "Blink! HF",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "SS Reward Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Orb of AP (Lv18)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 5113.9,
+   "py": 4064.7,
+   "npcId": 758,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 5760.9,
+   "py": 5575.7,
+   "npcId": 759,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6579.8,
+   "py": 889.5,
+   "npcId": 760,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1118.5,
+   "py": 4536.4,
+   "npcId": 761,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2312.6,
+   "py": 2196.4,
+   "npcId": 762,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 5636.6,
+   "py": 2205.4,
+   "npcId": 763,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2384.7,
+   "py": 5690.7,
+   "npcId": 765,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Question Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2508.8,
+   "py": 5619.2,
+   "npcId": 766,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Question Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2631.1,
+   "py": 5691.2,
+   "npcId": 767,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Question Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 4333.1,
+   "py": 5967.7,
+   "npcId": 875,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Earth Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6388.7,
+   "py": 5071,
+   "npcId": 876,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Earth Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 3809.1,
+   "py": 4418.4,
+   "npcId": 877,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Normal Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 4722.6,
+   "py": 3501.7,
+   "npcId": 878,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Normal Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 5973.9,
+   "py": 1878.6,
+   "npcId": 879,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Water Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 4749.5,
+   "py": 1872.1,
+   "npcId": 880,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Water Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2969.5,
+   "py": 2772.1,
+   "npcId": 881,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Air Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2301.5,
+   "py": 3421.3,
+   "npcId": 882,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Air Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1645.5,
+   "py": 4270.9,
+   "npcId": 883,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Fire Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1477.3,
+   "py": 5682.8,
+   "npcId": 884,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Fire Spirit Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1224,
+   "py": 923.5,
+   "npcId": 894,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2983.9,
+   "py": 2775,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 353 (PORTTRIG_Door_Air_Easta.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 5976.2,
+   "py": 1915.9,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 354 (PORTTRIG_Door_Water_Southa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 3801,
+   "py": 4416.5,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 355 (PORTTRIG_Door_Normal_Westa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 4722.7,
+   "py": 3494.7,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 356 (PORTTRIG_Door_Normal_Northa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1476.5,
+   "py": 5695.3,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 357 (PORTTRIG_Door_Fire_Southa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1646.4,
+   "py": 4256.7,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 358 (PORTTRIG_Door_Fire_Northa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 4322.1,
+   "py": 5967,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 359 (PORTTRIG_Door_Earth_Westa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6389.5,
+   "py": 5060.2,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 360 (PORTTRIG_Door_Earth_Northa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2305.8,
+   "py": 3436,
+   "radiusPx": 22.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 361 (PORTTRIG_Door_Air_Southa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 4721,
+   "py": 1869.3,
+   "radiusPx": 28.6,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 25\nObject 362 (PORTTRIG_Door_Water_Westa.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "Fire",
+   "px": 1550,
+   "py": 4961.8,
+   "box": [
+    1181.6,
+    4282.4,
+    1918.5,
+    5641.2
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Water",
+   "px": 5415,
+   "py": 1217,
+   "box": [
+    4524.2,
+    71,
+    6305.8,
+    2363.1
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

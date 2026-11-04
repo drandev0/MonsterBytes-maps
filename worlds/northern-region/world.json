@@ -1,0 +1,31 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "northern-region",
+  "title": "Northern Region",
+  "places": [],
+  "group": "other",
+  "worldId": 36,
+  "source": {
+    "world": "NorthernRegion.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 1.2327752113342285,
+    "origin": {
+      "x": -4347.23193359375,
+      "z": 5552.4169921875
+    }
+  },
+  "width": 8192,
+  "height": 7585,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#707f91",
+  "layers": [
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    }
+  ]
+}

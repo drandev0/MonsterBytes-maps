@@ -1,0 +1,44 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "water",
+   "name": "Water",
+   "px": 1889.8,
+   "py": 5336.6,
+   "box": [
+    1455.5,
+    4535.8,
+    2324.2,
+    6137.4
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "WaterChute",
+   "px": 1919.6,
+   "py": 6385.3,
+   "box": [
+    1675.7,
+    6137.4,
+    2163.5,
+    6633.1
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Waterroom",
+   "px": 3564.2,
+   "py": 1463.5,
+   "box": [
+    2514,
+    119.8,
+    4614.3,
+    2807.2
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

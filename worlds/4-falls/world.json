@@ -1,0 +1,76 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "4-falls",
+  "title": "4 Falls",
+  "places": [
+    "4-Falls",
+    "Four Falls Magic Store"
+  ],
+  "group": "lands",
+  "worldId": 19,
+  "source": {
+    "world": "4Falls.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 2.705403447151184,
+    "origin": {
+      "x": -8925.4052734375,
+      "z": 8924.96484375
+    }
+  },
+  "width": 8192,
+  "height": 6599,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#44ade2",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 147
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 45
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 9
+    },
+    {
+      "id": "shops",
+      "title": "Shop counters",
+      "color": "#8d6e63",
+      "shown": false,
+      "count": 4
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 10
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 8
+    }
+  ]
+}

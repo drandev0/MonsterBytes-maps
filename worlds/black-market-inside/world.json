@@ -1,0 +1,80 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "black-market-inside",
+  "title": "Black Market (inside)",
+  "places": [],
+  "group": "lands",
+  "worldId": 23,
+  "source": {
+    "world": "BlackMarketInside.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 2.0796593874692917,
+    "origin": {
+      "x": -327.8470458984375,
+      "z": 15629.125
+    }
+  },
+  "width": 8192,
+  "height": 7815,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#00a800",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 8
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 57
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "shops",
+      "title": "Shop counters",
+      "color": "#8d6e63",
+      "shown": false,
+      "count": 4
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 23
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 5
+    }
+  ]
+}

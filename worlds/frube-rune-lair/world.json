@@ -1,0 +1,54 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "frube-rune-lair",
+  "title": "Frube Rune Lair",
+  "places": [
+    "Frube Rune Lair"
+  ],
+  "group": "dungeons",
+  "worldId": 9,
+  "source": {
+    "world": "FRUBE_RUNEZONE.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.6430344581604004,
+    "origin": {
+      "x": -15034.79296875,
+      "z": -14025.7509765625
+    }
+  },
+  "width": 8192,
+  "height": 4282,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#190000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 11
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 2
+    }
+  ]
+}

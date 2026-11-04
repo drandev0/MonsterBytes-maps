@@ -1,0 +1,141 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "portals",
+   "name": "Telos Exit!",
+   "px": 4186,
+   "py": 3493.9,
+   "npcId": 1661,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 3221.1,
+      "py": 3334.1
+     },
+     "title": "Exit!"
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 5964.2,
+   "py": 4161.2,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 4096,
+   "py": 4096,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 36 (BOUNCE_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 2836.5,
+   "py": 3234.2,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 42 (BOUNCE_02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 3234.2,
+   "py": 5355.5,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 43 (BOUNCE_03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 5355.5,
+   "py": 4957.8,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 44 (BOUNCE_04a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 4957.8,
+   "py": 2836.5,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 45 (BOUNCE_05a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 6179.4,
+   "py": 4095.8,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 47 (BOUNCE_06a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 4095.8,
+   "py": 2012.6,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 48 (BOUNCE_07a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 2012.6,
+   "py": 4096.2,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 49 (BOUNCE_08a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 4096.2,
+   "py": 6179.4,
+   "radiusPx": 185.3,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 50 (BOUNCE_09a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 6",
+   "px": 4096,
+   "py": 4096,
+   "detail": "Action 6: play soundtrack, argument 6\nRadius: 5000\nObject 77 (TopPlatforma.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 1124.3,
+   "py": 6016.6,
+   "radiusPx": 123.6,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 20\nObject 213 (BOUNCE_10a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 2176.4,
+   "py": 1126.6,
+   "radiusPx": 123.6,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 20\nObject 214 (BOUNCE_11a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7067.4,
+   "py": 2175.6,
+   "radiusPx": 123.6,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 20\nObject 215 (BOUNCE_12a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 6015.3,
+   "py": 7065.5,
+   "radiusPx": 123.6,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 20\nObject 216 (BOUNCE_13a.ARW)"
+  }
+ ]
+}

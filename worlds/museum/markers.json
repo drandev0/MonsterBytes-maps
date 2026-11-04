@@ -1,0 +1,1837 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Moret-sur-Loing",
+   "px": 3615.9,
+   "py": 2187.6,
+   "npcId": 935,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Moret-sur-Loing"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Provencher’s Mill at Moret",
+   "px": 4175,
+   "py": 1865,
+   "npcId": 936,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Provencher’s Mill at Moret"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Cradle",
+   "px": 4175.9,
+   "py": 3100.8,
+   "npcId": 937,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Cradle"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Young Woman Knitting",
+   "px": 3632.6,
+   "py": 3055.9,
+   "npcId": 938,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Young Woman Knitting"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Madonna & Child, Two Angel and Young John the Baptist",
+   "px": 3099.7,
+   "py": 745.1,
+   "npcId": 939,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Madonna & Child, Two Angels and Young John the Baptist"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Primavera",
+   "px": 3111,
+   "py": 1316.6,
+   "npcId": 941,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Primavera"
+    },
+    {
+     "title": "Additional Info Primavera"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Venus Pudica",
+   "px": 2637,
+   "py": 1173.9,
+   "npcId": 942,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Venus Pudica"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Amor Victorious",
+   "px": 5137.3,
+   "py": 883.6,
+   "npcId": 944,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Amor Victorious"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Madonna of the Rosary",
+   "px": 4965.3,
+   "py": 1316.2,
+   "npcId": 945,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Madonna of the Rosary"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Supper at Emmaus",
+   "px": 4973.4,
+   "py": 744.8,
+   "npcId": 946,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Supper at Emmaus"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Card Sharps",
+   "px": 5156.1,
+   "py": 1183.9,
+   "npcId": 947,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Card Sharps"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Seaport Embarkation of the Queen of Sheba",
+   "px": 7940.7,
+   "py": 4021.5,
+   "npcId": 949,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Seaport Embarkation of the Queen of Sheba"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Clifftop Walk at Pourville",
+   "px": 4179.8,
+   "py": 2738.8,
+   "npcId": 950,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Clifftop Walk at Pourville"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Blue House in Zaandam",
+   "px": 3613.2,
+   "py": 2722.8,
+   "npcId": 951,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Blue House in Zaandam"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The River Bennecourt",
+   "px": 4175.8,
+   "py": 2177.3,
+   "npcId": 952,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The River Bennecourt"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Soleli Levant",
+   "px": 3610.3,
+   "py": 1856.7,
+   "npcId": 954,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Soleli Levant"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Waterlily Pond",
+   "px": 2621.9,
+   "py": 889.7,
+   "npcId": 955,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Waterlily Pond"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Weeping Willow",
+   "px": 2833.7,
+   "py": 1318.9,
+   "npcId": 956,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Weeping Willow"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bachus",
+   "px": 2828.3,
+   "py": 740.8,
+   "npcId": 959,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Bachus"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Forge of Vulcan",
+   "px": 4699.3,
+   "py": 1311.2,
+   "npcId": 960,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Forge of Vulcan"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Juan de Pareja",
+   "px": 4700.8,
+   "py": 743.9,
+   "npcId": 961,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Juan de Pareja"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Liberty Leading the People",
+   "px": 3602.6,
+   "py": 5066.4,
+   "npcId": 985,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Liberty Leading the People"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Lion Hunt",
+   "px": 3608,
+   "py": 5606,
+   "npcId": 986,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Lion Hunt"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Saint Lawrence Receives the Treasures of the Church",
+   "px": 3610.2,
+   "py": 5933,
+   "npcId": 987,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Saint Lawrence Receives the Treasures of the Church"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Nude Maja",
+   "px": 4190.2,
+   "py": 5914.3,
+   "npcId": 990,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Nude Maja"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Renaldo and Armida",
+   "px": 4190.6,
+   "py": 5596.7,
+   "npcId": 991,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Renaldo and Armida"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tierschicksale(The Fate of the Animals)",
+   "px": 4198.3,
+   "py": 4734.5,
+   "npcId": 992,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Tierschicksale(The Fate of the Animals)"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Adoration of the Magi",
+   "px": 3099.5,
+   "py": 6486.6,
+   "npcId": 993,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Adoration of the Magi"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Le Grande Jatte",
+   "px": 4704.6,
+   "py": 7044.2,
+   "npcId": 994,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Le Grande Jatte"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "La Chahut",
+   "px": 4976.4,
+   "py": 7025.5,
+   "npcId": 995,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "La Chahut"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sunday Afternoon on the Island of La Grande Jatte",
+   "px": 2623.3,
+   "py": 6912,
+   "npcId": 996,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Sunday Afternoon on the Island of La Grande Jatte"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Circus",
+   "px": 2654.8,
+   "py": 6598,
+   "npcId": 997,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Circus"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Molly Longlegs",
+   "px": 3102.9,
+   "py": 7028.7,
+   "npcId": 998,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Molly Longlegs"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "A Storm",
+   "px": 2824.4,
+   "py": 6957.3,
+   "npcId": 999,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "A Storm"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Love Song",
+   "px": 5161.7,
+   "py": 6906.3,
+   "npcId": 1000,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Love Song"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Anxious Journey",
+   "px": 2829.2,
+   "py": 6475.3,
+   "npcId": 1001,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Anxious Journey"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Nostalgia of the Infinite",
+   "px": 4680.9,
+   "py": 6471.2,
+   "npcId": 1002,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Nostalgia of the Infinite"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Endless Voyage",
+   "px": 4963.5,
+   "py": 6472.1,
+   "npcId": 1003,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Endless Voyage"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lamentation of the Dead Christ",
+   "px": 5159.5,
+   "py": 6615.4,
+   "npcId": 1004,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Lamentation of the Dead Christ"
+    },
+    {
+     "title": "Additional Info Lamentation of the Dead Christ"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Madonna in Glory",
+   "px": 2730,
+   "py": 3601.5,
+   "npcId": 1005,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Madonna in Glory"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Madonna & Child",
+   "px": 737.5,
+   "py": 4968.8,
+   "npcId": 1006,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Madonna & Child"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Paris A Rainy Day",
+   "px": 2188.3,
+   "py": 3650.2,
+   "npcId": 1007,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Paris A Rainy Day"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "La Belle Irlandaise",
+   "px": 1890.4,
+   "py": 3627.8,
+   "npcId": 1008,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "La Belle Irlandaise"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Portrait of the Countess Karoly",
+   "px": 1336,
+   "py": 4962.9,
+   "npcId": 1009,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Portrait of the Countess Karoly"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Jacob Wrestling with the Angel",
+   "px": 3056.7,
+   "py": 4191.1,
+   "npcId": 1010,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Jacob Wrestling with the Angel"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Orpheus",
+   "px": 1323.4,
+   "py": 3092.2,
+   "npcId": 1011,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Orpheus"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Judith I",
+   "px": 1174.2,
+   "py": 5172.3,
+   "npcId": 1012,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Judith I"
+    },
+    {
+     "title": "Additional Info Judith I"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mada Primavesi",
+   "px": 1188.7,
+   "py": 2628.3,
+   "npcId": 1013,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Mada Primavesi"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Italian Women",
+   "px": 1319,
+   "py": 4685.3,
+   "npcId": 1014,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Italian Women"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "At The Moulin Rogue",
+   "px": 881.8,
+   "py": 2620.6,
+   "npcId": 1015,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "At The Moulin Rogue"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hell",
+   "px": 890.6,
+   "py": 5164.5,
+   "npcId": 1016,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Hell"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Drinkers",
+   "px": 722,
+   "py": 4698.3,
+   "npcId": 1017,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Drinkers"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Third-Class Carriage",
+   "px": 1876.8,
+   "py": 4185.8,
+   "npcId": 1018,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Third-Class Carriage"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Reply of the Zaporozhian",
+   "px": 742.8,
+   "py": 3092.2,
+   "npcId": 1019,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Reply of the Zaporozhian"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "View of the Cost Near St Petersburg",
+   "px": 3096,
+   "py": 3601.1,
+   "npcId": 1020,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "View of the Cost Near St Petersburg"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Napolean",
+   "px": 2197.4,
+   "py": 4095.9,
+   "npcId": 1021,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Napolean"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Oath of the Horati",
+   "px": 2764.3,
+   "py": 4187.6,
+   "npcId": 1022,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Oath of the Horati"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Symphony in White No 1 The White Girl",
+   "px": 1328.4,
+   "py": 2829.1,
+   "npcId": 1023,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Symphony in White No 1 The White Girl"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Madonna from the Inn’s Hall",
+   "px": 731.2,
+   "py": 2824.2,
+   "npcId": 1024,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Madonna from the Inn’s Hall"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dido Building Carthage",
+   "px": 7906.5,
+   "py": 3761.1,
+   "npcId": 1027,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Dido Building Carthage"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Corination of the Virgin",
+   "px": 3607.4,
+   "py": 4695,
+   "npcId": 1063,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Corination of the Virgin"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Clothed Maja",
+   "px": 4175.4,
+   "py": 5033.4,
+   "npcId": 1107,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Clothed Maja"
+    },
+    {
+     "title": "Artist"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Alchemy Shop",
+   "px": 5983.4,
+   "py": 4591.9,
+   "npcId": 1668,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Alch Shop",
+     "opens": "shop"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Engineering Shop",
+   "px": 5469.4,
+   "py": 4591.9,
+   "npcId": 1669,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Eng Store",
+     "opens": "shop"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Smithee Shop",
+   "px": 5469.4,
+   "py": 3200.2,
+   "npcId": 1670,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Smith Store",
+     "opens": "shop"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bank",
+   "px": 5983.4,
+   "py": 3200.2,
+   "npcId": 1671,
+   "template": "Amphibious",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Bank",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Armor Shop",
+   "px": 4951.8,
+   "py": 4040.9,
+   "npcId": 1672,
+   "template": "K Forge",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(AP) Tigon Armor Set - 30000 Credits",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Tigon Helmet (Lv6)"
+      },
+      {
+       "name": "(AP) Tigon Chest Armor (Lv6)"
+      },
+      {
+       "name": "(AP) Tigon Bracers (Lv6)"
+      },
+      {
+       "name": "(AP) Tigon Shin Armor (Lv6)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Cadon Armor Set - 40000 Credits",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Cadon Helmet (Lv7)"
+      },
+      {
+       "name": "(AP) Cadon Chest Armor (Lv7)"
+      },
+      {
+       "name": "(AP) Cadon Bracers (Lv7)"
+      },
+      {
+       "name": "(AP) Cadon Shin Armor (Lv7)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Soulton Armor Set - 50000 Credits",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 5
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Soulton Helmet (Lv8)"
+      },
+      {
+       "name": "(AP) Soulton Chest Armor (Lv8)"
+      },
+      {
+       "name": "(AP) Soulton Bracers (Lv8)"
+      },
+      {
+       "name": "(AP) Soulton Shin Armor (Lv8)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Langdrion Armor Set - 60000 Credits",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 6
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Langdrion Shin Armor (Lv9)"
+      },
+      {
+       "name": "(AP) Langdrion Helmet (Lv9)"
+      },
+      {
+       "name": "(AP) Langdrion Chest Armor (Lv9)"
+      },
+      {
+       "name": "(AP) Langdrion Bracers (Lv9)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Rampion Armor Set - 70000 Credits",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 7
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Rampion Helmet (Lv10)"
+      },
+      {
+       "name": "(AP) Rampion Chest Armor (Lv10)"
+      },
+      {
+       "name": "(AP) Rampion Bracers (Lv10)"
+      },
+      {
+       "name": "(AP) Rampion Shin Armor (Lv10)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Core Armor Set - 30000 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Core Chest Armor (Lv6)"
+      },
+      {
+       "name": "(BL) Core Gauntlet Armor (Lv6)"
+      },
+      {
+       "name": "(BL) Core Thigh Armor (Lv6)"
+      },
+      {
+       "name": "(BL) Core Boot Armor (Lv6)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Cytomic Armor Set - 40000 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Cytomic Chest Armor (Lv7)"
+      },
+      {
+       "name": "(BL) Cytomic Gauntlet Armor (Lv7)"
+      },
+      {
+       "name": "(BL) Cytomic Thigh Armor (Lv7)"
+      },
+      {
+       "name": "(BL) Cytomic Boot Armor (Lv7)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Magnix Armor Set - 50000 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 5
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Magnix Chest Armor (Lv8)"
+      },
+      {
+       "name": "(BL) Magnix Gauntlet Armor (Lv8)"
+      },
+      {
+       "name": "(BL) Magnix Thigh Armor (Lv8)"
+      },
+      {
+       "name": "(BL) Magnix Boot Armor (Lv8)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Coalazine Armor Set - 60000 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 6
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Coalazine Gauntlet Armor (Lv9)"
+      },
+      {
+       "name": "(BL) Coalazine Thigh Armor (Lv9)"
+      },
+      {
+       "name": "(BL) Coalazine Boot Armor (Lv9)"
+      },
+      {
+       "name": "(BL) Coalazine Chest Armor (Lv9)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Tetra Armor Set - 70000 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 7
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Tetra Chest Armor (Lv10)"
+      },
+      {
+       "name": "(BL) Tetra Gauntlet Armor (Lv10)"
+      },
+      {
+       "name": "(BL) Tetra Thigh Armor (Lv10)"
+      },
+      {
+       "name": "(BL) Tetra Boot Armor (Lv10)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Uato Armor Set - 30000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HF) Uato Boot Armor"
+      },
+      {
+       "name": "(HF) Uato Torso Armor (Lv6)"
+      },
+      {
+       "name": "(HF) Uato Gauntlet Armor (Lv6)"
+      },
+      {
+       "name": "(HF) Uato Thigh Armor (Lv6)"
+      },
+      {
+       "name": "(HF) Uato Tiara (Lv6)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Vigon Armor Set - 40000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HF) Vigon Boot Armor"
+      },
+      {
+       "name": "(HF) Vigon Torso Armor (Lv7)"
+      },
+      {
+       "name": "(HF) Vigon Gauntlet Armor (Lv7)"
+      },
+      {
+       "name": "(HF) Vigon Thigh Armor (Lv7)"
+      },
+      {
+       "name": "(HF) Vigon Tiara (Lv7)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Maun Armor Set - 50000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 5
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HF) Maun Boot Armor"
+      },
+      {
+       "name": "(HF) Maun Torso Armor (Lv8)"
+      },
+      {
+       "name": "(HF) Maun Gauntlet Armor (Lv8)"
+      },
+      {
+       "name": "(HF) Maun Thigh Armor (Lv8)"
+      },
+      {
+       "name": "(HF) Maun Tiara (Lv8)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Fision Armor Set - 60000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 6
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HF) Fision Boot Armor"
+      },
+      {
+       "name": "(HF) Fision Torso Armor (Lv9)"
+      },
+      {
+       "name": "(HF) Fision Gauntlet Armor (Lv9)"
+      },
+      {
+       "name": "(HF) Fision Thigh Armor (Lv9)"
+      },
+      {
+       "name": "(HF) Fision Tiara (Lv9)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Poldas Armor Set - 70000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 7
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HF) Poldas Boot Armor"
+      },
+      {
+       "name": "(HF) Poldas Torso Armor (Lv10)"
+      },
+      {
+       "name": "(HF) Poldas Gauntlet Armor (Lv10)"
+      },
+      {
+       "name": "(HF) Poldas Thigh Armor (Lv10)"
+      },
+      {
+       "name": "(HF) Poldas Tiara (Lv10)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Tryklan Armor Set - 30000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HM) Tryklan Boot Armor"
+      },
+      {
+       "name": "(HM) Tryklan Chest Armor (Lv6)"
+      },
+      {
+       "name": "(HM) Tryklan Gauntlet Armor (Lv6)"
+      },
+      {
+       "name": "(HM) Tryklan Thigh Armor (Lv6)"
+      },
+      {
+       "name": "(HM) Tryklan Face Mask (Lv6)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Tiberius Armor Set - 40000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HM) Tiberius Boot Armor"
+      },
+      {
+       "name": "(HM) Tiberius Gauntlet Armor (Lv7)"
+      },
+      {
+       "name": "(HM) Tiberius Face Mask (Lv7)"
+      },
+      {
+       "name": "(HM) Tiberius Thigh Armor (Lv7)"
+      },
+      {
+       "name": "(HM) Tiberius Chest Armor (Lv7)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Fision Armor Set - 50000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 5
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HM) Fision Boot Armor"
+      },
+      {
+       "name": "(HM) Fision Chest Armor (Lv8)"
+      },
+      {
+       "name": "(HM) Fision Gauntlet Armor (Lv8)"
+      },
+      {
+       "name": "(HM) Fision Thigh Armor (Lv8)"
+      },
+      {
+       "name": "(HM) Fision Face Mask (Lv8)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) GI Armor Set - 60000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 6
+      }
+     ],
+     "gives": [
+      {
+       "name": "UNUSED (HM) GI Boot Armor"
+      },
+      {
+       "name": "(HM) GI Chest Armor (Lv9)"
+      },
+      {
+       "name": "(HM) GI Thigh Armor (Lv9)"
+      },
+      {
+       "name": "(HM) GI Gauntlet Armor (Lv9)"
+      },
+      {
+       "name": "(HM) GI Face Mask (Lv9)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Ligon Armor Set - 70000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 7
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Ligon Chest Armor (Lv10)"
+      },
+      {
+       "name": "UNUSED (HM) Ligon Boot Armor"
+      },
+      {
+       "name": "(HM) Ligon Gauntlet Armor (Lv10)"
+      },
+      {
+       "name": "(HM) Ligon Thigh Armor (Lv10)"
+      },
+      {
+       "name": "(HM) Ligon Face Mask (Lv10)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Weapon Shop",
+   "px": 4953.6,
+   "py": 3761.2,
+   "npcId": 1673,
+   "template": "K Forge",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(BL) Rocket Launcher - 25000 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Gold (1000CR)",
+       "qty": 5
+      },
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Rocket Launcher (N) (Lv8)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Tomshock Neo - 30000 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Tomshock Neo (N) (Lv9)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Wave Snipe - 20000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Wave-Snipe (N) (Lv7)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Physusrifle - 25000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Gold (1000CR)",
+       "qty": 5
+      },
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Physusrifle (N) (Lv8)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) EphilisBlade Launcher - 30000 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) EphilisBlade Launcher (N) (Lv9)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Rocket Launcher - 20000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Rocket Launcher (N) (Lv7)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Physusrifle - 25000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 2
+      },
+      {
+       "name": "Gold (1000CR)",
+       "qty": 5
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Physusrifle (N) (Lv8)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) EphilisBlade Launcher - 30000 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Platinum (10000CR)",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) EphilisBlade Launcher (N) (Lv9)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Ambulaz - 400 Credits",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Silver (100CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Ambulaz (Lv3)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Heal Gun Small - 400 Credits",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Silver (100CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Heal Gun Small (Lv3)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Heal Gun Small - 400 Credits",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Silver (100CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Heal Gun Small (Lv3)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Heal Gun Small - 400 Credits",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Silver (100CR)",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Heal Gun Small (Lv3)"
+      }
+     ]
+    },
+    {
+     "title": "(no title)",
+     "race": "AP"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Return to Four Falls",
+   "px": 7118.7,
+   "py": 3896.1,
+   "npcId": 1667,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 3294.6,
+      "py": 3241.7
+     },
+     "title": "z"
+    }
+   ]
+  },
+  {
+   "layer": "safezones",
+   "name": "TradeSkillMuseum",
+   "px": 3936.2,
+   "py": 3985.5,
+   "box": [
+    -241,
+    -191.7,
+    8113.4,
+    8162.7
+   ],
+   "kind": "monsters don't attack here"
+  }
+ ]
+}

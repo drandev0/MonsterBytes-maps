@@ -1,0 +1,2412 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 972.7,
+   "py": 791.6,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 795.6,
+   "py": 1009,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 434.9,
+   "py": 973.4,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 303.6,
+   "py": 611.3,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 438.8,
+   "py": 352.4,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 821.3,
+   "py": 341.3,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 1000.4,
+   "py": 549.8,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 1009,
+   "py": 723.4,
+   "radiusPx": 8.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "gather",
+   "name": "Chest of Villerus",
+   "px": 235.6,
+   "py": 839.7,
+   "respawnMin": 100,
+   "key": 15
+  },
+  {
+   "layer": "gather",
+   "name": "Chest of Villerus",
+   "px": 233.7,
+   "py": 500.8,
+   "respawnMin": 1000,
+   "key": 16
+  },
+  {
+   "layer": "gather",
+   "name": "Large Wood Chest",
+   "px": 643.1,
+   "py": 2744,
+   "respawnMin": 100,
+   "key": 17
+  },
+  {
+   "layer": "gather",
+   "name": "Large Wood Chest",
+   "px": 628.4,
+   "py": 2752.2,
+   "holds": [
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "qty": 7
+    }
+   ],
+   "respawnMin": 1
+  },
+  {
+   "layer": "gather",
+   "name": "Large Wood Chest",
+   "px": 1118.9,
+   "py": 3762.3
+  },
+  {
+   "layer": "gather",
+   "name": "Large Wood Chest",
+   "px": 1108.9,
+   "py": 3747.7,
+   "respawnMin": 83,
+   "key": 19
+  },
+  {
+   "layer": "gather",
+   "name": "Large Wood Chest",
+   "px": 528.8,
+   "py": 3032.5,
+   "respawnMin": 83,
+   "key": 18
+  },
+  {
+   "layer": "gather",
+   "name": "Large Metal Chest",
+   "px": 308.7,
+   "py": 2955.9,
+   "holds": [
+    {
+     "name": "Hand Flare Sticks (20)",
+     "qty": 2
+    },
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "qty": 2
+    }
+   ],
+   "respawnMin": 83
+  },
+  {
+   "layer": "gather",
+   "name": "Large Metal Chest",
+   "px": 394.1,
+   "py": 3692.1,
+   "respawnMin": 83,
+   "key": 18
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) BossChamber Chest07",
+   "px": 1516.5,
+   "py": 4112.7,
+   "npcId": 48,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Key of Serpents"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Altar Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) TombRm KeyBox01",
+   "px": 741.9,
+   "py": 3800,
+   "npcId": 64,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "gives": [
+      {
+       "name": "Crypt Chest Key",
+       "qty": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) TombRm KeyBox02",
+   "px": 679.1,
+   "py": 3850,
+   "npcId": 65,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "gives": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) TombRm KeyBox03",
+   "px": 678.7,
+   "py": 3537.3,
+   "npcId": 66,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "gives": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "gather",
+   "name": "Large Metal Chest",
+   "px": 643.8,
+   "py": 1599.8,
+   "respawnMin": 100,
+   "key": 17
+  },
+  {
+   "layer": "gather",
+   "name": "Large Wood Chest",
+   "px": 743.5,
+   "py": 1597,
+   "holds": [
+    {
+     "name": "Sun Plant"
+    }
+   ],
+   "respawnMin": 10,
+   "key": 17
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) Keybox_serpents01",
+   "px": 643.6,
+   "py": 2673,
+   "npcId": 69,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Key of Serpents"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Catacombs) Keybox_serpents02",
+   "px": 659.7,
+   "py": 2871.6,
+   "npcId": 70,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Key of Serpents"
+      },
+      {
+       "name": "Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sirra",
+   "px": 605,
+   "py": 1028.7,
+   "npcId": 405,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Sirra Surveillance"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 3 of 28",
+     "needs": [
+      {
+       "name": "Encrypted Plan"
+      },
+      {
+       "name": "Key of Mirrors"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Decode Mission"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 4 of 28",
+     "needs": [
+      {
+       "name": "Note to Sirra"
+      },
+      {
+       "name": "Spirit Gateway Orb"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note from Sirra"
+      },
+      {
+       "name": "Spirit Gateway Orb"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 12 of 28",
+     "needs": [
+      {
+       "name": "Note from Hilrom"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note to Xellion"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 25 of 28",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Crom Chest) Chest Armor",
+   "px": 1401.4,
+   "py": 4091.8,
+   "npcId": 441,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Crom Chest",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Chest"
+      },
+      {
+       "name": "(AP) Crom Chest Armor (Lv15)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle/ChalisQuestChest) Centriole Power Gen",
+   "px": 644.8,
+   "py": 3073.7,
+   "npcId": 466,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Key of Cain"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Centriole Power Generator"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Blapstion",
+   "px": 698.1,
+   "py": 230.4,
+   "npcId": 502,
+   "template": "Hijon",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Letter to Blapstion"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter to Blapstion"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 1 of 20",
+     "gives": [
+      {
+       "name": "Scroll of Blapstions"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 1 of 20",
+     "needs": [
+      {
+       "name": "Vial for Blapstion"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sealed Letter from Blapstion"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 10 of 20",
+     "needs": [
+      {
+       "name": "Sealed Letter from Vecap"
+      }
+     ],
+     "gives": [
+      {
+       "name": ""
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!",
+     "needs": [
+      {
+       "name": "Vecap Badge"
+      },
+      {
+       "name": ""
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!",
+     "needs": [
+      {
+       "name": "Cains Robe"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Blapstion Token"
+      },
+      {
+       "name": "Cains Robe"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Nargas",
+   "px": 786.8,
+   "py": 1596.9,
+   "npcId": 503,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Scroll of Blapstions"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Moss Covered Stone"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 2 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Val",
+   "px": 616.2,
+   "py": 2585.4,
+   "npcId": 506,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Letter from Lasgat"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!",
+     "needs": [
+      {
+       "name": "Fractured Tablets"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!",
+     "needs": [
+      {
+       "name": "Jarude Head"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!!",
+     "needs": [
+      {
+       "name": "Sword of Val"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sword of Val"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 6 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tasgot",
+   "px": 639.7,
+   "py": 3112.8,
+   "npcId": 507,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Sealed Letter from Lasgat"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 8 of 20",
+     "needs": [
+      {
+       "name": "Fractured Orb"
+      },
+      {
+       "name": "Rancon Hide",
+       "qty": 8
+      }
+     ],
+     "gives": [
+      {
+       "name": "Vial for Flogran"
+      },
+      {
+       "name": "Fractured Orb"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 8 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Vecapan",
+   "px": 644.3,
+   "py": 2754.9,
+   "npcId": 509,
+   "template": "Shapra",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Sealed Letter to Vecapan"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Vecapan Amulet"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 18 of 20",
+     "needs": [
+      {
+       "name": "Cross of Bane"
+      },
+      {
+       "name": "Unknown Parchment"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sealed Letter from Vecap"
+      },
+      {
+       "name": "Cross of Bane"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 20 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Blapstion\"s Servant",
+   "px": 721.7,
+   "py": 214.3,
+   "npcId": 511,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Wispion Armor",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Blapstion Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Wispion Chest Armor (Lv13)"
+      },
+      {
+       "name": "Wispion Emblem"
+      },
+      {
+       "name": "(BL) Wispion Gauntlet Armor (Lv13)"
+      },
+      {
+       "name": "(BL) Wispion Thigh Armor (Lv13)"
+      },
+      {
+       "name": "(BL) Wispion Boot Armor (Lv13)"
+      }
+     ]
+    },
+    {
+     "title": "Hudion Armor",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Blapstion Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Hudion Helmet (Lv13)"
+      },
+      {
+       "name": "(AP) Hudion Bracers (Lv13)"
+      },
+      {
+       "name": "(AP) Hudion Shin Armor (Lv13)"
+      },
+      {
+       "name": "Hudion Emblem"
+      },
+      {
+       "name": "(AP) Hudion Chest Armor (Lv13)"
+      }
+     ]
+    },
+    {
+     "title": "Darius Armor",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Blapstion Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Darius Emblem"
+      },
+      {
+       "name": "(HM) Darius Chest Armor (Lv13)"
+      },
+      {
+       "name": "(HM) Darius Gauntlet Armor (Lv13)"
+      },
+      {
+       "name": "(HM) Darius Thigh Armor (Lv13)"
+      },
+      {
+       "name": "(HM) Darius Face Mask (Lv13)"
+      }
+     ]
+    },
+    {
+     "title": "Flight Armor",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Blapstion Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Flight Gauntlet Armor (Lv13)"
+      },
+      {
+       "name": "(HF) Flight Thigh Armor (Lv13)"
+      },
+      {
+       "name": "(HF) Flight Tiara (Lv13)"
+      },
+      {
+       "name": "Flight Emblem"
+      },
+      {
+       "name": "(HF) Flight Torso Armor (Lv13)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Happiness...",
+   "px": 337.4,
+   "py": 4194.6,
+   "npcId": 670,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "For joy is one of the keys to life...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Happiness"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Sun Crest"
+      }
+     ]
+    },
+    {
+     "title": "Happiness...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Intellect...",
+   "px": 382.2,
+   "py": 4190.3,
+   "npcId": 671,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Do you seek out intellect?",
+     "needs": [
+      {
+       "name": "Kanastas Key of Intellect"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Happiness"
+      }
+     ]
+    },
+    {
+     "title": "Intellect...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Longevity...",
+   "px": 353.6,
+   "py": 4088.7,
+   "npcId": 672,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "I seek the one with longevity...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Longevity"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Andradance"
+      }
+     ]
+    },
+    {
+     "title": "Longevity...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Andradance...",
+   "px": 636.8,
+   "py": 4449.6,
+   "npcId": 674,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "To seek Andradance...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Andradance"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Intellect"
+      }
+     ]
+    },
+    {
+     "title": "Andradance...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Intellect...",
+   "px": 618.9,
+   "py": 4492.4,
+   "npcId": 676,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Do you seek out intellect?",
+     "needs": [
+      {
+       "name": "Kanastas Key of Intellect"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Happiness"
+      }
+     ]
+    },
+    {
+     "title": "Intellect...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Sol...",
+   "px": 564.3,
+   "py": 4406.5,
+   "npcId": 678,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "For those whom posses the Light...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Sun Crest"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Shial"
+      }
+     ]
+    },
+    {
+     "title": "Giver of life...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Andradance...",
+   "px": 774.7,
+   "py": 4129.4,
+   "npcId": 679,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "To seek Andradance...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Andradance"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Intellect"
+      }
+     ]
+    },
+    {
+     "title": "Andradance...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Happiness...",
+   "px": 759.1,
+   "py": 4110.4,
+   "npcId": 680,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "For joy is one of the keys to life...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Happiness"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Sun Crest"
+      }
+     ]
+    },
+    {
+     "title": "Happiness...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "...Sol...",
+   "px": 675.6,
+   "py": 4155.8,
+   "npcId": 683,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "For those whom posses the Light...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Sun Crest"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kanastas Key of Shial"
+      }
+     ]
+    },
+    {
+     "title": "Giver of life...",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ],
+   "says": [
+    ".........."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Natur",
+   "px": 177.6,
+   "py": 3767.9,
+   "npcId": 689,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Incubator"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 6 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Pridion Embryo"
+      },
+      {
+       "name": "Air Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Natur Gidion"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 7 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Note to Natur"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Natur Incubator"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 10 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sinance",
+   "px": 689.4,
+   "py": 4148.9,
+   "npcId": 1541,
+   "template": "Bloblic",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Cujex",
+   "px": 689.4,
+   "py": 4148.9,
+   "npcId": 1542,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Blermur",
+   "px": 689.4,
+   "py": 4148.9,
+   "npcId": 1543,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Macris",
+   "px": 689.4,
+   "py": 4148.9,
+   "npcId": 1544,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "1",
+   "px": 514.1,
+   "py": 459.5,
+   "npcId": 1592,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "2",
+   "px": 633.7,
+   "py": 409.8,
+   "npcId": 1593,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "3",
+   "px": 775.8,
+   "py": 440.7,
+   "npcId": 1594,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "4",
+   "px": 886.3,
+   "py": 539.1,
+   "npcId": 1595,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "5",
+   "px": 899.4,
+   "py": 734.3,
+   "npcId": 1596,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "6",
+   "px": 811.8,
+   "py": 868.9,
+   "npcId": 1597,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "7",
+   "px": 679.8,
+   "py": 929.7,
+   "npcId": 1598,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "8",
+   "px": 525.1,
+   "py": 902.4,
+   "npcId": 1599,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "9",
+   "px": 412.6,
+   "py": 798.1,
+   "npcId": 1600,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "10",
+   "px": 388.8,
+   "py": 631.4,
+   "npcId": 1601,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "11",
+   "px": 573.3,
+   "py": 771.5,
+   "npcId": 1602,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "12",
+   "px": 502.2,
+   "py": 644.2,
+   "npcId": 1603,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "13",
+   "px": 595.8,
+   "py": 554.8,
+   "npcId": 1604,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "14",
+   "px": 686.7,
+   "py": 648.5,
+   "npcId": 1605,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "15",
+   "px": 804.4,
+   "py": 636.1,
+   "npcId": 1606,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "16",
+   "px": 741,
+   "py": 762.5,
+   "npcId": 1607,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "17",
+   "px": 664.9,
+   "py": 831.9,
+   "npcId": 1608,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "18",
+   "px": 724.6,
+   "py": 530.1,
+   "npcId": 1609,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "20",
+   "px": 477.7,
+   "py": 723.4,
+   "npcId": 1611,
+   "template": "InvNoCoHuge65"
+  },
+  {
+   "layer": "npcs",
+   "name": "Sorgon",
+   "px": 639,
+   "py": 2990.8,
+   "npcId": 1620,
+   "template": "Bloblic",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Motakor1",
+   "px": 639,
+   "py": 2990.8,
+   "npcId": 1621,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Motakor2",
+   "px": 639,
+   "py": 2990.8,
+   "npcId": 1622,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Motakor3",
+   "px": 639,
+   "py": 2990.8,
+   "npcId": 1623,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Motakor4",
+   "px": 639,
+   "py": 2990.8,
+   "npcId": 1624,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "...Andradance...",
+   "px": 328.3,
+   "py": 4096.2,
+   "npcId": 669,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 773,
+      "py": 4130.9
+     },
+     "title": "Port"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "...Sol...",
+   "px": 311.3,
+   "py": 4110.7,
+   "npcId": 673,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 566.6,
+      "py": 4405.2
+     },
+     "title": "Port"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "...Happiness...",
+   "px": 632.7,
+   "py": 4471.6,
+   "npcId": 675,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 337.5,
+      "py": 4192.1
+     },
+     "title": "Port"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "...Longevity...",
+   "px": 546.7,
+   "py": 4418.2,
+   "npcId": 677,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 352.6,
+      "py": 4090.6
+     },
+     "title": "port"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "...Intellect...",
+   "px": 683.8,
+   "py": 4175.6,
+   "npcId": 681,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 617.4,
+      "py": 4493.7
+     },
+     "title": "port"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "...Longevity...",
+   "px": 694.4,
+   "py": 4195.1,
+   "npcId": 682,
+   "routes": [
+    {
+     "to": {
+      "world": "unknown"
+     },
+     "title": "I seek the one with longevity...",
+     "needs": [
+      {
+       "name": "Kanastas Key of Longevity"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 644.7,
+   "py": 216.5,
+   "npcId": 1104,
+   "routes": [
+    {
+     "to": {
+      "world": "Rift Fire Cave",
+      "slug": "rift-fire-cave",
+      "px": 1505.7,
+      "py": 7873.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 643.9,
+   "py": 1510.7,
+   "npcId": 1105,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 644.3,
+      "py": 283
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1498.1,
+   "py": 4627.4,
+   "npcId": 1141,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 644.3,
+      "py": 651.5
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1498.4,
+   "py": 4519.5,
+   "npcId": 1142,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 1498.1,
+      "py": 4586.5
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Kanastas Key of Resurrection"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 740.6,
+   "py": 4098.4,
+   "npcId": 1145,
+   "routes": [
+    {
+     "to": {
+      "world": "Datro Lair",
+      "slug": "datro-lair",
+      "px": 3351.1,
+      "py": 5669.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 532.7,
+   "py": 4436.2,
+   "npcId": 1146,
+   "routes": [
+    {
+     "to": {
+      "world": "Datro Lair",
+      "slug": "datro-lair",
+      "px": 3351.1,
+      "py": 5669.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 360,
+   "py": 4196.2,
+   "npcId": 1147,
+   "routes": [
+    {
+     "to": {
+      "world": "Datro Lair",
+      "slug": "datro-lair",
+      "px": 3351.1,
+      "py": 5669.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1498.1,
+   "py": 3994.8,
+   "npcId": 1149,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 657.3,
+      "py": 4201.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 617.8,
+   "py": 665.7,
+   "npcId": 1427,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 628.9,
+      "py": 1672.3
+     },
+     "title": "Port"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Telosafixer",
+   "px": 7355.1,
+   "py": 8074.3,
+   "npcId": 1485,
+   "routes": [
+    {
+     "to": {
+      "world": "Gold Nub Zone",
+      "slug": "gold-nub-zone",
+      "px": 3261.4,
+      "py": 3433.8
+     },
+     "title": "lulz"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 647.7,
+   "py": 642.1,
+   "npcId": 1506,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 795.7,
+   "py": 573.1,
+   "npcId": 1653,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": "0"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 732.3,
+   "py": 801.8,
+   "npcId": 1654,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 611.1,
+   "py": 834,
+   "npcId": 1655,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 509,
+   "py": 768.1,
+   "npcId": 1656,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 480,
+   "py": 637.7,
+   "npcId": 1657,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 544.6,
+   "py": 534.9,
+   "npcId": 1658,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 670.9,
+   "py": 521.1,
+   "npcId": 1659,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 642.5,
+      "py": 1694.6
+     },
+     "title": ""
+    }
+   ]
+  },
+  {
+   "layer": "safezones",
+   "name": "Catacombs Entrance",
+   "px": 639.2,
+   "py": 258,
+   "box": [
+    593.6,
+    243.2,
+    684.9,
+    272.7
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 24",
+   "px": 643.4,
+   "py": 3693.4,
+   "radiusPx": 204.7,
+   "detail": "Action 6: play soundtrack, argument 24\nRadius: 500\nObject 12 (TOMBSa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 643.4,
+   "py": 670.3,
+   "radiusPx": 614.2,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 1500\nObject 101 (PORTTRIG_MainEntDropa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 643.5,
+   "py": 1511.4,
+   "radiusPx": 6.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 102 (PORTTRIG_MainEntTombSeca.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 360,
+   "py": 4196.1,
+   "radiusPx": 6.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 134 (PortGlassDr02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 740.5,
+   "py": 4098.4,
+   "radiusPx": 6.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 139 (PortGlassDr07a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 532.8,
+   "py": 4435.9,
+   "radiusPx": 6.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 146 (PortGlassDr14a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 18",
+   "px": 643.4,
+   "py": 670.3,
+   "radiusPx": 818.9,
+   "detail": "Action 6: play soundtrack, argument 18\nRadius: 2000\nObject 274 (MainDropWalls01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 643.4,
+   "py": 217.2,
+   "radiusPx": 8.2,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 276 (MainPortala.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2035.4,
+   "py": 3304.5,
+   "radiusPx": 12.3,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 456 (PARTTRIG_BOSSSECENTPORTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1497.2,
+   "py": 3994.6,
+   "radiusPx": 30.7,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 480 (DROPRMGLOWBALL02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1498.5,
+   "py": 4629,
+   "radiusPx": 30.7,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 524 (MAINEXITPORT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2035.5,
+   "py": 3304.5,
+   "radiusPx": 12.3,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 595 (PORTTRIG_BossSecReturna.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1498.7,
+   "py": 4116.6,
+   "radiusPx": 61.4,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 150\nObject 598 (PORTTRIG_BossSecKeyDra.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1498.7,
+   "py": 4154.9,
+   "radiusPx": 6.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 599 (PORTTRIG_BossSecKeyDr01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1498.4,
+   "py": 4519.1,
+   "radiusPx": 6.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 600 (PORTTRIG_MnCataExita.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs01",
+   "px": 643.1,
+   "py": 1598.7,
+   "box": [
+    467.1,
+    1422.6,
+    819.2,
+    1774.7
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs02",
+   "px": 643.1,
+   "py": 2135,
+   "box": [
+    597.1,
+    1766.5,
+    689.2,
+    2503.5
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs03",
+   "px": 643.1,
+   "py": 2583.8,
+   "box": [
+    535.7,
+    2476.3,
+    750.6,
+    2691.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs04",
+   "px": 643.1,
+   "py": 2583.8,
+   "box": [
+    417.9,
+    2537.7,
+    868.4,
+    2629.9
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs05",
+   "px": 487.5,
+   "py": 2993.4,
+   "box": [
+    434.3,
+    2948.3,
+    540.8,
+    3038.4
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs06",
+   "px": 800.6,
+   "py": 2993.4,
+   "box": [
+    747.4,
+    2948.3,
+    853.9,
+    3038.4
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs07",
+   "px": 643.5,
+   "py": 3325.2,
+   "box": [
+    628.2,
+    3120.5,
+    658.9,
+    3530
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs08",
+   "px": 642.9,
+   "py": 3693,
+   "box": [
+    481.2,
+    3524.1,
+    804.7,
+    3861.9
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs09",
+   "px": 642.9,
+   "py": 3693,
+   "box": [
+    622.5,
+    3672.5,
+    663.4,
+    3713.5
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs10",
+   "px": 642.9,
+   "py": 3805.4,
+   "box": [
+    622.5,
+    3703,
+    663.4,
+    3907.8
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs11",
+   "px": 579.4,
+   "py": 3900.3,
+   "box": [
+    497.5,
+    3797.9,
+    661.3,
+    4002.6
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs12",
+   "px": 547.9,
+   "py": 4086.8,
+   "box": [
+    517.2,
+    4001.8,
+    578.6,
+    4171.8
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs13",
+   "px": 547.4,
+   "py": 4202.2,
+   "box": [
+    504.4,
+    4161.3,
+    590.4,
+    4243.2
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs14",
+   "px": 550.4,
+   "py": 4163.9,
+   "box": [
+    537.1,
+    4137.3,
+    563.7,
+    4190.5
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs15",
+   "px": 456.4,
+   "py": 4173,
+   "box": [
+    395,
+    4155.6,
+    517.8,
+    4190.4
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs16",
+   "px": 377.2,
+   "py": 4160.6,
+   "box": [
+    335.2,
+    4129.9,
+    419.1,
+    4191.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs17",
+   "px": 664.8,
+   "py": 4172.3,
+   "box": [
+    588,
+    4110.9,
+    741.6,
+    4233.7
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs18",
+   "px": 554.9,
+   "py": 4324.8,
+   "box": [
+    534.5,
+    4237.8,
+    575.4,
+    4411.8
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs19",
+   "px": 548.2,
+   "py": 4420.8,
+   "box": [
+    496,
+    4369.6,
+    600.4,
+    4472
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Catacombs20",
+   "px": 557.7,
+   "py": 4202.6,
+   "box": [
+    535.4,
+    4179,
+    580,
+    4226.1
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "(Shrakken Blade) Treasure - BM Maze",
+   "px": 4181.5,
+   "py": 7479.8,
+   "npcId": 186,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest!",
+     "needs": [
+      {
+       "name": "Key of Shrakken"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Shrakken Blade (Ru) (Lv12)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chest",
+   "px": 5332.2,
+   "py": 5315.7,
+   "npcId": 420,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "chest",
+     "needs": [
+      {
+       "name": "Rigins Chest Key"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle Chest) Firing Pin",
+   "px": 4500,
+   "py": 4725.3,
+   "npcId": 461,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Kodo Key 03"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Firing Pin"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle Chest) Kodo\"s Tool Kit",
+   "px": 7840.3,
+   "py": 2792.9,
+   "npcId": 462,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Kodo Key 06"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kodos Tool Kit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle Chest) Cocking Mech",
+   "px": 7522.2,
+   "py": 3039,
+   "npcId": 463,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest!",
+     "needs": [
+      {
+       "name": "Kodo Key 01"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Cocking Mechanism"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle Chest) Kodo\"s Welder",
+   "px": 5451.5,
+   "py": 7671.4,
+   "npcId": 464,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest!",
+     "needs": [
+      {
+       "name": "Kodo Key 02"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Kodos Welder"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Cronex",
+   "px": 3148.6,
+   "py": 5641.5,
+   "npcId": 1567,
+   "template": "Amphibious",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Aoratis",
+   "px": 3148.6,
+   "py": 5641.5,
+   "npcId": 1568,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hiliv",
+   "px": 3148.6,
+   "py": 5641.5,
+   "npcId": 1569,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Pusice",
+   "px": 3148.6,
+   "py": 5641.5,
+   "npcId": 1570,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Selluo",
+   "px": 3148.6,
+   "py": 5641.5,
+   "npcId": 1571,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 5580.5,
+   "py": 7796.6,
+   "npcId": 1137,
+   "routes": [
+    {
+     "to": {
+      "world": "Black Market (inside)",
+      "slug": "black-market-inside",
+      "px": 5586.4,
+      "py": 2152.8
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Amphibious",
+   "px": 3048.5,
+   "py": 3398.2,
+   "detail": "Entity template 18\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 21",
+   "px": 3010.9,
+   "py": 2324.5,
+   "radiusPx": 342,
+   "detail": "Action 6: play soundtrack, argument 21\nRadius: 100\nObject 421 (BLKMRKTDUNG_entPORT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 5572.6,
+   "py": 7800,
+   "radiusPx": 68.4,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 424 (BLKMRKTDUNG_exitPORT02a.ARW)"
+  }
+ ]
+}

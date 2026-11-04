@@ -1,0 +1,61 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "zorphion-rune-lair",
+  "title": "Zorphion Rune Lair",
+  "places": [
+    "Zorphion Rune Lair"
+  ],
+  "group": "dungeons",
+  "worldId": 8,
+  "source": {
+    "world": "EYEMEBA_RUNEZONE.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.9842301607131958,
+    "origin": {
+      "x": 6562.95947265625,
+      "z": -12283.5341796875
+    }
+  },
+  "width": 5247,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#330d0a",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 6
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 3
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 1
+    }
+  ]
+}

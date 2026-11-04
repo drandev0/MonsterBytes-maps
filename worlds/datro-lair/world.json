@@ -1,0 +1,68 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "datro-lair",
+  "title": "Datro Lair",
+  "places": [
+    "Datro Lair"
+  ],
+  "group": "dungeons",
+  "worldId": 30,
+  "source": {
+    "world": "DATRO_LAIR.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 1.3918933272361755,
+    "origin": {
+      "x": -17864.3203125,
+      "z": 19440.904296875
+    }
+  },
+  "width": 3641,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#190000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 64
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 36
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 3
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 11
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 19
+    }
+  ]
+}

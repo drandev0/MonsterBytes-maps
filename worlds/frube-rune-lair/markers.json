@@ -1,0 +1,241 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Frube",
+   "px": 6264.5,
+   "py": 2146.2,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 13,
+     "name": "Frube",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 0 (Frube):\nFrube (LV15 BOSS) (Spawner: Frube, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Frube",
+   "px": 6264.5,
+   "py": 2146.2,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 13,
+     "name": "Frube",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 0 (Frube):\nFrube (LV15 BOSS) (Spawner: Frube, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 6562.5,
+   "py": 2580.6,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 5574.1,
+   "py": 2135,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 6273.7,
+   "py": 1363.6,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 7356.5,
+   "py": 972,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 7500.1,
+   "py": 2310.8,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 7154,
+   "py": 3277.4,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 6705,
+   "py": 1918,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 6295.5,
+   "py": 2652,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 5892.3,
+   "py": 1298.8,
+   "radiusPx": 31.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 782.9,
+   "py": 1314.1,
+   "npcId": 1075,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 3746.1,
+      "py": 5207.6
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Bio Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 812.7,
+   "py": 1386.8,
+   "npcId": 1117,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 3746.1,
+      "py": 5207.6
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Frube Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 2717.6,
+   "py": 1732.6,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 800.6,
+   "py": 1353.1,
+   "radiusPx": 77.8,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 50\nObject 4 (RUNEPORT_FRUBEa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 32",
+   "px": 800.6,
+   "py": 1353.1,
+   "radiusPx": 544.3,
+   "detail": "Action 6: play soundtrack, argument 32\nRadius: 350\nObject 4 (RUNEPORT_FRUBEa.ARW)"
+  }
+ ]
+}

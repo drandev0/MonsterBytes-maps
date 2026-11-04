@@ -1,0 +1,73 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "air-kingdom",
+  "title": "Air Kingdom",
+  "places": [],
+  "group": "lands",
+  "worldId": 5,
+  "source": {
+    "world": "Airworld_cv.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 9.64123010635376,
+    "origin": {
+      "x": -34243.36328125,
+      "z": 36251.00390625
+    }
+  },
+  "width": 8097,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#a3a8f7",
+  "layers": [
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 76
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 14
+    },
+    {
+      "id": "gather",
+      "title": "Gathering and chests",
+      "color": "#8bc34a",
+      "shown": false,
+      "count": 31
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 16
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 5
+    }
+  ]
+}

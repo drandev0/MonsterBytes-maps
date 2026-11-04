@@ -1,0 +1,621 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4743.5,
+   "py": 4874.3,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4697.5,
+   "py": 4703.4,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4749.3,
+   "py": 4581,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4931.6,
+   "py": 4493.9,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5131.2,
+   "py": 4569.4,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5055.8,
+   "py": 4826.2,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5186.8,
+   "py": 5046.9,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4943.6,
+   "py": 5190.1,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4717.8,
+   "py": 5129.5,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4698.6,
+   "py": 4927.4,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Flob01):\nFlob (Spawner: Flob01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4145.9,
+   "py": 4949,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4184.6,
+   "py": 4723.5,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4427.4,
+   "py": 4650.9,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4643,
+   "py": 4683,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4643.2,
+   "py": 4839.8,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4833.2,
+   "py": 4986,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4756.5,
+   "py": 5141.8,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4592.5,
+   "py": 5238.6,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4290.4,
+   "py": 5163.8,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Infant Stount01):\nInfant Stount (Spawner: InfantStount01_nubiezone, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 3341.3,
+   "py": 4139.2,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Flob02):\nFlob (Spawner: Flob02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 3561.6,
+   "py": 3997.6,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Flob02):\nFlob (Spawner: Flob02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 3850.4,
+   "py": 4045.3,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Flob02):\nFlob (Spawner: Flob02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 4000.2,
+   "py": 4335.6,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Flob02):\nFlob (Spawner: Flob02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 3794.4,
+   "py": 4500.2,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Flob02):\nFlob (Spawner: Flob02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 3194.8,
+   "py": 4506.5,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Flob02):\nFlob (Spawner: Flob02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 5298,
+   "py": 3505.1,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 3 (Infant Stount02):\nInfant Stount (Spawner: InfantStount02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 5354,
+   "py": 3071.6,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 3 (Infant Stount02):\nInfant Stount (Spawner: InfantStount02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 5282.7,
+   "py": 2625.9,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 3 (Infant Stount02):\nInfant Stount (Spawner: InfantStount02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 5064.1,
+   "py": 2549.6,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 3 (Infant Stount02):\nInfant Stount (Spawner: InfantStount02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 5250.7,
+   "py": 3122,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 3 (Infant Stount02):\nInfant Stount (Spawner: InfantStount02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 5201.2,
+   "py": 3531.9,
+   "radiusPx": 26.3,
+   "mobs": [
+    {
+     "id": 379,
+     "name": "Infant Stount",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 3 (Infant Stount02):\nInfant Stount (Spawner: InfantStount02_nubiezone, up to 2)"
+  },
+  {
+   "layer": "entities",
+   "name": "Cleanerbot",
+   "px": 3934.7,
+   "py": 2318.2,
+   "detail": "Entity template 0\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 50",
+   "px": 4096,
+   "py": 4096,
+   "radiusPx": 1641,
+   "detail": "Action 6: play soundtrack, argument 50\nRadius: 1250\nObject 14 (NubieLandd.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Welcome to the training of world of Iia. This is where you will become familiar with the basic functionality of Endless Ages. You will need to acquire one small health potion, and kill and loot one Flob before you will be able to leave here. Come to Palack when you are done to leave this place.",
+   "px": 4734,
+   "py": 3399.1,
+   "radiusPx": 65.6,
+   "detail": "Action 7: text output, argument 1, once\nRadius: 50\nObject 3111 (DIALOGTRIG_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Very good! Now press F1 then Store to open the menu. Buy one weapon but make sure you follow the Race Code on the sign so that you purchase a weapon for your race. Also buy one small health potion. After you are done with that, make your way out to where the Flobs are; straight out the store door at the bottom of the hill.",
+   "px": 4734,
+   "py": 3231.1,
+   "radiusPx": 65.6,
+   "detail": "Action 7: text output, argument 2, once\nRadius: 50\nObject 3112 (DIALOGTRIG_02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Great! Now, you will learn to fight with your new weapon. Kill a Flob and loot its remains from the body when it is dead. You can do this by walking up to the body and press F8 (examine). You will need at least one Flob shell to leave the training area.",
+   "px": 4743.2,
+   "py": 4760.5,
+   "radiusPx": 131.3,
+   "detail": "Action 7: text output, argument 7, once\nRadius: 100\nObject 3113 (DIALOGTRIG_03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Once you have finished fighting the Flobs and have successfully looted one, make your way over to the bank.",
+   "px": 4476.7,
+   "py": 4750,
+   "radiusPx": 98.5,
+   "detail": "Action 7: text output, argument 4, once\nRadius: 75\nObject 3114 (DIALOGTRIG_04a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Welcome to the bank. You can store and access any items or credits that belong to you in any Vault around the realms. If you open your vault now, you will find an additional 300 starting credits. Once done here, your mission is to find Palack - The Portal Guardian. He is your way out to the Main World.",
+   "px": 3135,
+   "py": 4789.4,
+   "radiusPx": 39.4,
+   "detail": "Action 7: text output, argument 17, once\nRadius: 30\nObject 3115 (DIALOGTRIG_05a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Hi I am Palack. Are you ready to venture into the Main World of Iia? If you are, press F5 to access your Inventory to check if you have at least 1 Flob Shell and 1 Small Health Potion. If you do press F8 and choose your race's starting place. Happy trails.",
+   "px": 4256.7,
+   "py": 2767.5,
+   "radiusPx": 39.4,
+   "detail": "Action 7: text output, argument 11, once\nRadius: 30\nObject 3116 (DIALOGTRIG_06a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Did you know with the Shape shifting skill you can morph into almost in creature found in the realms of Iia? When \"Shifted\" you take on all of the attributes of the creature and then some. The Amphibious race acquires the knowledge in Shape shifting the easiest, where as the Bloblics are quite slow at it.",
+   "px": 4238.4,
+   "py": 2975.5,
+   "radiusPx": 32.8,
+   "detail": "Action 7: text output, argument 15, once\nRadius: 25\nObject 3117 (DIALOGTRIG_07a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> You can also utilize the Familiar skill to ride particular creatures in the realm. Learn to focus channel the spirit of the Familiar and summon its assistance.",
+   "px": 4158.6,
+   "py": 2875.3,
+   "radiusPx": 32.8,
+   "detail": "Action 7: text output, argument 14, once\nRadius: 25\nObject 3118 (DIALOGTRIG_08a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Magery is one of the most ancient skills of power known in the realms of space and time. Become a Deity sorcerer and channel the ways of the powerful.",
+   "px": 4341.5,
+   "py": 2808.4,
+   "radiusPx": 39.4,
+   "detail": "Action 7: text output, argument 13, once\nRadius: 30\nObject 3119 (DIALOGTRIG_09a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Did you know if you eat certain creatures drop meats that it will actually heal you? Try taking down one of these infant Stounts, loot it, and \"Use\" it to eat it. Of course you will only see the difference if you are not full health.",
+   "px": 5313,
+   "py": 3148.4,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 11, once\nRadius: 40\nObject 3120 (DIALOGTRIG_10a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Some creatures will randomly drop special items like gems and other types of items.",
+   "px": 3468.5,
+   "py": 4263,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 4, once\nRadius: 40\nObject 3121 (DIALOGTRIG_11a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> The creatures in this area can not hurt you, but when you get into the Main World of Iia you will want to practice dogging and jumping.",
+   "px": 4602.7,
+   "py": 5026.2,
+   "radiusPx": 59.1,
+   "detail": "Action 7: text output, argument 2, once\nRadius: 45\nObject 3122 (DIALOGTRIG_12a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Shhhh... Did you know that if you press F11 it will display our FPS (Frames per Sec) and Ping? Those can tell you how well your game is playing. ;)",
+   "px": 2855.4,
+   "py": 5368.3,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 15, once\nRadius: 40\nObject 3123 (DIALOGTRIG_13a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Hey, did you just notice the \"Press F8 to Examine/Interact\" message at the top of the chat window? I think you should search the area. Sometimes you can find items laying in patches of brush.",
+   "px": 4223.3,
+   "py": 3657.9,
+   "radiusPx": 39.4,
+   "detail": "Action 7: text output, argument 10, once\nRadius: 30\nObject 3124 (DIALOGTRIG_14a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> If you find yourself low on ammo, just go to the store and purchase some for your gun… Or you can always use a melee weapon and save the money. ;)",
+   "px": 4504.9,
+   "py": 4374.5,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 8, once\nRadius: 40\nObject 3125 (DIALOGTRIG_15a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> One thing that you should definitely know is the Rebirth command. If you type in \":REBIRTH\" using you chat/talk function in any safe zone, you will rebind your Respawn point exactly to that spot. It is a very useful command to save on travelling time after dying. One other thing… don't worry, until you are above level 4 in any skill you will not drop any of your items or credits.",
+   "px": 4023.8,
+   "py": 4088.4,
+   "radiusPx": 65.6,
+   "detail": "Action 7: text output, argument 6, once\nRadius: 50\nObject 3126 (DIALOGTRIG_16a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "<Helper> Just a small navigation tip; when you get into the Main World of Iia, there is a moon the sky that you will see. When looking at the moon you will be facing in the eastern direction.",
+   "px": 3515.7,
+   "py": 3471.5,
+   "radiusPx": 65.6,
+   "detail": "Action 7: text output, argument 3, once\nRadius: 50\nObject 3127 (DIALOGTRIG_17a.ARW)"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "final-ss-trial",
+  "title": "Final SS Trial",
+  "places": [],
+  "group": "dungeons",
+  "worldId": 3,
+  "source": {
+    "world": "Final_SS_Trial.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.8751901835203171,
+    "origin": {
+      "x": -2195.217529296875,
+      "z": 5246.1962890625
+    }
+  },
+  "width": 6877,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#1e2b3a",
+  "layers": [
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 8
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 20
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 10
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,4058 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 572.4,
+   "py": 6667.4,
+   "radiusPx": 0.5,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 484.7,
+   "py": 6892,
+   "radiusPx": 0.5,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6644.4,
+   "py": 7035.8,
+   "radiusPx": 9.6,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 1 (Blackmarket Main Room):\nDidon (LV4) (Spawner: DIDON 06 DIM 01_2NDblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6585.1,
+   "py": 6929.6,
+   "radiusPx": 9.6,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 1 (Blackmarket Main Room):\nDidon (LV4) (Spawner: DIDON 06 DIM 01_2NDblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6819.5,
+   "py": 6857.7,
+   "radiusPx": 9.6,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 1 (Blackmarket Main Room):\nDidon (LV4) (Spawner: DIDON 06 DIM 01_2NDblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7102.9,
+   "py": 7061.4,
+   "radiusPx": 9.6,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 1 (Blackmarket Main Room):\nDidon (LV4) (Spawner: DIDON 06 DIM 01_2NDblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6973.4,
+   "py": 7323.9,
+   "radiusPx": 9.6,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 1 (Blackmarket Main Room):\nDidon (LV4) (Spawner: DIDON 06 DIM 01_2NDblobRoom, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6727.4,
+   "py": 7176.3,
+   "radiusPx": 9.6,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 1 (Blackmarket Main Room):\nDidon (LV4) (Spawner: DIDON 06 DIM 01_2NDblobRoom, up to 1)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Cronic (Armors)",
+   "px": 7130.9,
+   "py": 6383.3,
+   "npcId": 206,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(AP) Plandon Helmet (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(AP) Plandon Bracers (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Shin Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Sondron Helmet (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(AP) Sondron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(AP) Sondron Bracers (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sondron Shin Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sision Helmet (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(AP) Sision Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(AP) Sision Bracers (Lv3)",
+     "price": 142
+    },
+    {
+     "name": "(AP) Sision Shin Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(AP) Vidon Helmet (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(AP) Vidon Chest Armor (Lv4)",
+     "price": 502
+    },
+    {
+     "name": "(AP) Vidon Bracers (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Vidon Shin Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Helmet (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(AP) Quazon Bracers (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(AP) Quazon Shin Armor (Lv5)",
+     "price": 1004
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Anarkix (Banker)",
+   "px": 7375.6,
+   "py": 6992.4,
+   "npcId": 207,
+   "template": "Bloblic",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Vault",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Felicious (Range Weapons)",
+   "px": 6602.8,
+   "py": 6476.3,
+   "npcId": 208,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(BL) Hyperuzi-Chalis (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(BL) KvCrusher (N) (Lv4)",
+     "price": 928
+    },
+    {
+     "name": "(BL) Pulse Mortar (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HM) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HM) Lyson Twin Lazer (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HM) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HM) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HF) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HF) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HF) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HF) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(AP) Aqualaz (N)(W) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(AP) Amberlaz (N)(F) (Lv2)",
+     "price": 320
+    },
+    {
+     "name": "(AP) Soilaz (N)(E) (Lv3)",
+     "price": 640
+    },
+    {
+     "name": "(AP) Gustlaz (N)(A) (Lv4)",
+     "price": 920
+    },
+    {
+     "name": "(AP) Quadoty (N)(E) (Lv5)",
+     "price": 1000
+    },
+    {
+     "name": "(AP) Clawjous (N)(F) (Lv6)",
+     "price": 1800
+    },
+    {
+     "name": "(BL) Sonic Mine Layer (N) (Lv13)",
+     "price": 500
+    },
+    {
+     "name": "(HM) Sonic Mine Layer (N) (Lv12)",
+     "price": 500
+    },
+    {
+     "name": "(HF) Sonic Mine Layer (N) (Lv12)",
+     "price": 500
+    },
+    {
+     "name": "(HF) Plasma Snipe (N) (Lv4)",
+     "price": 1008
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rownus (Items)",
+   "px": 6600.6,
+   "py": 7490.1,
+   "npcId": 209,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(AP) Wings of Darion",
+     "price": 1788
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Amberlaz Charges (35)",
+     "price": 20
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Clawjous Mellons (30)",
+     "price": 93
+    },
+    {
+     "name": "Dilirium Chews (30)",
+     "price": 175
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Gustlaz Charges (35)",
+     "price": 51
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Metatrile Plankton (30)",
+     "price": 200
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Oafinster Chow (25)",
+     "price": 175
+    },
+    {
+     "name": "Oafronack Gobs (25)",
+     "price": 260
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Quadoty Rolls (25)",
+     "price": 78
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Soilaz Charges (35)",
+     "price": 27
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "Stontrile Plankton (30)",
+     "price": 150
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Trinster Ore Gobs (30)",
+     "price": 160
+    },
+    {
+     "name": "Trinstnarak Crystals (30)",
+     "price": 213
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Premium XPress Pass",
+     "price": 20000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Xenodix (Melee Weapons)",
+   "px": 7142.9,
+   "py": 7590,
+   "npcId": 210,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(BL) Octograph (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(BL) Ontroytag (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(BL) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(BL) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(BL) Alamzaterius (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(BL) TovechLerin (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(HM) Bryton (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HM) Sigron (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HM) Alamzaterius (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HM) BarbedDulsikium (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HM) BloodKnarl (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HM) CroveinPlechivstz (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(HF) Ontroytag (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HF) Octograph (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HF) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HF) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HF) KvPlasmaBlade (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HF) BarbedDulsikium (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(AP) Ontroytag (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(AP) Grandgerg (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(AP) Bloodhasten (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(AP) EstorBlade (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(AP) Ranrokc (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(AP) Dalition (N) (Lv5)",
+     "price": 608
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Conzure - Crazed Smith",
+   "px": 6207.9,
+   "py": 4891.8,
+   "npcId": 215,
+   "template": "Bloblic",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Human Male items...",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Dark Jouster Heart",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) KesvinBreakTwo (N) (Lv7)"
+      },
+      {
+       "name": "(HM) RollProng (Lv9)"
+      },
+      {
+       "name": "(HM) ZiraelSlayer (N) (Lv12)"
+      },
+      {
+       "name": "(HM) RemerizanCloft (N) (Lv9)"
+      },
+      {
+       "name": "(HM) Karenaktna (N) (Lv7)"
+      },
+      {
+       "name": "(HM) SteelBoltshik (N) (Lv11)"
+      },
+      {
+       "name": "(HM) OmseveNier (N) (Lv8)"
+      },
+      {
+       "name": "(HM) CurenikPike (N) (Lv6)"
+      },
+      {
+       "name": "(HM) TovechLerin (N) (Lv11)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Human Female items...",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Deathbot Head"
+      },
+      {
+       "name": "Mayzora Spine"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) BloodKnarl (N) (Lv6)"
+      },
+      {
+       "name": "(HF) KesvinBreakTwo (N) (Lv9)"
+      },
+      {
+       "name": "(HF) RemerizanCloft (N) (Lv10)"
+      },
+      {
+       "name": "(HF) OmseveNier (N) (Lv9)"
+      },
+      {
+       "name": "(HF) SteelBoltshik (N) (Lv11)"
+      },
+      {
+       "name": "(HF) TovechLerin (N) (Lv12)"
+      },
+      {
+       "name": "(HF) Karenaktna (N) (Lv8)"
+      },
+      {
+       "name": "(HF) CroveinPlechivstz (N) (Lv7)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Bloblic items...",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Dark Jouster Heart",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) BarbedDulsikium (N) (Lv6)"
+      },
+      {
+       "name": "(BL) RemerizanCloft (N) (Lv7)"
+      },
+      {
+       "name": "(BL) Karenaktna (N) (Lv9)"
+      },
+      {
+       "name": "(BL) Croveinplechivstz (N) (Lv10)"
+      },
+      {
+       "name": "(BL) KesvinBreakTwo (N) (Lv9)"
+      },
+      {
+       "name": "(BL) ZiraelSlayer (N) (Lv11)"
+      },
+      {
+       "name": "(BL) SectaliescshNim (N) (Lv7)"
+      },
+      {
+       "name": "(BL) OmseveNier (N) (Lv8)"
+      },
+      {
+       "name": "(BL) Havok Axe (N) (Lv11)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Amphibious items...",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Deathbot Head"
+      },
+      {
+       "name": "Mayzora Spine"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Gristion (N) (Lv6)"
+      },
+      {
+       "name": "(AP) KesvinBreakTwo (N) (Lv10)"
+      },
+      {
+       "name": "(AP) OmseveNier (N) (Lv11)"
+      },
+      {
+       "name": "(AP) BloodKnarl (N) (Lv7)"
+      },
+      {
+       "name": "(AP) CurenikPike (N) (Lv9)"
+      },
+      {
+       "name": "(AP) SteelBoltshik (Ru) (Lv12)"
+      },
+      {
+       "name": "(AP) BarbedDulsikium (N) (Lv7)"
+      },
+      {
+       "name": "(AP) RemerizanCloft (N) (Lv11)"
+      },
+      {
+       "name": "(AP) CroveinPlechivstz (N) (Lv8)"
+      },
+      {
+       "name": "(AP) Karenaktna (N) (Lv9)"
+      },
+      {
+       "name": "(AP) SectaliescshNim (N) (Lv12)"
+      }
+     ],
+     "oneOf": true
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lafe Stone",
+   "px": 3482.6,
+   "py": 4516.2,
+   "npcId": 216,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lafe Stone",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lafe Stone"
+      },
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lafe Stone",
+   "px": 3554.3,
+   "py": 4373.6,
+   "npcId": 217,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lafe Stone",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      },
+      {
+       "name": "Lafe Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lafe Stone",
+   "px": 3671.4,
+   "py": 4327.5,
+   "npcId": 218,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lafe Stone",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      },
+      {
+       "name": "Lafe Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lafe Stone",
+   "px": 3799.7,
+   "py": 3723.1,
+   "npcId": 219,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lafe Stone",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lafe Stone"
+      },
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lafe Stone",
+   "px": 3658,
+   "py": 3475,
+   "npcId": 220,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lafe Stone",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lafe Stone"
+      },
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lafe Stone",
+   "px": 4125,
+   "py": 3689.4,
+   "npcId": 221,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lafe Stone",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      },
+      {
+       "name": "Lafe Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Odion Gem",
+   "px": 5860.3,
+   "py": 6218.6,
+   "npcId": 230,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Odion Gem",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      },
+      {
+       "name": "Odion Gem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Odion Gem",
+   "px": 5996.8,
+   "py": 6377.4,
+   "npcId": 231,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Odion Gem",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Odion Gem"
+      },
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Odion Gem",
+   "px": 6472.8,
+   "py": 5857.7,
+   "npcId": 232,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Odion Gem",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Odion Gem"
+      },
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Odion Gem",
+   "px": 6510,
+   "py": 5706.2,
+   "npcId": 233,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Odion Gem",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Odion Gem"
+      },
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Odion Gem",
+   "px": 6500.8,
+   "py": 5412.8,
+   "npcId": 234,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Odion Gem",
+     "needs": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 1 (Minerals)"
+      },
+      {
+       "name": "Odion Gem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rocap Ore",
+   "px": 5117.5,
+   "py": 2173.3,
+   "npcId": 242,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Rocap Ore",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Rocap Ore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rocap Ore",
+   "px": 5070.8,
+   "py": 2125.6,
+   "npcId": 243,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Rocap Ore",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Rocap Ore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rocap Ore",
+   "px": 5090.9,
+   "py": 2078.4,
+   "npcId": 244,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Rocap Ore",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Rocap Ore"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rocap Ore",
+   "px": 5190.2,
+   "py": 1760.3,
+   "npcId": 245,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Rocap Ore",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Rocap Ore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rocap Ore",
+   "px": 5327,
+   "py": 1735.1,
+   "npcId": 246,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Rocap Ore",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Rocap Ore"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rocap Ore",
+   "px": 5305.2,
+   "py": 1765.6,
+   "npcId": 247,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Rocap Ore",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Rocap Ore"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chest",
+   "px": 7102.3,
+   "py": 7065.1,
+   "npcId": 417,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "chest",
+     "needs": [
+      {
+       "name": "Crypt Chest Key",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "Intake Valves"
+      },
+      {
+       "name": "Voltage Regulator"
+      },
+      {
+       "name": "Titanium Pistons"
+      },
+      {
+       "name": "Cycle Timer"
+      },
+      {
+       "name": "Sonic Thrusters"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Sia Egg",
+   "px": 5930.3,
+   "py": 6475.6,
+   "npcId": 423,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Sia Egg",
+     "gives": [
+      {
+       "name": "Dark Sia Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Ora Egg",
+   "px": 6535.1,
+   "py": 5321.2,
+   "npcId": 424,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Ora Egg",
+     "gives": [
+      {
+       "name": "Dark Ora Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Shoki Egg",
+   "px": 5833.6,
+   "py": 6285,
+   "npcId": 425,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Shoki Egg",
+     "gives": [
+      {
+       "name": "Dark Shoki Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Umbra Egg",
+   "px": 5238.8,
+   "py": 1777.3,
+   "npcId": 426,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Umbra Egg",
+     "gives": [
+      {
+       "name": "Dark Umbra Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Ank Egg",
+   "px": 4042.2,
+   "py": 2625.3,
+   "npcId": 427,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Ank Egg",
+     "gives": [
+      {
+       "name": "Dark Ank Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark llias Egg",
+   "px": 3693.7,
+   "py": 3630.2,
+   "npcId": 428,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark llias Egg",
+     "gives": [
+      {
+       "name": "Dark Illias Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Toolip Egg",
+   "px": 5355.1,
+   "py": 2354,
+   "npcId": 429,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Toolip Egg",
+     "gives": [
+      {
+       "name": "Dark Toolip Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Zi Egg",
+   "px": 6348.7,
+   "py": 4047.1,
+   "npcId": 430,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Zi Egg",
+     "gives": [
+      {
+       "name": "Dark Zi Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Xill Egg",
+   "px": 6976.5,
+   "py": 4280.2,
+   "npcId": 431,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Xill Egg",
+     "gives": [
+      {
+       "name": "Dark Xill Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Kaing Egg",
+   "px": 5818.9,
+   "py": 4223,
+   "npcId": 432,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dark Kaing Egg",
+     "gives": [
+      {
+       "name": "Dark Kaing Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Crom Chest) Bracer Armor",
+   "px": 5118.6,
+   "py": 3926.7,
+   "npcId": 443,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Crom Bracers",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Crom Bracers (Lv15)"
+      },
+      {
+       "name": "Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Netlauncher Chest) Plasma Net Emitter [8",
+   "px": 5084,
+   "py": 3954.7,
+   "npcId": 457,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest!",
+     "needs": [
+      {
+       "name": "Kurb Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plasma Net Emitter"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle/ChalisQuestChest) Servunty Metal",
+   "px": 5676.9,
+   "py": 1954.5,
+   "npcId": 465,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Kodo Key 04"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Servunty Metal Chunk"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Boon",
+   "px": 5442.3,
+   "py": 3590.4,
+   "npcId": 472,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Stontrile Quest: Boon Intro",
+     "race": "AP",
+     "skill": "Mind Control 7",
+     "needs": [
+      {
+       "name": "Dark Guard Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Stontrile Larva"
+      }
+     ]
+    },
+    {
+     "title": "Stontrile Quest: Stontrile Larva",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Flogran",
+   "px": 6016.2,
+   "py": 4962.3,
+   "npcId": 504,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Scepter of Power"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!",
+     "needs": [
+      {
+       "name": "Unknown Tablet"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Flogran"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 4 of 20",
+     "needs": [
+      {
+       "name": "Fractured Orb"
+      },
+      {
+       "name": "Vial for Flogran"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Vial for Blapstion"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 9 of 20",
+     "needs": [
+      {
+       "name": "Scepter of Kiston"
+      },
+      {
+       "name": "Letter from Argos"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scepter of Kiston"
+      },
+      {
+       "name": "Sealed Letter from Flogran"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 12 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dablo",
+   "px": 7865.9,
+   "py": 4271.2,
+   "npcId": 510,
+   "template": "Shapra",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Vecapan Amulet"
+      }
+     ]
+    },
+    {
+     "title": "Armor Lvl 13: Fight!",
+     "needs": [
+      {
+       "name": "Salspton Tail"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor Lvl 13: Fight!!",
+     "needs": [
+      {
+       "name": "Aquan Tail"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor Lvl 13: Fight!!!",
+     "needs": [
+      {
+       "name": "Papstaon Tail"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor Lvl 13: Fight!!!!",
+     "needs": [
+      {
+       "name": "Nanontan Tail"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor Lvl 13: Fight!!!!!",
+     "needs": [
+      {
+       "name": "Bosia Head"
+      }
+     ],
+     "cash": 4000
+    },
+    {
+     "title": "Armor Lvl 13: Fight!!!!!!",
+     "needs": [
+      {
+       "name": "Cross of Bane"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Unknown Parchment"
+      },
+      {
+       "name": "Cross of Bane"
+      }
+     ],
+     "cash": 4000
+    },
+    {
+     "title": "Armor Lvl 13: Part 19 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bis",
+   "px": 6546.1,
+   "py": 6997.1,
+   "npcId": 523,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Pligton Liquid"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Fight!",
+     "needs": [
+      {
+       "name": "Listops Head"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Fight!!",
+     "needs": [
+      {
+       "name": "Kro Head"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Rusted Item"
+      },
+      {
+       "name": "Package from Bis"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Armor 11 Quest: Part 3 of 9",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Forgral",
+   "px": 5963.3,
+   "py": 6146.7,
+   "npcId": 525,
+   "template": "Bloblic",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Wanted Poster of Forgral"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Forgral Badge"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Fight!",
+     "needs": [
+      {
+       "name": "Brisk Sword"
+      },
+      {
+       "name": "Forgral Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Brisk Badge"
+      },
+      {
+       "name": "Forgral Badge"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Fight!!",
+     "needs": [
+      {
+       "name": "Brisk Badge"
+      },
+      {
+       "name": "Forgral Badge"
+      },
+      {
+       "name": "Trin Sword"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Trin Badge"
+      },
+      {
+       "name": "Brisk Badge"
+      },
+      {
+       "name": "Forgral Badge"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Fight!!!",
+     "needs": [
+      {
+       "name": "Forgral Sword"
+      },
+      {
+       "name": "Brisk Badge"
+      },
+      {
+       "name": "Forgral Badge"
+      },
+      {
+       "name": "Trin Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Badge of Forgral"
+      }
+     ],
+     "cash": 5000
+    },
+    {
+     "title": "Armor 11 Quest: Part 6 of 9",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bleka",
+   "px": 4991.4,
+   "py": 2057.3,
+   "npcId": 540,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Gauges"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 4 of 23",
+     "needs": [
+      {
+       "name": "Hasten Wings"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plasma Screen"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 5 of 23",
+     "needs": [
+      {
+       "name": "Evonsa Vial"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plasma Fuel Injector"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 6 of 23",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Rigin",
+   "px": 7030.2,
+   "py": 6605.2,
+   "npcId": 546,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Rigins Task"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 19 of 23",
+     "gives": [
+      {
+       "name": "Rigins Chest Key"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 20 of 23",
+     "needs": [
+      {
+       "name": "Garnet",
+       "qty": 2
+      },
+      {
+       "name": "Jade",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "Titanium Sheet",
+       "qty": 3
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 21 of 23",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Klion",
+   "px": 5979,
+   "py": 5519.9,
+   "npcId": 549,
+   "template": "Sarin",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Letters from Trus"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Token From Klion"
+      }
+     ]
+    },
+    {
+     "title": "Armor 12 Quest: Part 3 of 9 Attack!",
+     "needs": [
+      {
+       "name": "Token From Klion"
+      },
+      {
+       "name": "Zolog Head"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Brias Token"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 12 Quest: Part 3 of 9 Attack!!",
+     "needs": [
+      {
+       "name": "Brias Head"
+      },
+      {
+       "name": "Brias Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Ligadoom Token"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 12 Quest: Part 3 of 9 Attack!!!",
+     "needs": [
+      {
+       "name": "Ligadoom Head"
+      },
+      {
+       "name": "Ligadoom Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sospoon Token"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 12 Quest: Part 3 of 9 Attack!!!!",
+     "needs": [
+      {
+       "name": "Sospoon Token"
+      },
+      {
+       "name": "Sospoon Head"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Nillin Token"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 12 Quest: Part 3 of 9 Attack!!!!!",
+     "needs": [
+      {
+       "name": "Nillin Head"
+      },
+      {
+       "name": "Nillin Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Item from Klion"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 12 Quest: Part 3 of 9",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tennia",
+   "px": 6667.5,
+   "py": 7437.3,
+   "npcId": 602,
+   "template": "Blod",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Championship Belt of Niz"
+      }
+     ]
+    },
+    {
+     "title": "Champion Quest: Round 11 of 15",
+     "needs": [
+      {
+       "name": "Fight Ticket for Ziffian"
+      }
+     ],
+     "cash": 2600
+    },
+    {
+     "title": "Champion Quest: Fight!",
+     "needs": [
+      {
+       "name": "Ziffian Plasma"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Championship Belt of Ziffian"
+      }
+     ]
+    },
+    {
+     "title": "Champion Quest: Round 11 Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "J-Forge",
+   "px": 7665.3,
+   "py": 3202.5,
+   "npcId": 608,
+   "template": "K Forge",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Tools for J-Forge"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 7 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Pookys Collar"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Arkaz Mission List"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 8 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Kodos Thanks"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 10 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Essence of the Dark Lord"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note for Sotannalk"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 11 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "T-Forge",
+   "px": 7620.1,
+   "py": 3198.7,
+   "npcId": 611,
+   "template": "K Forge",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "BL"
+    },
+    {
+     "title": "WaveSnipe Quest: Part 1 of 4",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Mool Stone",
+       "qty": 20
+      },
+      {
+       "name": "Dark Jouster Heart",
+       "qty": 20
+      }
+     ],
+     "gives": [
+      {
+       "name": "Titanium Wave Barrel"
+      }
+     ]
+    },
+    {
+     "title": "WaveSnipe Quest: Part 2 of 4",
+     "race": "BL"
+    },
+    {
+     "title": "WaveSnipe Quest: Part 2 of 4 (cont\"d)",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Toolpoles Letter"
+      }
+     ],
+     "gives": [
+      {
+       "name": ""
+      },
+      {
+       "name": "Wave Snipe Casing"
+      }
+     ]
+    },
+    {
+     "title": "WaveSnipe Quest: Part 3 of 4",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Eyes of Kidion",
+       "qty": 20
+      },
+      {
+       "name": "Kidion Lord Nails"
+      },
+      {
+       "name": ""
+      }
+     ],
+     "gives": [
+      {
+       "name": "Internal Firing Chamber"
+      }
+     ]
+    },
+    {
+     "title": "WaveSnipe Quest: Part 4 of 4",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Internal Firing Chamber"
+      },
+      {
+       "name": "Titanium Wave Barrel"
+      },
+      {
+       "name": "Wave Snipe Casing"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Wave-Snipe (N) (Lv10)"
+      }
+     ]
+    },
+    {
+     "title": "WaveSnipe Quest: Complete",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Gosh",
+   "px": 6940.2,
+   "py": 7380.9,
+   "npcId": 714,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Plasma Net Compressor"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest:"
+    },
+    {
+     "title": "Netlauncher Quest: Part 6 of 22",
+     "needs": [
+      {
+       "name": "Net Regulator Unit"
+      },
+      {
+       "name": "Kutt Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Net Regulator Unit"
+      },
+      {
+       "name": "Plasma Net Compressor"
+      },
+      {
+       "name": "Gosh Ring of Ancients"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Netlauncher Quest: Hint"
+    },
+    {
+     "title": "Netlauncher Quest: Hint #1"
+    },
+    {
+     "title": "Netlauncher Quest: Hint #2"
+    },
+    {
+     "title": "Netlauncher Quest: Hint #3"
+    },
+    {
+     "title": "Netlauncher Quest: Part 7 of 22",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kutt",
+   "px": 3506.8,
+   "py": 4854.7,
+   "npcId": 1587,
+   "template": "Human Male",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kash",
+   "px": 3506.8,
+   "py": 4854.7,
+   "npcId": 1588,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kurb",
+   "px": 3506.8,
+   "py": 4854.7,
+   "npcId": 1589,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Krakk",
+   "px": 3506.8,
+   "py": 4854.7,
+   "npcId": 1590,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Vengash",
+   "px": 5126.4,
+   "py": 1986.7,
+   "npcId": 1612,
+   "template": "Eyezion",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "EyezoraT",
+   "px": 5126.4,
+   "py": 1986.7,
+   "npcId": 1613,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tengzat",
+   "px": 5126.4,
+   "py": 1986.7,
+   "npcId": 1614,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Zengat",
+   "px": 5126.4,
+   "py": 1986.7,
+   "npcId": 1615,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6713,
+   "py": 6985.3,
+   "npcId": 1095,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4997.9,
+      "py": 4042.8
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 5461.2,
+   "py": 1439.7,
+   "npcId": 1136,
+   "routes": [
+    {
+     "to": {
+      "world": "Black Market Dungeon",
+      "slug": "black-market-dungeon",
+      "px": 2998.1,
+      "py": 2328.7
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Blk Mrkt DealRm01 - Ammo",
+   "px": 6614.5,
+   "py": 7493.4,
+   "box": [
+    6542.3,
+    7421.5,
+    6686.6,
+    7565.2
+   ],
+   "shopId": 17,
+   "stock": [
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(AP) Wings of Darion",
+     "price": 1788
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Amberlaz Charges (35)",
+     "price": 20
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Clawjous Mellons (30)",
+     "price": 93
+    },
+    {
+     "name": "Dilirium Chews (30)",
+     "price": 175
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Gustlaz Charges (35)",
+     "price": 51
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Metatrile Plankton (30)",
+     "price": 200
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Oafinster Chow (25)",
+     "price": 175
+    },
+    {
+     "name": "Oafronack Gobs (25)",
+     "price": 260
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Quadoty Rolls (25)",
+     "price": 78
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Soilaz Charges (35)",
+     "price": 27
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "Stontrile Plankton (30)",
+     "price": 150
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Trinster Ore Gobs (30)",
+     "price": 160
+    },
+    {
+     "name": "Trinstnarak Crystals (30)",
+     "price": 213
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Premium XPress Pass",
+     "price": 20000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Blk Mrkt DealRm02 - Melee",
+   "px": 7136,
+   "py": 7575.3,
+   "box": [
+    7067.4,
+    7505.6,
+    7204.5,
+    7645.1
+   ],
+   "shopId": 18,
+   "stock": [
+    {
+     "name": "(BL) Octograph (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(BL) Ontroytag (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(BL) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(BL) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(BL) Alamzaterius (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(BL) TovechLerin (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(HM) Bryton (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HM) Sigron (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HM) Alamzaterius (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HM) BarbedDulsikium (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HM) BloodKnarl (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HM) CroveinPlechivstz (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(HF) Ontroytag (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HF) Octograph (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HF) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HF) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HF) KvPlasmaBlade (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HF) BarbedDulsikium (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(AP) Ontroytag (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(AP) Grandgerg (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(AP) Bloodhasten (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(AP) EstorBlade (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(AP) Ranrokc (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(AP) Dalition (N) (Lv5)",
+     "price": 608
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Blk Mrkt DealRm03 - Range",
+   "px": 6612.5,
+   "py": 6476.4,
+   "box": [
+    6544.3,
+    6406.9,
+    6680.8,
+    6545.8
+   ],
+   "shopId": 19,
+   "stock": [
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(BL) Hyperuzi-Chalis (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(BL) KvCrusher (N) (Lv4)",
+     "price": 928
+    },
+    {
+     "name": "(BL) Pulse Mortar (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HM) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HM) Lyson Twin Lazer (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HM) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HM) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HF) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HF) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HF) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HF) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(AP) Aqualaz (N)(W) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(AP) Amberlaz (N)(F) (Lv2)",
+     "price": 320
+    },
+    {
+     "name": "(AP) Soilaz (N)(E) (Lv3)",
+     "price": 640
+    },
+    {
+     "name": "(AP) Gustlaz (N)(A) (Lv4)",
+     "price": 920
+    },
+    {
+     "name": "(AP) Quadoty (N)(E) (Lv5)",
+     "price": 1000
+    },
+    {
+     "name": "(AP) Clawjous (N)(F) (Lv6)",
+     "price": 1800
+    },
+    {
+     "name": "(BL) Sonic Mine Layer (N) (Lv13)",
+     "price": 500
+    },
+    {
+     "name": "(HM) Sonic Mine Layer (N) (Lv12)",
+     "price": 500
+    },
+    {
+     "name": "(HF) Sonic Mine Layer (N) (Lv12)",
+     "price": 500
+    },
+    {
+     "name": "(HF) Plasma Snipe (N) (Lv4)",
+     "price": 1008
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Blk Mrkt DealRm04 - Armor",
+   "px": 7135.5,
+   "py": 6396.1,
+   "box": [
+    7067.4,
+    6326.6,
+    7203.5,
+    6465.5
+   ],
+   "shopId": 20,
+   "stock": [
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(AP) Plandon Helmet (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(AP) Plandon Bracers (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Shin Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Sondron Helmet (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(AP) Sondron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(AP) Sondron Bracers (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sondron Shin Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sision Helmet (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(AP) Sision Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(AP) Sision Bracers (Lv3)",
+     "price": 142
+    },
+    {
+     "name": "(AP) Sision Shin Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(AP) Vidon Helmet (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(AP) Vidon Chest Armor (Lv4)",
+     "price": 502
+    },
+    {
+     "name": "(AP) Vidon Bracers (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Vidon Shin Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Helmet (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(AP) Quazon Bracers (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(AP) Quazon Shin Armor (Lv5)",
+     "price": 1004
+    }
+   ]
+  },
+  {
+   "layer": "safezones",
+   "name": "BlackMarketCaveEntrance",
+   "px": 7018.1,
+   "py": 7077.7,
+   "box": [
+    6511.6,
+    6473.7,
+    7524.7,
+    7681.6
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "safezones",
+   "name": "StoneMazeEntrance",
+   "px": 5459,
+   "py": 1432.5,
+   "box": [
+    5422.9,
+    1384.4,
+    5495.1,
+    1480.6
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "entities",
+   "name": "Amphibious",
+   "px": 7032.8,
+   "py": 6986.9,
+   "detail": "Entity template 18\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 10",
+   "px": 6754.2,
+   "py": 6985.3,
+   "radiusPx": 96.2,
+   "detail": "Action 6: play soundtrack, argument 10\nRadius: 200\nObject 115 (MAINLIFTBOOSTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 6754.2,
+   "py": 6985.3,
+   "radiusPx": 7.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 15\nObject 116 (MAINLIFTBOOSTb.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7384.8,
+   "py": 6985.1,
+   "radiusPx": 14.4,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 125 (EDLRM_BoosterNodea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 6646.7,
+   "py": 6508.1,
+   "radiusPx": 14.4,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 126 (NDLRM01_BoosterNodea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7120.7,
+   "py": 6434.3,
+   "radiusPx": 14.4,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 127 (NDLRM02_BoosterNodea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 6646.7,
+   "py": 7462.7,
+   "radiusPx": 14.4,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 128 (SDLRM01_BoosterNodea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7120.7,
+   "py": 7536.7,
+   "radiusPx": 14.4,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 30\nObject 129 (SDLRM02_BoosterNodea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 5924.4,
+   "py": 6438.6,
+   "radiusPx": 240.4,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 500\nObject 538 (BlkMrkt_CavRm01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6713.3,
+   "py": 6985.4,
+   "radiusPx": 12,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 25\nObject 662 (BLKMRKT_ExitPorta.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7132.5,
+   "py": 6931.2,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 667 (BOUNCETRIG_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7132.5,
+   "py": 6959.7,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 668 (BOUNCETRIG_02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7105.3,
+   "py": 6950.3,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 669 (BOUNCETRIG_03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7061.3,
+   "py": 6937,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 670 (BOUNCETRIG_04a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7061.3,
+   "py": 7035.1,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 671 (BOUNCETRIG_05a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7132.5,
+   "py": 7016.1,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 672 (BOUNCETRIG_06a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7105.3,
+   "py": 7006.7,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 673 (BOUNCETRIG_07a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7132.5,
+   "py": 7031.5,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 674 (BOUNCETRIG_08a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 6984.5,
+   "py": 7006.7,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 675 (BOUNCETRIG_09a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7011.7,
+   "py": 7016.1,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 676 (BOUNCETRIG_10a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7011.7,
+   "py": 6959.7,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 677 (BOUNCETRIG_11a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 6984.5,
+   "py": 6950.3,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 678 (BOUNCETRIG_12a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7000.6,
+   "py": 6931.2,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 679 (BOUNCETRIG_13a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "force pad",
+   "px": 7000.6,
+   "py": 7031.5,
+   "radiusPx": 19.2,
+   "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 40\nObject 680 (BOUNCETRIG_14a.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater01",
+   "px": 170.9,
+   "py": 6999.3,
+   "box": [
+    75.9,
+    6704,
+    266,
+    7294.6
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater02",
+   "px": 610.3,
+   "py": 6782.7,
+   "box": [
+    253.7,
+    6611.7,
+    967,
+    6953.7
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater03",
+   "px": 1660.6,
+   "py": 6338.5,
+   "box": [
+    888.6,
+    6055.6,
+    2432.7,
+    6621.4
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater04",
+   "px": 1977,
+   "py": 6807.4,
+   "box": [
+    1521.4,
+    6524.5,
+    2432.7,
+    7090.4
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater05",
+   "px": 1622.7,
+   "py": 5805.7,
+   "box": [
+    1556.2,
+    5539,
+    1689.2,
+    6072.5
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

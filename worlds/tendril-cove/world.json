@@ -1,0 +1,31 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "tendril-cove",
+  "title": "Tendril Cove",
+  "places": [],
+  "group": "other",
+  "worldId": 37,
+  "source": {
+    "world": "TendrilCove.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.11815973743796349,
+    "origin": {
+      "x": -468.32659912109375,
+      "z": 319.1068420410156
+    }
+  },
+  "width": 8192,
+  "height": 5528,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#000000",
+  "layers": [
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    }
+  ]
+}

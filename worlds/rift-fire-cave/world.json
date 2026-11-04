@@ -1,0 +1,87 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "rift-fire-cave",
+  "title": "Rift Fire Cave",
+  "places": [],
+  "group": "dungeons",
+  "worldId": 13,
+  "source": {
+    "world": "RIFTFIRECAVE.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.6992824077606201,
+    "origin": {
+      "x": -1177.577392578125,
+      "z": 2997.318115234375
+    }
+  },
+  "width": 3260,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#68f4f4",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 45
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 20
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 3
+    },
+    {
+      "id": "gather",
+      "title": "Gathering and chests",
+      "color": "#8bc34a",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "shops",
+      "title": "Shop counters",
+      "color": "#8d6e63",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 8
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 3
+    }
+  ]
+}

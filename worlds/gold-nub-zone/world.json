@@ -1,0 +1,52 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "gold-nub-zone",
+  "title": "Gold Nub Zone",
+  "places": [],
+  "group": "lands",
+  "worldId": 28,
+  "source": {
+    "world": "nubiestarterzone.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.12053251266479492,
+    "origin": {
+      "x": 136.41397094726562,
+      "z": 14952.384765625
+    }
+  },
+  "width": 6480,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#000000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 4
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 10
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 5
+    }
+  ]
+}

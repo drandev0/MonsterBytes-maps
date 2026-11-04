@@ -1,0 +1,219 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Flob, Infant Stount",
+   "px": 4226.5,
+   "py": 6545.1,
+   "radiusPx": 165.9,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    },
+    {
+     "id": 37,
+     "name": "Infant Stount",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Infant Stount",
+   "px": 4442.3,
+   "py": 6144.4,
+   "radiusPx": 165.9,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    },
+    {
+     "id": 37,
+     "name": "Infant Stount",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Infant Stount",
+   "px": 3915.6,
+   "py": 5540.5,
+   "radiusPx": 165.9,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    },
+    {
+     "id": 37,
+     "name": "Infant Stount",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Infant Stount",
+   "px": 3112,
+   "py": 6191.8,
+   "radiusPx": 165.9,
+   "mobs": [
+    {
+     "id": 378,
+     "name": "Flob",
+     "level": null
+    },
+    {
+     "id": 37,
+     "name": "Infant Stount",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 2626,
+   "py": 1566.2,
+   "npcId": 1520,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 4904,
+   "py": 3985,
+   "npcId": 1521,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 5008.9,
+   "py": 6170.8,
+   "npcId": 1522,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 3264,
+   "py": 6982.7,
+   "npcId": 1523,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 2571.7,
+   "py": 4781.8,
+   "npcId": 1524,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 2387.7,
+   "py": 4388.7,
+   "npcId": 1525,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Warden Axel",
+   "px": 1383,
+   "py": 2937.7,
+   "npcId": 1526,
+   "template": "Bloblic",
+   "quests": [
+    {
+     "title": "Prison"
+    },
+    {
+     "title": "Prison release"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 1498.4,
+   "py": 2655.2,
+   "npcId": 1527,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Guard",
+   "px": 1516.3,
+   "py": 3200.3,
+   "npcId": 1528,
+   "template": "Bloblic"
+  },
+  {
+   "layer": "npcs",
+   "name": "Prison Clerk",
+   "px": 2055,
+   "py": 4759.6,
+   "npcId": 1529,
+   "template": "Human Male"
+  },
+  {
+   "layer": "entities",
+   "name": "Amphibious",
+   "px": 3112,
+   "py": 6191.8,
+   "detail": "Entity template 18\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "****This is a store, interact with the NPC's by pressing 'F8' key when you get near them, you can also press the 'F1' key then select \"STORE\".",
+   "px": 1449.6,
+   "py": 2926.3,
+   "radiusPx": 580.8,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 70\nObject 5 (Innerroomf.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 50",
+   "px": 3239.9,
+   "py": 4096,
+   "detail": "Action 6: play soundtrack, argument 50\nRadius: 10000\nObject 19 (LandBasea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "****This is a vault, a very secure place to store valuables, one of the greatest advantages of a vault is that you can access your vault from and major city that has one.",
+   "px": 1960.6,
+   "py": 4795.5,
+   "radiusPx": 580.8,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 70\nObject 20 (Vault_Outsidea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "****If you have not went to the store and purchased a weapon it would be best to turn around and enter the large stone building and buy some.",
+   "px": 3907.6,
+   "py": 4945.2,
+   "radiusPx": 414.8,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 50\nObject 28 (entrTriggerToBattlea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Welcome to the Training zone! First thing to do is movement, default keys are 'W' to move forward, 'S' backwards, 'A' Side-Step left, 'D' Side-Step right. If you wish to change them press the F1 key, then select \"CONTROLS\" button. Try moving to the closest building.",
+   "px": 3074.5,
+   "py": 1515.6,
+   "radiusPx": 829.7,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 100\nObject 29 (entTriggera.ARW)"
+  }
+ ]
+}

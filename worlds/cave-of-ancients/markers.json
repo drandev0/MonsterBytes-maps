@@ -1,0 +1,5140 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Shockion",
+   "px": 657.8,
+   "py": 2466.5,
+   "mobs": [
+    {
+     "id": 65,
+     "name": "Shockion",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 2 (AInodeSHOCKERbridgegaurd01):\nShockion (LV7) (Spawner: SHOCKION 23 DIM 0_BridgeGaurd, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shockion",
+   "px": 988.9,
+   "py": 2083.7,
+   "mobs": [
+    {
+     "id": 65,
+     "name": "Shockion",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 2 (AInodeSHOCKERbridgegaurd01):\nShockion (LV7) (Spawner: SHOCKION 23 DIM 0_BridgeGaurd, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shockion",
+   "px": 1024,
+   "py": 2435.9,
+   "mobs": [
+    {
+     "id": 65,
+     "name": "Shockion",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 2 (AInodeSHOCKERbridgegaurd01):\nShockion (LV7) (Spawner: SHOCKION 23 DIM 0_BridgeGaurd, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 1108.3,
+   "py": 58.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 6 (AInodeTRISKminecaveROOMone01):\nTrisk (LV9) (Spawner: TRISK 30 DIM 0_MineCaveRoom1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Lauder",
+   "px": 3199.2,
+   "py": 26.7,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 9 (AIJOUSTERdeathfield01):\nPidion (LV10) (Spawner: PIDION 19 DIM 1_Deathfield, up to 4)\nLauder (LV11) (Spawner: LAUDER 20 DIM 1_DeathValley, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Lauder",
+   "px": 2813.5,
+   "py": 222.1,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 58,
+     "name": "Lauder",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 9 (AIJOUSTERdeathfield01):\nPidion (LV10) (Spawner: PIDION 19 DIM 1_Deathfield, up to 4)\nLauder (LV11) (Spawner: LAUDER 20 DIM 1_DeathValley, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 865,
+   "py": 370.9,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 10 (AITRISKminecavROOMtwo01):\nTrisk (LV9) (Spawner: TRISK  30 DIM 0_MinecaveROOMtwo, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 993,
+   "py": 699.5,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 10 (AITRISKminecavROOMtwo01):\nTrisk (LV9) (Spawner: TRISK  30 DIM 0_MinecaveROOMtwo, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk",
+   "px": 752.4,
+   "py": 844.2,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 10 (AITRISKminecavROOMtwo01):\nTrisk (LV9) (Spawner: TRISK  30 DIM 0_MinecaveROOMtwo, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shockion, Ascherion",
+   "px": 2019.7,
+   "py": 60.9,
+   "radiusPx": 33.7,
+   "mobs": [
+    {
+     "id": 65,
+     "name": "Shockion",
+     "level": 7
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (MAINISLAND_ESPRESSE):\nShockion (LV7) (Spawner: SHOCKION 23 DIM 0_mainland, up to 3)\nAscherion (LV8) (Spawner: ASHERION 27 DIM 0_MainIsland, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shockion, Ascherion",
+   "px": 1643.8,
+   "py": 345.1,
+   "radiusPx": 33.7,
+   "mobs": [
+    {
+     "id": 65,
+     "name": "Shockion",
+     "level": 7
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (MAINISLAND_ESPRESSE):\nShockion (LV7) (Spawner: SHOCKION 23 DIM 0_mainland, up to 3)\nAscherion (LV8) (Spawner: ASHERION 27 DIM 0_MainIsland, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shockion, Ascherion",
+   "px": 2771.1,
+   "py": 200.7,
+   "radiusPx": 33.7,
+   "mobs": [
+    {
+     "id": 65,
+     "name": "Shockion",
+     "level": 7
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (MAINISLAND_ESPRESSE):\nShockion (LV7) (Spawner: SHOCKION 23 DIM 0_mainland, up to 3)\nAscherion (LV8) (Spawner: ASHERION 27 DIM 0_MainIsland, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uato, Kidion Bat, Scrot",
+   "px": 5990.8,
+   "py": 5188.5,
+   "radiusPx": 16.8,
+   "mobs": [
+    {
+     "id": 171,
+     "name": "Uato",
+     "level": 9
+    },
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    },
+    {
+     "id": 191,
+     "name": "Scrot",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 14 (AZULISLE_ESPRESSE):\nUato (LV9) (Spawner: MNSRIFT_54 UATO DIM 1_AzulIsland, up to 4)\nKidion Bat (LV9) (Spawner: 21 KIDION BAT DIM 2_AzulIsland, up to 2)\nScrot (LV9) (Spawner: SCROT 59 DIM 1_AzuleIsland, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uato, Kidion Bat, Scrot",
+   "px": 6420.6,
+   "py": 4970.6,
+   "radiusPx": 16.8,
+   "mobs": [
+    {
+     "id": 171,
+     "name": "Uato",
+     "level": 9
+    },
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    },
+    {
+     "id": 191,
+     "name": "Scrot",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 14 (AZULISLE_ESPRESSE):\nUato (LV9) (Spawner: MNSRIFT_54 UATO DIM 1_AzulIsland, up to 4)\nKidion Bat (LV9) (Spawner: 21 KIDION BAT DIM 2_AzulIsland, up to 2)\nScrot (LV9) (Spawner: SCROT 59 DIM 1_AzuleIsland, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uato, Kidion Bat, Scrot",
+   "px": 6228.4,
+   "py": 5353.2,
+   "radiusPx": 16.8,
+   "mobs": [
+    {
+     "id": 171,
+     "name": "Uato",
+     "level": 9
+    },
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    },
+    {
+     "id": 191,
+     "name": "Scrot",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 14 (AZULISLE_ESPRESSE):\nUato (LV9) (Spawner: MNSRIFT_54 UATO DIM 1_AzulIsland, up to 4)\nKidion Bat (LV9) (Spawner: 21 KIDION BAT DIM 2_AzulIsland, up to 2)\nScrot (LV9) (Spawner: SCROT 59 DIM 1_AzuleIsland, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uato, Kidion Bat, Scrot",
+   "px": 6873.3,
+   "py": 5323.9,
+   "radiusPx": 16.8,
+   "mobs": [
+    {
+     "id": 171,
+     "name": "Uato",
+     "level": 9
+    },
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    },
+    {
+     "id": 191,
+     "name": "Scrot",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 14 (AZULISLE_ESPRESSE):\nUato (LV9) (Spawner: MNSRIFT_54 UATO DIM 1_AzulIsland, up to 4)\nKidion Bat (LV9) (Spawner: 21 KIDION BAT DIM 2_AzulIsland, up to 2)\nScrot (LV9) (Spawner: SCROT 59 DIM 1_AzuleIsland, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk, Clegurk, Neglik, Shrite",
+   "px": 1165.4,
+   "py": 365,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 22 (AItriskSURFrun01):\nTrisk (LV9) (Spawner: TRISK 30 DIM 0_surfaceRUN, up to 2)\nClegurk (LV2) (Spawner: CLEGURK 36 DIM 0_surfaceRUN, up to 2)\nNeglik (LV5) (Spawner: NEGLIK 1 DIM 0_surfaceRUN, up to 2)\nShrite (LV7) (Spawner: SHRITE 49 DIM 0_BlackMarket, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk, Clegurk, Neglik, Shrite",
+   "px": 766.2,
+   "py": 677.1,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 22 (AItriskSURFrun01):\nTrisk (LV9) (Spawner: TRISK 30 DIM 0_surfaceRUN, up to 2)\nClegurk (LV2) (Spawner: CLEGURK 36 DIM 0_surfaceRUN, up to 2)\nNeglik (LV5) (Spawner: NEGLIK 1 DIM 0_surfaceRUN, up to 2)\nShrite (LV7) (Spawner: SHRITE 49 DIM 0_BlackMarket, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk, Clegurk, Neglik, Shrite",
+   "px": 570.1,
+   "py": 122.3,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 22 (AItriskSURFrun01):\nTrisk (LV9) (Spawner: TRISK 30 DIM 0_surfaceRUN, up to 2)\nClegurk (LV2) (Spawner: CLEGURK 36 DIM 0_surfaceRUN, up to 2)\nNeglik (LV5) (Spawner: NEGLIK 1 DIM 0_surfaceRUN, up to 2)\nShrite (LV7) (Spawner: SHRITE 49 DIM 0_BlackMarket, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trisk, Clegurk, Neglik, Shrite",
+   "px": 2091.5,
+   "py": 96.6,
+   "mobs": [
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    },
+    {
+     "id": 154,
+     "name": "Shrite",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 22 (AItriskSURFrun01):\nTrisk (LV9) (Spawner: TRISK 30 DIM 0_surfaceRUN, up to 2)\nClegurk (LV2) (Spawner: CLEGURK 36 DIM 0_surfaceRUN, up to 2)\nNeglik (LV5) (Spawner: NEGLIK 1 DIM 0_surfaceRUN, up to 2)\nShrite (LV7) (Spawner: SHRITE 49 DIM 0_BlackMarket, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 515.2,
+   "py": 3925.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (AIwaterbridgeLEFT01):\nTrine (LV8) (Spawner: TRINE 3 DIM 1 L_LEFTbridgeWATER, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 686.8,
+   "py": 4973.6,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (AIwaterbridgeLEFT01):\nTrine (LV8) (Spawner: TRINE 3 DIM 1 L_LEFTbridgeWATER, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 1785.7,
+   "py": 4216.7,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (AIwaterbridgeLEFT01):\nTrine (LV8) (Spawner: TRINE 3 DIM 1 L_LEFTbridgeWATER, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 3176.5,
+   "py": 4039.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 24 (AIwaterbridgeLEFT01):\nTrine (LV8) (Spawner: TRINE 3 DIM 1 L_LEFTbridgeWATER, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 7616.3,
+   "py": 2925.4,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 27 (AIwaterJOUSTERisland01):\nStontrile (LV6) (Spawner: 42 STOONTRILE DIM 0_JousterIslandWATER, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 7153.1,
+   "py": 1853,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 27 (AIwaterJOUSTERisland01):\nStontrile (LV6) (Spawner: 42 STOONTRILE DIM 0_JousterIslandWATER, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 6395.2,
+   "py": 781,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 27 (AIwaterJOUSTERisland01):\nStontrile (LV6) (Spawner: 42 STOONTRILE DIM 0_JousterIslandWATER, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 4978,
+   "py": 1876.6,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 27 (AIwaterJOUSTERisland01):\nStontrile (LV6) (Spawner: 42 STOONTRILE DIM 0_JousterIslandWATER, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 4636.8,
+   "py": 3731.9,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 27 (AIwaterJOUSTERisland01):\nStontrile (LV6) (Spawner: 42 STOONTRILE DIM 0_JousterIslandWATER, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 369.9,
+   "py": 485.9,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 45 (MAINISLE_FireRollingBugPetForest02):\nVigon (LV3) (Spawner: VIGON 55 DIM 0_PetrifiedForest01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 964.5,
+   "py": 602.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 45 (MAINISLE_FireRollingBugPetForest02):\nVigon (LV3) (Spawner: VIGON 55 DIM 0_PetrifiedForest01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 549.7,
+   "py": 627.7,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 45 (MAINISLE_FireRollingBugPetForest02):\nVigon (LV3) (Spawner: VIGON 55 DIM 0_PetrifiedForest01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 1456.8,
+   "py": 449.3,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 46 (MAINISLE_FireRollingBugPetForest03):\nBrag (LV6) (Spawner: BRAG 55 DIM 1_PetrifiedForest02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 1572.2,
+   "py": 251.5,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 46 (MAINISLE_FireRollingBugPetForest03):\nBrag (LV6) (Spawner: BRAG 55 DIM 1_PetrifiedForest02, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon, Wispion",
+   "px": 1885.7,
+   "py": 1595.8,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 170,
+     "name": "Wispion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 47 (MAINISLE_FireRollingBugshockarea):\nVigon (LV3) (Spawner: VIGON 55 DIM 0_MainIsleSouthSide, up to 2)\nWispion (LV9) (Spawner: WISPION 54 DIM 0_MainIsland, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon, Wispion",
+   "px": 1682.5,
+   "py": 1473.7,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 170,
+     "name": "Wispion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 47 (MAINISLE_FireRollingBugshockarea):\nVigon (LV3) (Spawner: VIGON 55 DIM 0_MainIsleSouthSide, up to 2)\nWispion (LV9) (Spawner: WISPION 54 DIM 0_MainIsland, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon, Wispion",
+   "px": 2141.2,
+   "py": 1485.5,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 170,
+     "name": "Wispion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 47 (MAINISLE_FireRollingBugshockarea):\nVigon (LV3) (Spawner: VIGON 55 DIM 0_MainIsleSouthSide, up to 2)\nWispion (LV9) (Spawner: WISPION 54 DIM 0_MainIsland, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 1053.9,
+   "py": 669.3,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 49 (TechMinCave_DeathBot01):\nDeathbot (LV11) (Spawner: DEATHBOT01 31 DIM 0 _TechMinCave, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 934.8,
+   "py": 669.8,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 49 (TechMinCave_DeathBot01):\nDeathbot (LV11) (Spawner: DEATHBOT01 31 DIM 0 _TechMinCave, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 942.6,
+   "py": 439.9,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 49 (TechMinCave_DeathBot01):\nDeathbot (LV11) (Spawner: DEATHBOT01 31 DIM 0 _TechMinCave, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01, Deathbot02",
+   "px": 807.3,
+   "py": 78,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 50 (TechMinCave_DeathBot02):\nDeathbot01 (LV12) (Spawner: DEATHBOT 31 DIM 2_TechMinCave, up to 1)\nDeathbot02 (LV13) (Spawner: DEATHBOT 31 DIM 2_TechMinCave, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01, Deathbot02",
+   "px": 775.9,
+   "py": 19.1,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 50 (TechMinCave_DeathBot02):\nDeathbot01 (LV12) (Spawner: DEATHBOT 31 DIM 2_TechMinCave, up to 1)\nDeathbot02 (LV13) (Spawner: DEATHBOT 31 DIM 2_TechMinCave, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 2948,
+   "py": 5322.2,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 56 (ai BloblicNewbieENDHill):\nKlondon (LV3) (Spawner: KLONDON 34 DIM 0_BloblicCity01, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid, Hidion, Deathbot01",
+   "px": 7826.2,
+   "py": 5336.8,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    },
+    {
+     "id": 203,
+     "name": "Hidion",
+     "level": 14
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (azulislandsenconhalf):\nCrid (LV10) (Spawner: CRID 30 DIM 1 _AzulIsland, up to 2)\nHidion (LV14) (Spawner: HIDION 62 DIM 1_AzulIsland, up to 1)\nDeathbot01 (LV12) (Spawner: DEATHBOT 01 31 DIM 1_AzulIsland, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid, Hidion, Deathbot01",
+   "px": 8168.3,
+   "py": 4402.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    },
+    {
+     "id": 203,
+     "name": "Hidion",
+     "level": 14
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (azulislandsenconhalf):\nCrid (LV10) (Spawner: CRID 30 DIM 1 _AzulIsland, up to 2)\nHidion (LV14) (Spawner: HIDION 62 DIM 1_AzulIsland, up to 1)\nDeathbot01 (LV12) (Spawner: DEATHBOT 01 31 DIM 1_AzulIsland, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid, Hidion, Deathbot01",
+   "px": 6482,
+   "py": 4402.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    },
+    {
+     "id": 203,
+     "name": "Hidion",
+     "level": 14
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (azulislandsenconhalf):\nCrid (LV10) (Spawner: CRID 30 DIM 1 _AzulIsland, up to 2)\nHidion (LV14) (Spawner: HIDION 62 DIM 1_AzulIsland, up to 1)\nDeathbot01 (LV12) (Spawner: DEATHBOT 01 31 DIM 1_AzulIsland, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid, Hidion, Deathbot01",
+   "px": 5605.1,
+   "py": 4714,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    },
+    {
+     "id": 203,
+     "name": "Hidion",
+     "level": 14
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (azulislandsenconhalf):\nCrid (LV10) (Spawner: CRID 30 DIM 1 _AzulIsland, up to 2)\nHidion (LV14) (Spawner: HIDION 62 DIM 1_AzulIsland, up to 1)\nDeathbot01 (LV12) (Spawner: DEATHBOT 01 31 DIM 1_AzulIsland, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Hasten",
+   "px": 1831.9,
+   "py": 4883.1,
+   "mobs": [
+    {
+     "id": 202,
+     "name": "Hasten",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 74 (bloblichasten):\nHasten (LV11) (Spawner: HASTEN 62 DIM 0_ColonyIslands, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Mad Kidion",
+   "px": 7826.2,
+   "py": 5336.8,
+   "mobs": [
+    {
+     "id": 265,
+     "name": "Mad Kidion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 78 (AZULISLANDZETH):\nMad Kidion (LV13) (Spawner: MAD KiDION BAT 21, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Mad Kidion",
+   "px": 8168.3,
+   "py": 4402.6,
+   "mobs": [
+    {
+     "id": 265,
+     "name": "Mad Kidion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 78 (AZULISLANDZETH):\nMad Kidion (LV13) (Spawner: MAD KiDION BAT 21, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Mad Kidion",
+   "px": 6482,
+   "py": 4402.6,
+   "mobs": [
+    {
+     "id": 265,
+     "name": "Mad Kidion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 78 (AZULISLANDZETH):\nMad Kidion (LV13) (Spawner: MAD KiDION BAT 21, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 4313.8,
+   "py": 1206.6,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 4313.8,
+   "py": 1206.6,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 4313.8,
+   "py": 860.3,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3989.4,
+   "py": 860.3,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3989.4,
+   "py": 671.7,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3989.4,
+   "py": 1440.7,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3989.4,
+   "py": 1440.7,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3989.4,
+   "py": 1671.6,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3989.4,
+   "py": 1671.6,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3629.9,
+   "py": 1335.6,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 3629.9,
+   "py": 1335.6,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6079.2,
+   "py": 838,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 88 (GhostPath23CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel1 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6200.4,
+   "py": 1012.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 88 (GhostPath23CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel1 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6123,
+   "py": 898.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 88 (GhostPath23CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel1 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6276.4,
+   "py": 1075.8,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 88 (GhostPath23CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel1 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6360.7,
+   "py": 1064.5,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 88 (GhostPath23CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel1 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6464.2,
+   "py": 964.8,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 88 (GhostPath23CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel1 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 5710.5,
+   "py": 1269.9,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 89 (GhostPath22CenterCaveAI):\nGrision (LV15) (Spawner: COAGRISION 19 DIM 2Tunnel 1 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 5656.1,
+   "py": 1087,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 89 (GhostPath22CenterCaveAI):\nGrision (LV15) (Spawner: COAGRISION 19 DIM 2Tunnel 1 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 5644,
+   "py": 985.3,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 89 (GhostPath22CenterCaveAI):\nGrision (LV15) (Spawner: COAGRISION 19 DIM 2Tunnel 1 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 5660.6,
+   "py": 859.7,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 89 (GhostPath22CenterCaveAI):\nGrision (LV15) (Spawner: COAGRISION 19 DIM 2Tunnel 1 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 5680,
+   "py": 809.7,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 89 (GhostPath22CenterCaveAI):\nGrision (LV15) (Spawner: COAGRISION 19 DIM 2Tunnel 1 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 5631,
+   "py": 942.9,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 89 (GhostPath22CenterCaveAI):\nGrision (LV15) (Spawner: COAGRISION 19 DIM 2Tunnel 1 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 5085.5,
+   "py": 1419.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 90 (GhostPath21CenterCaveAI):\nJouster (LV8) (Spawner: COA Jouster 19 DIM 0 Tunnel 1 Seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 5267.7,
+   "py": 1404,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 90 (GhostPath21CenterCaveAI):\nJouster (LV8) (Spawner: COA Jouster 19 DIM 0 Tunnel 1 Seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 5402,
+   "py": 1387.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 90 (GhostPath21CenterCaveAI):\nJouster (LV8) (Spawner: COA Jouster 19 DIM 0 Tunnel 1 Seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 5511.6,
+   "py": 1373.6,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 90 (GhostPath21CenterCaveAI):\nJouster (LV8) (Spawner: COA Jouster 19 DIM 0 Tunnel 1 Seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 5308.6,
+   "py": 1398,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 90 (GhostPath21CenterCaveAI):\nJouster (LV8) (Spawner: COA Jouster 19 DIM 0 Tunnel 1 Seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4324.6,
+   "py": 3349.3,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 91 (GhostPath20CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Tunnel 3 seg 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4237.5,
+   "py": 3363.2,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 91 (GhostPath20CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Tunnel 3 seg 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4035.9,
+   "py": 3407,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 91 (GhostPath20CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Tunnel 3 seg 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3981.2,
+   "py": 3483.3,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 91 (GhostPath20CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Tunnel 3 seg 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 3998.7,
+   "py": 3593,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 91 (GhostPath20CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Tunnel 3 seg 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 4103.5,
+   "py": 3391.1,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 91 (GhostPath20CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Tunnel 3 seg 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 3992,
+   "py": 2732.4,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 92 (GhostPath19CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 DIM 0 Tunnel 3 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4059.2,
+   "py": 2849.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 92 (GhostPath19CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 DIM 0 Tunnel 3 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4247.1,
+   "py": 2865.6,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 92 (GhostPath19CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 DIM 0 Tunnel 3 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4136.5,
+   "py": 2865.6,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 92 (GhostPath19CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 DIM 0 Tunnel 3 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4379.6,
+   "py": 2912.5,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 92 (GhostPath19CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 DIM 0 Tunnel 3 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4452.7,
+   "py": 2912.5,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 92 (GhostPath19CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 DIM 0 Tunnel 3 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 4227.2,
+   "py": 1966.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 93 (GhostPath18CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0Tunnel 3 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 4183.9,
+   "py": 2129.1,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 93 (GhostPath18CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0Tunnel 3 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 4117.3,
+   "py": 2341,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 93 (GhostPath18CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0Tunnel 3 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 4077.2,
+   "py": 2438.4,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 93 (GhostPath18CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0Tunnel 3 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 4058.8,
+   "py": 2501.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 93 (GhostPath18CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0Tunnel 3 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 4030.2,
+   "py": 2593,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 93 (GhostPath18CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0Tunnel 3 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wartraon",
+   "px": 1611.8,
+   "py": 754.2,
+   "mobs": [
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 94 (GhostPath17CenterCaveAI):\nWartraon (Spawner: COA WARTRAON 73 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wartraon",
+   "px": 1376.5,
+   "py": 838.6,
+   "mobs": [
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 94 (GhostPath17CenterCaveAI):\nWartraon (Spawner: COA WARTRAON 73 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wartraon",
+   "px": 1518.2,
+   "py": 798.3,
+   "mobs": [
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 94 (GhostPath17CenterCaveAI):\nWartraon (Spawner: COA WARTRAON 73 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wartraon",
+   "px": 1246.8,
+   "py": 805.7,
+   "mobs": [
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 94 (GhostPath17CenterCaveAI):\nWartraon (Spawner: COA WARTRAON 73 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wartraon",
+   "px": 1144.1,
+   "py": 651.6,
+   "mobs": [
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 94 (GhostPath17CenterCaveAI):\nWartraon (Spawner: COA WARTRAON 73 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wartraon",
+   "px": 1369,
+   "py": 651.6,
+   "mobs": [
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 94 (GhostPath17CenterCaveAI):\nWartraon (Spawner: COA WARTRAON 73 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin",
+   "px": 1993.7,
+   "py": 1100.8,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 95 (GhostPath16CenterCaveAI):\nSihopin (Spawner: COA SIHOPIN 77 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin",
+   "px": 1976.5,
+   "py": 1007,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 95 (GhostPath16CenterCaveAI):\nSihopin (Spawner: COA SIHOPIN 77 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin",
+   "px": 1976.5,
+   "py": 943.2,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 95 (GhostPath16CenterCaveAI):\nSihopin (Spawner: COA SIHOPIN 77 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin",
+   "px": 1967.6,
+   "py": 874,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 95 (GhostPath16CenterCaveAI):\nSihopin (Spawner: COA SIHOPIN 77 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin",
+   "px": 1959.3,
+   "py": 807.1,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 95 (GhostPath16CenterCaveAI):\nSihopin (Spawner: COA SIHOPIN 77 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin",
+   "px": 1941.3,
+   "py": 737.1,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 95 (GhostPath16CenterCaveAI):\nSihopin (Spawner: COA SIHOPIN 77 Tunnel2 seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2590.2,
+   "py": 744.8,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 96 (GhostPath15CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel 2 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2495.7,
+   "py": 803.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 96 (GhostPath15CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel 2 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2480.2,
+   "py": 897.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 96 (GhostPath15CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel 2 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2444.4,
+   "py": 1057.5,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 96 (GhostPath15CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel 2 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2378.3,
+   "py": 1172.9,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 96 (GhostPath15CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel 2 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2232.9,
+   "py": 1238.3,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 96 (GhostPath15CenterCaveAI):\nJouster (LV8) (Spawner: COA Jousters 19 DIM 0 Tunnel 2 seg 3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 3235.2,
+   "py": 1014.5,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 97 (GhostPath14CenterCaveAI):\nEyezora (LV10) (Spawner: COA EYEZORA 74 Tunnel2 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 3085.7,
+   "py": 959.6,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 97 (GhostPath14CenterCaveAI):\nEyezora (LV10) (Spawner: COA EYEZORA 74 Tunnel2 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 2958.3,
+   "py": 890.5,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 97 (GhostPath14CenterCaveAI):\nEyezora (LV10) (Spawner: COA EYEZORA 74 Tunnel2 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 2835.7,
+   "py": 836.4,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 97 (GhostPath14CenterCaveAI):\nEyezora (LV10) (Spawner: COA EYEZORA 74 Tunnel2 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 2762.1,
+   "py": 802,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 97 (GhostPath14CenterCaveAI):\nEyezora (LV10) (Spawner: COA EYEZORA 74 Tunnel2 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 2640.5,
+   "py": 761,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 97 (GhostPath14CenterCaveAI):\nEyezora (LV10) (Spawner: COA EYEZORA 74 Tunnel2 seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, High Priest of Cron",
+   "px": 4855,
+   "py": 1272.7,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 98 (GhostPath13CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19  Spiral Seg 1, up to 1)\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Spiral Seg 1, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, High Priest of Cron",
+   "px": 4613.2,
+   "py": 1738.3,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 98 (GhostPath13CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19  Spiral Seg 1, up to 1)\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Spiral Seg 1, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, High Priest of Cron",
+   "px": 4287.1,
+   "py": 1880.2,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 98 (GhostPath13CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19  Spiral Seg 1, up to 1)\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Spiral Seg 1, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, High Priest of Cron",
+   "px": 4030.2,
+   "py": 1840.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 98 (GhostPath13CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19  Spiral Seg 1, up to 1)\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Spiral Seg 1, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, High Priest of Cron",
+   "px": 4495.6,
+   "py": 1840.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 98 (GhostPath13CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19  Spiral Seg 1, up to 1)\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Spiral Seg 1, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, High Priest of Cron",
+   "px": 3895.3,
+   "py": 1776.7,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 98 (GhostPath13CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19  Spiral Seg 1, up to 1)\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Spiral Seg 1, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Eyezora",
+   "px": 3607.7,
+   "py": 1272.7,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Eyezora",
+   "px": 3682.6,
+   "py": 1573.4,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Eyezora",
+   "px": 3628.6,
+   "py": 1118.8,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Eyezora",
+   "px": 3718.7,
+   "py": 901.9,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Eyezora",
+   "px": 3875.9,
+   "py": 770.8,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Eyezora",
+   "px": 4080.9,
+   "py": 668.7,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Eyezora",
+   "px": 4706.8,
+   "py": 1689.9,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 100 (GhostPath11CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 spiral seg 3, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  spiral seg 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Eyezora",
+   "px": 4020.5,
+   "py": 1889.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 100 (GhostPath11CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 spiral seg 3, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  spiral seg 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Eyezora",
+   "px": 4394.7,
+   "py": 1889.5,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 100 (GhostPath11CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 spiral seg 3, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  spiral seg 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Eyezora",
+   "px": 4888.3,
+   "py": 1301,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 100 (GhostPath11CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 spiral seg 3, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  spiral seg 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Eyezora",
+   "px": 4816.4,
+   "py": 1592.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 100 (GhostPath11CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 spiral seg 3, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  spiral seg 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision, Eyezora",
+   "px": 4816.4,
+   "py": 955.6,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 100 (GhostPath11CenterCaveAI):\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 spiral seg 3, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  spiral seg 3, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4943.2,
+   "py": 1446,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4875.8,
+   "py": 1563.6,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4650.7,
+   "py": 1835,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4459.7,
+   "py": 1927.2,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4213.4,
+   "py": 1958.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4520.6,
+   "py": 1905.5,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4701.4,
+   "py": 1798.3,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4808,
+   "py": 1675.6,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4673.6,
+   "py": 1802.4,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4179,
+   "py": 1962,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4087.4,
+   "py": 1944.3,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 103 (GhostPath08CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72 Spiral seg 4, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 3029,
+   "py": 740.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 3268.8,
+   "py": 740.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 3519.3,
+   "py": 722.3,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 3791,
+   "py": 673.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4225.9,
+   "py": 578.2,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4398.1,
+   "py": 578.2,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4691.8,
+   "py": 663.1,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4691.8,
+   "py": 773.6,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4898.2,
+   "py": 1087.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4472.2,
+   "py": 557.4,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 4646.9,
+   "py": 694.2,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1078.3,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1078.3,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1208.5,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1208.5,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1020.3,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1020.3,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1139.1,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1139.1,
+   "py": 707.2,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1139.1,
+   "py": 504.6,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1139.1,
+   "py": 504.6,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 1139.1,
+   "py": 702.2,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 106 (GhostPath05CenterCaveAI):\nGrision (LV15) (Spawner: COA 19 GRISION  spiral seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1747.7,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1591,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1591,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1591,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1730.2,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1683.5,
+   "py": 485.6,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1683.5,
+   "py": 766,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1683.5,
+   "py": 766,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1683.5,
+   "py": 478.7,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1683.5,
+   "py": 636.4,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezion",
+   "px": 1683.5,
+   "py": 636.4,
+   "mobs": [
+    {
+     "id": 254,
+     "name": "Eyezion",
+     "level": 16,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 107 (GhostPath04CenterCaveAI):\nEyezion (LV16 BOSS) (Spawner: COA Eyezion 78 DIM 0  Boss Silo 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2253.3,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2253.3,
+   "py": 600.4,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2253.3,
+   "py": 825.3,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2384.5,
+   "py": 825.3,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2384.5,
+   "py": 825.3,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2384.5,
+   "py": 406.6,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2184,
+   "py": 532.4,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2575.7,
+   "py": 532.4,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2575.7,
+   "py": 532.4,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2575.7,
+   "py": 803.8,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Wright",
+   "px": 2137.7,
+   "py": 672.3,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 108 (GhostPath03CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75  Silo 1, up to 2)\nWright (LV16) (Spawner: COA WRIGHT 72  Silo 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4313.8,
+   "py": 1206.6,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4313.8,
+   "py": 692.2,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 3852.2,
+   "py": 692.2,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 3852.2,
+   "py": 1176.6,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 3852.2,
+   "py": 1176.6,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4574,
+   "py": 1176.6,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4574,
+   "py": 1176.6,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4323.7,
+   "py": 1176.6,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4323.7,
+   "py": 1552.2,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4205.5,
+   "py": 1552.2,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 4205.5,
+   "py": 1552.2,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 4313.8,
+   "py": 1206.6,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 4636.9,
+   "py": 1206.6,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 4245.9,
+   "py": 865.1,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 3754.9,
+   "py": 865.1,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 3754.9,
+   "py": 1317.4,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 3754.9,
+   "py": 1317.4,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 3754.9,
+   "py": 1317.4,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 4463.5,
+   "py": 1317.4,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 4463.5,
+   "py": 1388.6,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 4087.9,
+   "py": 1745,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 4087.9,
+   "py": 737.7,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4613.5,
+   "py": 173,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4562.2,
+   "py": 110.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4560.4,
+   "py": 80.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4579.9,
+   "py": 50.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4642.8,
+   "py": 171.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4696.3,
+   "py": 189.8,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4643.5,
+   "py": 14.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4691.3,
+   "py": 22.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4732.6,
+   "py": 22.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4732.6,
+   "py": 90.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Drakite",
+   "px": 2563.1,
+   "py": 4034.2,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 122,
+     "name": "Drakite",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 119 (AI030CEANAI):\nDrakite (LV8) (Spawner: AI02 OCEAN_DRAKITE 40 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Drakite",
+   "px": 1441.9,
+   "py": 4034.2,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 122,
+     "name": "Drakite",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 119 (AI030CEANAI):\nDrakite (LV8) (Spawner: AI02 OCEAN_DRAKITE 40 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Drakite",
+   "px": 3987.5,
+   "py": 4034.2,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 122,
+     "name": "Drakite",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 119 (AI030CEANAI):\nDrakite (LV8) (Spawner: AI02 OCEAN_DRAKITE 40 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Drakite",
+   "px": 3987.5,
+   "py": 3046,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 122,
+     "name": "Drakite",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 119 (AI030CEANAI):\nDrakite (LV8) (Spawner: AI02 OCEAN_DRAKITE 40 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Drakite",
+   "px": 1742.6,
+   "py": 4653.4,
+   "radiusPx": 1,
+   "mobs": [
+    {
+     "id": 122,
+     "name": "Drakite",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 119 (AI030CEANAI):\nDrakite (LV8) (Spawner: AI02 OCEAN_DRAKITE 40 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 4438.2,
+   "py": 3997.7,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 136 (AI   OCEAN):\nCrition (LV11) (Spawner: AI OCEAN_CRITION 41 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 4438.2,
+   "py": 3376.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 136 (AI   OCEAN):\nCrition (LV11) (Spawner: AI OCEAN_CRITION 41 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 5262.1,
+   "py": 3376.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 136 (AI   OCEAN):\nCrition (LV11) (Spawner: AI OCEAN_CRITION 41 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 5262.1,
+   "py": 2598.9,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 136 (AI   OCEAN):\nCrition (LV11) (Spawner: AI OCEAN_CRITION 41 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 5847.5,
+   "py": 2598.9,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 136 (AI   OCEAN):\nCrition (LV11) (Spawner: AI OCEAN_CRITION 41 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 4882.8,
+   "py": 2103.4,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 136 (AI   OCEAN):\nCrition (LV11) (Spawner: AI OCEAN_CRITION 41 DIM 0, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 5778.7,
+   "py": 1815.2,
+   "radiusPx": 0.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 137 (AI01   OCEAN):\nCrition (LV11) (Spawner: AI01 OCEAN_CRITION 41 DIM 0, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 6617.5,
+   "py": 1815.2,
+   "radiusPx": 0.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 137 (AI01   OCEAN):\nCrition (LV11) (Spawner: AI01 OCEAN_CRITION 41 DIM 0, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 6617.5,
+   "py": 2294.8,
+   "radiusPx": 0.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 137 (AI01   OCEAN):\nCrition (LV11) (Spawner: AI01 OCEAN_CRITION 41 DIM 0, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 6617.5,
+   "py": 1035.2,
+   "radiusPx": 0.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 137 (AI01   OCEAN):\nCrition (LV11) (Spawner: AI01 OCEAN_CRITION 41 DIM 0, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 5961.9,
+   "py": 1035.2,
+   "radiusPx": 0.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 137 (AI01   OCEAN):\nCrition (LV11) (Spawner: AI01 OCEAN_CRITION 41 DIM 0, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crition",
+   "px": 5961.9,
+   "py": 559.7,
+   "radiusPx": 0.3,
+   "mobs": [
+    {
+     "id": 126,
+     "name": "Crition",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 137 (AI01   OCEAN):\nCrition (LV11) (Spawner: AI01 OCEAN_CRITION 41 DIM 0, up to 2)"
+  },
+  {
+   "layer": "gather",
+   "name": "Canister",
+   "px": 3881.7,
+   "py": 1885,
+   "holds": [
+    {
+     "name": "Hand Flare Sticks (20)",
+     "qty": 13
+    }
+   ],
+   "respawnMin": 67
+  },
+  {
+   "layer": "npcs",
+   "name": "(Crom Chest) Helmet Armor",
+   "px": 1175.1,
+   "py": 756.7,
+   "npcId": 444,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Crom Helm",
+     "needs": [
+      {
+       "name": "Crom Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Crom Helmet (Lv15)"
+      },
+      {
+       "name": "Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Falene",
+   "px": 7901.5,
+   "py": 642.6,
+   "npcId": 453,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": ""
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest:",
+     "gives": [
+      {
+       "name": "Antons Toolbox"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 1 of 22",
+     "needs": [
+      {
+       "name": "Plasma Core Regulator"
+      },
+      {
+       "name": "Net Actuator Arm"
+      },
+      {
+       "name": "Plasma Net Generator"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Falene Token"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 22 of 22",
+     "needs": [
+      {
+       "name": "Tear of the Dark Sky"
+      },
+      {
+       "name": "Blood Onyx"
+      },
+      {
+       "name": "Falene Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Netlauncher Ticket"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Netlauncher Chest) Net Burst Unit [8",
+   "px": 1978.1,
+   "py": 977.8,
+   "npcId": 456,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest!",
+     "needs": [
+      {
+       "name": "Krakk Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Net Burst Unit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sodo",
+   "px": 2778.8,
+   "py": 619.6,
+   "npcId": 458,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Net Actuator Arm"
+      },
+      {
+       "name": "Gosh Ring of Ancients"
+      },
+      {
+       "name": "Plasma Net Generator"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plasma Net Generator"
+      },
+      {
+       "name": "Net Actuator Arm"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 9 of 22",
+     "needs": [
+      {
+       "name": "Motakor Necklace 1"
+      },
+      {
+       "name": "Motakor Necklace 3"
+      },
+      {
+       "name": "Motakor Necklace 4"
+      },
+      {
+       "name": "Motakor Necklace 5"
+      },
+      {
+       "name": "Motakor Mission"
+      },
+      {
+       "name": "Motakor Necklace 2"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 10 of 22",
+     "needs": [
+      {
+       "name": "Eyezion Eye"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 11 of 22",
+     "needs": [
+      {
+       "name": "Galleoni Badge 4"
+      },
+      {
+       "name": "Galleoni Badge 1"
+      },
+      {
+       "name": "Galleoni Badge 3"
+      },
+      {
+       "name": "Galleoni Badge 2"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 12 of 22",
+     "needs": [
+      {
+       "name": "Sodo Elite Emblem 1"
+      },
+      {
+       "name": "Sodo Elite Emblem 4"
+      },
+      {
+       "name": "Sodo Elite Emblem 3"
+      },
+      {
+       "name": "Sodo Elite Emblem 2"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Fight!",
+     "needs": [
+      {
+       "name": "Ring of Sodo"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Ring of Sodo"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 13 of 22",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Falene\"s Servant",
+   "px": 7940.8,
+   "py": 697.7,
+   "npcId": 460,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(HF) Netlauncher",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Netlauncher Ticket"
+      },
+      {
+       "name": "(HF) Celeste Crest 16"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Netlauncher (D)(N) (Lv16)"
+      },
+      {
+       "name": "(HF) Celeste Crest 16"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Netlauncher",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Darius Crest 16"
+      },
+      {
+       "name": "Netlauncher Ticket"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 16"
+      },
+      {
+       "name": "(HM) Netlauncher (D)(N) (Lv16)"
+      }
+     ]
+    },
+    {
+     "title": "Bloblic",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    },
+    {
+     "title": "Frog",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle/ChalisQuestChest) Nuclear Contrivance",
+   "px": 3865.9,
+   "py": 1849.5,
+   "npcId": 468,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Key of the Unknown"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Nuclear Contrivance"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "The Unknown",
+   "px": 4095,
+   "py": 1155.7,
+   "npcId": 529,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Gidion 16"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Gidion 16"
+      }
+     ]
+    },
+    {
+     "title": "Talk",
+     "race": "AP"
+    },
+    {
+     "title": "Crom Quest: Part 1 of 10",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Elder Shockion Cyst"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 2 of 10",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Air Rune"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 3 of 10",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Earth Rune"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 4 of 10",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Future Rune"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 5 of 10",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Orb of Dark Jouster (Lv13)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Orb of Dark Jouster (Lv13)"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 6 of 10",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Oafinster (N)(A) (Lv11)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Oafinster (N)(A) (Lv11)"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 7 of 10",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Tristnarak (Ru)(W) (Lv12)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Tristnarak (Ru)(W) (Lv12)"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 8 of 10 Fight!",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Bo Head"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 9 of 10 Fight!!",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Darius Head"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Part 10 of 10 Fight!!!",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Bedbug Gem"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crom Key"
+      },
+      {
+       "name": "Crom Crest"
+      }
+     ]
+    },
+    {
+     "title": "Crom Quest: Complete",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Zagison",
+   "px": 3904.8,
+   "py": 1787.6,
+   "npcId": 582,
+   "template": "Hipion",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "template 20",
+     "needs": [
+      {
+       "name": "Unknown Green Necklace"
+      },
+      {
+       "name": "Letter to Zagison"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Zagison"
+      }
+     ]
+    },
+    {
+     "title": "Shapeshift Quest: Part 32 of 34",
+     "race": "template 20",
+     "needs": [
+      {
+       "name": "Eyezora Eye",
+       "qty": 6
+      },
+      {
+       "name": "Air Rune"
+      },
+      {
+       "name": "High Priest Plasma",
+       "qty": 6
+      },
+      {
+       "name": "Fire Rune"
+      },
+      {
+       "name": "Water Rune"
+      },
+      {
+       "name": "Letter from Zagison"
+      },
+      {
+       "name": "Earth Rune"
+      }
+     ]
+    },
+    {
+     "title": "Shapeshift Quest: Fight!",
+     "race": "template 20",
+     "needs": [
+      {
+       "name": "Necklace of Cain"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Necklace of Cain"
+      },
+      {
+       "name": "Letter from Zagison"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Shapeshift Quest: Part 33 of 34",
+     "race": "template 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kance",
+   "px": 2113.1,
+   "py": 518,
+   "npcId": 687,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Baby Creature"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 13 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Hyssop Herb",
+       "qty": 5
+      },
+      {
+       "name": "Slingthrex Twig",
+       "qty": 10
+      },
+      {
+       "name": "Uenos Root",
+       "qty": 5
+      },
+      {
+       "name": "Yellow Gem"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Serpents Heal (+100 HP)",
+       "qty": 10
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 14 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Force Energizer"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Deity Amulet Phedon"
+      },
+      {
+       "name": "(AP) Deity Ring Phedon"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 15 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Bloblic Translocator"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Family Member"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 16 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Silian",
+   "px": 4036.1,
+   "py": 1901,
+   "npcId": 716,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Gidion 14"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Gidion 14"
+      }
+     ]
+    },
+    {
+     "title": "Strife Quest: Part 16 of 23",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Grision Badge",
+       "qty": 3
+      }
+     ]
+    },
+    {
+     "title": "Strife Quest: Part 17 of 23",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Wright Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Silians Gidion"
+      }
+     ],
+     "cash": 5000
+    },
+    {
+     "title": "Strife Quest: Part 18 of 23",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Ego",
+   "px": 366,
+   "py": 315.2,
+   "npcId": 721,
+   "template": "Bloblic",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "(BL) Bo Badge 14"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Bo Badge 14"
+      }
+     ]
+    },
+    {
+     "title": "Bo Crest Quest: Part 16 of 20",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "High Priest Robe"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Egos Map"
+      }
+     ]
+    },
+    {
+     "title": "Bo Crest Quest: Part 17 of 20",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Nemacy",
+   "px": 351.6,
+   "py": 175.2,
+   "npcId": 738,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Celeste Quest: Part 16 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Grision Badge"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 17 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Wright Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Nemacys Letter to Celeste"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 18 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bloblic Shadow",
+   "px": 2406,
+   "py": 660.8,
+   "npcId": 1539,
+   "template": "Bloblic",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "BloblicShadowMinions",
+   "px": 2406,
+   "py": 660.8,
+   "npcId": 1540,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hilrom",
+   "px": 1285.8,
+   "py": 659.8,
+   "npcId": 1556,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Raid!",
+     "needs": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Xellion",
+   "px": 1285.8,
+   "py": 659.8,
+   "npcId": 1557,
+   "template": "InvNoCoHuge65",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Raid!",
+     "needs": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sirra",
+   "px": 1285.8,
+   "py": 659.8,
+   "npcId": 1559,
+   "template": "InvNoCoHuge65",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Raid!",
+     "needs": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Besma",
+   "px": 1285.8,
+   "py": 659.8,
+   "npcId": 1560,
+   "template": "InvNoCoHuge65",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Raid!",
+     "needs": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Malakai",
+   "px": 718.4,
+   "py": 567.7,
+   "npcId": 1561,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Raid!",
+     "needs": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Yekby",
+   "px": 718.4,
+   "py": 567.7,
+   "npcId": 1562,
+   "template": "InvNoCoHuge65",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Raid!",
+     "needs": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yekby Key 01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bozer",
+   "px": 3144.1,
+   "py": 974.1,
+   "npcId": 1616,
+   "template": "Bloblic",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Reanali",
+   "px": 4310.8,
+   "py": 838.7,
+   "npcId": 1625,
+   "template": "Human Female",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Guell",
+   "px": 4310.8,
+   "py": 838.7,
+   "npcId": 1626,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Phorbon",
+   "px": 4310.8,
+   "py": 838.7,
+   "npcId": 1627,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bymati",
+   "px": 4310.8,
+   "py": 838.7,
+   "npcId": 1628,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Malene",
+   "px": 7967.8,
+   "py": 637,
+   "npcId": 1631,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "HM Pass",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Darius Crest 16"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 16"
+      },
+      {
+       "name": ""
+      }
+     ]
+    },
+    {
+     "title": "HF Pass",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 16"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 16"
+      },
+      {
+       "name": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 3732.6,
+   "py": 5120.4,
+   "npcId": 1106,
+   "routes": [
+    {
+     "to": {
+      "world": "Rift Fire Cave",
+      "slug": "rift-fire-cave",
+      "px": 1279.3,
+      "py": 7942.9
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 621.6,
+   "py": 598.5,
+   "npcId": 1472,
+   "routes": [
+    {
+     "to": {
+      "world": "Rift Fire Cave",
+      "slug": "rift-fire-cave",
+      "px": 1279.3,
+      "py": 7941.5
+     },
+     "title": "portal"
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 4399.7,
+   "py": 1218.6,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 10",
+   "px": 2335.9,
+   "py": 627.8,
+   "radiusPx": 673.8,
+   "detail": "Action 6: play soundtrack, argument 10\nRadius: 2000\nObject 17 (Silo1a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 16",
+   "px": 3735.3,
+   "py": 5136,
+   "radiusPx": 336.9,
+   "detail": "Action 6: play soundtrack, argument 16\nRadius: 1000\nObject 82 (PortalCaveentrance03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 4378.9,
+   "py": 1477.4,
+   "radiusPx": 11.8,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 35\nObject 3998 (PORTALTRIGS_RIFTPORT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 4334.1,
+   "py": 1487.4,
+   "radiusPx": 13.5,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 40\nObject 4000 (PORTALTRIGS_RIFTPORT03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 3734.6,
+   "py": 5138.4,
+   "radiusPx": 84.2,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 250\nObject 4014 (COA_PORTENTEXITTRIGa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 254.2,
+   "py": 273.9,
+   "radiusPx": 84.2,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 250\nObject 4015 (COA_PORT02TRIGa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 629.9,
+   "py": 600.1,
+   "radiusPx": 84.2,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 250\nObject 4016 (COA_PORT03TRIGa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 7939,
+   "py": 660.2,
+   "radiusPx": 84.2,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 250\nObject 4017 (COA_PORT01TRIGa.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "Main Body",
+   "px": 4442.5,
+   "py": 618.4,
+   "box": [
+    -5664.5,
+    -9488.6,
+    14549.5,
+    10725.4
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

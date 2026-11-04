@@ -1,0 +1,66 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "iia-south",
+  "title": "IIA South",
+  "places": [],
+  "group": "lands",
+  "worldId": 167,
+  "source": {
+    "world": "iiaS.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 12.108484745025635,
+    "origin": {
+      "x": -43973.921875,
+      "z": 40869.76953125
+    }
+  },
+  "width": 8192,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#cbcb98",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 580
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    },
+    {
+      "id": "shops",
+      "title": "Shop counters",
+      "color": "#8d6e63",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 1
+    }
+  ]
+}

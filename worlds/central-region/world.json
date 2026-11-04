@@ -1,0 +1,23 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "central-region",
+  "title": "Central Region",
+  "places": [],
+  "group": "arenas",
+  "worldId": 32,
+  "source": {
+    "world": "CentralRegion.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 2.0325108766555786,
+    "origin": {
+      "x": -8653.404296875,
+      "z": 6818.9580078125
+    }
+  },
+  "width": 8192,
+  "height": 6526,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#db8e56",
+  "layers": []
+}

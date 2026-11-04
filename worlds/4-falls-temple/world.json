@@ -1,0 +1,59 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "4-falls-temple",
+  "title": "4 Falls Temple",
+  "places": [],
+  "group": "dungeons",
+  "worldId": 21,
+  "source": {
+    "world": "4FallsTemple.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.886967122554779,
+    "origin": {
+      "x": -13080.001953125,
+      "z": 4496.08203125
+    }
+  },
+  "width": 3542,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#000000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 96
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 7
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 1
+    }
+  ]
+}

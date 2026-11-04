@@ -1,0 +1,199 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 2182.5,
+   "py": 2602.1,
+   "radiusPx": 2.9,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 1829.9,
+   "py": 1824.2,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 1751.6,
+   "py": 844.7,
+   "radiusPx": 2.9,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 2975.3,
+   "py": 1160.3,
+   "radiusPx": 2.9,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 2975.3,
+   "py": 1817.7,
+   "radiusPx": 2.9,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 2522.7,
+   "py": 2375.6,
+   "radiusPx": 2.9,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 2220.1,
+   "py": 7377.9,
+   "npcId": 1081,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 3393,
+      "py": 4045.1
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Tech Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 2488.7,
+   "py": 7368,
+   "npcId": 1118,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 3393,
+      "py": 4045.1
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Destroyer01 Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 2020.4,
+   "py": 4897.5,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2355.6,
+   "py": 7378.1,
+   "radiusPx": 58.3,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 44 (PLATFORMLIGHTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 25",
+   "px": 2355.6,
+   "py": 7378.1,
+   "radiusPx": 875.2,
+   "detail": "Action 6: play soundtrack, argument 25\nRadius: 300\nObject 44 (PLATFORMLIGHTa.ARW)"
+  }
+ ]
+}

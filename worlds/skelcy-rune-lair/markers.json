@@ -1,0 +1,89 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 1714.1,
+   "py": 857.1,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 865,
+     "name": "Sarin",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 1 on AI web 54 (Mineral1):\nSS Sarin+ Melee (Spawner: Mineral Test Spawn1, up to 1)"
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 2206.1,
+   "py": 7379.8,
+   "npcId": 1079,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4949.3,
+      "py": 4542.4
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Fire Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 2502.7,
+   "py": 7371.5,
+   "npcId": 1116,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4949.3,
+      "py": 4542.4
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Skelcy Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 2389.5,
+   "py": 2799.1,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2355.6,
+   "py": 7378.1,
+   "radiusPx": 145.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 50\nObject 31 (PLATFORMLIGHTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 36",
+   "px": 2355.6,
+   "py": 7378.1,
+   "radiusPx": 875.2,
+   "detail": "Action 6: play soundtrack, argument 36\nRadius: 300\nObject 31 (PLATFORMLIGHTa.ARW)"
+  }
+ ]
+}

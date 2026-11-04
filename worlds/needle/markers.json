@@ -1,0 +1,49 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "portals",
+   "name": "Traveler",
+   "px": 5265.9,
+   "py": 4419.5,
+   "npcId": 1645,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 3294.6,
+      "py": 3241.7
+     },
+     "title": "Back to 4 Falls"
+    }
+   ]
+  },
+  {
+   "layer": "water",
+   "name": "Water1",
+   "px": 4899.2,
+   "py": 5035.8,
+   "box": [
+    4852.8,
+    4931.4,
+    4945.6,
+    5140.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Water2",
+   "px": 5112.9,
+   "py": 4933.5,
+   "box": [
+    4976.1,
+    4851.8,
+    5249.7,
+    5015.1
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

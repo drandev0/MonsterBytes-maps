@@ -1,0 +1,38 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "needle",
+  "title": "Needle",
+  "places": [],
+  "group": "other",
+  "worldId": 34,
+  "source": {
+    "world": "Needle.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 1.4687143564224243,
+    "origin": {
+      "x": -7818.2353515625,
+      "z": 6350.57470703125
+    }
+  },
+  "width": 8192,
+  "height": 6151,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#00110c",
+  "layers": [
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "museum",
+  "title": "Museum (AFK Zone)",
+  "places": [],
+  "group": "other",
+  "worldId": 10,
+  "source": {
+    "world": "MuseumSection1.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.1256817951798439,
+    "origin": {
+      "x": -719.704833984375,
+      "z": 375.90374755859375
+    }
+  },
+  "width": 8192,
+  "height": 7793,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#000000",
+  "layers": [
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 68
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 1
+    }
+  ]
+}

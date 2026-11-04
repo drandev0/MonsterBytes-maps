@@ -1,0 +1,38 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "nexxus",
+  "title": "Nexxus",
+  "places": [],
+  "group": "other",
+  "worldId": 35,
+  "source": {
+    "world": "Nexxus.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.05519937095232308,
+    "origin": {
+      "x": -443.6524963378906,
+      "z": 56.843894958496094
+    }
+  },
+  "width": 8192,
+  "height": 6068,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#281919",
+  "layers": [
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 1
+    }
+  ]
+}

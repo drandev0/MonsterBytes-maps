@@ -1,0 +1,9157 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Guab Fish",
+   "px": 6344.2,
+   "py": 6298.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish",
+   "px": 6339.7,
+   "py": 6249.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish",
+   "px": 6395.5,
+   "py": 6266.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish",
+   "px": 6371.7,
+   "py": 6264.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish",
+   "px": 6378.2,
+   "py": 6306.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6359.8,
+   "py": 6264.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6433,
+   "py": 6307,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6321.7,
+   "py": 6403.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6242.2,
+   "py": 6181.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6399.5,
+   "py": 6148.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6361.6,
+   "py": 6217.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6437.4,
+   "py": 6219.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6196.2,
+   "py": 6245.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "HEAVY WELL DRONE",
+   "px": 6433.9,
+   "py": 6261.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 33,
+     "name": "HEAVY WELL DRONE",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kip - Trendor Guard",
+   "px": 6369.1,
+   "py": 5824.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 662,
+     "name": "Kip - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 2 (City.Guard.Kip):\nKip - Trendor Guard (Spawner: City.Guard.Kip, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kip - Trendor Guard",
+   "px": 6369.1,
+   "py": 5824.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 662,
+     "name": "Kip - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 2 (City.Guard.Kip):\nKip - Trendor Guard (Spawner: City.Guard.Kip, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Duliet - Trendor Guard",
+   "px": 6203.2,
+   "py": 6315.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 664,
+     "name": "Duliet - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 3 (City.Guard.Duliet):\nDuliet - Trendor Guard (Spawner: City.Guard.Duliet, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Duliet - Trendor Guard",
+   "px": 6203.2,
+   "py": 6315.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 664,
+     "name": "Duliet - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 3 (City.Guard.Duliet):\nDuliet - Trendor Guard (Spawner: City.Guard.Duliet, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Josh - Trendor Guard",
+   "px": 6750.6,
+   "py": 6230.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 663,
+     "name": "Josh - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 4 (City.Guard.Josh):\nJosh - Trendor Guard (Spawner: City.Guard.Josh, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Josh - Trendor Guard",
+   "px": 6750.6,
+   "py": 6230.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 663,
+     "name": "Josh - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 4 (City.Guard.Josh):\nJosh - Trendor Guard (Spawner: City.Guard.Josh, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lorella - Trendor Guard",
+   "px": 6338.7,
+   "py": 6263.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 665,
+     "name": "Lorella - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 5 (City.Guard.Lorella):\nLorella - Trendor Guard (Spawner: City.Guard.Lorella, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lorella - Trendor Guard",
+   "px": 6338.7,
+   "py": 6263.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 665,
+     "name": "Lorella - Trendor Guard",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 5 (City.Guard.Lorella):\nLorella - Trendor Guard (Spawner: City.Guard.Lorella, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5968,
+   "py": 6523.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5998.7,
+   "py": 6532.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5978.2,
+   "py": 6587.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5968.6,
+   "py": 6642.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5970.2,
+   "py": 6668.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5965.4,
+   "py": 6622.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5972.8,
+   "py": 6595.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5973.2,
+   "py": 6556.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5962.4,
+   "py": 6536.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5981.6,
+   "py": 6509.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5981.8,
+   "py": 6538,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5966,
+   "py": 6543.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5982.9,
+   "py": 6514.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Vigon, Eyemba",
+   "px": 5979.4,
+   "py": 6559.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    },
+    {
+     "id": 769,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5914.1,
+   "py": 6478.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5952.5,
+   "py": 6501.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5936.9,
+   "py": 6500.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5876.4,
+   "py": 6486.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5847.5,
+   "py": 6477.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5882.4,
+   "py": 6473.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5915.8,
+   "py": 6475.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5898.1,
+   "py": 6481.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5874,
+   "py": 6479.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 5934.2,
+   "py": 6482.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5757.3,
+   "py": 6479,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5718.9,
+   "py": 6426.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5760.6,
+   "py": 6451.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5802.6,
+   "py": 6473,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5821.6,
+   "py": 6481.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5799.3,
+   "py": 6492.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5761.3,
+   "py": 6485.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5730.5,
+   "py": 6437.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5739.7,
+   "py": 6438.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5756.8,
+   "py": 6465.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5792,
+   "py": 6483.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5808.9,
+   "py": 6482,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5687.4,
+   "py": 6419.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5618.6,
+   "py": 6424.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5622.1,
+   "py": 6409.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5682.5,
+   "py": 6415.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5691.5,
+   "py": 6425.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5661.1,
+   "py": 6424.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5632.7,
+   "py": 6416,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5661.5,
+   "py": 6416.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5677.1,
+   "py": 6418.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5537.6,
+   "py": 6876.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5585.1,
+   "py": 6928.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5490.1,
+   "py": 6943,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5440.5,
+   "py": 6846.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5499.3,
+   "py": 6825,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5528,
+   "py": 6875,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5561.8,
+   "py": 6826.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5488.8,
+   "py": 6877.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5592.6,
+   "py": 6884.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5501.2,
+   "py": 6918.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 5541.7,
+   "py": 6908.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5605.5,
+   "py": 6428.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5605.6,
+   "py": 6439.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5565.5,
+   "py": 6479.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5579.5,
+   "py": 6454.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5608.1,
+   "py": 6423.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5618.5,
+   "py": 6412.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5613.5,
+   "py": 6425.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5598.2,
+   "py": 6440.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5581.9,
+   "py": 6458.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5567.6,
+   "py": 6471.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5542.5,
+   "py": 6568.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5555.9,
+   "py": 6569.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5537.6,
+   "py": 6606.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5552.8,
+   "py": 6550,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5546.2,
+   "py": 6579.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5540.4,
+   "py": 6591.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5544,
+   "py": 6626.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5547.9,
+   "py": 6591.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 5549.3,
+   "py": 6558.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5595.7,
+   "py": 6652.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5611.3,
+   "py": 6609.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5565.3,
+   "py": 6631.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5591.6,
+   "py": 6634.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5635.9,
+   "py": 6643.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5577.3,
+   "py": 6651.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5598.1,
+   "py": 6620,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5614.1,
+   "py": 6634.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 5602.5,
+   "py": 6654.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5717.3,
+   "py": 6578.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5644.7,
+   "py": 6621.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5686.9,
+   "py": 6604.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5683.1,
+   "py": 6592.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5871.6,
+   "py": 6700.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5781.3,
+   "py": 6655.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5755.9,
+   "py": 6629.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5807.2,
+   "py": 6651.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5791.6,
+   "py": 6652.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5772.9,
+   "py": 6640.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5841.5,
+   "py": 6679.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 5858.3,
+   "py": 6690.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5865.9,
+   "py": 6806.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5867.1,
+   "py": 6774.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5890.4,
+   "py": 6812.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5883.2,
+   "py": 6836.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5874.5,
+   "py": 6811.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5854.1,
+   "py": 6788.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5855.8,
+   "py": 6764.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5860.4,
+   "py": 6782.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 5877,
+   "py": 6804,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 5851.5,
+   "py": 6889.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 5787.3,
+   "py": 6887.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 5779.7,
+   "py": 6897.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 5761.1,
+   "py": 6886.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 5771,
+   "py": 6873.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 5779.2,
+   "py": 6888.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 5799.5,
+   "py": 6890.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5771.8,
+   "py": 6745.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5770.4,
+   "py": 6700.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5771.4,
+   "py": 6760.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5766.4,
+   "py": 6748.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5766.9,
+   "py": 6727.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5773.7,
+   "py": 6750.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5780.2,
+   "py": 6543.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5766.6,
+   "py": 6586,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5778,
+   "py": 6532.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5806.6,
+   "py": 6551.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5778.1,
+   "py": 6579.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5749.7,
+   "py": 6573.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5758.8,
+   "py": 6542.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5777.5,
+   "py": 6571.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5758.5,
+   "py": 6522.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nigon, Uline, Slabon",
+   "px": 5762.5,
+   "py": 6540.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 2,
+     "name": "Nigon",
+     "level": 7
+    },
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    },
+    {
+     "id": 91,
+     "name": "Slabon",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "InvisCamera",
+   "px": 6362.4,
+   "py": 5576.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 771,
+     "name": "InvisCamera",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 20 (Sewers.Fadun1):\nGM Razor (Spawner: Sewers.Fadun1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "InvisCamera",
+   "px": 6383,
+   "py": 5462,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 771,
+     "name": "InvisCamera",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 20 (Sewers.Fadun1):\nGM Razor (Spawner: Sewers.Fadun1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 6384.8,
+   "py": 5449.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 6414.3,
+   "py": 5370.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 6402.4,
+   "py": 5359.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "InvisCamera",
+   "px": 6631.1,
+   "py": 5237.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 771,
+     "name": "InvisCamera",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 22 (Sewers.Fadun3):\nGM Razor (Spawner: Sewers.Fadun3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "InvisCamera",
+   "px": 6642.7,
+   "py": 5422,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 771,
+     "name": "InvisCamera",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 22 (Sewers.Fadun3):\nGM Razor (Spawner: Sewers.Fadun3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 6853.8,
+   "py": 5307.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 6942,
+   "py": 5236.4,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 6930.7,
+   "py": 5127.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7061.1,
+   "py": 4932.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7194.7,
+   "py": 5031.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7284.9,
+   "py": 4875.3,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "InvisCamera",
+   "px": 7354.3,
+   "py": 4938.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 771,
+     "name": "InvisCamera",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 25 (Sewers.Fadun5):\nGM Razor (Spawner: Sewers.Fadun5, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "InvisCamera",
+   "px": 7461.3,
+   "py": 4990.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 771,
+     "name": "InvisCamera",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 25 (Sewers.Fadun5):\nGM Razor (Spawner: Sewers.Fadun5, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7505.6,
+   "py": 5035.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7454.2,
+   "py": 5171,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7586.8,
+   "py": 5280.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun, Didon",
+   "px": 7455.5,
+   "py": 5316.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    },
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 27 (Sewers.Fadun6):\nFadun (LV4) (Spawner: Sewers.Fadun6, up to 1)\nDidon (LV4) (Spawner: Sewers.Didon6, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun, Didon",
+   "px": 7522.6,
+   "py": 5422.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    },
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 27 (Sewers.Fadun6):\nFadun (LV4) (Spawner: Sewers.Fadun6, up to 1)\nDidon (LV4) (Spawner: Sewers.Didon6, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7547,
+   "py": 5502.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7646.1,
+   "py": 5515,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7692.1,
+   "py": 5534.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7777.5,
+   "py": 5516.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7872.3,
+   "py": 5532.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7982.8,
+   "py": 5464.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 8018.3,
+   "py": 5434.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 8007,
+   "py": 5267.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 8025.1,
+   "py": 5123.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 8007.8,
+   "py": 5098.1,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 31 (Sewers.Didon5):\nDidon (LV4) (Spawner: Sewers.Didon5, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 8028.8,
+   "py": 5269.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 31 (Sewers.Didon5):\nDidon (LV4) (Spawner: Sewers.Didon5, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7727.2,
+   "py": 5017,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7962.8,
+   "py": 4943.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7761.8,
+   "py": 4850.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7570,
+   "py": 4920,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7462.3,
+   "py": 4871.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7457.5,
+   "py": 4727.8,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 7449.4,
+   "py": 4472.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 35 (Sewers.Gonlon):\nGonlon (LV8) (Spawner: Sewers.Gonlon, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 7449.4,
+   "py": 4472.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 35 (Sewers.Gonlon):\nGonlon (LV8) (Spawner: Sewers.Gonlon, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7734.1,
+   "py": 4876.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7779.5,
+   "py": 4911,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7766.2,
+   "py": 4891,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7780.9,
+   "py": 4942.5,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7766.6,
+   "py": 4967.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7735.9,
+   "py": 4981.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7706.5,
+   "py": 4972.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7688,
+   "py": 4947.7,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7688,
+   "py": 4920,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7701.9,
+   "py": 4895.2,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7731.6,
+   "py": 4924.9,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7728.6,
+   "py": 4925.6,
+   "radiusPx": 7.1,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Tidi (Items)",
+   "px": 6140.7,
+   "py": 6084,
+   "npcId": 326,
+   "template": "Grounce",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Items",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "(HF) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "(HM) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mercan (Smithy)",
+   "px": 6418.7,
+   "py": 5865.1,
+   "npcId": 434,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Smithing",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Aluminum Stock-SMT",
+     "price": 3
+    },
+    {
+     "name": "Andros Alloy Unit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Ceramic Flex Unit-SMT",
+     "price": 150
+    },
+    {
+     "name": "Ceramic Stock-SMT",
+     "price": 25
+    },
+    {
+     "name": "Cobalt Unit-SMT",
+     "price": 300
+    },
+    {
+     "name": "Core Metal Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    },
+    {
+     "name": "Iron Stock-SMT",
+     "price": 8
+    },
+    {
+     "name": "Lightweight Titanium Plugs-SMT",
+     "price": 150
+    },
+    {
+     "name": "Magnesium Plating-SMT",
+     "price": 400
+    },
+    {
+     "name": "Plasma Unit-SMT",
+     "price": 25
+    },
+    {
+     "name": "Platinum Stock-SMT",
+     "price": 75
+    },
+    {
+     "name": "Rivet Kit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Stainless Steel Stock-SMT",
+     "price": 100
+    },
+    {
+     "name": "Steel Stock-SMT",
+     "price": 20
+    },
+    {
+     "name": "Titanium Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Wood Unit-SMT",
+     "price": 2
+    },
+    {
+     "name": "Smith Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tali (Banker)",
+   "px": 6723.6,
+   "py": 6239.3,
+   "npcId": 436,
+   "template": "Human Female",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Bank",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "G\"fron",
+   "px": 6452.3,
+   "py": 5296.5,
+   "npcId": 486,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(BL)",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Dominion Briging Egg"
+      },
+      {
+       "name": "Dominion Grison Egg"
+      },
+      {
+       "name": "Dominion Drout Egg"
+      },
+      {
+       "name": "Dominion Ligton Egg"
+      },
+      {
+       "name": "Dominion Briscore Egg"
+      },
+      {
+       "name": "Dominion Cripton Egg"
+      },
+      {
+       "name": "Dominion Gratute Egg"
+      },
+      {
+       "name": "Dominion Flisk Egg"
+      },
+      {
+       "name": "Dominion Powlong Egg"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Ring of Power +20"
+      }
+     ]
+    },
+    {
+     "title": "(AP)",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Dominion Flisk Egg"
+      },
+      {
+       "name": "Dominion Powlong Egg"
+      },
+      {
+       "name": "Dominion Drout Egg"
+      },
+      {
+       "name": "Dominion Cripton Egg"
+      },
+      {
+       "name": "Dominion Grison Egg"
+      },
+      {
+       "name": "Dominion Gratute Egg"
+      },
+      {
+       "name": "Dominion Briging Egg"
+      },
+      {
+       "name": "Dominion Briscore Egg"
+      },
+      {
+       "name": "Dominion Ligton Egg"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Ring of Power +20"
+      }
+     ]
+    },
+    {
+     "title": "(HM)",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Dominion Briscore Egg"
+      },
+      {
+       "name": "Dominion Grison Egg"
+      },
+      {
+       "name": "Dominion Drout Egg"
+      },
+      {
+       "name": "Dominion Cripton Egg"
+      },
+      {
+       "name": "Dominion Gratute Egg"
+      },
+      {
+       "name": "Dominion Flisk Egg"
+      },
+      {
+       "name": "Dominion Ligton Egg"
+      },
+      {
+       "name": "Dominion Briging Egg"
+      },
+      {
+       "name": "Dominion Powlong Egg"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Ring of Power +20"
+      }
+     ]
+    },
+    {
+     "title": "(HF)",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Dominion Briging Egg"
+      },
+      {
+       "name": "Dominion Drout Egg"
+      },
+      {
+       "name": "Dominion Flisk Egg"
+      },
+      {
+       "name": "Dominion Ligton Egg"
+      },
+      {
+       "name": "Dominion Powlong Egg"
+      },
+      {
+       "name": "Dominion Grison Egg"
+      },
+      {
+       "name": "Dominion Gratute Egg"
+      },
+      {
+       "name": "Dominion Cripton Egg"
+      },
+      {
+       "name": "Dominion Briscore Egg"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Ring of Power +20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lasgat",
+   "px": 7448.8,
+   "py": 4470.4,
+   "npcId": 505,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Letter from Flogran"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Lasgat"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 5 of 20",
+     "needs": [
+      {
+       "name": "Sword of Val"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sealed Letter from Lasgat"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 7 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kara - Lady of the Air",
+   "px": 6376.8,
+   "py": 6267.1,
+   "npcId": 515,
+   "template": "Human Female",
+   "roles": [
+    "gives skill experience",
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HF",
+     "gives": [
+      {
+       "name": "Pilot Lesson 1 Key"
+      }
+     ]
+    },
+    {
+     "title": "Introduction to Fly: Lesson 1",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Pilot Lesson 1 Orb"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Pilot Lesson 2 Key"
+      }
+     ]
+    },
+    {
+     "title": "Introduction to Fly: Lesson 2",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Pilot Lesson 2 Orb"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Inceptor License"
+      }
+     ]
+    },
+    {
+     "title": "Introduction to Fly: Complete",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "None2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lorut",
+   "px": 6127.7,
+   "py": 6011.2,
+   "npcId": 545,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Loruts Fuser"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Gauges"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 3 of 23",
+     "needs": [
+      {
+       "name": "Plasma Fuel Injector"
+      },
+      {
+       "name": "Plasma Screen"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Crypt Chest Key",
+       "qty": 4
+      },
+      {
+       "name": "Plasma Screen"
+      },
+      {
+       "name": "Plasma Fuel Injector"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 7 of 23",
+     "needs": [
+      {
+       "name": "Wigspruce Stalk",
+       "qty": 3
+      },
+      {
+       "name": "Ecolalgae",
+       "qty": 5
+      },
+      {
+       "name": "Voltage Regulator"
+      },
+      {
+       "name": "Titanium Pistons"
+      },
+      {
+       "name": "Sun Plant"
+      },
+      {
+       "name": "Intake Valves"
+      },
+      {
+       "name": "Sonic Thrusters"
+      },
+      {
+       "name": "Cycle Timer"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yelviens Necklace"
+      },
+      {
+       "name": "Hover Sonic Engine (XTX)"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 8 of 23",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sush",
+   "px": 6473.4,
+   "py": 6259.2,
+   "npcId": 580,
+   "template": "Blod",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "template 6",
+     "needs": [
+      {
+       "name": "Package for Sial"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sush Necklace"
+      }
+     ]
+    },
+    {
+     "title": "Shapeshift Quest: Part 19 of 34",
+     "race": "template 6",
+     "needs": [
+      {
+       "name": "Package from Bislion"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Bislion"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Shapeshift Quest: Part 21 of 34",
+     "race": "template 6",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Q-Forge",
+   "px": 6306,
+   "py": 5321.6,
+   "npcId": 609,
+   "template": "K Forge",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "K-Forge Keg"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter for Sotannalk"
+      }
+     ]
+    },
+    {
+     "title": "Neronicle Quest: Part 3 of 13",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Neronicle Barrel"
+      },
+      {
+       "name": "Neronicle Power Supply"
+      },
+      {
+       "name": "NeronicleLazer Gun Drive"
+      },
+      {
+       "name": "NeronicleLazer Gun Casing"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) NeronicleLazer Gun (Ru) (Lv14)"
+      },
+      {
+       "name": "Note for K-Forge"
+      }
+     ]
+    },
+    {
+     "title": "Neronicle Quest: Complete 13 of 13",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Note for Q-Forge"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 3 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Iolite",
+       "qty": 3
+      },
+      {
+       "name": "Moonstone",
+       "qty": 3
+      },
+      {
+       "name": "Lemon Quartz",
+       "qty": 3
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 4 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Q-Forges Keg"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 5 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Shendos Pack"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Tools for J-Forge"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 6 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sassi",
+   "px": 6312.8,
+   "py": 5309.6,
+   "npcId": 630,
+   "template": "Human Female",
+   "says": [
+    "\"Q is our man! Isn\"t he soooo sexy?\"",
+    "\"Turn it up DJ!!\"",
+    "\"Watch how you look at me, I am Q\"s baby.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Nubian",
+   "px": 6300.8,
+   "py": 5329.5,
+   "npcId": 631,
+   "template": "Human Female",
+   "says": [
+    "\"This party is jamming!\"",
+    "\"Why can\"t we get K and T here too?\"",
+    "\"Shendo is such a bad guy... I hope he doesn\"t show up here.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Domanie",
+   "px": 6286.2,
+   "py": 5309.2,
+   "npcId": 632,
+   "template": "Human Female",
+   "says": [
+    "\"Doma, Doma, Doma....\"",
+    "\"Share a drink with us!\"",
+    "\"Hey, where\"s the fire big boy?\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "K-Forge",
+   "px": 6128,
+   "py": 6119.2,
+   "npcId": 633,
+   "template": "K Forge",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "BL"
+    },
+    {
+     "title": "Neronicle Quest: Part 1 of 13",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "(BL) Bo Badge 14"
+      }
+     ],
+     "gives": [
+      {
+       "name": "K-Forge Keg"
+      },
+      {
+       "name": "(BL) Bo Badge 14"
+      }
+     ]
+    },
+    {
+     "title": "Neronicle Quest: Part 2 of 13",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Note for K-Forge"
+      },
+      {
+       "name": "(BL) NeronicleLazer Gun (Ru) (Lv14)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Key of the Unknown"
+      },
+      {
+       "name": "Key of Thrones"
+      },
+      {
+       "name": "Key of Cain"
+      },
+      {
+       "name": "(BL) NeronicleLazer Gun (Ru) (Lv14)"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 1 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Centriole Power Generator"
+      },
+      {
+       "name": "Nuclear Contrivance"
+      },
+      {
+       "name": "Thermantidote Arm"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note for Q-Forge"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Part 2 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Channel Crystal"
+      },
+      {
+       "name": "Reinforced Focali Casing"
+      },
+      {
+       "name": "Fire Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Chalis Charge (20)",
+       "qty": 5
+      },
+      {
+       "name": "(BL) Chalis Focali (D)(N) (Lv16)"
+      }
+     ]
+    },
+    {
+     "title": "Chalis Focali Quest: Complete 19 of 19",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sam",
+   "px": 6323.6,
+   "py": 5532.4,
+   "npcId": 637,
+   "template": "Human Male",
+   "says": [
+    "Sam> \"Hey, there. Take a load off. What can I get you?\"",
+    "Sam> \"No, I just serve the drinks. Have you ever heard of a Screaming Viking?\"",
+    "Sam> \"Sailing is a big passion of mine. But my boat sank, so I have to do something.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Woody",
+   "px": 6295.5,
+   "py": 5314.9,
+   "npcId": 638,
+   "template": "Amphibious",
+   "says": [
+    "Woody> \"Hi there! Can I make you a nice Slugdrip Nectar? No?\"",
+    "Woody> \"Hey, how about a refreshing Bluetail Fly Tonic! Oh, come on, why not? It\"s good!\"",
+    "Woody> \"You must try my Wormgut Spritzer! I\"ll even sprinkle some gnats on top for ya! No? Are you sure?\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Etten",
+   "px": 6443.9,
+   "py": 5315.5,
+   "npcId": 639,
+   "template": "Human Female",
+   "says": [
+    "\"I like bartending almost as much as dancing!\"",
+    "\"Isn\"t DJ Mister just the most awesome DJ? Yeah baby!\"",
+    "\"Have you met Q-Forge yet? He\"s the most fun ever!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Asay",
+   "px": 6430.9,
+   "py": 5332.9,
+   "npcId": 640,
+   "template": "Human Female",
+   "says": [
+    "\"What would you like, friend?\"",
+    "\"Hmm... I don\"t think I\"ve heard of that one. I am new here, by the way.\"",
+    "\"<giggle> I\"m staring at a secret passageway! Can you find it?\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Bouncer) Og",
+   "px": 6339.2,
+   "py": 5333.7,
+   "npcId": 641,
+   "template": "Bloblic",
+   "says": [
+    "Og> \"Og think that women look good, but they don\"t think right. Og have trouble making friends with them.\"",
+    "Og> \"It is mystery to Og why women like clean house. It just get dirty again. Why not leave it alone and save time? Og just not get it.\"",
+    "Og] \"Og not understand women.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Denisa",
+   "px": 6414.8,
+   "py": 5305.7,
+   "npcId": 642,
+   "template": "Human Female",
+   "says": [
+    "Denisa> \"So then he says that women are all the same. Isn\"t that just like a man?\"",
+    "Denisa> \"Who needs \"em? That\"s what I say. But then, some of them are so cute.\"",
+    "Denisa> \"It\"s not like I\"m demanding or unreasonable or anything.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Marlot",
+   "px": 6419.4,
+   "py": 5300.8,
+   "npcId": 643,
+   "template": "Human Female",
+   "says": [
+    "Marlot> \"I totallly understand. Mine said the same thing last week.\"",
+    "Marlot> \"What are you drinking? Mine is getting warm.\"",
+    "Marlot> \"You\"d think they could get a clue. It\"s not like we\"re being unreasonable.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "George",
+   "px": 6458.7,
+   "py": 5321.5,
+   "npcId": 644,
+   "template": "Human Male",
+   "says": [
+    "George> \"I drink alone.\"",
+    "George> \"I drink with nobody else.\"",
+    "George> \"You know when I drink alone, I prefer to be by myself.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Flitter",
+   "px": 6285.3,
+   "py": 5294.4,
+   "npcId": 645,
+   "template": "Amphibious",
+   "says": [
+    "Flitter> \"I just watch people. You are a people. I watch you.\"",
+    "Flitter> \"Not many people here right now. Are you going to stay?\"",
+    "Flitter> \"Even I wouldn\"t drink what Woody is serving.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mobodo",
+   "px": 6375.2,
+   "py": 5517.9,
+   "npcId": 646,
+   "template": "Human Male",
+   "says": [
+    "Mobodo> \"Get down with your bad self!\"",
+    "Mobodo> \"I\"m saying it... that\"s right... keep dancin\"... all night...\"",
+    "Mobodo> \"Watch this one, up and left and right and crossover, yeah!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Berri",
+   "px": 6371.2,
+   "py": 5538,
+   "npcId": 647,
+   "template": "Human Female",
+   "says": [
+    "Berri> \"Keep it up and we can dance all night. Isn\"t that what life is about?\"",
+    "Berri> \"I actually have a good day job. But I haven\"t been to work in three weeks. I hope I\"m still employed.\"",
+    "Berri> \"I am going to need a drink soon, but this is my favorite song!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Freddith Blorp",
+   "px": 6434.7,
+   "py": 5320.2,
+   "npcId": 648,
+   "template": "Bloblic",
+   "says": [
+    "Freddith Blorp> \"I\"m a legend here. They pay me to dance, I\"m so good!\"",
+    "Freddith Blorp> \"It\"s not just the moves, it\"s the stamina. I never get tired.\"",
+    "Freddith Blorp> \"I just wish I could find a partner that could keep up with me.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Royder - Trendor Guard",
+   "px": 6371.2,
+   "py": 5866.1,
+   "npcId": 651,
+   "template": "Human Male",
+   "says": [
+    "Royder> \"Keep it real.\"",
+    "Royder> \"Just act responsibly, and we\"ll all have a good time.\"",
+    "Royder> \"No murderers allowed.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hayden - Trendor Guard",
+   "px": 6536.4,
+   "py": 6208.5,
+   "npcId": 652,
+   "template": "Human Male",
+   "says": [
+    "Hayden> \"Just guarding the money.\"",
+    "Hayden> \"Every once in a while, I get an itch to... to... well, never mind.\"",
+    "Hayden> \"Not much happens around here. Not sure I like that.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lissa - Trendor Guard",
+   "px": 6536.2,
+   "py": 6267,
+   "npcId": 653,
+   "template": "Human Female",
+   "says": [
+    "Lissa> \"Nope, not much happening here.\"",
+    "Lissa> \"Just guarding the bank. Nobody would dare mess with me and my partner.\"",
+    "Lissa> \"The invasion is just a blip on my radar. Over and done with. Can\"t even remember what they looked like.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bevel - Trendor Guard",
+   "px": 6175.9,
+   "py": 6168.3,
+   "npcId": 654,
+   "template": "Human Male",
+   "says": [
+    "Bevel> \"Take your business to the store. I\"m just a guard.\"",
+    "Bevel> \"I fear nothing. I dread nothing. I sense nothing. Wait...\"",
+    "Bevel> \"Listen to that sound... is it rain?\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Jo - Trendor Guard",
+   "px": 6049.5,
+   "py": 6380.9,
+   "npcId": 655,
+   "template": "Human Female",
+   "says": [
+    "Jo> \"Be careful. I can\"t protect you if you go in there.\"",
+    "Jo> \"It\"s condemned for a reason.\"",
+    "Jo> \"Overrun by monsters and we haven\"t gotten around to clearing them out.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Penelope - Trendor Guard",
+   "px": 6297,
+   "py": 6402.3,
+   "npcId": 656,
+   "template": "Human Female",
+   "says": [
+    "Penelope> \"What a great assignment. Isn\"t it peaceful here?\"",
+    "Penelope> \"I can just breathe deep and enjoy the park. Just don\"t cause any trouble and we will be fine.\"",
+    "Penelope> \"Yes, there was an invasion. We had enough, came back and drove them all out. It was sweet.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mr. Fowell",
+   "px": 6441.9,
+   "py": 5321.2,
+   "npcId": 657,
+   "template": "Amphibious",
+   "says": [
+    "Mr. Fowell> \"Hmm? Oh, just cleaning up this room. Been a big party in here from the looks of things.\"",
+    "Mr. Fowell> \"These kids nowadays never clean up after themselves. Think the world owes them a living.\"",
+    "Mr. Fowell> \"Someone spilled liquor all over this floor and danced in it. Bunch of hoodlums.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Muni (Engineer)",
+   "px": 6129.5,
+   "py": 5953.6,
+   "npcId": 658,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Engineering",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Base Gas Jet-ENG",
+     "price": 300
+    },
+    {
+     "name": "Bolt Pack-ENG",
+     "price": 3
+    },
+    {
+     "name": "Chromium Powder-ENG",
+     "price": 10
+    },
+    {
+     "name": "Composite Casing-ENG",
+     "price": 200
+    },
+    {
+     "name": "Glove-ENG",
+     "price": 35
+    },
+    {
+     "name": "Hi-Density Graphite-ENG",
+     "price": 3
+    },
+    {
+     "name": "Hyper Cell Material-ENG",
+     "price": 18
+    },
+    {
+     "name": "Plasma Unit-ENG",
+     "price": 100
+    },
+    {
+     "name": "Pulse Pack-ENG",
+     "price": 65
+    },
+    {
+     "name": "Refined Stainless Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Refined Steel Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Stainless Bolt Pack-ENG",
+     "price": 10
+    },
+    {
+     "name": "Stainless Stock-ENG",
+     "price": 85
+    },
+    {
+     "name": "Steel Plate-ENG",
+     "price": 60
+    },
+    {
+     "name": "Steel Stock-ENG",
+     "price": 18
+    },
+    {
+     "name": "Sub-Micron Alumina-ENG",
+     "price": 5
+    },
+    {
+     "name": "Wood Unit-ENG",
+     "price": 2
+    },
+    {
+     "name": "Engineering Kit",
+     "price": 15000
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Witzer (Engineer)",
+   "px": 6142.7,
+   "py": 5941.2,
+   "npcId": 659,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Engineering",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Base Gas Jet-ENG",
+     "price": 300
+    },
+    {
+     "name": "Bolt Pack-ENG",
+     "price": 3
+    },
+    {
+     "name": "Chromium Powder-ENG",
+     "price": 10
+    },
+    {
+     "name": "Composite Casing-ENG",
+     "price": 200
+    },
+    {
+     "name": "Glove-ENG",
+     "price": 35
+    },
+    {
+     "name": "Hi-Density Graphite-ENG",
+     "price": 3
+    },
+    {
+     "name": "Hyper Cell Material-ENG",
+     "price": 18
+    },
+    {
+     "name": "Plasma Unit-ENG",
+     "price": 100
+    },
+    {
+     "name": "Pulse Pack-ENG",
+     "price": 65
+    },
+    {
+     "name": "Refined Stainless Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Refined Steel Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Stainless Bolt Pack-ENG",
+     "price": 10
+    },
+    {
+     "name": "Stainless Stock-ENG",
+     "price": 85
+    },
+    {
+     "name": "Steel Plate-ENG",
+     "price": 60
+    },
+    {
+     "name": "Steel Stock-ENG",
+     "price": 18
+    },
+    {
+     "name": "Sub-Micron Alumina-ENG",
+     "price": 5
+    },
+    {
+     "name": "Wood Unit-ENG",
+     "price": 2
+    },
+    {
+     "name": "Engineering Kit",
+     "price": 15000
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chemoise (Alchemist)",
+   "px": 6313.1,
+   "py": 6638.5,
+   "npcId": 660,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Alchemy",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Aged Orange",
+     "price": 10
+    },
+    {
+     "name": "Antimony",
+     "price": 5
+    },
+    {
+     "name": "Aqua Tofani",
+     "price": 350
+    },
+    {
+     "name": "Banana",
+     "price": 4
+    },
+    {
+     "name": "Barley",
+     "price": 5
+    },
+    {
+     "name": "Berry Bunch",
+     "price": 8
+    },
+    {
+     "name": "Blue Vitriol",
+     "price": 15
+    },
+    {
+     "name": "Cadmia",
+     "price": 3
+    },
+    {
+     "name": "Cantaloupe",
+     "price": 2
+    },
+    {
+     "name": "Caustic Volatile Alkali",
+     "price": 50
+    },
+    {
+     "name": "Cell Plant",
+     "price": 16
+    },
+    {
+     "name": "Chrome Green",
+     "price": 5
+    },
+    {
+     "name": "Chrome Yellow",
+     "price": 2
+    },
+    {
+     "name": "Cinnabar",
+     "price": 2
+    },
+    {
+     "name": "Cocktail Mix",
+     "price": 2
+    },
+    {
+     "name": "Coffee Beans",
+     "price": 9
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Fruit Liquor",
+     "price": 2
+    },
+    {
+     "name": "Fuel",
+     "price": 4
+    },
+    {
+     "name": "Galena",
+     "price": 2
+    },
+    {
+     "name": "Gen Juice",
+     "price": 10
+    },
+    {
+     "name": "Gena Root",
+     "price": 2
+    },
+    {
+     "name": "Grain Alcohol",
+     "price": 12
+    },
+    {
+     "name": "Gypsum",
+     "price": 18
+    },
+    {
+     "name": "Gyro Plasma",
+     "price": 500
+    },
+    {
+     "name": "High Density Hydraul Fluid",
+     "price": 550
+    },
+    {
+     "name": "Kings Yellow",
+     "price": 400
+    },
+    {
+     "name": "Lemon Extract",
+     "price": 8
+    },
+    {
+     "name": "Lime",
+     "price": 5
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Gradius (Smithy)",
+   "px": 6436.5,
+   "py": 5863.9,
+   "npcId": 661,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Armor and Jetpacks",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Aluminum Stock-SMT",
+     "price": 3
+    },
+    {
+     "name": "Andros Alloy Unit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Ceramic Flex Unit-SMT",
+     "price": 150
+    },
+    {
+     "name": "Ceramic Stock-SMT",
+     "price": 25
+    },
+    {
+     "name": "Cobalt Unit-SMT",
+     "price": 300
+    },
+    {
+     "name": "Core Metal Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    },
+    {
+     "name": "Iron Stock-SMT",
+     "price": 8
+    },
+    {
+     "name": "Lightweight Titanium Plugs-SMT",
+     "price": 150
+    },
+    {
+     "name": "Magnesium Plating-SMT",
+     "price": 400
+    },
+    {
+     "name": "Plasma Unit-SMT",
+     "price": 25
+    },
+    {
+     "name": "Platinum Stock-SMT",
+     "price": 75
+    },
+    {
+     "name": "Rivet Kit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Stainless Steel Stock-SMT",
+     "price": 100
+    },
+    {
+     "name": "Steel Stock-SMT",
+     "price": 20
+    },
+    {
+     "name": "Titanium Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Wood Unit-SMT",
+     "price": 2
+    },
+    {
+     "name": "Smith Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Xtx Hover Bike",
+   "px": 5958.8,
+   "py": 6022.5,
+   "npcId": 662,
+   "template": "Hover Bike",
+   "says": [
+    "The Xtx Hover Bike is our fastest model ever! Sleek styling combined with precision handling add up to superior performance.",
+    "The latest Hover Sonic Engine in the Xtx delivers over 850 Ean Factors of raw torque while the new and improved Sonic Thrusters make acceleration delay a thing of the past.",
+    "The Xtx goes from 0 to its top speed of 250 factors per hour in .001 seconds, making it the fastest mode of transportation on the planet!"
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Jxi Hydro Craft",
+   "px": 5970.2,
+   "py": 6006.7,
+   "npcId": 666,
+   "template": "JetSki",
+   "says": [
+    "Immerse yourself in the perfect blend of luxury and watersport - the Jxi Hydro Craft.",
+    "The Jxi single-passenger personal watercraft is sleek, stylish and affordable.",
+    "Its fission-tempered hull can withstand the most acidic liquids as well as most energy weapons, making body work virtually a non-factor."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Merrick (Melee)",
+   "px": 6133.6,
+   "py": 6055.6,
+   "npcId": 667,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Melee Weapons",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(HM) Bryton (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HM) Sigron (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HM) Alamzaterius (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HM) BarbedDulsikium (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HM) BloodKnarl (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HM) CroveinPlechivstz (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(HF) Ontroytag (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HF) Octograph (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HF) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HF) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HF) KvPlasmaBlade (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HF) BarbedDulsikium (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HM) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HM) Lyson Twin Lazer (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HM) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HM) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HF) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HF) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HF) Plasma Snipe (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HF) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HF) Power Rifle (N) (Lv6)",
+     "price": 1808
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Leesha (Range)",
+   "px": 6138,
+   "py": 6053.8,
+   "npcId": 668,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Range Weapons",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HM) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HM) Lyson Twin Lazer (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HM) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HM) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HF) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HF) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HF) Plasma Snipe (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HF) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HF) Power Rifle (N) (Lv6)",
+     "price": 1808
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "JD - Vehicle Upgrades",
+   "px": 6204.1,
+   "py": 6134.6,
+   "npcId": 691,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(BL) Polycycle - Normal",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Hovercraft Vehicle (Lv2)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Polycycle (N) (Lv4)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Polycycle - Fire",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Fire Rune"
+      },
+      {
+       "name": "(BL) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Polycycle (F) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Polycycle - Water",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Water Rune"
+      },
+      {
+       "name": "(BL) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Polycycle (W) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Polycycle - Earth",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Earth Rune"
+      },
+      {
+       "name": "(BL) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Polycycle (E) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Polycycle - Air",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "(BL) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Air Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Polycycle (A) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Polycycle - Relic",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Grey Stone Rune"
+      },
+      {
+       "name": "Blue Stone Rune"
+      },
+      {
+       "name": "(BL) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Polycycle (Re) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(BL) Polycycle - Rune",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "(BL) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Tech Rune"
+      },
+      {
+       "name": "Living Rune"
+      },
+      {
+       "name": "Future Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Polycycle (Ru) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Polycycle - Normal",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Hovercraft Vehicle (Lv2)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Polycycle (N) (Lv4)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Polycycle - Fire",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Fire Rune"
+      },
+      {
+       "name": "(AP) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Polycycle (F) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Polycycle - Water",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Water Rune"
+      },
+      {
+       "name": "(AP) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Polycycle (W) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Polycycle - Earth",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Earth Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Polycycle (E) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Polycycle - Air",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Air Rune"
+      },
+      {
+       "name": "(AP) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Polycycle (A) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Polycycle - Relic",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Grey Stone Rune"
+      },
+      {
+       "name": "Blue Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Polycycle (Re) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Polycycle - Rune",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Tech Rune"
+      },
+      {
+       "name": "(AP) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Living Rune"
+      },
+      {
+       "name": "Future Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Polycycle (Ru) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Polycycle - Normal",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Hovercraft Vehicle (Lv2)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Polycycle (N) (Lv4)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Polycycle - Fire",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Fire Rune"
+      },
+      {
+       "name": "(HM) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Polycycle (F) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Polycycle - Water",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Water Rune"
+      },
+      {
+       "name": "(HM) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Polycycle (W) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Polycycle - Earth",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Earth Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Polycycle (E) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Polycycle - Air",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Air Rune"
+      },
+      {
+       "name": "(HM) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Polycycle (A) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Polycycle - Relic",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Blue Stone Rune"
+      },
+      {
+       "name": "Grey Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Polycycle (Re) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Polycycle - Rune",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Future Rune"
+      },
+      {
+       "name": "Living Rune"
+      },
+      {
+       "name": "(HM) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Tech Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Polycycle (Ru) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Polycycle - Normal",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Hovercraft Vehicle (Lv2)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Polycycle (N) (Lv4)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Polycycle - Fire",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Fire Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Polycycle (F) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Polycycle - Water",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Water Rune"
+      },
+      {
+       "name": "(HF) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Polycycle (W) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Polycycle - Earth",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Earth Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Polycycle (E) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Polycycle - Air",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Air Rune"
+      },
+      {
+       "name": "(HF) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Polycycle (A) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Polycycle - Relic",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Polycycle (N) (Lv4)"
+      },
+      {
+       "name": "Blue Stone Rune"
+      },
+      {
+       "name": "Grey Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Polycycle (Re) (Lv5)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Polycycle - Rune",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Future Rune"
+      },
+      {
+       "name": "Tech Rune"
+      },
+      {
+       "name": "Living Rune"
+      },
+      {
+       "name": "(HF) Polycycle (N) (Lv4)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Polycycle (Ru) (Lv5)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Darius",
+   "px": 6370,
+   "py": 5583.2,
+   "npcId": 725,
+   "template": "Human Male",
+   "roles": [
+    "gives skill experience",
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HM"
+    },
+    {
+     "title": "Darius Quest: Talk",
+     "race": "HM",
+     "gives": [
+      {
+       "name": "(HM) Darius Crest"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 1 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Flob Shell",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 1"
+      }
+     ],
+     "cash": 500
+    },
+    {
+     "title": "Darius Quest: Part 2 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Clegurk Tongue",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest 1"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 2"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Darius Quest: Part 3 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Infant Stount Tail",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest 2"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 3"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Darius Quest: Part 4 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Darius Crest 3"
+      },
+      {
+       "name": "Vigon Shell",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 4"
+      }
+     ],
+     "cash": 2000
+    },
+    {
+     "title": "Darius Quest: Part 5 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Fadun Plasma",
+       "qty": 10
+      },
+      {
+       "name": "Didon Plasma",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest 4"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 5"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Darius Quest: Part 6 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Malia Bat Wings",
+       "qty": 10
+      },
+      {
+       "name": "Stontrile Shell",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest 5"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 6"
+      }
+     ],
+     "cash": 4000
+    },
+    {
+     "title": "Darius Quest: Talk",
+     "race": "HM"
+    },
+    {
+     "title": "Darius Quest: Part 7 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Ascherion Venom Sack",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest 6"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 7"
+      }
+     ],
+     "cash": 5000
+    },
+    {
+     "title": "Darius Quest: Part 8 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Shockion Claws",
+       "qty": 10
+      },
+      {
+       "name": "Adult Shockion Claw",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest 7"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 8"
+      }
+     ],
+     "cash": 6000
+    },
+    {
+     "title": "Darius Quest: Part 9 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Elder Shockion Head",
+       "qty": 5
+      },
+      {
+       "name": "Elite Shockion Head",
+       "qty": 10
+      },
+      {
+       "name": "(HM) Darius Crest 8"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 9"
+      }
+     ],
+     "cash": 7000
+    },
+    {
+     "title": "Darius Quest: Part 10 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Regen Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 10"
+      }
+     ],
+     "cash": 10000
+    },
+    {
+     "title": "Darius Quest: Part 11 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Darius Ring of Confusion"
+      },
+      {
+       "name": "(HM) Darius Crest 10"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 11"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 12 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Staff of Recklessness"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Broken Staff of Recklessness"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 14 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Fixed Staff of Recklessness"
+      },
+      {
+       "name": "(HM) Darius Crest 11"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 12"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 19 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Solis Darkness"
+      },
+      {
+       "name": "(HM) Darius Crest 12"
+      },
+      {
+       "name": "Solis Vision"
+      },
+      {
+       "name": "Solis Storm"
+      },
+      {
+       "name": "Solis Power"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 13"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 20 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Darius Crest 13"
+      },
+      {
+       "name": "Mirror of Perception"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 14"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 21 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Darius Crest 14"
+      },
+      {
+       "name": "Wright Essence",
+       "qty": 5
+      },
+      {
+       "name": "Wright Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 14"
+      },
+      {
+       "name": "(HM) Darius Crest 15"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 22 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Grision Plasma",
+       "qty": 10
+      },
+      {
+       "name": "Grision Badge"
+      },
+      {
+       "name": "(HM) Darius Crest 15"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 16"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Complete",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Galothien",
+   "px": 6585.7,
+   "py": 5391.5,
+   "npcId": 727,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Letter from Clike"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 16 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Ear of Godion",
+       "qty": 20
+      }
+     ],
+     "gives": [
+      {
+       "name": "Blue Gem from Galothien"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 17 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Zarwen",
+   "px": 6368.5,
+   "py": 5849.9,
+   "npcId": 729,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Darius Crest 9"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Darius Crest 9"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Talk",
+     "race": "HM",
+     "gives": [
+      {
+       "name": "(HM) Amulet of Earth Protection +15"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 1 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Living Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lord Shipron Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 2 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Earth Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Frube Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 3 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Bio Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Zorphion Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 4 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Water Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Skelcy Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 5 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Fire Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Destroyer01 Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 6 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Tech Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Slate Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 7 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Grey Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Brike Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 8 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Blue Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Zeth Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 9 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Future Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Pridion Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 10 of 10",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Air Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Power Rifle Crom (Ru) (Lv12)"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Complete",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Celeste",
+   "px": 6325,
+   "py": 6186,
+   "npcId": 737,
+   "template": "Human Female",
+   "roles": [
+    "gives skill experience",
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HF",
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Talk",
+     "race": "HF"
+    },
+    {
+     "title": "Celeste Quest: Part 1 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Flob Shell",
+       "qty": 10
+      },
+      {
+       "name": "(HF) Celeste Crest"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 1"
+      }
+     ],
+     "cash": 500
+    },
+    {
+     "title": "Celeste Quest: Part 2 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 1"
+      },
+      {
+       "name": "Clegurk Tongue",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 2"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Celeste Quest: Part 3 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Infant Stount Tail",
+       "qty": 10
+      },
+      {
+       "name": "(HF) Celeste Crest 2"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 3"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Celeste Quest: Part 4 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Vigon Shell",
+       "qty": 10
+      },
+      {
+       "name": "(HF) Celeste Crest 3"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 4"
+      }
+     ],
+     "cash": 2000
+    },
+    {
+     "title": "Celeste Quest: Part 5 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Didon Plasma",
+       "qty": 10
+      },
+      {
+       "name": "Fadun Plasma",
+       "qty": 10
+      },
+      {
+       "name": "(HF) Celeste Crest 4"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 5"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Celeste Quest: Part 6 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 5"
+      },
+      {
+       "name": "Stontrile Shell",
+       "qty": 10
+      },
+      {
+       "name": "Malia Bat Wings",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 6"
+      }
+     ],
+     "cash": 4000
+    },
+    {
+     "title": "Celeste Quest: Part 7 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Ascherion Venom Sack",
+       "qty": 10
+      },
+      {
+       "name": "(HF) Celeste Crest 6"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 7"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 8 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Shockion Claws",
+       "qty": 10
+      },
+      {
+       "name": "Adult Shockion Claw",
+       "qty": 10
+      },
+      {
+       "name": "(HF) Celeste Crest 7"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 8"
+      }
+     ],
+     "cash": 6000
+    },
+    {
+     "title": "Celeste Quest: Part 9 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 8"
+      },
+      {
+       "name": "Elder Shockion Head",
+       "qty": 5
+      },
+      {
+       "name": "Elite Shockion Head",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 9"
+      }
+     ],
+     "cash": 7000
+    },
+    {
+     "title": "Celeste Quest: Part 10 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Adian Scroll"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 10"
+      }
+     ],
+     "cash": 10000
+    },
+    {
+     "title": "Celeste Quest: Part 11 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Mad Kidion Heart",
+       "qty": 5
+      },
+      {
+       "name": "Lost Stone"
+      },
+      {
+       "name": "(HF) Celeste Crest 10"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 11"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 12 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 11"
+      },
+      {
+       "name": "Unknown Smooth Sphere"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 12"
+      }
+     ],
+     "cash": 7500
+    },
+    {
+     "title": "Celeste Quest: Part 13 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Eyezora DNA",
+       "qty": 10
+      },
+      {
+       "name": "(HF) Celeste Crest 12"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 13"
+      }
+     ]
+    },
+    {
+     "title": "Celeste Quest: Part 14 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 13"
+      },
+      {
+       "name": "Rancon Emblem"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 14"
+      }
+     ],
+     "cash": 8500
+    },
+    {
+     "title": "Celeste Quest: Part 15 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Nemacys Letter to Celeste"
+      },
+      {
+       "name": "(HF) Celeste Crest 14"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 15"
+      },
+      {
+       "name": "(HF) Celeste Crest 14"
+      }
+     ],
+     "cash": 10000
+    },
+    {
+     "title": "Celeste Quest: Part 19 of 23",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Xelly Says Hello to Celeste"
+      },
+      {
+       "name": "(HF) Celeste Crest 15"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 16"
+      }
+     ],
+     "cash": 10000
+    },
+    {
+     "title": "Celeste Quest: Complete",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Emril",
+   "px": 6434.6,
+   "py": 6193,
+   "npcId": 741,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 9"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 9"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Talk",
+     "race": "HF",
+     "gives": [
+      {
+       "name": "(HF) Amulet of Earth Protection +15"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 1 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Living Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lord Shipron Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 2 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Earth Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Frube Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 3 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Bio Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Zorphion Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 4 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Water Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Skelcy Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 5 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Fire Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Destroyer01 Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 6 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Tech Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Slate Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 7 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Grey Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Brike Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 8 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Blue Stone Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Zeth Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 9 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Future Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Pridion Rune Key"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Part 10 of 10",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Air Rune"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Kv-Runebow (Ru) (Lv12)"
+      }
+     ]
+    },
+    {
+     "title": "Rune Quest: Complete",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kinis - Inceptor Instructor",
+   "px": 6346.1,
+   "py": 5612.8,
+   "npcId": 747,
+   "template": "Human Male",
+   "roles": [
+    "gives skill experience",
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HM",
+     "gives": [
+      {
+       "name": "Pilot Lesson 1 Key"
+      }
+     ]
+    },
+    {
+     "title": "Introduction to Fly: Lesson 1",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Pilot Lesson 1 Orb"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Pilot Lesson 2 Key"
+      }
+     ]
+    },
+    {
+     "title": "Introduction to Fly: Lesson 2",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Pilot Lesson 2 Orb"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Inceptor License"
+      }
+     ]
+    },
+    {
+     "title": "Introduction to Fly: Complete",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "None2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Amblik",
+   "px": 5992.5,
+   "py": 6028.2,
+   "npcId": 750,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Advanced Inceptor License"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Advanced Inceptor License"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 1 of 23",
+     "gives": [
+      {
+       "name": "Loruts Fuser"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 2 of 23",
+     "needs": [
+      {
+       "name": "Plasma Fuel Cell"
+      },
+      {
+       "name": "Slider Attack Shield"
+      },
+      {
+       "name": "Sonic Engine Mounts"
+      },
+      {
+       "name": "Plasma Screen"
+      },
+      {
+       "name": "Plasma Fuel Case"
+      },
+      {
+       "name": "Hover Sonic Engine (XTX)"
+      },
+      {
+       "name": "Plasma Fuel Injector"
+      },
+      {
+       "name": "Hover XTX Hull"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Hovercraft Vehicle (Lv2)"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 23 of 23"
+    },
+    {
+     "title": "Hoverbike: Complete",
+     "needs": [
+      {
+       "name": "Termine License"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Termine License"
+      }
+     ]
+    },
+    {
+     "title": "Hydrocraft: Part 1 of 2",
+     "needs": [
+      {
+       "name": "Trim System"
+      },
+      {
+       "name": "Driveshaft"
+      },
+      {
+       "name": "Jet Hydro Hull"
+      },
+      {
+       "name": "Bilge Pump"
+      },
+      {
+       "name": "Manifold-Inlet"
+      },
+      {
+       "name": "Hydro JXI Engine"
+      },
+      {
+       "name": "Solar Panel"
+      },
+      {
+       "name": "Flush Kits"
+      },
+      {
+       "name": "JXI Engine Mounts"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Jet Ski Vehicle (Lv2)"
+      }
+     ]
+    },
+    {
+     "title": "Hydrocraft: Complete",
+     "needs": [
+      {
+       "name": "Termine License"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Termine License"
+      }
+     ]
+    },
+    {
+     "title": "Bubblesub: Part 1 of 2",
+     "needs": [
+      {
+       "name": "C02 Scrubber"
+      },
+      {
+       "name": "Trim System"
+      },
+      {
+       "name": "Gyro Casing"
+      },
+      {
+       "name": "High Density Shock Fluid",
+       "qty": 2
+      },
+      {
+       "name": "High Density Hydraul Fluid",
+       "qty": 2
+      },
+      {
+       "name": "Lightweight Titanium Plugs-SMT"
+      },
+      {
+       "name": "5 Blade Propeller Assembly"
+      },
+      {
+       "name": "Bilge Pump"
+      },
+      {
+       "name": "Manifold-Inlet"
+      },
+      {
+       "name": "Magnesium Plating-SMT"
+      },
+      {
+       "name": "Ballast and Trim Tanks"
+      },
+      {
+       "name": "Couplers-ENG"
+      },
+      {
+       "name": "Tryk Dual SSI Engine (Sub)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Bubble Sub Vehicle (Lv3)"
+      }
+     ]
+    },
+    {
+     "title": "Bubblesub: Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Jester",
+   "px": 6305.5,
+   "py": 6231.3,
+   "npcId": 1054,
+   "template": "Bloblic",
+   "says": [
+    "Jester: \"Wanna know why Celeste was so sad last week? She was engaged to this guy with a wooden leg, but she had to break it off.\"",
+    "Jester: \"These two Vigons are rolling along and one asks the other, \"Hey, are we poisonous?\" The other says, \"I dunno. Why?\" \"Because I just bit my lip.\" Hahahahaha!\"",
+    "Jester: \"What is the capital of Boomtown? B, of course.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "esiomehC",
+   "px": 6295.8,
+   "py": 6644,
+   "npcId": 1576,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Manga Mix",
+     "price": 3
+    },
+    {
+     "name": "Marcasite",
+     "price": 5
+    },
+    {
+     "name": "Mercurius Praecipitatus",
+     "price": 2
+    },
+    {
+     "name": "Milk of Sulphur",
+     "price": 35
+    },
+    {
+     "name": "Multi Vitamin",
+     "price": 9
+    },
+    {
+     "name": "Natron",
+     "price": 20
+    },
+    {
+     "name": "Oil of Vitriol",
+     "price": 45
+    },
+    {
+     "name": "Orange",
+     "price": 2
+    },
+    {
+     "name": "Orchid Flower",
+     "price": 40
+    },
+    {
+     "name": "Orpiment Auri-Pigmentum",
+     "price": 200
+    },
+    {
+     "name": "Quicklime",
+     "price": 4
+    },
+    {
+     "name": "Realgar",
+     "price": 150
+    },
+    {
+     "name": "Sal Ammoniac",
+     "price": 5
+    },
+    {
+     "name": "Sal Volatile",
+     "price": 24
+    },
+    {
+     "name": "Spiritus Fumans",
+     "price": 2
+    },
+    {
+     "name": "Thion Hudor",
+     "price": 28
+    },
+    {
+     "name": "White Arsenic",
+     "price": 300
+    },
+    {
+     "name": "Alchemy Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chalis chest",
+   "px": 6354.3,
+   "py": 6019.3,
+   "npcId": 1679,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chalis parts",
+     "needs": [
+      {
+       "name": "Key of Cain"
+      },
+      {
+       "name": "Key of Thrones"
+      },
+      {
+       "name": "Key of the Unknown"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Nuclear Contrivance"
+      },
+      {
+       "name": "Centriole Power Generator"
+      },
+      {
+       "name": "Thermantidote Arm"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6385.5,
+   "py": 5882.4,
+   "npcId": 1123,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 3320.9,
+      "py": 2960.3
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6351.8,
+   "py": 5883.5,
+   "npcId": 1125,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 3583,
+      "py": 3285.3
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6365.5,
+   "py": 6086.8,
+   "npcId": 1126,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6378.7,
+      "py": 5940.9
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6364.2,
+   "py": 5940.6,
+   "npcId": 1127,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6373.1,
+      "py": 6086.7
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6307,
+   "py": 5349.6,
+   "npcId": 1129,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6335.9,
+      "py": 5320.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6306.8,
+   "py": 5348.9,
+   "npcId": 1130,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6431.8,
+      "py": 5291.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6432.3,
+   "py": 5348.9,
+   "npcId": 1131,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6431.8,
+      "py": 5348.9
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6403.2,
+   "py": 5320,
+   "npcId": 1132,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6431.8,
+      "py": 5291.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6460.5,
+   "py": 5320,
+   "npcId": 1133,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6431.8,
+      "py": 5291.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6306.7,
+   "py": 5291.2,
+   "npcId": 1134,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6431.8,
+      "py": 5291.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6163.1,
+   "py": 6345.7,
+   "npcId": 1411,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6373.6,
+      "py": 6197.1
+     },
+     "title": "Zap~"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6209.1,
+   "py": 6372.4,
+   "npcId": 1412,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6093.2,
+      "py": 6354.5
+     },
+     "title": "Wooo~"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Traveler HM",
+   "px": 6369.6,
+   "py": 6315.8,
+   "npcId": 1414,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 3221.1,
+      "py": 3334.1
+     },
+     "title": "Portal to 4falls"
+    },
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4588.1,
+      "py": 2980.2
+     },
+     "title": "Portal to Amphibious Island"
+    },
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 2979,
+      "py": 5100.1
+     },
+     "title": "Portal to Bloblic Colonies"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6558,
+   "py": 6099.1,
+   "npcId": 1417,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6419.6,
+      "py": 6312
+     },
+     "title": "Poof~"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6602.6,
+   "py": 6124.5,
+   "npcId": 1418,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6373.6,
+      "py": 6197.1
+     },
+     "title": "Kablow"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6369.3,
+   "py": 6224.2,
+   "npcId": 1419,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6419.6,
+      "py": 6312
+     },
+     "title": "Go!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 6342.4,
+   "py": 6177.7,
+   "npcId": 1420,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6093.2,
+      "py": 6354.5
+     },
+     "title": "Kazam~"
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Trendor ChemLab2",
+   "px": 6284.6,
+   "py": 6738.2,
+   "box": [
+    6265.1,
+    6620.3,
+    6304,
+    6856.1
+   ],
+   "shopId": 15,
+   "stock": [
+    {
+     "name": "Manga Mix",
+     "price": 3
+    },
+    {
+     "name": "Marcasite",
+     "price": 5
+    },
+    {
+     "name": "Mercurius Praecipitatus",
+     "price": 2
+    },
+    {
+     "name": "Milk of Sulphur",
+     "price": 35
+    },
+    {
+     "name": "Multi Vitamin",
+     "price": 9
+    },
+    {
+     "name": "Natron",
+     "price": 20
+    },
+    {
+     "name": "Oil of Vitriol",
+     "price": 45
+    },
+    {
+     "name": "Orange",
+     "price": 2
+    },
+    {
+     "name": "Orchid Flower",
+     "price": 40
+    },
+    {
+     "name": "Orpiment Auri-Pigmentum",
+     "price": 200
+    },
+    {
+     "name": "Quicklime",
+     "price": 4
+    },
+    {
+     "name": "Realgar",
+     "price": 150
+    },
+    {
+     "name": "Sal Ammoniac",
+     "price": 5
+    },
+    {
+     "name": "Sal Volatile",
+     "price": 24
+    },
+    {
+     "name": "Spiritus Fumans",
+     "price": 2
+    },
+    {
+     "name": "Thion Hudor",
+     "price": 28
+    },
+    {
+     "name": "White Arsenic",
+     "price": 300
+    },
+    {
+     "name": "Alchemy Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "K-Forge Items",
+   "px": 6150.5,
+   "py": 6082.3,
+   "box": [
+    6138,
+    6057.3,
+    6163.1,
+    6107.3
+   ],
+   "shopId": 37,
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "(HF) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "(HM) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "K-Forge Melee",
+   "px": 6125.2,
+   "py": 6061.9,
+   "box": [
+    6114.6,
+    6051.3,
+    6135.9,
+    6072.6
+   ],
+   "shopId": 38,
+   "stock": [
+    {
+     "name": "(HM) Bryton (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HM) Sigron (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HM) Alamzaterius (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HM) BarbedDulsikium (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HM) BloodKnarl (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HM) CroveinPlechivstz (N) (Lv5)",
+     "price": 608
+    },
+    {
+     "name": "(HF) Ontroytag (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(HF) Octograph (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(HF) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(HF) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(HF) KvPlasmaBlade (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(HF) BarbedDulsikium (N) (Lv5)",
+     "price": 608
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "K-Forge Range",
+   "px": 6138,
+   "py": 6053.8,
+   "box": [
+    6127.4,
+    6043.2,
+    6148.6,
+    6064.4
+   ],
+   "shopId": 39,
+   "stock": [
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HM) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HM) Lyson Twin Lazer (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HM) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HM) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HF) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HF) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HF) Plasma Snipe (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HF) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HF) Power Rifle (N) (Lv6)",
+     "price": 1808
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Trendor Engineering",
+   "px": 6128.8,
+   "py": 5955.4,
+   "box": [
+    6111.1,
+    5937.7,
+    6146.5,
+    5973.1
+   ],
+   "shopId": 40,
+   "stock": [
+    {
+     "name": "Base Gas Jet-ENG",
+     "price": 300
+    },
+    {
+     "name": "Bolt Pack-ENG",
+     "price": 3
+    },
+    {
+     "name": "Chromium Powder-ENG",
+     "price": 10
+    },
+    {
+     "name": "Composite Casing-ENG",
+     "price": 200
+    },
+    {
+     "name": "Glove-ENG",
+     "price": 35
+    },
+    {
+     "name": "Hi-Density Graphite-ENG",
+     "price": 3
+    },
+    {
+     "name": "Hyper Cell Material-ENG",
+     "price": 18
+    },
+    {
+     "name": "Plasma Unit-ENG",
+     "price": 100
+    },
+    {
+     "name": "Pulse Pack-ENG",
+     "price": 65
+    },
+    {
+     "name": "Refined Stainless Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Refined Steel Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Stainless Bolt Pack-ENG",
+     "price": 10
+    },
+    {
+     "name": "Stainless Stock-ENG",
+     "price": 85
+    },
+    {
+     "name": "Steel Plate-ENG",
+     "price": 60
+    },
+    {
+     "name": "Steel Stock-ENG",
+     "price": 18
+    },
+    {
+     "name": "Sub-Micron Alumina-ENG",
+     "price": 5
+    },
+    {
+     "name": "Wood Unit-ENG",
+     "price": 2
+    },
+    {
+     "name": "Engineering Kit",
+     "price": 15000
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Trendor Chemlab",
+   "px": 6319.4,
+   "py": 6738.2,
+   "box": [
+    6307.6,
+    6620.3,
+    6331.3,
+    6856.1
+   ],
+   "shopId": 41,
+   "stock": [
+    {
+     "name": "Aged Orange",
+     "price": 10
+    },
+    {
+     "name": "Antimony",
+     "price": 5
+    },
+    {
+     "name": "Aqua Tofani",
+     "price": 350
+    },
+    {
+     "name": "Banana",
+     "price": 4
+    },
+    {
+     "name": "Barley",
+     "price": 5
+    },
+    {
+     "name": "Berry Bunch",
+     "price": 8
+    },
+    {
+     "name": "Blue Vitriol",
+     "price": 15
+    },
+    {
+     "name": "Cadmia",
+     "price": 3
+    },
+    {
+     "name": "Cantaloupe",
+     "price": 2
+    },
+    {
+     "name": "Caustic Volatile Alkali",
+     "price": 50
+    },
+    {
+     "name": "Cell Plant",
+     "price": 16
+    },
+    {
+     "name": "Chrome Green",
+     "price": 5
+    },
+    {
+     "name": "Chrome Yellow",
+     "price": 2
+    },
+    {
+     "name": "Cinnabar",
+     "price": 2
+    },
+    {
+     "name": "Cocktail Mix",
+     "price": 2
+    },
+    {
+     "name": "Coffee Beans",
+     "price": 9
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Fruit Liquor",
+     "price": 2
+    },
+    {
+     "name": "Fuel",
+     "price": 4
+    },
+    {
+     "name": "Galena",
+     "price": 2
+    },
+    {
+     "name": "Gen Juice",
+     "price": 10
+    },
+    {
+     "name": "Gena Root",
+     "price": 2
+    },
+    {
+     "name": "Grain Alcohol",
+     "price": 12
+    },
+    {
+     "name": "Gypsum",
+     "price": 18
+    },
+    {
+     "name": "Gyro Plasma",
+     "price": 500
+    },
+    {
+     "name": "High Density Hydraul Fluid",
+     "price": 550
+    },
+    {
+     "name": "Kings Yellow",
+     "price": 400
+    },
+    {
+     "name": "Lemon Extract",
+     "price": 8
+    },
+    {
+     "name": "Lime",
+     "price": 5
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Trendor Smith Armor",
+   "px": 6436.4,
+   "py": 5864,
+   "box": [
+    6429.4,
+    5856.9,
+    6443.5,
+    5871.1
+   ],
+   "shopId": 42,
+   "stock": [
+    {
+     "name": "Aluminum Stock-SMT",
+     "price": 3
+    },
+    {
+     "name": "Andros Alloy Unit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Ceramic Flex Unit-SMT",
+     "price": 150
+    },
+    {
+     "name": "Ceramic Stock-SMT",
+     "price": 25
+    },
+    {
+     "name": "Cobalt Unit-SMT",
+     "price": 300
+    },
+    {
+     "name": "Core Metal Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    },
+    {
+     "name": "Iron Stock-SMT",
+     "price": 8
+    },
+    {
+     "name": "Lightweight Titanium Plugs-SMT",
+     "price": 150
+    },
+    {
+     "name": "Magnesium Plating-SMT",
+     "price": 400
+    },
+    {
+     "name": "Plasma Unit-SMT",
+     "price": 25
+    },
+    {
+     "name": "Platinum Stock-SMT",
+     "price": 75
+    },
+    {
+     "name": "Rivet Kit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Stainless Steel Stock-SMT",
+     "price": 100
+    },
+    {
+     "name": "Steel Stock-SMT",
+     "price": 20
+    },
+    {
+     "name": "Titanium Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Wood Unit-SMT",
+     "price": 2
+    },
+    {
+     "name": "Smith Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Trendor Smith Forgery",
+   "px": 6418.4,
+   "py": 5865.1,
+   "box": [
+    6411.3,
+    5858,
+    6425.5,
+    5872.2
+   ],
+   "shopId": 43,
+   "stock": [
+    {
+     "name": "Aluminum Stock-SMT",
+     "price": 3
+    },
+    {
+     "name": "Andros Alloy Unit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Ceramic Flex Unit-SMT",
+     "price": 150
+    },
+    {
+     "name": "Ceramic Stock-SMT",
+     "price": 25
+    },
+    {
+     "name": "Cobalt Unit-SMT",
+     "price": 300
+    },
+    {
+     "name": "Core Metal Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    },
+    {
+     "name": "Iron Stock-SMT",
+     "price": 8
+    },
+    {
+     "name": "Lightweight Titanium Plugs-SMT",
+     "price": 150
+    },
+    {
+     "name": "Magnesium Plating-SMT",
+     "price": 400
+    },
+    {
+     "name": "Plasma Unit-SMT",
+     "price": 25
+    },
+    {
+     "name": "Platinum Stock-SMT",
+     "price": 75
+    },
+    {
+     "name": "Rivet Kit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Stainless Steel Stock-SMT",
+     "price": 100
+    },
+    {
+     "name": "Steel Stock-SMT",
+     "price": 20
+    },
+    {
+     "name": "Titanium Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Wood Unit-SMT",
+     "price": 2
+    },
+    {
+     "name": "Smith Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Trendor Armor NEW",
+   "px": 6089.5,
+   "py": 6041.6,
+   "box": [
+    6070.4,
+    6030.1,
+    6108.6,
+    6053.1
+   ],
+   "shopId": 63,
+   "stock": [
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    }
+   ]
+  },
+  {
+   "layer": "safezones",
+   "name": "Trendor City",
+   "px": 6524.4,
+   "py": 6240,
+   "box": [
+    5942.9,
+    5811.6,
+    7105.9,
+    6668.4
+   ],
+   "kind": "safe zone (respawn point)"
+  },
+  {
+   "layer": "safezones",
+   "name": "Trendor Sewer",
+   "px": 6820.6,
+   "py": 5384.8,
+   "box": [
+    6306.9,
+    4818.5,
+    7334.3,
+    5951.1
+   ],
+   "kind": "safe zone (respawn point)"
+  },
+  {
+   "layer": "safezones",
+   "name": "Trendor City2",
+   "px": 5728,
+   "py": 6672.8,
+   "box": [
+    5414.3,
+    6365.4,
+    6041.7,
+    6980.3
+   ],
+   "kind": "safe zone (respawn point)"
+  },
+  {
+   "layer": "safezones",
+   "name": "Trendor City3",
+   "px": 6333.4,
+   "py": 5613.4,
+   "box": [
+    6193.6,
+    5280.6,
+    6473.3,
+    5946.2
+   ],
+   "kind": "safe zone (respawn point)"
+  },
+  {
+   "layer": "safezones",
+   "name": "UGCCityNONPK1",
+   "px": 6524.4,
+   "py": 6240,
+   "box": [
+    5942.9,
+    5811.6,
+    7105.9,
+    6668.4
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "safezones",
+   "name": "UGCCitySewerNonPK",
+   "px": 6820.6,
+   "py": 5384.8,
+   "box": [
+    6306.9,
+    4818.5,
+    7334.3,
+    5951.1
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "safezones",
+   "name": "UGCCityNONPK2",
+   "px": 5728,
+   "py": 6672.8,
+   "box": [
+    5414.3,
+    6365.4,
+    6041.7,
+    6980.3
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "safezones",
+   "name": "UGCCityNONPK3",
+   "px": 6333.4,
+   "py": 5613.4,
+   "box": [
+    6193.6,
+    5280.6,
+    6473.3,
+    5946.2
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "players",
+   "name": "Player spawn 2",
+   "px": 6163.9,
+   "py": 6416.5,
+   "detail": "Object 231 (L01Ports_FROML02_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6385.3,
+   "py": 5875.3,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 69 (EXTPORTALOUT03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6378.5,
+   "py": 5882.2,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 70 (EXTPORTALOUT04a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 26",
+   "px": 7222.4,
+   "py": 4944.3,
+   "radiusPx": 177,
+   "detail": "Action 6: play soundtrack, argument 26\nRadius: 500\nObject 198 (powerpiece01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6183.2,
+   "py": 6345.8,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 229 (L01Ports_FROML00_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6163.9,
+   "py": 6345.9,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 230 (L01Ports_FROML00_02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6208.7,
+   "py": 6371.4,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 233 (L01Ports_TOL00_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6208.9,
+   "py": 6390.7,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 234 (L01Ports_TOL00_02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6583.4,
+   "py": 6124.8,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 236 (L00Ports_FROML01_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6602.7,
+   "py": 6124.8,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 237 (L00Ports_FROML01_02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6557.8,
+   "py": 6079.9,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 240 (L00Ports_TOL01_01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6557.9,
+   "py": 6099.2,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 241 (L00Ports_TOL01_02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6369.3,
+   "py": 6223.9,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 244 (L02_PortTrigger03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6342.6,
+   "py": 6178,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 2\nRadius: 20\nObject 246 (L02_PortTrigger02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 33",
+   "px": 6369.4,
+   "py": 5855.4,
+   "radiusPx": 70.8,
+   "detail": "Action 6: play soundtrack, argument 33\nRadius: 200\nObject 308 (L01_MainEntg.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6360.3,
+   "py": 5882.2,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 310 (EXTPORTALOUT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6353.5,
+   "py": 5875.3,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 311 (EXTPORTALOUT02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 13",
+   "px": 6379.3,
+   "py": 5940.6,
+   "radiusPx": 70.8,
+   "detail": "Action 6: play soundtrack, argument 13\nRadius: 200\nObject 1172 (PORTAL_INa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6364,
+   "py": 5940.6,
+   "radiusPx": 3.5,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 10\nObject 1175 (PORTAL_OUTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6365.5,
+   "py": 6086.5,
+   "radiusPx": 3.5,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 10\nObject 1178 (SEWPORTINa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6306.8,
+   "py": 5348.9,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1334 (Bar01PortalPada.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6432,
+   "py": 5348.9,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1338 (Bar02PortalPad02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6460.8,
+   "py": 5320.2,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1363 (SUBLEV01PortPad02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6403.2,
+   "py": 5320.2,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1365 (SUBLEV01PortPad04a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6306.8,
+   "py": 5348.9,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1367 (SUBLEV01PortPad06a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6306.8,
+   "py": 5291.4,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1369 (SUBLEV01PortPad08a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6524.2,
+   "py": 5341.2,
+   "radiusPx": 7.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1497 (PORTALTRIGSEWER_OUTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 52",
+   "px": 6369.5,
+   "py": 5320,
+   "radiusPx": 26.6,
+   "detail": "Action 6: play soundtrack, argument 52\nRadius: 75\nObject 1600 (musictrigger03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 53",
+   "px": 6368.7,
+   "py": 5630.4,
+   "radiusPx": 26.6,
+   "detail": "Action 6: play soundtrack, argument 53\nRadius: 75\nObject 1601 (musictrigger04a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 13",
+   "px": 5904.5,
+   "py": 6484.2,
+   "radiusPx": 35.4,
+   "detail": "Action 6: play soundtrack, argument 13\nRadius: 100\nObject 1604 (CONDEMCAVE_MUSICTRIGa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 7127,
+   "py": 6272.5,
+   "radiusPx": 10.6,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1613 (Portala.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6966,
+   "py": 6351.7,
+   "radiusPx": 10.6,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1626 (Portala.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 6971.4,
+   "py": 6149,
+   "radiusPx": 10.6,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1641 (PORTTRIG_FEMALEENTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 7008.9,
+   "py": 6339.8,
+   "radiusPx": 10.6,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1642 (PORTTRIG_MALEENTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 0",
+   "px": 6367.6,
+   "py": 6265.7,
+   "radiusPx": 478,
+   "detail": "Action 6: play soundtrack, argument 0\nRadius: 1350\nObject 3484 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 29",
+   "px": 5737,
+   "py": 6725.2,
+   "radiusPx": 212.4,
+   "detail": "Action 6: play soundtrack, argument 29\nRadius: 600\nObject 3488 (Light001.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "IIACityParkWater",
+   "px": 6368.5,
+   "py": 6262.8,
+   "box": [
+    6138.4,
+    6094.7,
+    6598.7,
+    6431
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "CatacombsLava01",
+   "px": 531.7,
+   "py": 694.3,
+   "box": [
+    301.6,
+    74.8,
+    761.9,
+    1313.9
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "CatacombsWater01",
+   "px": 529.1,
+   "py": 1149.8,
+   "box": [
+    263.6,
+    1096.7,
+    794.7,
+    1202.9
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "CatacombsWater02",
+   "px": 529.1,
+   "py": 1506,
+   "box": [
+    263.6,
+    1452.9,
+    794.7,
+    1559.1
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "CatacombsWater03",
+   "px": 529.1,
+   "py": 1787.3,
+   "box": [
+    511.4,
+    1610.3,
+    546.8,
+    1964.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "CatacombsWater04",
+   "px": 529.1,
+   "py": 2372.8,
+   "box": [
+    381.7,
+    1958.2,
+    676.5,
+    2787.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater01",
+   "px": 6381.1,
+   "py": 5484.8,
+   "box": [
+    6311.1,
+    5267.4,
+    6451.1,
+    5702.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater02",
+   "px": 6704.6,
+   "py": 5325.4,
+   "box": [
+    6442,
+    5199.5,
+    6967.2,
+    5451.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater03",
+   "px": 7478,
+   "py": 4998.3,
+   "box": [
+    6909.5,
+    4790,
+    8046.4,
+    5206.6
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater04",
+   "px": 7710.9,
+   "py": 5343.6,
+   "box": [
+    7375.4,
+    5135.3,
+    8046.4,
+    5551.9
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Water",
+   "px": 7450,
+   "py": 5137.2,
+   "box": [
+    7401,
+    4409.6,
+    7499,
+    5864.7
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

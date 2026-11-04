@@ -1,0 +1,31 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "western-region",
+  "title": "Western Region",
+  "places": [],
+  "group": "other",
+  "worldId": 41,
+  "source": {
+    "world": "WesternRegion.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.414461687207222,
+    "origin": {
+      "x": -1631.83154296875,
+      "z": 1806.8486328125
+    }
+  },
+  "width": 8119,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#291107",
+  "layers": [
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    }
+  ]
+}

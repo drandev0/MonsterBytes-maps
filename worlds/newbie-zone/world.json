@@ -1,0 +1,89 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "newbie-zone",
+  "title": "Newbie Zone",
+  "places": [
+    "Newbie Zone"
+  ],
+  "group": "lands",
+  "worldId": 1,
+  "source": {
+    "world": "NewbieZone.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.7625535130500793,
+    "origin": {
+      "x": -2878.94580078125,
+      "z": 2249.43359375
+    }
+  },
+  "width": 7654,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#000000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 16
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 26
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "gather",
+      "title": "Gathering and chests",
+      "color": "#8bc34a",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "shops",
+      "title": "Shop counters",
+      "color": "#8d6e63",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 8
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 1
+    }
+  ]
+}

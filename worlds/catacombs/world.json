@@ -1,0 +1,76 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "catacombs",
+  "title": "Catacombs",
+  "places": [
+    "Catacombs"
+  ],
+  "group": "dungeons",
+  "worldId": 24,
+  "source": {
+    "world": "CATACOMBS.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 2.4421916157007217,
+    "origin": {
+      "x": -18073.580078125,
+      "z": 19621.02734375
+    }
+  },
+  "width": 7559,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#190000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 8
+    },
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 53
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 24
+    },
+    {
+      "id": "gather",
+      "title": "Gathering and chests",
+      "color": "#8bc34a",
+      "shown": false,
+      "count": 11
+    },
+    {
+      "id": "safezones",
+      "title": "Safe and damage zones",
+      "color": "#9ccc65",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 15
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 20
+    }
+  ],
+  "note": "Its parts are spread out in one map, with empty space between them."
+}

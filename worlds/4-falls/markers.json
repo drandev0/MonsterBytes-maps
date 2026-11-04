@@ -1,0 +1,5562 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 3104.3,
+   "py": 3884,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 3061.2,
+   "py": 3849.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2951.8,
+   "py": 3780.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 3021.9,
+   "py": 3759.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 3130.3,
+   "py": 3784.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 3244.5,
+   "py": 3841.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 3295.5,
+   "py": 4024.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 3186,
+   "py": 4036.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 0 (Central Forest):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2727.7,
+   "py": 3657.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 1 (Central Tree 2):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2753.3,
+   "py": 3457.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 1 (Central Tree 2):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2564.6,
+   "py": 3389.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 1 (Central Tree 2):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2433.1,
+   "py": 3525.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 1 (Central Tree 2):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2415.6,
+   "py": 3716.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 1 (Central Tree 2):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2628,
+   "py": 3730.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 1 (Central Tree 2):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2543,
+   "py": 3679.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 1 (Central Tree 2):\nNaton (LV5) (Spawner: Nantons Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2792.3,
+   "py": 3122,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2920.1,
+   "py": 3024.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2780.8,
+   "py": 3025.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2770.7,
+   "py": 2847.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2636.5,
+   "py": 2777.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2627.2,
+   "py": 2930.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2817.6,
+   "py": 3108.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Lidion",
+   "px": 2762.6,
+   "py": 3055.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 92,
+     "name": "Lidion",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (Central Tree 3):\nLidion (LV9) (Spawner: Lidion Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 3268.3,
+   "py": 2478.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 3547.8,
+   "py": 2850.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 3527.6,
+   "py": 3253.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 3363,
+   "py": 3522.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 3039.9,
+   "py": 3806.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 2680.1,
+   "py": 3652.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 2498.6,
+   "py": 3365.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 2682.6,
+   "py": 2827.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kidion Bat",
+   "px": 2905.6,
+   "py": 2561.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 63,
+     "name": "Kidion Bat",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 14 (Central Flight Path):\nKidion Bat (LV9) (Spawner: Flight path Central, up to 0)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2770,
+   "py": 2307.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3213.6,
+   "py": 2402.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3573.3,
+   "py": 2611.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 4000.5,
+   "py": 2633.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 4073.4,
+   "py": 3083.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3863.4,
+   "py": 3653.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3547.9,
+   "py": 3850.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3241.9,
+   "py": 4304.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2721,
+   "py": 4768.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2373.5,
+   "py": 4546.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2347.2,
+   "py": 4081.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2571.4,
+   "py": 3469.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2992,
+   "py": 3800.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3383.4,
+   "py": 3899.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3855.5,
+   "py": 3662.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 4014.4,
+   "py": 2805.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3694.3,
+   "py": 2596.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 3337.6,
+   "py": 2620.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2637.8,
+   "py": 2820.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2399.6,
+   "py": 2493,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crosp",
+   "px": 2643.1,
+   "py": 2347.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 341,
+     "name": "Crosp",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 21 on AI web 25 (4Falls01):\nCrosp (LV11) (Spawner: 4Falls_01, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 4726.3,
+   "py": 2649.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 4232.2,
+   "py": 2874.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 3834,
+   "py": 2896.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 3651.1,
+   "py": 2734.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 3503,
+   "py": 2647.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 3423.7,
+   "py": 2487.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 3395.6,
+   "py": 2207.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 3525.5,
+   "py": 2010.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 3912,
+   "py": 1923.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 4199.9,
+   "py": 1983.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 4490,
+   "py": 2039.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 4593,
+   "py": 2230.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vilidon",
+   "px": 4802.9,
+   "py": 2689.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 107,
+     "name": "Vilidon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 26 (4Falls02):\nVilidon (LV5) (Spawner: 4Falls_02, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 5131.5,
+   "py": 3658.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 5054.3,
+   "py": 4059.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4925,
+   "py": 4301,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4745.5,
+   "py": 4501.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4451.1,
+   "py": 4554.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4239.3,
+   "py": 4624.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4053.5,
+   "py": 4606.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 3885.4,
+   "py": 4429.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 3874.7,
+   "py": 4228.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 3952.1,
+   "py": 4052.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4293.4,
+   "py": 4007.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4592.7,
+   "py": 3889,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4679,
+   "py": 3740.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 4893.8,
+   "py": 3518.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Uline",
+   "px": 5025.8,
+   "py": 3475.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 176,
+     "name": "Uline",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 27 (4Falls03):\nUline (LV7) (Spawner: 4Falls_03, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4474.5,
+   "py": 3491.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4462.1,
+   "py": 3267,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4548.2,
+   "py": 3141.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4730.8,
+   "py": 2986.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4935.2,
+   "py": 2913.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 5155,
+   "py": 2743.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 5372.2,
+   "py": 2650.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 5425.9,
+   "py": 2678.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 5377.4,
+   "py": 2753.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 5251.5,
+   "py": 2877.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 5129.1,
+   "py": 3059.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 5076.8,
+   "py": 3325.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4976.3,
+   "py": 3458.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4825.3,
+   "py": 3515.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Klondon",
+   "px": 4618.1,
+   "py": 3554.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 105,
+     "name": "Klondon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 15 on AI web 28 (4Falls04):\nKlondon (LV3) (Spawner: 4Falls_04, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2309.5,
+   "py": 2518.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2424.1,
+   "py": 2410.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2553.8,
+   "py": 2362.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2690.8,
+   "py": 2386.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2731.3,
+   "py": 2450.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2766.8,
+   "py": 2614.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2779.2,
+   "py": 2765.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2721.1,
+   "py": 2904.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2693.7,
+   "py": 2996,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2440.3,
+   "py": 3130,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2298.4,
+   "py": 3068.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2187.1,
+   "py": 2825.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ean",
+   "px": 2275,
+   "py": 2608.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 198,
+     "name": "Ean",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 29 (4Falls05):\nEan (LV4) (Spawner: 4Falls_05, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 2402.1,
+   "py": 3182,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1983.4,
+   "py": 3179.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1772.3,
+   "py": 3242.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1732.5,
+   "py": 3375.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1727.9,
+   "py": 3567.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1814.6,
+   "py": 3719,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1926.1,
+   "py": 3783,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 2070.8,
+   "py": 3943,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 2033.7,
+   "py": 4211.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1914.2,
+   "py": 4274.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1887.1,
+   "py": 4158.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1937.8,
+   "py": 4048.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1921.2,
+   "py": 3943,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1729.6,
+   "py": 3720.3,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1690.5,
+   "py": 3382.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 1814.8,
+   "py": 3200.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 2085,
+   "py": 3062.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 2422.8,
+   "py": 3022,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Vigon",
+   "px": 2482.3,
+   "py": 3072.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 174,
+     "name": "Vigon",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 30 (4Falls06):\nVigon (LV3) (Spawner: 4Falls_06, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2730.6,
+   "py": 5190.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2595.4,
+   "py": 5151.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2350.1,
+   "py": 5193.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2226,
+   "py": 5282.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2131.6,
+   "py": 5223.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2115.4,
+   "py": 5089.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2202.4,
+   "py": 5017.2,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2411.5,
+   "py": 4920.4,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2577.4,
+   "py": 4668.6,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2427.2,
+   "py": 4456.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2322.7,
+   "py": 4210.7,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2353.6,
+   "py": 3904,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2490.9,
+   "py": 3653.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2619.4,
+   "py": 3591.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2814.1,
+   "py": 3739.9,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 3109.7,
+   "py": 3947.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 3228.2,
+   "py": 4231.8,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 3181.8,
+   "py": 4562.5,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elgon",
+   "px": 2895.9,
+   "py": 5109.1,
+   "radiusPx": 7.4,
+   "mobs": [
+    {
+     "id": 199,
+     "name": "Elgon",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 19 on AI web 31 (4Falls07):\nElgon (LV6) (Spawner: 4Falls_07, up to 3)"
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Arch halls room",
+   "px": 6687.9,
+   "py": 3086.4,
+   "npcId": 199,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Greater Light (Lv5)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Circ room 2",
+   "px": 6321.6,
+   "py": 3627.2,
+   "npcId": 200,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Greater Heal (Lv5)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Circ 3 room",
+   "px": 7226.8,
+   "py": 3686.3,
+   "npcId": 201,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Lightning Strike (Lv5) (Re)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) deep underground",
+   "px": 7412.4,
+   "py": 2861.7,
+   "npcId": 202,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Air Blast (Lv5) (A)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Left corridor 1-2",
+   "px": 7170.6,
+   "py": 1094.5,
+   "npcId": 203,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Meteor (Lv3) (E)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Corridor Block",
+   "px": 5568.6,
+   "py": 1869.9,
+   "npcId": 204,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Radius Flame (Lv5) (F)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Side Corridor",
+   "px": 5487.9,
+   "py": 1855.1,
+   "npcId": 205,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Radius Heal (Lv5)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tamin (Magery)",
+   "px": 3230.8,
+   "py": 3233.6,
+   "npcId": 338,
+   "template": "Amphibious",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Ash",
+     "price": 4
+    },
+    {
+     "name": "Bone",
+     "price": 8
+    },
+    {
+     "name": "Blood Sand",
+     "price": 15
+    },
+    {
+     "name": "Orb Root",
+     "price": 24
+    },
+    {
+     "name": "Eye of Elder Clegurk",
+     "price": 35
+    },
+    {
+     "name": "Poison Herb",
+     "price": 5
+    },
+    {
+     "name": "Blood Grass",
+     "price": 35
+    },
+    {
+     "name": "Hyssop Herb",
+     "price": 40
+    },
+    {
+     "name": "Slingthrex Twig",
+     "price": 42
+    },
+    {
+     "name": "Uenos Root",
+     "price": 45
+    },
+    {
+     "name": "Tanzin Bush",
+     "price": 45
+    },
+    {
+     "name": "Scroll of Acid Missile (Lv1) (W)",
+     "price": 1000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Actinide (Items)",
+   "px": 3248,
+   "py": 3335.4,
+   "npcId": 390,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(AP) Wings of Darion",
+     "price": 1788
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Amberlaz Charges (35)",
+     "price": 20
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Clawjous Mellons (30)",
+     "price": 93
+    },
+    {
+     "name": "Dilirium Chews (30)",
+     "price": 175
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Gustlaz Charges (35)",
+     "price": 51
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Metatrile Plankton (30)",
+     "price": 200
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Oafinster Chow (25)",
+     "price": 175
+    },
+    {
+     "name": "Oafronack Gobs (25)",
+     "price": 260
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Quadoty Rolls (25)",
+     "price": 78
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Soilaz Charges (35)",
+     "price": 27
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "Stontrile Plankton (30)",
+     "price": 150
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Trinster Ore Gobs (30)",
+     "price": 160
+    },
+    {
+     "name": "Trinstnarak Crystals (30)",
+     "price": 213
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Familiar Scroll of Klondon (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Atrix (Banker)",
+   "px": 3291.3,
+   "py": 3153.7,
+   "npcId": 391,
+   "template": "Amphibious",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Accessing Bank",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Trenes",
+   "px": 6389.1,
+   "py": 3665.9,
+   "npcId": 404,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Decode Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Xellion Mission"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 5 of 28",
+     "needs": [
+      {
+       "name": "Elder Stone Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Shockion Scout Mission"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 8 of 28",
+     "needs": [
+      {
+       "name": "Spirit Gateway Orb"
+      },
+      {
+       "name": "Note to Trenes"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note to Sirra"
+      },
+      {
+       "name": "Spirit Gateway Orb"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 11 of 28",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hilrom",
+   "px": 1412.8,
+   "py": 3649.7,
+   "npcId": 410,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Shockion Scout Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Shockion Scout Mission"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 9 of 28",
+     "needs": [
+      {
+       "name": "Spirit Gateway Orb"
+      },
+      {
+       "name": "Shockion Scout Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note to Trenes"
+      },
+      {
+       "name": "Spirit Gateway Orb"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 10 of 28",
+     "needs": [
+      {
+       "name": "Malakai Mission"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 14 of 28",
+     "needs": [
+      {
+       "name": "Malakai Clone Device"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 15 of 28",
+     "needs": [
+      {
+       "name": "Trunor Chip"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Hilrom Battle Plan"
+      },
+      {
+       "name": "Trunor Chip"
+      },
+      {
+       "name": "Plasma Energy Charger"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 16 of 28",
+     "needs": [
+      {
+       "name": "Final Battle Plan"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Malakai Clone Device"
+      },
+      {
+       "name": "Note from Hilrom"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 20 of 28",
+     "needs": [
+      {
+       "name": "Note to Hilrom"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note from Hilrom"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 24 of 28",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Quazon Chest FFC) Aventure",
+   "px": 7341,
+   "py": 3069.2,
+   "npcId": 446,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Aventurine Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Aventurine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Quazon Chest FFC) Chalcedony",
+   "px": 6461.7,
+   "py": 1449,
+   "npcId": 447,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Chalcedony Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Chalcedony"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mineral Chest",
+   "px": 7875.5,
+   "py": 2808.2,
+   "npcId": 448,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Mineral Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Naggite",
+       "qty": 2
+      },
+      {
+       "name": "Zancon",
+       "qty": 2
+      },
+      {
+       "name": "Rocap Ore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Anton",
+   "px": 954.5,
+   "py": 3175.3,
+   "npcId": 454,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Antons Toolbox"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Netlauncher Quest: Part 2 of 22",
+     "needs": [
+      {
+       "name": "Plasma Generator Casing"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plasma Net Generator"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 3 of 22",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chest 1",
+   "px": 1139.8,
+   "py": 969.9,
+   "npcId": 518,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "chest",
+     "needs": [
+      {
+       "name": "Termine Container Key 1"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Termine Container Key 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chest 2",
+   "px": 5443.3,
+   "py": 4781.8,
+   "npcId": 519,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "chest",
+     "needs": [
+      {
+       "name": "Termine Container Key 2"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Termine Container Key 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chest 3",
+   "px": 1079.8,
+   "py": 5518.2,
+   "npcId": 520,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "chest",
+     "needs": [
+      {
+       "name": "Termine Container Key 3"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Termine Container Key 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Chest 4",
+   "px": 5703.5,
+   "py": 1233.5,
+   "npcId": 521,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "chest",
+     "needs": [
+      {
+       "name": "Termine Container Key 4"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Termine Lesson 1 Orb"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Antex",
+   "px": 1516.5,
+   "py": 5416.4,
+   "npcId": 530,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Plasma Net Generator"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plasma Net Generator"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 4 of 22",
+     "needs": [
+      {
+       "name": "Scout Eye",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "Motakor Mission"
+      },
+      {
+       "name": "Plasma Net Compressor"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 5 of 22",
+     "needs": [
+      {
+       "name": "Gosh Ring of Ancients"
+      },
+      {
+       "name": "Arm Joint Bearing"
+      },
+      {
+       "name": "Plasma Net Compressor"
+      },
+      {
+       "name": "Net Regulator Unit"
+      },
+      {
+       "name": "Plasma Net Emitter"
+      },
+      {
+       "name": "Net Burst Unit"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Net Actuator Arm"
+      },
+      {
+       "name": "Gosh Ring of Ancients"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Netlauncher Quest: Part 8 of 22",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Yelvien",
+   "px": 3260.3,
+   "py": 3353.3,
+   "npcId": 547,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Yelviens Necklace"
+      }
+     ],
+     "cash": 200
+    },
+    {
+     "title": "Hoverbike: Part 9 of 23"
+    },
+    {
+     "title": "Hoverbike: Part 10 of 23",
+     "needs": [
+      {
+       "name": "Hyper Cell Material-ENG",
+       "qty": 5
+      },
+      {
+       "name": "Proving Opal Marble",
+       "qty": 5
+      },
+      {
+       "name": "Ecolalgae",
+       "qty": 5
+      },
+      {
+       "name": "Plasma Unit-ENG"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Peroxi Rebuilder Heal (+180 HP)",
+       "qty": 2
+      },
+      {
+       "name": "Hurans Tool Case"
+      },
+      {
+       "name": "Plasma Fuel Cell"
+      }
+     ]
+    },
+    {
+     "title": "Hoverbike: Part 11 of 23",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Aner",
+   "px": 3340.2,
+   "py": 3380.9,
+   "npcId": 555,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Mineral Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Mineral Key"
+      }
+     ]
+    },
+    {
+     "title": "Dual Quazon Horns Quest: Part 2 of 4",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Rocap Ore"
+      },
+      {
+       "name": "Zancon",
+       "qty": 2
+      },
+      {
+       "name": "Naggite",
+       "qty": 2
+      }
+     ]
+    },
+    {
+     "title": "Dual Quazon Horns Quest: Part 3 of 4",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Crosp Horn",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "Naggite",
+       "qty": 2
+      },
+      {
+       "name": "Rocap Ore"
+      },
+      {
+       "name": "Crosp Horn",
+       "qty": 2
+      },
+      {
+       "name": "Zancon",
+       "qty": 2
+      }
+     ]
+    },
+    {
+     "title": "Dual Quazon Horns Quest: Part 4 of 4",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Huguli",
+   "px": 4842.6,
+   "py": 1763.5,
+   "npcId": 556,
+   "template": "Amphibious",
+   "quests": [
+    {
+     "title": "AP Text",
+     "race": "AP"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Shaman Raphic",
+   "px": 4903.9,
+   "py": 1748.7,
+   "npcId": 557,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "skill": "Mind Control 6",
+     "gives": [
+      {
+       "name": "Aventurine Key"
+      },
+      {
+       "name": "Chalcedony Key"
+      }
+     ]
+    },
+    {
+     "title": "Single Quazon Horn Quest: Part 1 of 1",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Chalcedony"
+      },
+      {
+       "name": "Crosp Horn"
+      },
+      {
+       "name": "Aventurine"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Single Horn Quazon"
+      },
+      {
+       "name": "(AP) Single Rhino Quaz"
+      },
+      {
+       "name": "(AP) Single Norwa Quaz"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Dual Quazon Horns Quest:",
+     "race": "AP",
+     "gives": [
+      {
+       "name": "Mineral Key"
+      }
+     ]
+    },
+    {
+     "title": "Dual Quazon Horns Quest: Part 1 of 4",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Crosp Horn",
+       "qty": 2
+      },
+      {
+       "name": "Naggite",
+       "qty": 2
+      },
+      {
+       "name": "Rocap Ore"
+      },
+      {
+       "name": "Zancon",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Dual Shepa Quaz"
+      },
+      {
+       "name": "(AP) Dual Horns Quazon"
+      },
+      {
+       "name": "(AP) Dual Tusks Quaz"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Dual Quazon Horns Quest: Complete",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lilist",
+   "px": 4681.2,
+   "py": 1341.1,
+   "npcId": 688,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Natur Gidion"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 8 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Skarshar Head",
+       "qty": 6
+      },
+      {
+       "name": "Skarshar Arms",
+       "qty": 6
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Deity Ring Lagion"
+      },
+      {
+       "name": "Note to Natur"
+      },
+      {
+       "name": "(AP) Deity Amulet Lagion"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 9 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Nidderis (Armor)",
+   "px": 3334.1,
+   "py": 3379.2,
+   "npcId": 704,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(AP) Plandon Helmet (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(AP) Plandon Bracers (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Shin Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Sondron Helmet (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(AP) Sondron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(AP) Sondron Bracers (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sondron Shin Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sision Helmet (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(AP) Sision Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(AP) Sision Bracers (Lv3)",
+     "price": 142
+    },
+    {
+     "name": "(AP) Sision Shin Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(AP) Vidon Helmet (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(AP) Vidon Chest Armor (Lv4)",
+     "price": 502
+    },
+    {
+     "name": "(AP) Vidon Bracers (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Vidon Shin Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Helmet (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(AP) Quazon Bracers (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(AP) Quazon Shin Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Prayway (Weapons)",
+   "px": 3367.2,
+   "py": 3328.5,
+   "npcId": 705,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(AP) Aqualaz (N)(W) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(AP) Amberlaz (N)(F) (Lv2)",
+     "price": 320
+    },
+    {
+     "name": "(AP) Soilaz (N)(E) (Lv3)",
+     "price": 640
+    },
+    {
+     "name": "(AP) Gustlaz (N)(A) (Lv4)",
+     "price": 920
+    },
+    {
+     "name": "(AP) Quadoty (N)(E) (Lv5)",
+     "price": 1000
+    },
+    {
+     "name": "(AP) Clawjous (N)(F) (Lv6)",
+     "price": 1800
+    },
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(BL) Hyperuzi-Chalis (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(BL) KvCrusher (N) (Lv4)",
+     "price": 928
+    },
+    {
+     "name": "(BL) Pulse Mortar (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HF) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HF) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HF) Plasma Snipe (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HF) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HF) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HM) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HM) Lyson Twin Lazer (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HM) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HM) Power Rifle (N) (Lv6)",
+     "price": 1808
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lorton",
+   "px": 3240.5,
+   "py": 3238.1,
+   "npcId": 730,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro"
+    },
+    {
+     "title": "Quest for Knowledge: Part 1 of 4",
+     "needs": [
+      {
+       "name": "Scroll of Acid Missile (Lv1) (W)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Poison Herb",
+       "qty": 12
+      },
+      {
+       "name": "Scroll of Acid Missile (Lv1) (W)"
+      }
+     ]
+    },
+    {
+     "title": "Quest for Knowledge: How to"
+    },
+    {
+     "title": "Quest for Knowledge: Part 2 of 4",
+     "needs": [
+      {
+       "name": "Scroll of Weak Heal (Lv1)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Bone",
+       "qty": 6
+      },
+      {
+       "name": "Scroll of Weak Heal (Lv1)"
+      }
+     ]
+    },
+    {
+     "title": "Quest for Knowledge: Part 3 of 4",
+     "skill": "MagicOLD 1"
+    },
+    {
+     "title": "Quest for Knowledge: Part 4 of 4",
+     "skill": "MagicOLD 2"
+    },
+    {
+     "title": "Quest for Knowledge: Complete"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Detinu",
+   "px": 5475.3,
+   "py": 2763.2,
+   "npcId": 731,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "skill": "MagicOLD 3"
+    },
+    {
+     "title": "Quest for Illumination: Part 1 of 4",
+     "needs": [
+      {
+       "name": "Perox Flower",
+       "qty": 5
+      }
+     ]
+    },
+    {
+     "title": "Quest for Illumination: Part 2 of 4",
+     "needs": [
+      {
+       "name": "Detinu Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Detinu Key"
+      }
+     ]
+    },
+    {
+     "title": "Quest for Illumination: Part 3 of 4",
+     "needs": [
+      {
+       "name": "Detinus Flint"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Quest for Illumination: Part 4 of 4",
+     "needs": [
+      {
+       "name": "Mayzora Spine"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Illuminate (Lv3)"
+      }
+     ]
+    },
+    {
+     "title": "Quest for Illumination: Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Property of Detinu",
+   "px": 5974.7,
+   "py": 2104.4,
+   "npcId": 732,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Flint",
+     "needs": [
+      {
+       "name": "Detinu Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Detinus Flint"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "asdf",
+   "px": 3897.4,
+   "py": 4490.8,
+   "npcId": 1518,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "(no title)"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Skarshar Captain",
+   "px": 4659,
+   "py": 1517.2,
+   "npcId": 1531,
+   "template": "Rayzion",
+   "quests": [
+    {
+     "title": "Spawn"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Trunor",
+   "px": 6424.1,
+   "py": 2120.1,
+   "npcId": 1551,
+   "template": "Sarin",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sarus",
+   "px": 6424.1,
+   "py": 2120.1,
+   "npcId": 1552,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "KX-1",
+   "px": 6424.1,
+   "py": 2120.1,
+   "npcId": 1553,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Cirucuto",
+   "px": 6424.1,
+   "py": 2120.1,
+   "npcId": 1554,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Herieven",
+   "px": 6424.1,
+   "py": 2120.1,
+   "npcId": 1555,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Overking Shadow",
+   "px": 6014.2,
+   "py": 3658.5,
+   "npcId": 1566,
+   "template": "Braun Adult",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mob Spawner 2",
+   "px": 2565.5,
+   "py": 3672.1,
+   "npcId": 1634,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "spawn",
+     "needs": [
+      {
+       "name": ""
+      }
+     ],
+     "gives": [
+      {
+       "name": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mob Spawner 3",
+   "px": 2567,
+   "py": 3671.1,
+   "npcId": 1635,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "spawn",
+     "needs": [
+      {
+       "name": ""
+      }
+     ],
+     "gives": [
+      {
+       "name": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mob Spawner 4",
+   "px": 2566.3,
+   "py": 3671.6,
+   "npcId": 1636,
+   "template": "Invis noCo",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "spawn",
+     "needs": [
+      {
+       "name": ""
+      }
+     ],
+     "gives": [
+      {
+       "name": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "AI Server Test",
+   "px": 3295.8,
+   "py": 3444.4,
+   "npcId": 1665,
+   "template": "Venderbot",
+   "quests": [
+    {
+     "title": "Test AI Server"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hi!",
+   "px": 3254.6,
+   "py": 3441.2,
+   "npcId": 1666,
+   "template": "InvNoCoHuge65",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Something",
+     "needs": [
+      {
+       "name": "GM Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "GM Key"
+      }
+     ],
+     "cash": 10000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sidderis (Armor)",
+   "px": 3344.6,
+   "py": 3362.5,
+   "npcId": 1680,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Moonus - Portal Guardian",
+   "px": 6250.9,
+   "py": 2182.9,
+   "npcId": 211,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 6203.3,
+      "py": 2232.9
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Succa - Portal Guardian",
+   "px": 6239.1,
+   "py": 1443.7,
+   "npcId": 212,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 6425.1,
+      "py": 2112.1
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Zeeke - Portal Guardian",
+   "px": 6997.8,
+   "py": 2025.4,
+   "npcId": 213,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 6934.8,
+      "py": 2023.7
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Pnet - Portal Guardian",
+   "px": 5463.1,
+   "py": 2803.2,
+   "npcId": 214,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 5485.8,
+      "py": 2762.6
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 3310.8,
+   "py": 3368.3,
+   "npcId": 1061,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4568.6,
+      "py": 4079.3
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1142,
+   "py": 3134.2,
+   "npcId": 1062,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls Temple",
+      "slug": "4-falls-temple",
+      "px": 1770.1,
+      "py": 4881.9
+     },
+     "title": "Blink!HF",
+     "needs": [
+      {
+       "name": "Celeste Emblem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 2497,
+   "py": 5424.3,
+   "npcId": 1101,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls Dungeon",
+      "slug": "4-falls-dungeon",
+      "px": 4537.8,
+      "py": 2754.8
+     },
+     "title": "Blink!HF",
+     "needs": [
+      {
+       "name": "Lillith Emblem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Traveler HF",
+   "px": 3262.6,
+   "py": 3306.6,
+   "npcId": 1415,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6331.9,
+      "py": 5899.5
+     },
+     "title": "Portal to Trendor"
+    },
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4588.1,
+      "py": 2980.2
+     },
+     "title": "Portal to Amphibious Island"
+    },
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 2979,
+      "py": 5100.1
+     },
+     "title": "Portal to Bloblic Colonies"
+    },
+    {
+     "to": {
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 4175.8,
+      "py": 4185.7
+     },
+     "title": "AirKingdom"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Mass Traveler",
+   "px": 3268.2,
+   "py": 3183.3,
+   "npcId": 1640,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA South",
+      "slug": "iia-south",
+      "px": 3632.1,
+      "py": 3372.2
+     },
+     "title": "Portal to IIA South"
+    },
+    {
+     "to": {
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 3551.8,
+      "py": 3760
+     },
+     "title": "Portal to Air Kingdom"
+    },
+    {
+     "to": {
+      "world": "Museum (AFK Zone)",
+      "slug": "museum",
+      "px": 6712.5,
+      "py": 3893.7
+     },
+     "title": "Portal to AFK Zone"
+    },
+    {
+     "to": {
+      "world": "Boomtown",
+      "slug": "boomtown",
+      "px": 3133.4,
+      "py": 4097.8
+     },
+     "title": "Portal to Boomtown"
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "4Falls General Store",
+   "px": 3250.1,
+   "py": 3332,
+   "box": [
+    3241.4,
+    3323,
+    3258.8,
+    3341.1
+   ],
+   "shopId": 33,
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(AP) Wings of Darion",
+     "price": 1788
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Amberlaz Charges (35)",
+     "price": 20
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Clawjous Mellons (30)",
+     "price": 93
+    },
+    {
+     "name": "Dilirium Chews (30)",
+     "price": 175
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Gustlaz Charges (35)",
+     "price": 51
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Metatrile Plankton (30)",
+     "price": 200
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Oafinster Chow (25)",
+     "price": 175
+    },
+    {
+     "name": "Oafronack Gobs (25)",
+     "price": 260
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Quadoty Rolls (25)",
+     "price": 78
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Soilaz Charges (35)",
+     "price": 27
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "Stontrile Plankton (30)",
+     "price": 150
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Trinster Ore Gobs (30)",
+     "price": 160
+    },
+    {
+     "name": "Trinstnarak Crystals (30)",
+     "price": 213
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Familiar Scroll of Klondon (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "4Falls Magic",
+   "px": 3234.4,
+   "py": 3231.8,
+   "box": [
+    3225.9,
+    3222.7,
+    3242.9,
+    3240.8
+   ],
+   "shopId": 34,
+   "stock": [
+    {
+     "name": "Ash",
+     "price": 4
+    },
+    {
+     "name": "Bone",
+     "price": 8
+    },
+    {
+     "name": "Blood Sand",
+     "price": 15
+    },
+    {
+     "name": "Orb Root",
+     "price": 24
+    },
+    {
+     "name": "Eye of Elder Clegurk",
+     "price": 35
+    },
+    {
+     "name": "Poison Herb",
+     "price": 5
+    },
+    {
+     "name": "Blood Grass",
+     "price": 35
+    },
+    {
+     "name": "Hyssop Herb",
+     "price": 40
+    },
+    {
+     "name": "Slingthrex Twig",
+     "price": 42
+    },
+    {
+     "name": "Uenos Root",
+     "price": 45
+    },
+    {
+     "name": "Tanzin Bush",
+     "price": 45
+    },
+    {
+     "name": "Scroll of Acid Missile (Lv1) (W)",
+     "price": 1000
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "4Falls Weapons",
+   "px": 3364.9,
+   "py": 3328.5,
+   "box": [
+    3356.4,
+    3319.3,
+    3373.4,
+    3337.8
+   ],
+   "shopId": 47,
+   "stock": [
+    {
+     "name": "(AP) Aqualaz (N)(W) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(AP) Amberlaz (N)(F) (Lv2)",
+     "price": 320
+    },
+    {
+     "name": "(AP) Soilaz (N)(E) (Lv3)",
+     "price": 640
+    },
+    {
+     "name": "(AP) Gustlaz (N)(A) (Lv4)",
+     "price": 920
+    },
+    {
+     "name": "(AP) Quadoty (N)(E) (Lv5)",
+     "price": 1000
+    },
+    {
+     "name": "(AP) Clawjous (N)(F) (Lv6)",
+     "price": 1800
+    },
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(BL) Hyperuzi-Chalis (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(BL) KvCrusher (N) (Lv4)",
+     "price": 928
+    },
+    {
+     "name": "(BL) Pulse Mortar (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HF) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HF) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HF) Plasma Snipe (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HF) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HF) Power Rifle (N) (Lv6)",
+     "price": 1808
+    },
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Ion Disrupter (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(HM) Impaler Gun (N) (Lv3)",
+     "price": 928
+    },
+    {
+     "name": "(HM) Lyson Twin Lazer (N) (Lv4)",
+     "price": 1008
+    },
+    {
+     "name": "(HM) Hyperuzi-Chalis (N) (Lv5)",
+     "price": 1560
+    },
+    {
+     "name": "(HM) Power Rifle (N) (Lv6)",
+     "price": 1808
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "4Falls Armor",
+   "px": 3338.5,
+   "py": 3378.8,
+   "box": [
+    3329.8,
+    3369.5,
+    3347.2,
+    3388
+   ],
+   "shopId": 48,
+   "stock": [
+    {
+     "name": "(AP) Plandon Helmet (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(AP) Plandon Bracers (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Plandon Shin Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(AP) Sondron Helmet (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(AP) Sondron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(AP) Sondron Bracers (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sondron Shin Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(AP) Sision Helmet (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(AP) Sision Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(AP) Sision Bracers (Lv3)",
+     "price": 142
+    },
+    {
+     "name": "(AP) Sision Shin Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(AP) Vidon Helmet (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(AP) Vidon Chest Armor (Lv4)",
+     "price": 502
+    },
+    {
+     "name": "(AP) Vidon Bracers (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Vidon Shin Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Helmet (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(AP) Quazon Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(AP) Quazon Bracers (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(AP) Quazon Shin Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    }
+   ]
+  },
+  {
+   "layer": "safezones",
+   "name": "4Falls",
+   "px": 3299.1,
+   "py": 3298.9,
+   "box": [
+    157.2,
+    157.1,
+    6441,
+    6440.8
+   ],
+   "kind": "safe zone (respawn point)"
+  },
+  {
+   "layer": "safezones",
+   "name": "4FallsTown",
+   "px": 3298.9,
+   "py": 3306,
+   "box": [
+    3180.1,
+    3104.1,
+    3417.8,
+    3507.8
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 39",
+   "px": 4777.9,
+   "py": 1820.9,
+   "radiusPx": 554.4,
+   "detail": "Action 6: play soundtrack, argument 39\nRadius: 1500\nObject 111 (4FallsLand11d.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 23",
+   "px": 3299.4,
+   "py": 4038,
+   "radiusPx": 369.6,
+   "detail": "Action 6: play soundtrack, argument 23\nRadius: 1000\nObject 169 (4FallsLand21a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 26",
+   "px": 1451.2,
+   "py": 4777.9,
+   "radiusPx": 480.5,
+   "detail": "Action 6: play soundtrack, argument 26\nRadius: 1300\nObject 208 (4FallsLand26e.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 50",
+   "px": 5620.1,
+   "py": 2925.6,
+   "radiusPx": 258.7,
+   "detail": "Action 6: play soundtrack, argument 50\nRadius: 700\nObject 262 (CryptCavern02e.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 47",
+   "px": 3299.1,
+   "py": 3299,
+   "radiusPx": 369.6,
+   "detail": "Action 6: play soundtrack, argument 47\nRadius: 1000\nObject 274 (OutTown_Foundationb.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 3311,
+   "py": 3371.2,
+   "radiusPx": 11.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 347 (OToutPortala.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 10",
+   "px": 6431.4,
+   "py": 2119.9,
+   "radiusPx": 184.8,
+   "detail": "Action 6: play soundtrack, argument 10\nRadius: 500\nObject 543 (CryptFourWaya.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1142.2,
+   "py": 3134.5,
+   "radiusPx": 11.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 713 (AztecTempleEntPorta.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 2496.8,
+   "py": 5425,
+   "radiusPx": 11.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 714 (DungeonEntPorta.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 24",
+   "px": 5503.6,
+   "py": 3169,
+   "radiusPx": 184.8,
+   "detail": "Action 6: play soundtrack, argument 24\nRadius: 500\nObject 17893 (TOMBSa.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "4FallWater01",
+   "px": 3873.8,
+   "py": 1722.6,
+   "box": [
+    2121.8,
+    1128.9,
+    5625.7,
+    2316.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "4FallWater02",
+   "px": 3279.8,
+   "py": 3315.7,
+   "box": [
+    2775.4,
+    2797.9,
+    3784.3,
+    3833.6
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "4FallWater03",
+   "px": 1730.5,
+   "py": 2099.4,
+   "box": [
+    1185.1,
+    1505.8,
+    2275.9,
+    2693.1
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "4FallWater04",
+   "px": 2249.5,
+   "py": 3297.7,
+   "box": [
+    1701.4,
+    3131.1,
+    2797.5,
+    3464.2
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "4FallWater05",
+   "px": 1714.7,
+   "py": 4456.7,
+   "box": [
+    1073.2,
+    3452.5,
+    2356.1,
+    5460.9
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "4FallWater06",
+   "px": 4356.7,
+   "py": 4466.6,
+   "box": [
+    3607.4,
+    3952,
+    5106.1,
+    4981.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Exclusion",
+   "px": 5539.8,
+   "py": 1763.1,
+   "box": [
+    5452.9,
+    1573.5,
+    5626.7,
+    1952.7
+   ],
+   "detail": "Exclusion zone (no water here)"
+  },
+  {
+   "layer": "water",
+   "name": "4FallWater07",
+   "px": 5227.7,
+   "py": 1434.2,
+   "box": [
+    5026.4,
+    1271.9,
+    5428.9,
+    1596.4
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

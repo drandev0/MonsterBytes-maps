@@ -1,0 +1,31 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "labrynth-arena",
+  "title": "Labrynth Arena",
+  "places": [],
+  "group": "arenas",
+  "worldId": 27,
+  "source": {
+    "world": "Labrynth_Arena.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.18562053889036179,
+    "origin": {
+      "x": -580.7518920898438,
+      "z": 941.2296142578125
+    }
+  },
+  "width": 5211,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#333366",
+  "layers": [
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 3
+    }
+  ]
+}

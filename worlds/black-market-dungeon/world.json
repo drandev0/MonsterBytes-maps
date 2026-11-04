@@ -1,0 +1,54 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "black-market-dungeon",
+  "title": "Black Market Dungeon",
+  "places": [
+    "Black Market Dungeon"
+  ],
+  "group": "dungeons",
+  "worldId": 22,
+  "source": {
+    "world": "BlackMarketDungeon.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.2923626936972141,
+    "origin": {
+      "x": 13123.478515625,
+      "z": 2327.81640625
+    }
+  },
+  "width": 8093,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#000000",
+  "layers": [
+    {
+      "id": "npcs",
+      "title": "NPCs",
+      "color": "#ec407a",
+      "shown": true,
+      "count": 11
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 7911.4,
+   "py": 1046,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 7760.5,
+   "py": 713.1,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 7727,
+   "py": 294,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01, Deathbot02",
+   "px": 8056.9,
+   "py": 949.1,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clidion, Slate",
+   "px": 5895.3,
+   "py": 1021.5,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 45 (sltae):\nClidion (LV11) (Spawner: 26 Clidion dim 1, up to 4)\nSlate (LV15 BOSS) (Spawner: 57 Slate Dim 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clidion, Slate",
+   "px": 5927.6,
+   "py": 795.5,
+   "mobs": [
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 45 (sltae):\nClidion (LV11) (Spawner: 26 Clidion dim 1, up to 4)\nSlate (LV15 BOSS) (Spawner: 57 Slate Dim 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clidion, Slate",
+   "px": 6050.6,
+   "py": 563.4,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 45 (sltae):\nClidion (LV11) (Spawner: 26 Clidion dim 1, up to 4)\nSlate (LV15 BOSS) (Spawner: 57 Slate Dim 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clidion, Slate",
+   "px": 6061.8,
+   "py": 1321.8,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 45 (sltae):\nClidion (LV11) (Spawner: 26 Clidion dim 1, up to 4)\nSlate (LV15 BOSS) (Spawner: 57 Slate Dim 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clidion, Slate",
+   "px": 6186.7,
+   "py": 958.5,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 45 (sltae):\nClidion (LV11) (Spawner: 26 Clidion dim 1, up to 4)\nSlate (LV15 BOSS) (Spawner: 57 Slate Dim 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clidion, Slate",
+   "px": 6004.6,
+   "py": 1019.3,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 45 (sltae):\nClidion (LV11) (Spawner: 26 Clidion dim 1, up to 4)\nSlate (LV15 BOSS) (Spawner: 57 Slate Dim 1, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zeth-Crap, Trisk",
+   "px": 2271,
+   "py": 3403.4,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 158,
+     "name": "Zeth-Crap",
+     "level": null
+    },
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 46 (zethai):\nZeth-Crap (Spawner: 50 Zeth Dim 0, up to 1)\nTrisk (LV9) (Spawner: 30 Trisk Dim 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zeth-Crap, Trisk",
+   "px": 649.1,
+   "py": 2825.3,
+   "mobs": [
+    {
+     "id": 158,
+     "name": "Zeth-Crap",
+     "level": null
+    },
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 46 (zethai):\nZeth-Crap (Spawner: 50 Zeth Dim 0, up to 1)\nTrisk (LV9) (Spawner: 30 Trisk Dim 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zeth-Crap, Trisk",
+   "px": 1290.4,
+   "py": 234.6,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 158,
+     "name": "Zeth-Crap",
+     "level": null
+    },
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 46 (zethai):\nZeth-Crap (Spawner: 50 Zeth Dim 0, up to 1)\nTrisk (LV9) (Spawner: 30 Trisk Dim 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zeth-Crap, Trisk",
+   "px": 2243.8,
+   "py": 1155.3,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 158,
+     "name": "Zeth-Crap",
+     "level": null
+    },
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 46 (zethai):\nZeth-Crap (Spawner: 50 Zeth Dim 0, up to 1)\nTrisk (LV9) (Spawner: 30 Trisk Dim 0, up to 4)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zeth-Crap, Trisk",
+   "px": 2419,
+   "py": 2592.9,
+   "radiusPx": 1.2,
+   "mobs": [
+    {
+     "id": 158,
+     "name": "Zeth-Crap",
+     "level": null
+    },
+    {
+     "id": 93,
+     "name": "Trisk",
+     "level": 9
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 46 (zethai):\nZeth-Crap (Spawner: 50 Zeth Dim 0, up to 1)\nTrisk (LV9) (Spawner: 30 Trisk Dim 0, up to 4)"
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 1110,
+   "py": 3239.9,
+   "npcId": 1087,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 5188.9,
+      "py": 5214.8
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Future Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 1071.4,
+   "py": 3242.1,
+   "npcId": 1109,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 5188.9,
+      "py": 5214.8
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Zeth Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Amphibious",
+   "px": 1108.5,
+   "py": 2560.7,
+   "detail": "Entity template 18\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 40",
+   "px": 1109.3,
+   "py": 3241.3,
+   "radiusPx": 374.5,
+   "detail": "Action 6: play soundtrack, argument 40\nRadius: 300\nObject 186 (PortPlatforma.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 7985.4,
+   "py": 3089.6,
+   "radiusPx": 49.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 40\nObject 199 (PLATFORMLIGHTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1109.3,
+   "py": 3241.4,
+   "radiusPx": 49.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 40\nObject 200 (PORTTRIG_ZETHEXITPORTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "local portal",
+   "px": 1268.3,
+   "py": 1662.4,
+   "detail": "Action 2: local portal: moves the player to the trigger's vector in this world, argument 0\nRadius: 60000\nObject 202 (Light001.ARW)"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "shipron-rune-lair",
+  "title": "Shipron Rune Lair",
+  "places": [
+    "Shipron Rune Lair"
+  ],
+  "group": "dungeons",
+  "worldId": 14,
+  "source": {
+    "world": "SHIPRON_RUNEZONE.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.4434720277786255,
+    "origin": {
+      "x": -8709.68359375,
+      "z": -15241.3466796875
+    }
+  },
+  "width": 8192,
+  "height": 4282,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#190000",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 6
+    },
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 2
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 2
+    }
+  ]
+}

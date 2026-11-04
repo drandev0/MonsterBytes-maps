@@ -1,0 +1,1175 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Platform",
+   "px": 4865.2,
+   "py": 4494.7,
+   "mobs": [
+    {
+     "id": 7,
+     "name": "Platform",
+     "level": null
+    }
+   ],
+   "spawner": "Platform - Stationary",
+   "capacity": 1,
+   "detail": "Spawner: Platform - Stationary\nAI config: 7\nUp to 1 at once, 500/1000 chance a round\nAI web 4, node 0"
+  },
+  {
+   "layer": "mobs",
+   "name": "Platform",
+   "px": 3668.7,
+   "py": 4400.3,
+   "mobs": [
+    {
+     "id": 8,
+     "name": "Platform",
+     "level": null
+    }
+   ],
+   "spawner": "Platform - Part 1",
+   "capacity": 1,
+   "detail": "Spawner: Platform - Part 1\nAI config: 8\nUp to 1 at once, 500/1000 chance a round\nAI web 7, node 0"
+  },
+  {
+   "layer": "mobs",
+   "name": "Platform",
+   "px": 4713.6,
+   "py": 4008.4,
+   "mobs": [
+    {
+     "id": 8,
+     "name": "Platform",
+     "level": null
+    }
+   ],
+   "spawner": "Platform - Part 2",
+   "capacity": 1,
+   "detail": "Spawner: Platform - Part 2\nAI config: 8\nUp to 1 at once, 500/1000 chance a round\nAI web 8, node 0"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 2931.1,
+   "py": 3665.1,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 3104,
+   "py": 3738.9,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 3092.9,
+   "py": 3959.1,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 2906.1,
+   "py": 3970.1,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4261.3,
+   "py": 3669.6,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 37,
+     "name": "Infant Stount",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 3959.1,
+   "py": 3810.2,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 37,
+     "name": "Infant Stount",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Stount",
+   "px": 4080.1,
+   "py": 3548.2,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 37,
+     "name": "Infant Stount",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Lazeel",
+   "px": 4641.2,
+   "py": 3977.3,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 257,
+     "name": "Infant Lazeel",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Lazeel",
+   "px": 3276.5,
+   "py": 4430,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 257,
+     "name": "Infant Lazeel",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Lazeel",
+   "px": 2692.4,
+   "py": 3649.4,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 257,
+     "name": "Infant Lazeel",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Lazeel",
+   "px": 3940,
+   "py": 2886,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 257,
+     "name": "Infant Lazeel",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Lazeel",
+   "px": 3217.9,
+   "py": 3068.2,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 257,
+     "name": "Infant Lazeel",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 3 (Newbie Lazeel 2):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel 2, up to 1)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Lazeel",
+   "px": 4138.3,
+   "py": 3963.6,
+   "radiusPx": 26.2,
+   "mobs": [
+    {
+     "id": 257,
+     "name": "Infant Lazeel",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 3 (Newbie Lazeel 2):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel 2, up to 1)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Plank`l [F8] Hidden Quest",
+   "px": 4297.8,
+   "py": 3510.1,
+   "npcId": 0,
+   "template": "Kziian",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro"
+    },
+    {
+     "title": "Lazeels"
+    },
+    {
+     "title": "Item for Plank\"l",
+     "needs": [
+      {
+       "name": "Item for Plankl"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plankl Key"
+      }
+     ]
+    },
+    {
+     "title": "End",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Ton`m",
+   "px": 3739.6,
+   "py": 3055.8,
+   "npcId": 901,
+   "template": "Kziian",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Welcome 0"
+    },
+    {
+     "title": "Welcome 1"
+    },
+    {
+     "title": "Welcome 2"
+    },
+    {
+     "title": "Welcome 3"
+    },
+    {
+     "title": "Welcome 4"
+    },
+    {
+     "title": "Welcome 5"
+    },
+    {
+     "title": "Welcome 6"
+    },
+    {
+     "title": "Welcome 7",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Master Kruj - Weapons Trainer [F8]",
+   "px": 2709,
+   "py": 3766.8,
+   "npcId": 902,
+   "template": "Kziian",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro - 1"
+    },
+    {
+     "title": "Intro - 2"
+    },
+    {
+     "title": "Weapons Training",
+     "needs": [
+      {
+       "name": "Flob Shell",
+       "qty": 3
+      }
+     ],
+     "gives": [
+      {
+       "name": "Weapons Badge"
+      }
+     ]
+    },
+    {
+     "title": "Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Binat - Magician",
+   "px": 3633.8,
+   "py": 3032.5,
+   "npcId": 903,
+   "template": "Kziian",
+   "quests": [
+    {
+     "title": "Magic 1"
+    },
+    {
+     "title": "Magic 2"
+    },
+    {
+     "title": "Magic 3"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Pr\"wik - Portal Guardian",
+   "px": 4090.7,
+   "py": 3039.7,
+   "npcId": 904,
+   "template": "Kziian",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Weapons Badge Required",
+     "needs": [
+      {
+       "name": "Weapons Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Weapons Badge"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "W`sipa - Familiars Trainer",
+   "px": 3801.8,
+   "py": 3859.2,
+   "npcId": 905,
+   "template": "Kziian",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Familiars1"
+    },
+    {
+     "title": "Familiars2"
+    },
+    {
+     "title": "Familiars3"
+    },
+    {
+     "title": "Familiars4",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Store Vendorbot [F8]",
+   "px": 3649.5,
+   "py": 3542.9,
+   "npcId": 906,
+   "template": "Venderbot",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Store Bot",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50,
+     "race": "HM"
+    },
+    {
+     "name": "(HM) Bryton (N) (Lv0)",
+     "price": 16,
+     "race": "HM"
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50,
+     "race": "HF"
+    },
+    {
+     "name": "(HF) Ontroytag (N) (Lv0)",
+     "price": 16,
+     "race": "HF"
+    },
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50,
+     "race": "BL"
+    },
+    {
+     "name": "(BL) Octograph (N) (Lv0)",
+     "price": 16,
+     "race": "BL"
+    },
+    {
+     "name": "(AP) Aqualaz (N)(W) (Lv0)",
+     "price": 50,
+     "race": "AP"
+    },
+    {
+     "name": "(AP) Ontroytag (N) (Lv0)",
+     "price": 16,
+     "race": "AP"
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4,
+     "race": "BL"
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4,
+     "race": "AP"
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4,
+     "race": "HM"
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4,
+     "race": "HF"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Klondon Familiar",
+   "px": 3807.4,
+   "py": 3888.3,
+   "npcId": 908,
+   "template": "Cribuant",
+   "says": [
+    "\"Skraaawwwk! Skrawk!\"",
+    "\"Skraaawwwk! Skrawk!\"",
+    "\"Skraaawwwk! Skrawk!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Vault Bot",
+   "px": 3793.7,
+   "py": 3396.3,
+   "npcId": 909,
+   "template": "Venderbot",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Vault Bot",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Course Attendant - [F8] to Begin Course",
+   "px": 3630.1,
+   "py": 4412.5,
+   "npcId": 912,
+   "template": "Venderbot",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro - 1"
+    },
+    {
+     "title": "Intro - 2"
+    },
+    {
+     "title": "Intro - 3"
+    },
+    {
+     "title": "Obstacle Course Quest - Part 1",
+     "needs": [
+      {
+       "name": "Weapons Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Weapons Badge"
+      },
+      {
+       "name": "Flight Badge"
+      }
+     ]
+    },
+    {
+     "title": "Info - 4"
+    },
+    {
+     "title": "Obstacle Course Quest - Part 2",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Course Advisor",
+   "px": 4975.5,
+   "py": 3258.3,
+   "npcId": 913,
+   "template": "Venderbot",
+   "quests": [
+    {
+     "title": "Instructions"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kwik - Examine [F8] to get the Short Story",
+   "px": 3671.6,
+   "py": 3076.9,
+   "npcId": 914,
+   "template": "Kziian",
+   "quests": [
+    {
+     "title": "Cliffnotes 1"
+    },
+    {
+     "title": "Cliffnotes 2"
+    },
+    {
+     "title": "Cliffnotes 3"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Pur\"ch - Shopping Fanatic",
+   "px": 3945.8,
+   "py": 3477.7,
+   "npcId": 915,
+   "template": "Kziian",
+   "says": [
+    "\"This yellow emblem means there\"s a Store inside this building!\"",
+    "\"Stores are where you would buy weapons and ammo.\"",
+    "\"You\"ll find symbols like this near areas where a Store is located.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bank\"t - Vault Fanatic",
+   "px": 4005.7,
+   "py": 3544.6,
+   "npcId": 916,
+   "template": "Kziian",
+   "says": [
+    "\"This Green symbol means there\"s a Vault zone nearby. It is inside this building.\"",
+    "\"Vaults are zones where you can store cash and other items you have by using vault commands.\"",
+    "\"You can store or withdraw your items from any Vault, anywhere.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tanp\"k",
+   "px": 3479.4,
+   "py": 4469.4,
+   "npcId": 917,
+   "template": "Kziian",
+   "says": [
+    "\"You need the Weapons Badge from Master Kruj before you can utilize the obstacle course. He is up the path to the west.\"",
+    "\"If I were you, I\"d learn how to use a weapon before attempting the obstacle course.\"",
+    "\"The obstacle course is inside this building. It is difficult, but has a great reward.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hap\"t - Weapons Helper",
+   "px": 2698.2,
+   "py": 3582.8,
+   "npcId": 918,
+   "template": "Kziian",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Store",
+     "opens": "shop"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sril\"la",
+   "px": 2872.6,
+   "py": 4017.8,
+   "npcId": 919,
+   "template": "Kziian",
+   "quests": [
+    {
+     "title": "Trouble"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Jib - Portal Watcher",
+   "px": 4024.6,
+   "py": 2979.9,
+   "npcId": 920,
+   "template": "Kziian",
+   "says": [
+    "\"I like to watch new players finish up their training here and leave for their home city.\"",
+    "\"I like watching people dance in the center of the emblem. Why don\"t you go and show me your best moves?\"",
+    "\"I like watching people sit in the center of the emblem and ponder the meaning of life. If you try that, please return and tell me what you come up with.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "ObCrs Boost",
+   "px": 4969.8,
+   "py": 4282.7,
+   "npcId": 1102,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Boost"
+    }
+   ]
+  },
+  {
+   "layer": "gather",
+   "name": "Testing",
+   "px": 3775.4,
+   "py": 2949.9,
+   "holds": [
+    {
+     "name": "(HF) Eves Chair"
+    },
+    {
+     "name": "(HF) Sounddummy"
+    },
+    {
+     "name": "(HF) Purple Ponytail"
+    },
+    {
+     "name": "(HF) Devil Horns"
+    },
+    {
+     "name": "(HF) Black Bikini Top"
+    },
+    {
+     "name": "(HF) Black Shoes with White Socks"
+    },
+    {
+     "name": "(HF) Black Long Gloves (Big)"
+    },
+    {
+     "name": "(HF) Black Bikini Bottom with White Thigh Highs"
+    }
+   ],
+   "respawnMin": 0
+  },
+  {
+   "layer": "npcs",
+   "name": "HOW TO TRADE",
+   "px": 3765.5,
+   "py": 2894.8,
+   "npcId": 1575,
+   "template": "Generic Node",
+   "quests": [
+    {
+     "title": "How to Trade...."
+    },
+    {
+     "title": "Trade"
+    },
+    {
+     "title": "Trade1"
+    },
+    {
+     "title": "Trade2"
+    },
+    {
+     "title": "Trade3"
+    },
+    {
+     "title": "Trade4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Clans",
+   "px": 3685.8,
+   "py": 2995,
+   "npcId": 1578,
+   "template": "Generic Node",
+   "quests": [
+    {
+     "title": "Clans"
+    },
+    {
+     "title": "clan1"
+    },
+    {
+     "title": "clan2"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "How to Fly",
+   "px": 3822.2,
+   "py": 3006.5,
+   "npcId": 1579,
+   "template": "Generic Node",
+   "quests": [
+    {
+     "title": "Fly"
+    },
+    {
+     "title": "Fly1"
+    },
+    {
+     "title": "Fly2"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Options",
+   "px": 3718.5,
+   "py": 3214.3,
+   "npcId": 1580,
+   "template": "Generic Node",
+   "quests": [
+    {
+     "title": "Options"
+    },
+    {
+     "title": "Preferences"
+    },
+    {
+     "title": "Preferences1"
+    },
+    {
+     "title": "Preferences2"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Quickbar",
+   "px": 3882.6,
+   "py": 3338.1,
+   "npcId": 1581,
+   "template": "Generic Node",
+   "quests": [
+    {
+     "title": "Quickbar"
+    },
+    {
+     "title": "Quickbar1"
+    },
+    {
+     "title": "Quickbar2"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Groups",
+   "px": 4053.4,
+   "py": 3276.7,
+   "npcId": 1582,
+   "template": "Generic Node",
+   "quests": [
+    {
+     "title": "Groups"
+    },
+    {
+     "title": "Groups1"
+    },
+    {
+     "title": "Groups2"
+    },
+    {
+     "title": "Groups3"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Armaggeddon",
+   "px": 3763.4,
+   "py": 2999.5,
+   "npcId": 1583,
+   "template": "Amphibious",
+   "quests": [
+    {
+     "title": "Intro"
+    }
+   ],
+   "says": [
+    "Welcome to Endless Ages. Use the \" X \" button to Examine or interact with non player characters.",
+    "This is the Newbie Training grounds. here you will learn how to survive in the main world.",
+    "These signs will teach you the primary interaction functions. You can examin them by hitting the \"X\" hot key."
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Exit Portal",
+   "px": 4344.1,
+   "py": 3197.7,
+   "npcId": 907,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 2979,
+      "py": 5100.1
+     },
+     "title": "Portal Bloblic",
+     "races": [
+      "BL"
+     ],
+     "needs": [
+      {
+       "name": "Weapons Badge"
+      }
+     ]
+    },
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4588.1,
+      "py": 2980.2
+     },
+     "title": "Portal Amphibian",
+     "races": [
+      "AP"
+     ],
+     "needs": [
+      {
+       "name": "Weapons Badge"
+      }
+     ]
+    },
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 6331.9,
+      "py": 5899.5
+     },
+     "title": "Portal Human Male",
+     "races": [
+      "HF",
+      "HM"
+     ],
+     "needs": [
+      {
+       "name": "Weapons Badge"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 4849.6,
+   "py": 3194.3,
+   "npcId": 911,
+   "routes": [
+    {
+     "to": {
+      "world": "Newbie Zone",
+      "slug": "newbie-zone",
+      "px": 4644.7,
+      "py": 3020.8
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Flight Badge"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "NubieZoneStore",
+   "px": 3649.1,
+   "py": 3542.9,
+   "box": [
+    3630,
+    3524.5,
+    3668.1,
+    3561.3
+   ],
+   "shopId": 25,
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "(HM) Acid Gun (N) (Lv0)",
+     "price": 50,
+     "race": "HM"
+    },
+    {
+     "name": "(HM) Bryton (N) (Lv0)",
+     "price": 16,
+     "race": "HM"
+    },
+    {
+     "name": "(HF) Acid Gun (N) (Lv0)",
+     "price": 50,
+     "race": "HF"
+    },
+    {
+     "name": "(HF) Ontroytag (N) (Lv0)",
+     "price": 16,
+     "race": "HF"
+    },
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50,
+     "race": "BL"
+    },
+    {
+     "name": "(BL) Octograph (N) (Lv0)",
+     "price": 16,
+     "race": "BL"
+    },
+    {
+     "name": "(AP) Aqualaz (N)(W) (Lv0)",
+     "price": 50,
+     "race": "AP"
+    },
+    {
+     "name": "(AP) Ontroytag (N) (Lv0)",
+     "price": 16,
+     "race": "AP"
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4,
+     "race": "BL"
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4,
+     "race": "AP"
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4,
+     "race": "HM"
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4,
+     "race": "HF"
+    }
+   ]
+  },
+  {
+   "layer": "safezones",
+   "name": "NewbieZone Safe",
+   "px": 4457.3,
+   "py": 3776,
+   "box": [
+    4313.1,
+    3762.9,
+    4601.6,
+    3789.2
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "entities",
+   "name": "Amphibious",
+   "px": 3768.6,
+   "py": 2975.4,
+   "detail": "Entity template 18\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 4",
+   "px": 3842.2,
+   "py": 3523.6,
+   "radiusPx": 2622.8,
+   "detail": "Action 6: play soundtrack, argument 4\nRadius: 2000\nObject 5 (Signa)"
+  },
+  {
+   "layer": "triggers",
+   "name": "*******************************************************************************",
+   "px": 3774,
+   "py": 2946.6,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 40\nObject 1027 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "DEV NOTE: It's strongly recommended you quit the game then log back in. Racial bonuses and your proper HP won't be set until you quit for the first time.",
+   "px": 3774,
+   "py": 2946.6,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 40\nObject 1027 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "*******************************************************************************",
+   "px": 3774,
+   "py": 2946.6,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 40\nObject 1027 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Press 'L' to open your Quest Log, 'I' to open your Inventory, 'E' to Interact. 'Esc' then 'Options' and 'Preferences' to change controls.",
+   "px": 3774,
+   "py": 2946.6,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 40\nObject 1027 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Open your Quest Log now to proceed.",
+   "px": 3774,
+   "py": 2946.6,
+   "radiusPx": 52.5,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 40\nObject 1027 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Welcome to the Obstacle Course. Get to the end for a special jetpack reward!",
+   "px": 3569.9,
+   "py": 4471.6,
+   "radiusPx": 32.8,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 25\nObject 1031 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "You have been rewarded with a new jetpack. Open your inventory with 'I' and right click the jetpack to equip it. Your jetpack fuel is the green bar in the bottom right corner. Your fuel will regenerate over time.",
+   "px": 3910.4,
+   "py": 4086.7,
+   "radiusPx": 19.7,
+   "detail": "Action 7: text output, argument 0, once\nRadius: 15\nObject 1032 (Light001.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "Telekey Water",
+   "px": 3775.4,
+   "py": 2949.9,
+   "box": [
+    3775.4,
+    2949.9,
+    3775.4,
+    2949.9
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

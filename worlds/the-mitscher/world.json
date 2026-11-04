@@ -1,0 +1,31 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "the-mitscher",
+  "title": "The Mitscher",
+  "places": [],
+  "group": "other",
+  "worldId": 38,
+  "source": {
+    "world": "TheMitscher.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.4815120995044708,
+    "origin": {
+      "x": -1685.5167236328125,
+      "z": 1887.0947265625
+    }
+  },
+  "width": 6910,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#28211c",
+  "layers": [
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "beta-nub-zone",
+  "title": "Beta Nub Zone",
+  "places": [],
+  "group": "lands",
+  "worldId": 29,
+  "source": {
+    "world": "NubieZone_R2.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.7617199420928955,
+    "origin": {
+      "x": -3120.000244140625,
+      "z": 17314.177734375
+    }
+  },
+  "width": 8192,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#7fdbe8",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 31
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": false,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Music and triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 18
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format": "MonsterBytes/world/2",
+  "slug": "the-underpond",
+  "title": "The Underpond",
+  "places": [],
+  "group": "other",
+  "worldId": 39,
+  "source": {
+    "world": "TheUnderpond.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 0.6212833821773529,
+    "origin": {
+      "x": -2262.973388671875,
+      "z": 2616.240234375
+    }
+  },
+  "width": 6419,
+  "height": 8192,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#161419",
+  "layers": [
+    {
+      "id": "portals",
+      "title": "Teleporters",
+      "color": "#26a69a",
+      "shown": true,
+      "count": 1
+    }
+  ]
+}

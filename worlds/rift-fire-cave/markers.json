@@ -1,0 +1,2343 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 1137.8,
+   "py": 6783.1,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 1137.8,
+   "py": 6783.1,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Wartraon",
+   "px": 1137.8,
+   "py": 5312.9,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 240,
+     "name": "Wartraon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sihopin, Eyezora",
+   "px": 149.4,
+   "py": 4499.7,
+   "mobs": [
+    {
+     "id": 253,
+     "name": "Sihopin",
+     "level": null
+    },
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 764.7,
+   "py": 4115.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 1495.4,
+   "py": 4115.7,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 2742.2,
+   "py": 4475.9,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 2742.2,
+   "py": 4945.1,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 1810.3,
+   "py": 4027.5,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Wright",
+   "px": 2551.6,
+   "py": 4607.9,
+   "mobs": [
+    {
+     "id": 236,
+     "name": "Wright",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 1137.8,
+   "py": 6783.1,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 1137.8,
+   "py": 4599.4,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 2242.4,
+   "py": 6655.7,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 2242.4,
+   "py": 6655.7,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron, Grision",
+   "px": 1179.6,
+   "py": 6655.7,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    },
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1137.8,
+   "py": 6783.1,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 2509.1,
+   "py": 6783.1,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 849.5,
+   "py": 5333.5,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1773.4,
+   "py": 7253.2,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1773.4,
+   "py": 7555.5,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 178.8,
+   "py": 4792.4,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 1266.6,
+   "py": 757.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 1438.5,
+   "py": 757.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 1582.7,
+   "py": 901.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 1830.2,
+   "py": 779.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2007.5,
+   "py": 544.3,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2297.5,
+   "py": 813.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2409.8,
+   "py": 2395.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2192,
+   "py": 2129.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2184.5,
+   "py": 2003.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2267.4,
+   "py": 1874.5,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2534.5,
+   "py": 2390,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2761.4,
+   "py": 2467,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2409.8,
+   "py": 1123.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2409.8,
+   "py": 1425.5,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2537.2,
+   "py": 1721.5,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2740.4,
+   "py": 1755.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2915.5,
+   "py": 1755.7,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 2915.5,
+   "py": 2044.3,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 577.3,
+   "py": 368.6,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 713.2,
+   "py": 957.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 1101.6,
+   "py": 957.1,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 1412,
+   "py": 931.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 726.9,
+   "py": 1252.6,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 431.9,
+   "py": 480.8,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Bogob (Banker)",
+   "px": 975.4,
+   "py": 4696.1,
+   "npcId": 3,
+   "template": "Grounce",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Vault",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "gather",
+   "name": "Chest",
+   "px": 1465.1,
+   "py": 4095,
+   "holds": [
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "qty": 3
+    }
+   ],
+   "respawnMin": 233
+  },
+  {
+   "layer": "npcs",
+   "name": "(Oafronack Quest) Lava Stone A",
+   "px": 2274.5,
+   "py": 1625.7,
+   "npcId": 449,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Lava Stone",
+     "needs": [
+      {
+       "name": "Lava Stone Extractor"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lava Stone Extractor"
+      },
+      {
+       "name": "Lava Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Oafronack Quest) Lava Stone B",
+   "px": 2294.7,
+   "py": 1638.2,
+   "npcId": 450,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Lava Stone",
+     "needs": [
+      {
+       "name": "Lava Stone Extractor"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lava Stone"
+      },
+      {
+       "name": "Lava Stone Extractor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Oafronack Quest) Lava Stone C",
+   "px": 2398.5,
+   "py": 1624.3,
+   "npcId": 451,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Lava Stone",
+     "needs": [
+      {
+       "name": "Lava Stone Extractor"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lava Stone"
+      },
+      {
+       "name": "Lava Stone Extractor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Oafronack Quest) Lava Stone D",
+   "px": 959.6,
+   "py": 1173.7,
+   "npcId": 452,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Lava Stone",
+     "needs": [
+      {
+       "name": "Lava Stone Extractor"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lava Stone Extractor"
+      },
+      {
+       "name": "Lava Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Ocsylop",
+   "px": 1741.9,
+   "py": 3249.4,
+   "npcId": 496,
+   "template": "Sarin",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Glagrog Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Glagrog Key"
+      }
+     ]
+    },
+    {
+     "title": "Armor 12 Quest: Part 1 of 9"
+    },
+    {
+     "title": "Armor 12 Quest: Part 1 of 9",
+     "gives": [
+      {
+       "name": "Jewel from Ocsylop"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 12 Quest: Part 1 of 9",
+     "needs": [
+      {
+       "name": "Document for Ocsylop"
+      },
+      {
+       "name": "Sarin Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sarin Badge"
+      },
+      {
+       "name": "Letter to Blapstion"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Armor 12 Quest: Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Grospon",
+   "px": 1506.9,
+   "py": 7914.5,
+   "npcId": 500,
+   "template": "Sarin",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Charm Necklace from Ylog"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Charm Necklace from Ylog"
+      }
+     ]
+    },
+    {
+     "title": "Armor 12 Quest: Part 8 of 9 Attack!",
+     "needs": [
+      {
+       "name": "Glolo Head"
+      },
+      {
+       "name": "Charm Necklace from Ylog"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Glolo Head"
+      }
+     ]
+    },
+    {
+     "title": "Armor 12 Quest: Part 8 of 9 Payoff",
+     "needs": [
+      {
+       "name": "Glolo Head"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sarin Badge"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Armor 12 Quest: Part 8 of 9",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Ocsylop\"s Servant",
+   "px": 1883.8,
+   "py": 3163.1,
+   "npcId": 501,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(BL) Cyclopean Armor",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Letter to Blapstion"
+      },
+      {
+       "name": "Sarin Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter to Blapstion"
+      },
+      {
+       "name": "(BL) Cyclopean Gauntlet Armor (Lv12)"
+      },
+      {
+       "name": "(BL) Cyclopean Chest Armor (Lv12)"
+      },
+      {
+       "name": "Cyclopean Emblem"
+      },
+      {
+       "name": "(BL) Cyclopean Thigh Armor (Lv12)"
+      },
+      {
+       "name": "(BL) Cyclopean Boot Armor (Lv12)"
+      }
+     ]
+    },
+    {
+     "title": "(AP) Morgion Armor",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Sarin Badge"
+      },
+      {
+       "name": "Letter to Blapstion"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Morgion Helmet (Lv12)"
+      },
+      {
+       "name": "(AP) Morgion Shin Armor (Lv12)"
+      },
+      {
+       "name": "Letter to Blapstion"
+      },
+      {
+       "name": "(AP) Morgion Chest Armor (Lv12)"
+      },
+      {
+       "name": "(AP) Morgion Bracers (Lv12)"
+      },
+      {
+       "name": "Morgion Emblem"
+      }
+     ]
+    },
+    {
+     "title": "(HM) Poldas Armor",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Letter to Blapstion"
+      },
+      {
+       "name": "Sarin Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Poldas Chest Armor (Lv12)"
+      },
+      {
+       "name": "(HM) Poldas Gauntlet Armor (Lv12)"
+      },
+      {
+       "name": "Poldas Emblem"
+      },
+      {
+       "name": "Letter to Blapstion"
+      },
+      {
+       "name": "(HM) Poldas Thigh Armor (Lv12)"
+      },
+      {
+       "name": "(HM) Poldas Face Mask (Lv12)"
+      }
+     ]
+    },
+    {
+     "title": "(HF) Mulsaki Armor",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Sarin Badge"
+      },
+      {
+       "name": "Letter to Blapstion"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter to Blapstion"
+      },
+      {
+       "name": "(HF) Mulsaki Thigh Armor (Lv12)"
+      },
+      {
+       "name": "(HF) Mulsaki Tiara (Lv12)"
+      },
+      {
+       "name": "(HF) Mulsaki Torso Armor (Lv12)"
+      },
+      {
+       "name": "(HF) Mulsaki Gauntlet Armor (Lv12)"
+      },
+      {
+       "name": "Mulsaki Emblem"
+      }
+     ]
+    },
+    {
+     "title": "Kzon-removed-archived",
+     "race": "template 29",
+     "needs": [
+      {
+       "name": "Sarin Badge"
+      },
+      {
+       "name": "None2"
+      },
+      {
+       "name": "(Kzon) Battle Armor - Relic"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(Kzon) Battle Armor - Death"
+      }
+     ]
+    },
+    {
+     "title": "Infant Hipion-removed-archived",
+     "race": "template 14",
+     "needs": [
+      {
+       "name": "(IS) Battle Armor - Relic"
+      },
+      {
+       "name": "None2"
+      },
+      {
+       "name": "Sarin Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(IS) Battle Armor - Death"
+      }
+     ]
+    },
+    {
+     "title": "Infant Pike-removed-archived",
+     "race": "template 15",
+     "needs": [
+      {
+       "name": "None2"
+      },
+      {
+       "name": "(IP) Battle Armor - Relic"
+      },
+      {
+       "name": "Sarin Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(IP) Battle Armor - Death"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Alok (Items)",
+   "px": 2034.2,
+   "py": 4928,
+   "npcId": 559,
+   "template": "Grounce",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "(AP) Wings of Darion",
+     "price": 1788
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4
+    },
+    {
+     "name": "Amberlaz Charges (35)",
+     "price": 20
+    },
+    {
+     "name": "Soilaz Charges (35)",
+     "price": 27
+    },
+    {
+     "name": "Gustlaz Charges (35)",
+     "price": 51
+    },
+    {
+     "name": "Quadoty Rolls (25)",
+     "price": 78
+    },
+    {
+     "name": "Clawjous Mellons (30)",
+     "price": 93
+    },
+    {
+     "name": "Stontrile Plankton (30)",
+     "price": 150
+    },
+    {
+     "name": "Metatrile Plankton (30)",
+     "price": 200
+    },
+    {
+     "name": "Trinster Ore Gobs (30)",
+     "price": 160
+    },
+    {
+     "name": "Dilirium Chews (30)",
+     "price": 175
+    },
+    {
+     "name": "Oafinster Chow (25)",
+     "price": 175
+    },
+    {
+     "name": "Trinstnarak Crystals (30)",
+     "price": 213
+    },
+    {
+     "name": "Oafronack Gobs (25)",
+     "price": 260
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bone Grinder",
+   "px": 1861.6,
+   "py": 3539.4,
+   "npcId": 560,
+   "template": "Braun",
+   "says": [
+    "\"Surface Jousters? Forsakers of the inner IIA. They are mindless idiots following Saudrion, the rogue mother, a mutation and disgrace to the sacred task.\"",
+    "\"Watch your manners here or you may become a meal for the hoard.\"",
+    "\"Many brave explorers have found their courage lacking when facing the horrors of the catacombs. Beware.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dark Lord Breeaugh",
+   "px": 1787.7,
+   "py": 5272.9,
+   "npcId": 561,
+   "template": "Braun Adult",
+   "quests": [
+    {
+     "title": "1. The Realm of the Ancients"
+    },
+    {
+     "title": "2. The Catacombs"
+    },
+    {
+     "title": "3. What is this inner Iia?"
+    },
+    {
+     "title": "4. Entrance Maze"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Grumchlug",
+   "px": 2304,
+   "py": 3704.4,
+   "npcId": 562,
+   "template": "Braun",
+   "says": [
+    "\"The goblins are annoying, but they have a heart for scheming and killing, so I dont feed on them all the time.\"",
+    "\"Water here is quite disgusting. If you aren\"t careful it will wash the ichor from your flesh.\"",
+    "\"Heed this warning. Do not stray mindless from your body while in this place. You may return to find yourself evicted! Hahahahaha!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Icro the Dark Mage",
+   "px": 1055.6,
+   "py": 3448.4,
+   "npcId": 563,
+   "template": "Amphibious",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing Store",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Familiar Scroll of Klondon (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "Scroll of Acid Missile (Lv1) (W)",
+     "price": 1000
+    },
+    {
+     "name": "Scroll of Weak Heal (Lv1)",
+     "price": 200
+    },
+    {
+     "name": "Ash",
+     "price": 4
+    },
+    {
+     "name": "Bone",
+     "price": 8
+    },
+    {
+     "name": "Blood Sand",
+     "price": 15
+    },
+    {
+     "name": "Orb Root",
+     "price": 24
+    },
+    {
+     "name": "Eye of Elder Clegurk",
+     "price": 35
+    },
+    {
+     "name": "Poison Herb",
+     "price": 5
+    },
+    {
+     "name": "Blood Grass",
+     "price": 35
+    },
+    {
+     "name": "Hyssop Herb",
+     "price": 40
+    },
+    {
+     "name": "Slingthrex Twig",
+     "price": 42
+    },
+    {
+     "name": "Uenos Root",
+     "price": 45
+    },
+    {
+     "name": "Tanzin Bush",
+     "price": 45
+    },
+    {
+     "name": "Scribing Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Isilurgck",
+   "px": 1077.6,
+   "py": 4468.2,
+   "npcId": 564,
+   "template": "Braun",
+   "says": [
+    "\"You must be strong to have made it here, but strength alone has left many screaming themselves mad in the dark pits, pleading to wash their minds of the horrible merciless massacres witnessed here.\"",
+    "\"Pity? I have heard of it, but it means nothing to me.\"",
+    "\"Do no harm to the inner IIA and you may live to see the surface again.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Jeeck",
+   "px": 1870.8,
+   "py": 3767.4,
+   "npcId": 565,
+   "template": "Grounce",
+   "says": [
+    "\"Sneak, peek, slice, dice, mess with a Godion pay the price! Heeheehahahaha!\"",
+    "\"Pidion and Kandra, Grision and Wright, I\"ll be lurking just out of your sight! Grrreeehahaha!\"",
+    "\"Acid, poison, malice and strife, don\"t turn your back if you value your life! Bleeehahahahaha!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Korblic The Collector",
+   "px": 1619.6,
+   "py": 3495.5,
+   "npcId": 566,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "My Collections"
+    },
+    {
+     "title": "Eyezora Eyes",
+     "needs": [
+      {
+       "name": "Eyezora Eye",
+       "qty": 20
+      }
+     ],
+     "gives": [
+      {
+       "name": "Traveler Ticket"
+      },
+      {
+       "name": "Tsavorite (Garnet Green)"
+      },
+      {
+       "name": "Revital Orbic Heal (+150 HP)"
+      },
+      {
+       "name": "Cellulus Liquid Heal (+195 HP)"
+      },
+      {
+       "name": "Poison Herb"
+      },
+      {
+       "name": "Turquoise"
+      },
+      {
+       "name": "Scroll of Greater Light (Lv5)"
+      },
+      {
+       "name": "(BL) Cool Shades"
+      },
+      {
+       "name": "Dark Kaing Egg"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "High Priest of Crom Plasmas",
+     "needs": [
+      {
+       "name": "High Priest Plasma",
+       "qty": 30
+      }
+     ],
+     "gives": [
+      {
+       "name": "Tourmaline (Pink)"
+      },
+      {
+       "name": "Turquoise"
+      },
+      {
+       "name": "Sun Elixir (+215 HP)"
+      },
+      {
+       "name": "(BL) Bone Skull Mask"
+      },
+      {
+       "name": "(BL) Metal Skull Mask"
+      },
+      {
+       "name": "Diamond"
+      },
+      {
+       "name": "Scroll of Death Missile (Lv7) (D)"
+      },
+      {
+       "name": "Orb of Godion (Lv5)"
+      }
+     ],
+     "oneOf": true
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Scravous",
+   "px": 2361.2,
+   "py": 4866.8,
+   "npcId": 567,
+   "template": "Braun",
+   "says": [
+    "\"Begone. I hunger and you may be next.\"",
+    "\"Spread a little Bloblic between two hopper tails, it tastes like sunshine, yum yum...\"",
+    "\"Amphibians are all skin and bones. But I will choke them down if just to keep them from breeding any more.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Unndra Mindbiter",
+   "px": 1900.2,
+   "py": 5018.3,
+   "npcId": 568,
+   "template": "Braun",
+   "says": [
+    "\"gruggllik meerrpggk minnnnd fssglurk maaaatter sluurgck taaasssstee hhhuuunngerrr...\"",
+    "\"aaahhhgggg betrayers!!!  mindburrneddd ssslk kkeeepp aawayy iiiiaaa deeestrroyeeersssss!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Nostok",
+   "px": 1607.3,
+   "py": 3123,
+   "npcId": 612,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Letter from Kiston"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!",
+     "needs": [
+      {
+       "name": "Crousha Badge"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!",
+     "needs": [
+      {
+       "name": "Juspon Badge"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!!",
+     "needs": [
+      {
+       "name": "Uspec Badge"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!!!",
+     "needs": [
+      {
+       "name": "Yast Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Nostok"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 14 of 20",
+     "needs": [
+      {
+       "name": "Elixir from Kiston"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!!!!",
+     "needs": [
+      {
+       "name": "Cas Essence"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!!!!!",
+     "needs": [
+      {
+       "name": "Wos Robe"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Wos Robe"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Fight!!!!!!!",
+     "needs": [
+      {
+       "name": "Button Badge"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sealed Letter from Nostok"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 16 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Ciben",
+   "px": 551,
+   "py": 457.9,
+   "npcId": 684,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Dilirium Test Egg 01"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 4 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Pidion Embryo",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Incubator"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 5 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Natur Incubator"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lava Stone Extractor"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 11 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Lava Stone",
+       "qty": 3
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Fight!",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Bloblic Communicator"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Baby Creature"
+      }
+     ]
+    },
+    {
+     "title": "Oafronack Quest: Part 12 of 20",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1624.2,
+   "py": 7870.6,
+   "npcId": 1091,
+   "routes": [
+    {
+     "to": {
+      "world": "Catacombs",
+      "slug": "catacombs",
+      "px": 644.3,
+      "py": 254.3
+     },
+     "title": "PortalHF",
+     "needs": [
+      {
+       "name": "Mulsaki Emblem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1223.4,
+   "py": 7974.6,
+   "npcId": 1092,
+   "routes": [
+    {
+     "to": {
+      "world": "Cave of Ancients",
+      "slug": "cave-of-ancients",
+      "px": 3715.8,
+      "py": 5040.2
+     },
+     "title": "blink!HF",
+     "needs": [
+      {
+       "name": "Flight Emblem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "",
+   "px": 1415.3,
+   "py": 7925.6,
+   "npcId": 1093,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 4387.4,
+      "py": 4973.2
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Rift Fire Cavern Store",
+   "px": 2105.8,
+   "py": 4981.3,
+   "box": [
+    2005.7,
+    4908.3,
+    2205.9,
+    5054.2
+   ],
+   "shopId": 16,
+   "stock": [
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(HF) Loftiernan Jet",
+     "price": 1788
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "(HM) Jayston Jet",
+     "price": 1788
+    },
+    {
+     "name": "(AP) Wings of Darion",
+     "price": 1788
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Aqualaz Charges (35)",
+     "price": 4
+    },
+    {
+     "name": "Amberlaz Charges (35)",
+     "price": 20
+    },
+    {
+     "name": "Soilaz Charges (35)",
+     "price": 27
+    },
+    {
+     "name": "Gustlaz Charges (35)",
+     "price": 51
+    },
+    {
+     "name": "Quadoty Rolls (25)",
+     "price": 78
+    },
+    {
+     "name": "Clawjous Mellons (30)",
+     "price": 93
+    },
+    {
+     "name": "Stontrile Plankton (30)",
+     "price": 150
+    },
+    {
+     "name": "Metatrile Plankton (30)",
+     "price": 200
+    },
+    {
+     "name": "Trinster Ore Gobs (30)",
+     "price": 160
+    },
+    {
+     "name": "Dilirium Chews (30)",
+     "price": 175
+    },
+    {
+     "name": "Oafinster Chow (25)",
+     "price": 175
+    },
+    {
+     "name": "Trinstnarak Crystals (30)",
+     "price": 213
+    },
+    {
+     "name": "Oafronack Gobs (25)",
+     "price": 260
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Dark Magery",
+   "px": 1058.3,
+   "py": 3449.7,
+   "box": [
+    1033.3,
+    3428.3,
+    1083.4,
+    3471.2
+   ],
+   "shopId": 27,
+   "stock": [
+    {
+     "name": "Familiar Scroll of Klondon (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "Scroll of Acid Missile (Lv1) (W)",
+     "price": 1000
+    },
+    {
+     "name": "Scroll of Weak Heal (Lv1)",
+     "price": 200
+    },
+    {
+     "name": "Ash",
+     "price": 4
+    },
+    {
+     "name": "Bone",
+     "price": 8
+    },
+    {
+     "name": "Blood Sand",
+     "price": 15
+    },
+    {
+     "name": "Orb Root",
+     "price": 24
+    },
+    {
+     "name": "Eye of Elder Clegurk",
+     "price": 35
+    },
+    {
+     "name": "Poison Herb",
+     "price": 5
+    },
+    {
+     "name": "Blood Grass",
+     "price": 35
+    },
+    {
+     "name": "Hyssop Herb",
+     "price": 40
+    },
+    {
+     "name": "Slingthrex Twig",
+     "price": 42
+    },
+    {
+     "name": "Uenos Root",
+     "price": 45
+    },
+    {
+     "name": "Tanzin Bush",
+     "price": 45
+    },
+    {
+     "name": "Scribing Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "safezones",
+   "name": "Firetown Skull",
+   "px": 1619.6,
+   "py": 3042.1,
+   "box": [
+    1469.5,
+    2670.3,
+    1769.8,
+    3414
+   ],
+   "kind": "safe zone (respawn point)"
+  },
+  {
+   "layer": "safezones",
+   "name": "Rift Fire Cave Safezone",
+   "px": 2728.6,
+   "py": 3146.5,
+   "box": [
+    2100.1,
+    2761.9,
+    3357.1,
+    3531.2
+   ],
+   "kind": "monsters don't attack here"
+  },
+  {
+   "layer": "entities",
+   "name": "Amphibious",
+   "px": 1895.3,
+   "py": 1835.2,
+   "detail": "Entity template 18\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 15",
+   "px": 1639.4,
+   "py": 4237.2,
+   "radiusPx": 1430,
+   "detail": "Action 6: play soundtrack, argument 15\nRadius: 1000\nObject 42 (RIFTCAVERNa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 15",
+   "px": 1418.2,
+   "py": 7884.5,
+   "radiusPx": 1430,
+   "detail": "Action 6: play soundtrack, argument 15\nRadius: 1000\nObject 205 (RIFTFIRECAV_PORTALEXITSa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 19",
+   "px": 775.9,
+   "py": 884.6,
+   "radiusPx": 715,
+   "detail": "Action 6: play soundtrack, argument 19\nRadius: 500\nObject 209 (RIFTFIRECAVENT_PRT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1625.3,
+   "py": 7870.8,
+   "radiusPx": 42.9,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 214 (RiftPort02a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1414.1,
+   "py": 7932.3,
+   "radiusPx": 50.1,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 35\nObject 267 (PORTALTRIGS_RIFTPORT01a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1224.1,
+   "py": 7974.8,
+   "radiusPx": 57.2,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 40\nObject 269 (PORTALTRIGS_RIFTPORT03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1224.1,
+   "py": 7974.8,
+   "radiusPx": 286,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 200\nObject 270 (PORTALTRIGS_RIFTPORT03a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1414.1,
+   "py": 7932.3,
+   "radiusPx": 214.5,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 150\nObject 272 (PORTALTRIGS_RIFTPORT01a.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "MAin Body",
+   "px": 1684,
+   "py": 4286.3,
+   "box": [
+    -41217.1,
+    -38614.8,
+    44585.1,
+    47187.4
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "RIFTFIRECAV_LAVA01",
+   "px": 1819.2,
+   "py": 4187,
+   "box": [
+    1375.9,
+    3936.8,
+    2262.5,
+    4437.3
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "RIFTFIRECAV_LAVA02",
+   "px": 850.1,
+   "py": 4114.4,
+   "box": [
+    689.2,
+    3989.3,
+    1010.9,
+    4239.6
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}
