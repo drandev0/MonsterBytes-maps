@@ -1,0 +1,57 @@
+{
+  "format": "MonsterBytes/world/1",
+  "slug": "boomtown",
+  "title": "Boomtown",
+  "place": "Boomtown",
+  "source": {
+    "world": "Boomtown.EXG",
+    "tool": "AuraEditor/map/1",
+    "unitsPerPixel": 3.88287353515625,
+    "origin": {
+      "x": -14570.138671875,
+      "z": 10320.9658203125
+    }
+  },
+  "width": 8192,
+  "height": 6119,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "background": "#000044",
+  "layers": [
+    {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 321
+    },
+    {
+      "id": "entities",
+      "title": "Placed entities",
+      "color": "#1e88e5",
+      "shown": true,
+      "count": 1
+    },
+    {
+      "id": "triggers",
+      "title": "Triggers",
+      "color": "#fdd835",
+      "shown": false,
+      "count": 6
+    },
+    {
+      "id": "water",
+      "title": "Water",
+      "color": "#00bcd4",
+      "shown": false,
+      "count": 2
+    },
+    {
+      "id": "lights",
+      "title": "Lights",
+      "color": "#ff9800",
+      "shown": false,
+      "count": 649
+    }
+  ]
+}

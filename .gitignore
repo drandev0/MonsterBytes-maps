@@ -1,0 +1,4 @@
+node_modules/
+# Raw exports from Aura Editor are large; keep them out of the repository.
+exports/
+*.zip

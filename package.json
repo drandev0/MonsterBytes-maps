@@ -1,0 +1,13 @@
+{
+  "name": "monsterbytes-maps",
+  "private": true,
+  "description": "Interactive maps for the EA Monster Bytes guide: zoomable tiles and markers per world.",
+  "type": "module",
+  "scripts": {
+    "build-world": "node tools/build-world.mjs",
+    "check": "node tools/check-worlds.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}
