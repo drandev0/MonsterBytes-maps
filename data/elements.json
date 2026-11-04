@@ -1,0 +1,23 @@
+{
+ "count": 9,
+ "format": "AuraEditor/elements/1",
+ "generated": "2026-11-04T14:40:44Z",
+ "sources": [
+  {
+   "bytes": 105,
+   "file": "GameFiles/EARevolution.ELD",
+   "modified": "2026-04-12T05:24:31Z"
+  }
+ ],
+ "elements": [
+  {"id":0,"name":"Normal"},
+  {"id":1,"name":"Fire"},
+  {"id":2,"name":"Water"},
+  {"id":3,"name":"Rune"},
+  {"id":4,"name":"Relic"},
+  {"id":5,"name":"Earth"},
+  {"id":6,"name":"Air"},
+  {"id":7,"name":"Death"},
+  {"id":8,"name":"Ice"}
+ ]
+}

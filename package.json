@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build-world": "node tools/build-world.mjs",
-    "check": "node tools/check-worlds.mjs"
+    "check": "node tools/check-worlds.mjs",
+    "build-data": "node tools/build-data.mjs"
   },
   "devDependencies": {
     "sharp": "^0.35.5"

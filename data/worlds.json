@@ -1,0 +1,65 @@
+{
+ "format": "AuraEditor/worlds/1",
+ "generated": "2026-11-04T14:40:47Z",
+ "sources": [
+  {
+   "database": "AuraGame",
+   "table": "SYSWORLDSTENCILS",
+   "server": ".\\SQLEXPRESS"
+  },
+  {
+   "database": "AuraGame",
+   "table": "SYSWORLDRULES",
+   "server": ".\\SQLEXPRESS"
+  },
+  {
+   "database": "AuraGame",
+   "table": "locations_spawnPoints",
+   "server": ".\\SQLEXPRESS"
+  }
+ ],
+ "count": 41,
+ "worlds": [
+  {"id":1,"worldId":1,"exgFile":"NewbieZone.EXG","aiWorldFile":"NewbieZone.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":2,"displayName":"Newbie Zone","rules":[{"ruleId":2,"ruleName":"NODROP","param":0}]},
+  {"id":2,"worldId":2,"exgFile":"Boomtown.EXG","aiWorldFile":"Boomtown.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":1,"rules":[]},
+  {"id":3,"worldId":3,"exgFile":"Final_SS_Trial.EXG","aiWorldFile":"Final_SS_Trial.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":3,"rules":[]},
+  {"id":5,"worldId":5,"exgFile":"Airworld_cv.EXG","aiWorldFile":"Airworld_cv.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":40,"rules":[]},
+  {"id":6,"worldId":6,"exgFile":"Chronicle_Crypt.EXG","aiWorldFile":"Chronicle_Crypt_AI.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":false,"stencilRowId":41,"rules":[]},
+  {"id":7,"worldId":7,"exgFile":"DESTROYER01_RUNEZONE.EXG","aiWorldFile":"Destroyer_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":4,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":8,"worldId":8,"exgFile":"EYEMEBA_RUNEZONE.EXG","aiWorldFile":"ZORPHION_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":5,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":9,"worldId":9,"exgFile":"FRUBE_RUNEZONE.EXG","aiWorldFile":"FRUBE_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":24,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":10,"worldId":10,"exgFile":"MuseumSection1.EXG","aiWorldFile":"MuseumSection1.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":7,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":20,"ruleName":"FILTERPCDMG","param":0},{"ruleId":21,"ruleName":"FILTERALLDMG","param":0}]},
+  {"id":11,"worldId":11,"exgFile":"MAINWORLD_BETA02.EXG","aiWorldFile":"Mainworld_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":8,"rules":[]},
+  {"id":12,"worldId":12,"exgFile":"PRIDION_RUNEZONE.EXG","aiWorldFile":"PRIDION_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":9,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":13,"worldId":13,"exgFile":"RIFTFIRECAVE.EXG","aiWorldFile":"RIFTFIRECAVE_AI_R2.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":10,"rules":[{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":14,"worldId":14,"exgFile":"SHIPRON_RUNEZONE.EXG","aiWorldFile":"SHIPRON_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":11,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":15,"worldId":15,"exgFile":"SKELCY_RUNEZONE.EXG","aiWorldFile":"SKELCY_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":12,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":16,"worldId":16,"exgFile":"SLATEBRIKE_RUNEZONE.EXG","aiWorldFile":"SLATEBRIKE_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":13,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":17,"worldId":17,"exgFile":"UGC_REV04.EXG","aiWorldFile":"UGC_ONLY_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":14,"displayName":"Trendor","rules":[{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":18,"worldId":18,"exgFile":"ZETH_RUNEZONE.EXG","aiWorldFile":"ZETH_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":15,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":19,"worldId":19,"exgFile":"4Falls.EXG","aiWorldFile":"4FALLS_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":16,"displayName":"4 Falls","rules":[{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":20,"worldId":20,"exgFile":"4FallsDungeon.EXG","aiWorldFile":"4FALLSDUNGEON_AI_R2.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":17,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":21,"worldId":21,"exgFile":"4FallsTemple.EXG","aiWorldFile":"4FALLSTEMPLE_AI_R2.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":18,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":22,"worldId":22,"exgFile":"BlackMarketDungeon.EXG","aiWorldFile":"BlackMarketDungeon.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":19,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":23,"worldId":23,"exgFile":"BlackMarketInside.EXG","aiWorldFile":"BlackMarket_AI_FX.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":20,"rules":[{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":24,"worldId":24,"exgFile":"CATACOMBS.EXG","aiWorldFile":"CATACOMBS_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":21,"rules":[{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":25,"worldId":25,"exgFile":"Coa.EXG","aiWorldFile":"COA_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":22,"rules":[{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":26,"worldId":26,"exgFile":"arenadome1.EXG","aiWorldFile":"arenadome1.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":6,"rules":[{"ruleId":0,"ruleName":"NOHEAL","param":0},{"ruleId":1,"ruleName":"NOHIDE","param":0},{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":3,"ruleName":"NOMURDERCOUNT","param":0},{"ruleId":4,"ruleName":"NOLEVELRESTRICTIONS","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":10000},{"ruleId":26,"ruleName":"NOHEALTHREGEN","param":0}]},
+  {"id":27,"worldId":27,"exgFile":"Labrynth_Arena.EXG","aiWorldFile":"Labrynth_Arena.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":23,"rules":[{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":10000}]},
+  {"id":28,"worldId":28,"exgFile":"nubiestarterzone.EXG","aiWorldFile":"nubiestarterzone.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":25,"displayName":"Gold Nub Zone","rules":[{"ruleId":1,"ruleName":"NOHIDE","param":0},{"ruleId":21,"ruleName":"FILTERALLDMG","param":0},{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":10000000},{"ruleId":26,"ruleName":"NOHEALTHREGEN","param":10000000}]},
+  {"id":29,"worldId":29,"exgFile":"NubieZone_R2.EXG","aiWorldFile":"NubieZone_R2.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":26,"displayName":"Beta Nub Zone","rules":[]},
+  {"id":30,"worldId":30,"exgFile":"DATRO_LAIR.EXG","aiWorldFile":"DATRO_LAIR_AIALTCOL.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":27,"rules":[{"ruleId":23,"ruleName":"SPAWN_INVUNERABLE","param":20000}]},
+  {"id":31,"worldId":31,"exgFile":"Labrynth_Dungeon.EXG","aiWorldFile":"Labrynth_AI.EXG","instanceTypeRaw":0,"maxConnections":1,"fileFound":true,"stencilRowId":28,"rules":[{"ruleId":1,"ruleName":"NOHIDE","param":0},{"ruleId":2,"ruleName":"NODROP","param":0},{"ruleId":26,"ruleName":"NOHEALTHREGEN","param":0}]},
+  {"id":32,"worldId":32,"exgFile":"CentralRegion.EXG","aiWorldFile":"CentralRegion.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":29,"rules":[]},
+  {"id":33,"worldId":33,"exgFile":"ComStatArena.EXG","aiWorldFile":"ComStatArena.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":30,"rules":[]},
+  {"id":34,"worldId":34,"exgFile":"Needle.EXG","aiWorldFile":"Needle.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":31,"rules":[]},
+  {"id":35,"worldId":35,"exgFile":"Nexxus.EXG","aiWorldFile":"Nexxus.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":32,"rules":[]},
+  {"id":36,"worldId":36,"exgFile":"NorthernRegion.EXG","aiWorldFile":"NorthernRegion.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":33,"rules":[]},
+  {"id":37,"worldId":37,"exgFile":"TendrilCove.EXG","aiWorldFile":"TendrilCove.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":34,"rules":[]},
+  {"id":38,"worldId":38,"exgFile":"TheMitscher.EXG","aiWorldFile":"TheMitscher.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":35,"rules":[]},
+  {"id":39,"worldId":39,"exgFile":"TheUnderpond.EXG","aiWorldFile":"TheUnderpond.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":36,"rules":[]},
+  {"id":40,"worldId":40,"exgFile":"Training.EXG","aiWorldFile":"Training.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":37,"rules":[]},
+  {"id":41,"worldId":41,"exgFile":"WesternRegion.EXG","aiWorldFile":"WesternRegion.EXG","instanceTypeRaw":0,"maxConnections":100,"fileFound":true,"stencilRowId":38,"rules":[]},
+  {"id":167,"worldId":167,"exgFile":"iiaS.EXG","aiWorldFile":"iiaS.EXG","instanceTypeRaw":0,"maxConnections":1000,"fileFound":true,"stencilRowId":39,"rules":[]}
+ ]
+}
