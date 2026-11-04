@@ -76,5 +76,17 @@
       "shown": false,
       "count": 5
     }
+  ],
+  "labels": [
+    {
+      "name": "BlackMarketCaveEntrance",
+      "px": 7018.1,
+      "py": 7077.7
+    },
+    {
+      "name": "StoneMazeEntrance",
+      "px": 5459,
+      "py": 1432.5
+    }
   ]
 }

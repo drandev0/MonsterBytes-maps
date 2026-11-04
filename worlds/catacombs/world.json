@@ -72,5 +72,12 @@
       "count": 20
     }
   ],
-  "note": "Its parts are spread out in one map, with empty space between them."
+  "note": "Its parts are spread out in one map, with empty space between them.",
+  "labels": [
+    {
+      "name": "Catacombs Entrance",
+      "px": 639.2,
+      "py": 258
+    }
+  ]
 }

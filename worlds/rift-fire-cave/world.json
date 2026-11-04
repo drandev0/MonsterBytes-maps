@@ -83,5 +83,17 @@
       "shown": false,
       "count": 3
     }
+  ],
+  "labels": [
+    {
+      "name": "Firetown Skull",
+      "px": 1619.6,
+      "py": 3042.1
+    },
+    {
+      "name": "Rift Fire Cave Safezone",
+      "px": 2728.6,
+      "py": 3146.5
+    }
   ]
 }

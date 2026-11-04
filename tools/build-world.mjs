@@ -279,6 +279,24 @@ for (const [file, c] of todo) {
   const unknown = [...new Set(merged.map((m) => m.layer))].filter((l) => !LAYERS.some(([id]) => id === l));
   if (unknown.length) console.warn(`${c.slug}: layers not shown: ${unknown.join(", ")}`);
 
+  // Place names on the map, drafted from the named safe zones (towns, outposts, cave mouths).
+  // worlds.config.json can rename them ("labels": { "rename": { "Moons Rift": "Moon Rifts" } }),
+  // hide some ("hide": [...]) and add others ("add": [{ "name", "px", "py" }]).
+  const lc = c.labels ?? {};
+  const labelName = (s) => {
+    const raw = s.replace(/^IIAN_/, "").replace(/_/g, " ").replace(/\s*\d+$/, "").trim();
+    return lc.rename?.[s] ?? lc.rename?.[raw] ?? raw;
+  };
+  const labels = [];
+  for (const m of merged.filter((x) => x.layer === "safezones")) {
+    const name = labelName(m.name);
+    if (!name || lc.hide?.includes(name) || lc.hide?.includes(m.name)) continue;
+    // One label per name, and none on top of another.
+    if (labels.some((l) => l.name === name || (Math.abs(l.px - m.px) < 60 && Math.abs(l.py - m.py) < 30))) continue;
+    labels.push({ name, px: r1(m.px), py: r1(m.py) });
+  }
+  for (const l of lc.add ?? []) labels.push({ name: l.name, px: l.px, py: l.py });
+
   const world = {
     format: "MonsterBytes/world/2",
     slug: c.slug,
@@ -295,6 +313,7 @@ for (const [file, c] of todo) {
     layers,
   };
   if (c.note) world.note = c.note;
+  if (labels.length) world.labels = labels;
   await mkdir(out, { recursive: true });
   await writeFile(join(out, "world.json"), JSON.stringify(world, null, 2) + "\n");
   await writeFile(join(out, "markers.json"), JSON.stringify({ format: "MonsterBytes/markers/2", markers: merged }, null, 1) + "\n");

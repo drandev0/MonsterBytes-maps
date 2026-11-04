@@ -1,5 +1,5 @@
 {
-  "about": "Which worlds to build, what to call them, and which of the guide's places each holds. Keyed by the game's world file. worldId is the game's world id (stencil channel). places are the guide's location names, so a place's page can show its map. group sorts the maps page: lands, dungeons, arenas or other.",
+  "about": "Which worlds to build, what to call them, and which of the guide's places each holds. Keyed by the game's world file. worldId is the game's world id (stencil channel). places are the guide's location names, so a place's page can show its map. group sorts the maps page: lands, dungeons, arenas or other. labels drafts the place names shown on a map from its named safe zones: rename, hide or add them.",
   "worlds": {
     "NewbieZone.EXG": {
       "worldId": 1,
@@ -17,7 +17,14 @@
       "places": [
         "Boomtown"
       ],
-      "group": "lands"
+      "group": "lands",
+      "labels": {
+        "rename": {
+          "Boomtown Human Town": "Human Town",
+          "Boomtown Frog Tree": "Frog Tree",
+          "Boomtown Blob Town": "Blob Town"
+        }
+      }
     },
     "Final_SS_Trial.EXG": {
       "worldId": 3,
@@ -100,7 +107,28 @@
         "UGC Penn"
       ],
       "note": "The main world. Its caves and side areas are in the same map, away from the islands.",
-      "group": "lands"
+      "group": "lands",
+      "labels": {
+        "rename": {
+          "AP Safe Zone": "Amphibious Island",
+          "Trendor Outside": "Trendor",
+          "Moons Rift": "Moon Rifts",
+          "4falls Rig": "4 Falls Rig",
+          "Black Market Tower": "Black Market Island",
+          "AMC Entrance": "Arilous Mining Cave",
+          "Solothic Cave Entrance": "Solothic Caves",
+          "UOC Peninsula": "UGC Peninsula"
+        },
+        "hide": [
+          "Outpost SIAIsland",
+          "Outpost Bloblic Colony",
+          "Bloblic Colony",
+          "Oil Rig",
+          "Black Market Building",
+          "Outpost Black Market",
+          "Trendor City Gate"
+        ]
+      }
     },
     "PRIDION_RUNEZONE.EXG": {
       "worldId": 12,
@@ -154,7 +182,19 @@
         "Trendor Sewers"
       ],
       "note": "Its interiors are in the same map, away from the main area.",
-      "group": "lands"
+      "group": "lands",
+      "labels": {
+        "rename": {
+          "Trendor City": "Trendor City",
+          "Trendor Sewer": "Trendor Sewers"
+        },
+        "hide": [
+          "UGCCityNONPK",
+          "UGCCitySewerNonPK",
+          "Trendor City2",
+          "Trendor City3"
+        ]
+      }
     },
     "ZETH_RUNEZONE.EXG": {
       "worldId": 18,
@@ -173,7 +213,13 @@
         "4-Falls",
         "Four Falls Magic Store"
       ],
-      "group": "lands"
+      "group": "lands",
+      "labels": {
+        "rename": {
+          "4Falls": "4 Falls",
+          "4FallsTown": "4 Falls town"
+        }
+      }
     },
     "4FallsDungeon.EXG": {
       "worldId": 20,

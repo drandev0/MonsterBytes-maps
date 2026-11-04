@@ -62,5 +62,17 @@
       "shown": false,
       "count": 1
     }
+  ],
+  "labels": [
+    {
+      "name": "IIAS Hive DMG",
+      "px": 2227.3,
+      "py": 5353.8
+    },
+    {
+      "name": "IIAS Safezone MAIN",
+      "px": 3658,
+      "py": 3389.7
+    }
   ]
 }

@@ -41,5 +41,12 @@
       "shown": false,
       "count": 1
     }
+  ],
+  "labels": [
+    {
+      "name": "TradeSkillMuseum",
+      "px": 3936.2,
+      "py": 3985.5
+    }
   ]
 }

@@ -69,5 +69,12 @@
       "shown": false,
       "count": 5
     }
+  ],
+  "labels": [
+    {
+      "name": "Air Kingdom Hurtzone",
+      "px": 3551.8,
+      "py": 3760
+    }
   ]
 }

@@ -72,5 +72,12 @@
       "shown": false,
       "count": 8
     }
+  ],
+  "labels": [
+    {
+      "name": "4 Falls",
+      "px": 3299.1,
+      "py": 3298.9
+    }
   ]
 }

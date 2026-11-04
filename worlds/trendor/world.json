@@ -80,5 +80,17 @@
       "count": 11
     }
   ],
-  "note": "Its interiors are in the same map, away from the main area."
+  "note": "Its interiors are in the same map, away from the main area.",
+  "labels": [
+    {
+      "name": "Trendor City",
+      "px": 6524.4,
+      "py": 6240
+    },
+    {
+      "name": "Trendor Sewers",
+      "px": 6820.6,
+      "py": 5384.8
+    }
+  ]
 }
