@@ -286,9 +286,9 @@
    "npcId": 630,
    "template": "Human Female",
    "says": [
-    "\"Q is our man! Isn\"t he soooo sexy?\"",
+    "\"Q is our man! Isn't he soooo sexy?\"",
     "\"Turn it up DJ!!\"",
-    "\"Watch how you look at me, I am Q\"s baby.\""
+    "\"Watch how you look at me, I am Q's baby.\""
    ]
   },
   {
@@ -300,8 +300,8 @@
    "template": "Human Female",
    "says": [
     "\"This party is jamming!\"",
-    "\"Why can\"t we get K and T here too?\"",
-    "\"Shendo is such a bad guy... I hope he doesn\"t show up here.\""
+    "\"Why can't we get K and T here too?\"",
+    "\"Shendo is such a bad guy... I hope he doesn't show up here.\""
    ]
   },
   {
@@ -314,7 +314,7 @@
    "says": [
     "\"Doma, Doma, Doma....\"",
     "\"Share a drink with us!\"",
-    "\"Hey, where\"s the fire big boy?\""
+    "\"Hey, where's the fire big boy?\""
    ]
   },
   {
@@ -326,8 +326,8 @@
    "template": "Amphibious",
    "says": [
     "Woody> \"Hi there! Can I make you a nice Slugdrip Nectar? No?\"",
-    "Woody> \"Hey, how about a refreshing Bluetail Fly Tonic! Oh, come on, why not? It\"s good!\"",
-    "Woody> \"You must try my Wormgut Spritzer! I\"ll even sprinkle some gnats on top for ya! No? Are you sure?\""
+    "Woody> \"Hey, how about a refreshing Bluetail Fly Tonic! Oh, come on, why not? It's good!\"",
+    "Woody> \"You must try my Wormgut Spritzer! I'll even sprinkle some gnats on top for ya! No? Are you sure?\""
    ]
   },
   {
@@ -339,8 +339,8 @@
    "template": "Human Female",
    "says": [
     "\"I like bartending almost as much as dancing!\"",
-    "\"Isn\"t DJ Mister just the most awesome DJ? Yeah baby!\"",
-    "\"Have you met Q-Forge yet? He\"s the most fun ever!\""
+    "\"Isn't DJ Mister just the most awesome DJ? Yeah baby!\"",
+    "\"Have you met Q-Forge yet? He's the most fun ever!\""
    ]
   },
   {
@@ -352,8 +352,8 @@
    "template": "Human Female",
    "says": [
     "\"What would you like, friend?\"",
-    "\"Hmm... I don\"t think I\"ve heard of that one. I am new here, by the way.\"",
-    "\"<giggle> I\"m staring at a secret passageway! Can you find it?\""
+    "\"Hmm... I don't think I've heard of that one. I am new here, by the way.\"",
+    "\"<giggle> I'm staring at a secret passageway! Can you find it?\""
    ]
   },
   {
@@ -364,7 +364,7 @@
    "npcId": 641,
    "template": "Bloblic",
    "says": [
-    "Og> \"Og think that women look good, but they don\"t think right. Og have trouble making friends with them.\"",
+    "Og> \"Og think that women look good, but they don't think right. Og have trouble making friends with them.\"",
     "Og> \"It is mystery to Og why women like clean house. It just get dirty again. Why not leave it alone and save time? Og just not get it.\"",
     "Og] \"Og not understand women.\""
    ]
@@ -377,9 +377,9 @@
    "npcId": 642,
    "template": "Human Female",
    "says": [
-    "Denisa> \"So then he says that women are all the same. Isn\"t that just like a man?\"",
-    "Denisa> \"Who needs \"em? That\"s what I say. But then, some of them are so cute.\"",
-    "Denisa> \"It\"s not like I\"m demanding or unreasonable or anything.\""
+    "Denisa> \"So then he says that women are all the same. Isn't that just like a man?\"",
+    "Denisa> \"Who needs \"em? That's what I say. But then, some of them are so cute.\"",
+    "Denisa> \"It's not like I'm demanding or unreasonable or anything.\""
    ]
   },
   {
@@ -392,7 +392,7 @@
    "says": [
     "Marlot> \"I totallly understand. Mine said the same thing last week.\"",
     "Marlot> \"What are you drinking? Mine is getting warm.\"",
-    "Marlot> \"You\"d think they could get a clue. It\"s not like we\"re being unreasonable.\""
+    "Marlot> \"You'd think they could get a clue. It's not like we're being unreasonable.\""
    ]
   },
   {
@@ -418,7 +418,7 @@
    "says": [
     "Flitter> \"I just watch people. You are a people. I watch you.\"",
     "Flitter> \"Not many people here right now. Are you going to stay?\"",
-    "Flitter> \"Even I wouldn\"t drink what Woody is serving.\""
+    "Flitter> \"Even I wouldn't drink what Woody is serving.\""
    ]
   },
   {
@@ -429,8 +429,8 @@
    "npcId": 648,
    "template": "Bloblic",
    "says": [
-    "Freddith Blorp> \"I\"m a legend here. They pay me to dance, I\"m so good!\"",
-    "Freddith Blorp> \"It\"s not just the moves, it\"s the stamina. I never get tired.\"",
+    "Freddith Blorp> \"I'm a legend here. They pay me to dance, I'm so good!\"",
+    "Freddith Blorp> \"It's not just the moves, it's the stamina. I never get tired.\"",
     "Freddith Blorp> \"I just wish I could find a partner that could keep up with me.\""
    ]
   },

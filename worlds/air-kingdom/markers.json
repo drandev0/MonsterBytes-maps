@@ -1292,9 +1292,9 @@
    "npcId": 817,
    "template": "Kziian",
    "says": [
-    "\"Welcome to Su\"sojka.  One of the first things you\"ll notice is that this realm is made up completely of floating islands.  With that said there are a few rules.\"  <More>",
-    "\"Rule #1:  Don\"t fall.  It\"s a long way down, but if you do you\"ll just respawn at your most recent respawn point.  No harm done.\"  <More>",
-    "\"Rule #2:  Don\"t die and then fall.  If you die and don\"t land on ground, you\"re current material possessions are gone.  That\"ll just make things worse on you.  So take your time between jumps.\"  <More>"
+    "\"Welcome to Su'sojka.  One of the first things you'll notice is that this realm is made up completely of floating islands.  With that said there are a few rules.\"  <More>",
+    "\"Rule #1:  Don't fall.  It's a long way down, but if you do you'll just respawn at your most recent respawn point.  No harm done.\"  <More>",
+    "\"Rule #2:  Don't die and then fall.  If you die and don't land on ground, you're current material possessions are gone.  That'll just make things worse on you.  So take your time between jumps.\"  <More>"
    ]
   },
   {
@@ -2815,7 +2815,7 @@
    "npcId": 862,
    "template": "Invis noCo",
    "says": [
-    "\"Welcome to the Su\"sojka Bazaar...\"",
+    "\"Welcome to the Su'sojka Bazaar...\"",
     "\"...on Commerce Island.\"",
     "\"We have a variety of vendors...\""
    ]
@@ -2828,8 +2828,8 @@
    "npcId": 863,
    "template": "Kziian",
    "says": [
-    "\"Hello, Adventurer!  I bring greetings from Su\"sojka, a dangerous yet beautiful fragmented land that now floats amongst the clouds.\"  <More>",
-    "\"That construction over there is a portal.  Action the portal and it will transport you to the exciting new world of Su\"sojka, the Air Kingdom.\""
+    "\"Hello, Adventurer!  I bring greetings from Su'sojka, a dangerous yet beautiful fragmented land that now floats amongst the clouds.\"  <More>",
+    "\"That construction over there is a portal.  Action the portal and it will transport you to the exciting new world of Su'sojka, the Air Kingdom.\""
    ]
   },
   {
@@ -2875,7 +2875,7 @@
    "template": "Kziian",
    "says": [
     "\"This island called Embassy.\"",
-    "\"This is the first island in Su\"sojka that travelers see when they come.\"",
+    "\"This is the first island in Su'sojka that travelers see when they come.\"",
     "\"This also last island they see when they go.\""
    ]
   },
@@ -2900,9 +2900,9 @@
    "npcId": 1252,
    "template": "Kziian",
    "says": [
-    "\"That\"s right!  You\"ve reached the Bazaar on Commerce Island.\"",
+    "\"That's right!  You've reached the Bazaar on Commerce Island.\"",
     "\"This is where all Adventures like yourself come to Bank, Shop and stock up on everything you Adventures need before you go out and get yourselves rebirthed.\"",
-    "\"Rebirthed....that\"s funny.  Why you think it\"s called that?  You\"d think it\"d be called Dead Again.\""
+    "\"Rebirthed....that's funny.  Why you think it's called that?  You'd think it'd be called Dead Again.\""
    ]
   },
   {
@@ -2914,8 +2914,8 @@
    "template": "Kziian",
    "says": [
     "\"Oh no. I am sooo pooched.  I have no idea how I got here.\"",
-    "\"Do you think the Maliabats\"ll think I\"m kibble?\"",
-    "\"Maybe someone will find me here. Oh, who am I kidding.  I\"m wearing brown.\""
+    "\"Do you think the Maliabats'll think I'm kibble?\"",
+    "\"Maybe someone will find me here. Oh, who am I kidding.  I'm wearing brown.\""
    ]
   },
   {

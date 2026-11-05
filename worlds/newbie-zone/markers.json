@@ -644,9 +644,9 @@
    "npcId": 915,
    "template": "Kziian",
    "says": [
-    "\"This yellow emblem means there\"s a Store inside this building!\"",
+    "\"This yellow emblem means there's a Store inside this building!\"",
     "\"Stores are where you would buy weapons and ammo.\"",
-    "\"You\"ll find symbols like this near areas where a Store is located.\""
+    "\"You'll find symbols like this near areas where a Store is located.\""
    ]
   },
   {
@@ -657,7 +657,7 @@
    "npcId": 916,
    "template": "Kziian",
    "says": [
-    "\"This Green symbol means there\"s a Vault zone nearby. It is inside this building.\"",
+    "\"This Green symbol means there's a Vault zone nearby. It is inside this building.\"",
     "\"Vaults are zones where you can store cash and other items you have by using vault commands.\"",
     "\"You can store or withdraw your items from any Vault, anywhere.\""
    ]
@@ -671,7 +671,7 @@
    "template": "Kziian",
    "says": [
     "\"You need the Weapons Badge from Master Kruj before you can utilize the obstacle course. He is up the path to the west.\"",
-    "\"If I were you, I\"d learn how to use a weapon before attempting the obstacle course.\"",
+    "\"If I were you, I'd learn how to use a weapon before attempting the obstacle course.\"",
     "\"The obstacle course is inside this building. It is difficult, but has a great reward.\""
    ]
   },
@@ -714,7 +714,7 @@
    "template": "Kziian",
    "says": [
     "\"I like to watch new players finish up their training here and leave for their home city.\"",
-    "\"I like watching people dance in the center of the emblem. Why don\"t you go and show me your best moves?\"",
+    "\"I like watching people dance in the center of the emblem. Why don't you go and show me your best moves?\"",
     "\"I like watching people sit in the center of the emblem and ponder the meaning of life. If you try that, please return and tell me what you come up with.\""
    ]
   },

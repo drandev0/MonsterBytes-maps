@@ -5833,7 +5833,7 @@
    ],
    "says": [
     "Soki> <sigh> \"I am soooo hot! I just want to cool down but I am scared of the deep water, you see. I think this fountain is just perfect for me!\"",
-    "Soki> \"Not yet... shhh... they are watching... they just told me to get out. No, don\"t taunt me you little glistening pool of refreshment... I can\"t... resist...\"",
+    "Soki> \"Not yet... shhh... they are watching... they just told me to get out. No, don't taunt me you little glistening pool of refreshment... I can't... resist...\"",
     "Soki> \"Every day after work I come here to cool off, but everyday some damned guard pulls me out and gives me a fine. I ask you, what is water for if not to swim in?\""
    ]
   },
@@ -5955,7 +5955,7 @@
    "npcId": 306,
    "template": "Human Female",
    "says": [
-    "Grarth> \"I\"ll wait for you \"til I turn blue, there\"s nothing more a man can do. Don\"t get your bollocks in a twist -- settle down don\"t take a fit!\"",
+    "Grarth> \"I'll wait for you \"til I turn blue, there's nothing more a man can do. Don't get your bollocks in a twist -- settle down don't take a fit!\"",
     "Grarth> \"Ya drank with daemons straight from hell, they almost nearly won as well! Ya wiped the deck in victory, then finally puked until ya fell asleep!\"",
     "Grarth> \"Toast to tears of times\" past glories, this ageless clock chime stalls. Where to kiss a love forgotten, so drink and drink and drink and drink and drink and drink and FIGHT!!\""
    ]
@@ -7961,8 +7961,8 @@
    "template": "Invis noCo",
    "says": [
     "Kip - Trendor Guard> \"I got a mean streak three feet wide.\"",
-    "Kip - Trendor Guard> \"Don\"t give me any trouble. You won\"t like my bad side.\"",
-    "Kip - Trendor Guard> \"I like to press wild flowers when I\"m not blowing holes in murderers.\""
+    "Kip - Trendor Guard> \"Don't give me any trouble. You won't like my bad side.\"",
+    "Kip - Trendor Guard> \"I like to press wild flowers when I'm not blowing holes in murderers.\""
    ]
   },
   {
@@ -7973,9 +7973,9 @@
    "npcId": 693,
    "template": "Invis noCo",
    "says": [
-    "Josh - Trendor Guard> \"Is this a stick-up? You know I\"ll take you down. Don\"t even think about it.\"",
-    "Josh - Trendor Guard> \"You don\"t know what speed is until you\"ve challenged me. You don\"t know what pain is until you\"ve lost to me.\"",
-    "Josh - Trendor Guard> \"I\"m what they call a peace keeper. I keep watch, and rip murderers to pieces.\""
+    "Josh - Trendor Guard> \"Is this a stick-up? You know I'll take you down. Don't even think about it.\"",
+    "Josh - Trendor Guard> \"You don't know what speed is until you've challenged me. You don't know what pain is until you've lost to me.\"",
+    "Josh - Trendor Guard> \"I'm what they call a peace keeper. I keep watch, and rip murderers to pieces.\""
    ]
   },
   {
@@ -7987,8 +7987,8 @@
    "template": "Invis noCo",
    "says": [
     "Duliet - Trendor Guard> \"Sometimes behind the brightest smile lies the darkest demon.\"",
-    "Duliet - Trendor Guard> \"How fast do you think I can move? I\"ll bet I\"m faster than that.\"",
-    "Duliet - Trendor Guard> \"I am watching for murderers entering the city. They check in, but they don\"t check out.\""
+    "Duliet - Trendor Guard> \"How fast do you think I can move? I'll bet I'm faster than that.\"",
+    "Duliet - Trendor Guard> \"I am watching for murderers entering the city. They check in, but they don't check out.\""
    ]
   },
   {
@@ -8001,7 +8001,7 @@
    "says": [
     "Lorella - Trendor Guard> \"The creatures that attack the park are generally harmless unless you provoke them.\"",
     "Lorella - Trendor Guard> \"I am not harmless towards murderers. I drop them like moldy fruit.\"",
-    "Lorella - Trendor Guard> \"By the time they see me, it\"s already too late.\""
+    "Lorella - Trendor Guard> \"By the time they see me, it's already too late.\""
    ]
   },
   {
@@ -8502,8 +8502,8 @@
    "npcId": 895,
    "template": "Kziian",
    "says": [
-    "[Snitch Taji] \"Psst, I hear that there\"s a hidden portal around here that goes to Amphibious Island.\"",
-    "[Snitch Taji] \"I\"m deeply troubled about all the crime, so don\"t hold your breath waiting for a hint to its location\""
+    "[Snitch Taji] \"Psst, I hear that there's a hidden portal around here that goes to Amphibious Island.\"",
+    "[Snitch Taji] \"I'm deeply troubled about all the crime, so don't hold your breath waiting for a hint to its location\""
    ]
   },
   {
@@ -9078,9 +9078,9 @@
    "npcId": 1059,
    "template": "Kziian",
    "says": [
-    "Non\"ur Bi\"dnez: \"I wonder how Plank\"l got permission to build his project.\"",
-    "Non\"ur Bi\"dnez: \"Even though Plank\"l likes to call it the Boomtown Express, I hear others call it Plankl\"s Folly.\"",
-    "Non\"ur Bi\"dnez: \"Now I\"m kicking myself for not finding him when I first \"arrived\"\""
+    "Non'ur Bi'dnez: \"I wonder how Plank'l got permission to build his project.\"",
+    "Non'ur Bi'dnez: \"Even though Plank'l likes to call it the Boomtown Express, I hear others call it Plankl's Folly.\"",
+    "Non'ur Bi'dnez: \"Now I'm kicking myself for not finding him when I first \"arrived\"\""
    ]
   },
   {
@@ -9906,9 +9906,9 @@
    "npcId": 1394,
    "template": "Human Female",
    "says": [
-    "Did you hear the latest news? Everybody has been granted citizenship! We don\"t have to stay in this festering home of beggars and safezone-snipers called BoomTown anymore!",
-    "There\"s a robot of some sort in Black Market that might give you some equipment, if you do something for it.",
-    "I\"ve heard that there are some quests coming, they\"re supposedly related to the end of the world or something."
+    "Did you hear the latest news? Everybody has been granted citizenship! We don't have to stay in this festering home of beggars and safezone-snipers called BoomTown anymore!",
+    "There's a robot of some sort in Black Market that might give you some equipment, if you do something for it.",
+    "I've heard that there are some quests coming, they're supposedly related to the end of the world or something."
    ]
   },
   {

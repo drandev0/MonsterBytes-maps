@@ -227,7 +227,8 @@ async function markersOf(exported, map, base) {
         if (quests.length) o.quests = quests;
         const stock = (n?.shopIds ?? []).flatMap(stockOf);
         if (stock.length) o.stock = stock;
-        if (n?.chat?.length) o.says = n.chat.slice(0, 3).map((s) => s.replace(/^<[^>]*>:\s*/, ""));
+        // The game files write an apostrophe as a double quote ("You"re").
+        if (n?.chat?.length) o.says = n.chat.slice(0, 3).map((s) => s.replace(/^<[^>]*>:\s*/, "").replace(/(\p{L})"(\p{L})/gu, "$1'$2"));
       }
     } else if (m.layer === "portals") {
       const n = npcs.get(m.npcId);

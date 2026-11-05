@@ -3138,7 +3138,7 @@
    "template": "Human Male",
    "says": [
     "Mobodo> \"Get down with your bad self!\"",
-    "Mobodo> \"I\"m saying it... that\"s right... keep dancin\"... all night...\"",
+    "Mobodo> \"I'm saying it... that's right... keep dancin\"... all night...\"",
     "Mobodo> \"Watch this one, up and left and right and crossover, yeah!\""
    ]
   },
@@ -3150,8 +3150,8 @@
    "npcId": 647,
    "template": "Human Female",
    "says": [
-    "Berri> \"Keep it up and we can dance all night. Isn\"t that what life is about?\"",
-    "Berri> \"I actually have a good day job. But I haven\"t been to work in three weeks. I hope I\"m still employed.\"",
+    "Berri> \"Keep it up and we can dance all night. Isn't that what life is about?\"",
+    "Berri> \"I actually have a good day job. But I haven't been to work in three weeks. I hope I'm still employed.\"",
     "Berri> \"I am going to need a drink soon, but this is my favorite song!\""
    ]
   },
@@ -3164,7 +3164,7 @@
    "template": "Human Male",
    "says": [
     "Royder> \"Keep it real.\"",
-    "Royder> \"Just act responsibly, and we\"ll all have a good time.\"",
+    "Royder> \"Just act responsibly, and we'll all have a good time.\"",
     "Royder> \"No murderers allowed.\""
    ]
   },
@@ -3191,7 +3191,7 @@
    "says": [
     "Lissa> \"Nope, not much happening here.\"",
     "Lissa> \"Just guarding the bank. Nobody would dare mess with me and my partner.\"",
-    "Lissa> \"The invasion is just a blip on my radar. Over and done with. Can\"t even remember what they looked like.\""
+    "Lissa> \"The invasion is just a blip on my radar. Over and done with. Can't even remember what they looked like.\""
    ]
   },
   {
@@ -3202,7 +3202,7 @@
    "npcId": 654,
    "template": "Human Male",
    "says": [
-    "Bevel> \"Take your business to the store. I\"m just a guard.\"",
+    "Bevel> \"Take your business to the store. I'm just a guard.\"",
     "Bevel> \"I fear nothing. I dread nothing. I sense nothing. Wait...\"",
     "Bevel> \"Listen to that sound... is it rain?\""
    ]
@@ -3215,9 +3215,9 @@
    "npcId": 655,
    "template": "Human Female",
    "says": [
-    "Jo> \"Be careful. I can\"t protect you if you go in there.\"",
-    "Jo> \"It\"s condemned for a reason.\"",
-    "Jo> \"Overrun by monsters and we haven\"t gotten around to clearing them out.\""
+    "Jo> \"Be careful. I can't protect you if you go in there.\"",
+    "Jo> \"It's condemned for a reason.\"",
+    "Jo> \"Overrun by monsters and we haven't gotten around to clearing them out.\""
    ]
   },
   {
@@ -3228,8 +3228,8 @@
    "npcId": 656,
    "template": "Human Female",
    "says": [
-    "Penelope> \"What a great assignment. Isn\"t it peaceful here?\"",
-    "Penelope> \"I can just breathe deep and enjoy the park. Just don\"t cause any trouble and we will be fine.\"",
+    "Penelope> \"What a great assignment. Isn't it peaceful here?\"",
+    "Penelope> \"I can just breathe deep and enjoy the park. Just don't cause any trouble and we will be fine.\"",
     "Penelope> \"Yes, there was an invasion. We had enough, came back and drove them all out. It was sweet.\""
    ]
   },
