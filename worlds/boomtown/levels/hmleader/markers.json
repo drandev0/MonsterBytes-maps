@@ -1,0 +1,102 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "(RBT) Celeste Chest 1",
+   "px": 7066.7,
+   "py": 5359.7,
+   "npcId": 388,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Examine the chest?",
+     "needs": [
+      {
+       "name": "Agate"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Zogs Health Elixir (+65 HP)",
+       "qty": 3
+      },
+      {
+       "name": "Small Health Potion (+10 HP)"
+      },
+      {
+       "name": "Serpents Heal (+100 HP)",
+       "qty": 2
+      },
+      {
+       "name": "Medium Health Potion (+20 HP)"
+      },
+      {
+       "name": "Revital Orbic Heal (+150 HP)",
+       "qty": 2
+      },
+      {
+       "name": "Large Health Potion (+40 HP)"
+      },
+      {
+       "name": "Peroxi Rebuilder Heal (+180 HP)"
+      }
+     ],
+     "oneOf": true
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(RBT) Celeste Chest 2",
+   "px": 6837.4,
+   "py": 2242.6,
+   "npcId": 389,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Examine the chest?",
+     "needs": [
+      {
+       "name": "Agate"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Zogs Health Elixir (+65 HP)",
+       "qty": 3
+      },
+      {
+       "name": "Peroxi Rebuilder Heal (+180 HP)"
+      },
+      {
+       "name": "Serpents Heal (+100 HP)",
+       "qty": 2
+      },
+      {
+       "name": "Revital Orbic Heal (+150 HP)",
+       "qty": 2
+      },
+      {
+       "name": "Large Health Potion (+40 HP)"
+      },
+      {
+       "name": "Small Health Potion (+10 HP)",
+       "qty": 2
+      },
+      {
+       "name": "Medium Health Potion (+20 HP)"
+      }
+     ],
+     "oneOf": true
+    }
+   ]
+  }
+ ]
+}

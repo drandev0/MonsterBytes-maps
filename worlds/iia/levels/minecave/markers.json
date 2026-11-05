@@ -1,0 +1,3269 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3380.4,
+   "py": 3561.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2675.1,
+   "py": 3107.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3008.4,
+   "py": 2899.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3044.7,
+   "py": 2578.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2440.8,
+   "py": 2488.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2783.7,
+   "py": 2226.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3235.4,
+   "py": 2396.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3444.7,
+   "py": 1856.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3764,
+   "py": 1723.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 4066.3,
+   "py": 2006.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3885.3,
+   "py": 2152.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3145.6,
+   "py": 1885.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3175.1,
+   "py": 2513.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2351.9,
+   "py": 2790,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2223.2,
+   "py": 3071.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2150.4,
+   "py": 3472.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2698.7,
+   "py": 3500.5,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3202,
+   "py": 3265.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 18 on AI web 217 (Deathbot01 MC):\nDeathbot (LV11) (Spawner: Deathbot01 MC, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4246.5,
+   "py": 4239.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4375.1,
+   "py": 4187.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4294.5,
+   "py": 4582.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4661.2,
+   "py": 4867,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4401.5,
+   "py": 5396.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4648.6,
+   "py": 5469.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4335.5,
+   "py": 4966,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4584.2,
+   "py": 4544.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 218 (InfantDili01 MC):\nInfant Dilirium (LV3) (Spawner: InfantDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 4817,
+   "py": 5510.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 4884.3,
+   "py": 5985,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5213.1,
+   "py": 5821.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5861.6,
+   "py": 5864.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5892.2,
+   "py": 5214.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6202.3,
+   "py": 4347.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5711.6,
+   "py": 3916.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5805.1,
+   "py": 3200.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5736,
+   "py": 3000.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5671.7,
+   "py": 3245.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6168.8,
+   "py": 3817.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6563.9,
+   "py": 3904.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 7171.2,
+   "py": 3711.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 7206.4,
+   "py": 3509.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6891.3,
+   "py": 3442.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6547.2,
+   "py": 3601,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5960.7,
+   "py": 4500,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6275.1,
+   "py": 4955.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6655.8,
+   "py": 5138,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6509,
+   "py": 5721.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6968,
+   "py": 6075.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6965.4,
+   "py": 6343.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6731.7,
+   "py": 6055.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 7021.6,
+   "py": 5572.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6695.8,
+   "py": 5357.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5733,
+   "py": 5772.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 5311.3,
+   "py": 6060,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 4534.2,
+   "py": 5563,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 219 (Adult Dili01 MC):\nAdult Dilirium (LV6) (Spawner: AdultDili01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 7095.1,
+   "py": 3859.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 220 (Jouster01 MC):\nJouster (LV8) (Spawner: Jouster01 MC, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 7321.9,
+   "py": 3721.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 220 (Jouster01 MC):\nJouster (LV8) (Spawner: Jouster01 MC, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 7286.4,
+   "py": 3463.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 220 (Jouster01 MC):\nJouster (LV8) (Spawner: Jouster01 MC, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 7047.2,
+   "py": 3333.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 220 (Jouster01 MC):\nJouster (LV8) (Spawner: Jouster01 MC, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6781.9,
+   "py": 3420.5,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 220 (Jouster01 MC):\nJouster (LV8) (Spawner: Jouster01 MC, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 6888.2,
+   "py": 3623.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 220 (Jouster01 MC):\nJouster (LV8) (Spawner: Jouster01 MC, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 7121.5,
+   "py": 3867.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 220 (Jouster01 MC):\nJouster (LV8) (Spawner: Jouster01 MC, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 7156.7,
+   "py": 5813.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 7198.8,
+   "py": 6113.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 7138.3,
+   "py": 6448.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6854.6,
+   "py": 6400.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6659.8,
+   "py": 6061.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6848.4,
+   "py": 5826.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6898.1,
+   "py": 5574.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6542.3,
+   "py": 5704.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6539.9,
+   "py": 5376.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6953.4,
+   "py": 5243.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6614.5,
+   "py": 5877,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 6834.4,
+   "py": 6062.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 221 (Asherion01 MC):\nAscherion (LV8) (Spawner: Asherion01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 6253.2,
+   "py": 4957.5,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 222 (Deathbot02 MC):\nDeathbot01 (LV12) (Spawner: Deathbot0102 MC, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 5995.5,
+   "py": 4182.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 222 (Deathbot02 MC):\nDeathbot01 (LV12) (Spawner: Deathbot0102 MC, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 6576.9,
+   "py": 3863.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 222 (Deathbot02 MC):\nDeathbot01 (LV12) (Spawner: Deathbot0102 MC, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 6021.3,
+   "py": 3759.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 222 (Deathbot02 MC):\nDeathbot01 (LV12) (Spawner: Deathbot0102 MC, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 5996.7,
+   "py": 4181.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 222 (Deathbot02 MC):\nDeathbot01 (LV12) (Spawner: Deathbot0102 MC, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 5975.8,
+   "py": 4810.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 222 (Deathbot02 MC):\nDeathbot01 (LV12) (Spawner: Deathbot0102 MC, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 6252.9,
+   "py": 4955.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 222 (Deathbot02 MC):\nDeathbot01 (LV12) (Spawner: Deathbot0102 MC, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 7216.9,
+   "py": 1890.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 7435.1,
+   "py": 1718,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 7423.3,
+   "py": 1365.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 7430.5,
+   "py": 962,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 7614.5,
+   "py": 820.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 7512,
+   "py": 482.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 7145.6,
+   "py": 393.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6797.8,
+   "py": 902.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5882.7,
+   "py": 1005.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5159,
+   "py": 1505.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5371.9,
+   "py": 1995.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5851.3,
+   "py": 2499.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5883.8,
+   "py": 2808,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5700.6,
+   "py": 3493.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6096,
+   "py": 3928.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6022.1,
+   "py": 5075.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5773.9,
+   "py": 5813.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5195.9,
+   "py": 6056.5,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 4569.9,
+   "py": 5325.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 4896.1,
+   "py": 5898.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5460.7,
+   "py": 5933.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5854.7,
+   "py": 5707.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6081.6,
+   "py": 4097.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5737.2,
+   "py": 3457,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5946,
+   "py": 2691.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5781.1,
+   "py": 2430.5,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5206.5,
+   "py": 1764.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 5371.9,
+   "py": 1401.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6014.4,
+   "py": 1025.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6608.6,
+   "py": 1007.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6542.7,
+   "py": 1360.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 6939.3,
+   "py": 1942.3,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 32 on AI web 223 (Deathbot0203 MC):\nDeathbot02 (LV13) (Spawner: Deathbot0203 MC, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 6786.2,
+   "py": 3715.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 6248.1,
+   "py": 4071.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5766.2,
+   "py": 3569.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 6007.1,
+   "py": 2776.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5844.8,
+   "py": 2548.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5338.6,
+   "py": 2061.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5110.7,
+   "py": 1453.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 3581,
+   "py": 1797.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 3402.4,
+   "py": 2003.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 3680.9,
+   "py": 2286,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 4638.4,
+   "py": 1604.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5510.5,
+   "py": 1229.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 6379.9,
+   "py": 1126.7,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 7559.3,
+   "py": 1354.2,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 7076.3,
+   "py": 587.9,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5988.1,
+   "py": 959,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5211.3,
+   "py": 1501.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5406.6,
+   "py": 1952.4,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5894.9,
+   "py": 2551.8,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5964.5,
+   "py": 2913.1,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 5607.5,
+   "py": 3608.6,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 6477.6,
+   "py": 3811,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 7040.6,
+   "py": 3691.5,
+   "radiusPx": 37.4,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 224 (Crid01 MC):\nCrid (LV10) (Spawner: Crid01 MC, up to 3, 150/1000)"
+  },
+  {
+   "layer": "gather",
+   "name": "Bulb Plant",
+   "px": 7558.8,
+   "py": 1360.3,
+   "holds": [
+    {
+     "name": "Bulb Plant"
+    }
+   ],
+   "respawnMin": 117
+  },
+  {
+   "layer": "gather",
+   "name": "Bulb Plant",
+   "px": 7656.8,
+   "py": 801.5,
+   "holds": [
+    {
+     "name": "Bulb Plant"
+    }
+   ],
+   "respawnMin": 117
+  },
+  {
+   "layer": "npcs",
+   "name": "Mool Stone",
+   "px": 7558.4,
+   "py": 628.4,
+   "npcId": 187,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Mool Stone",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Mool Stone"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mool Stone",
+   "px": 7642.5,
+   "py": 753.7,
+   "npcId": 188,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Mool Stone",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Mool Stone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mool Stone",
+   "px": 7502.3,
+   "py": 628.4,
+   "npcId": 189,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Mool Stone",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Mool Stone"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Quartz",
+   "px": 6692.6,
+   "py": 3880.1,
+   "npcId": 190,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Quartz",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Quartz"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Quartz",
+   "px": 6889,
+   "py": 3738,
+   "npcId": 191,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Quazt",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Quartz"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Quartz",
+   "px": 7087.2,
+   "py": 3868.9,
+   "npcId": 192,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Quartz",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Quartz"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lyzantate",
+   "px": 6889,
+   "py": 6230.5,
+   "npcId": 193,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lyzantate",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lyzantate"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lyzantate",
+   "px": 6851.6,
+   "py": 6230.5,
+   "npcId": 194,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lyzantate",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Lyzantate"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Lyzantate",
+   "px": 6963.8,
+   "py": 6245.4,
+   "npcId": 195,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Lyzantate",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Lyzantate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 7145.3,
+   "py": 558.4,
+   "npcId": 222,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Naggite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 7604.7,
+   "py": 793.6,
+   "npcId": 223,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Naggite"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 7282.9,
+   "py": 1203.3,
+   "npcId": 224,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Naggite"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 6905.4,
+   "py": 5652.3,
+   "npcId": 225,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Naggite"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 7070.1,
+   "py": 6072.4,
+   "npcId": 226,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Naggite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 6948.9,
+   "py": 6439.4,
+   "npcId": 227,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Naggite"
+      },
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 6872.7,
+   "py": 3657.4,
+   "npcId": 228,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Naggite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Naggite",
+   "px": 6981.9,
+   "py": 3390.4,
+   "npcId": 229,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Naggite",
+     "needs": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Minerals)"
+      },
+      {
+       "name": "Naggite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hidden Letter",
+   "px": 4313.4,
+   "py": 3077.8,
+   "npcId": 264,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "gives": [
+      {
+       "name": "Envelope"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Gwenam",
+   "px": 2685.2,
+   "py": 3384.6,
+   "npcId": 437,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Level Check: Human Male",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "(HM) Darius Crest 9"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Gwenam"
+      },
+      {
+       "name": "(HM) Darius Crest 9"
+      }
+     ]
+    },
+    {
+     "title": "Level Check: Human Female",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "(HF) Celeste Crest 9"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HF) Celeste Crest 9"
+      },
+      {
+       "name": "Letter from Gwenam"
+      }
+     ]
+    },
+    {
+     "title": "Level Check: Bloblic",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "(BL) Bo Badge 9"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Bo Badge 9"
+      },
+      {
+       "name": "Letter from Gwenam"
+      }
+     ]
+    },
+    {
+     "title": "Level Check: Amphibious",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "(AP) Gidion 9"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Gidion 9"
+      },
+      {
+       "name": "Letter from Gwenam"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Phigon",
+   "px": 3485.1,
+   "py": 2011.4,
+   "npcId": 438,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Black Market Field Report"
+      },
+      {
+       "name": ""
+      }
+     ],
+     "gives": [
+      {
+       "name": "Black Market Field Report"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Fight!",
+     "needs": [
+      {
+       "name": "Unknown Item from Phigon"
+      }
+     ],
+     "gives": [
+      {
+       "name": "GI Head"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Armor 11 Quest: Part 8 of 9",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Safron",
+   "px": 3046.4,
+   "py": 2698.5,
+   "npcId": 439,
+   "template": "Human Female",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Human Male",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Glagrog Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Glagrog Key"
+      },
+      {
+       "name": "Pridio Emblem"
+      },
+      {
+       "name": "(HM) Pridio Gauntlet Armor (Lv11)"
+      },
+      {
+       "name": "(HM) Pridio Chest Armor (Lv11)"
+      },
+      {
+       "name": "(HM) Pridio Thigh Armor (Lv11)"
+      },
+      {
+       "name": "(HM) Pridio Face Mask (Lv11)"
+      }
+     ]
+    },
+    {
+     "title": "Human Female",
+     "race": "HF",
+     "needs": [
+      {
+       "name": "Glagrog Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Phision Emblem"
+      },
+      {
+       "name": "Glagrog Key"
+      },
+      {
+       "name": "(HF) Phision Gauntlet Armor (Lv11)"
+      },
+      {
+       "name": "(HF) Phision Tiara (Lv11)"
+      },
+      {
+       "name": "(HF) Phision Thigh Armor (Lv11)"
+      },
+      {
+       "name": "(HF) Phision Torso Armor (Lv11)"
+      }
+     ]
+    },
+    {
+     "title": "Bloblic",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Glagrog Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Nordic Chest Armor (Lv11)"
+      },
+      {
+       "name": "(BL) Nordic Thigh Armor (Lv11)"
+      },
+      {
+       "name": "Nordic Emblem"
+      },
+      {
+       "name": "Glagrog Key"
+      },
+      {
+       "name": "(BL) Nordic Boot Armor (Lv11)"
+      },
+      {
+       "name": "(BL) Nordic Gauntlet Armor (Lv11)"
+      }
+     ]
+    },
+    {
+     "title": "Amphibious",
+     "race": "AP",
+     "needs": [
+      {
+       "name": "Glagrog Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Puron Shin Armor (Lv11)"
+      },
+      {
+       "name": "(AP) Puron Chest Armor (Lv11)"
+      },
+      {
+       "name": "(AP) Puron Helmet (Lv11)"
+      },
+      {
+       "name": "Glagrog Key"
+      },
+      {
+       "name": "Puron Emblem"
+      },
+      {
+       "name": "(AP) Puron Bracers (Lv11)"
+      }
+     ]
+    },
+    {
+     "title": "Kzon-removed-archived",
+     "race": "template 29",
+     "needs": [
+      {
+       "name": "None2"
+      },
+      {
+       "name": "Glagrog Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(Kzon) Battle Armor - Relic"
+      }
+     ]
+    },
+    {
+     "title": "Infant Hipion-removed-archived",
+     "race": "template 14",
+     "needs": [
+      {
+       "name": "Glagrog Token"
+      },
+      {
+       "name": "None2"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(IS) Battle Armor - Relic"
+      }
+     ]
+    },
+    {
+     "title": "Infant Pike-removed-archived",
+     "race": "template 15",
+     "needs": [
+      {
+       "name": "None2"
+      },
+      {
+       "name": "Glagrog Token"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(IP) Battle Armor - Relic"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mofirrets",
+   "px": 4405.2,
+   "py": 4769.5,
+   "npcId": 459,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Ring of Sodo"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 14 of 22",
+     "needs": [
+      {
+       "name": "Moldavite"
+      },
+      {
+       "name": "Earth Rune"
+      },
+      {
+       "name": "Fire Rune"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Experiment 1 of 7",
+     "needs": [
+      {
+       "name": "Data Core 1"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 15 of 22",
+     "needs": [
+      {
+       "name": "Blue Gem"
+      },
+      {
+       "name": "Black Pearl"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Experiment 2 of 7",
+     "needs": [
+      {
+       "name": "Data Core 2"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 16 of 22",
+     "needs": [
+      {
+       "name": "Onyx",
+       "qty": 3
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Experiment 3 of 7",
+     "needs": [
+      {
+       "name": "Data Core 3"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 17 of 22",
+     "needs": [
+      {
+       "name": "Wos Robe"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Experiment 4 of 7",
+     "needs": [
+      {
+       "name": "Data Core 4"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 18 of 22",
+     "needs": [
+      {
+       "name": "Eyezion Eye"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Experiment 5 of 7",
+     "needs": [
+      {
+       "name": "Data Core 5"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 19 of 22",
+     "needs": [
+      {
+       "name": "Datro Tail"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Experiment 6 of 7",
+     "needs": [
+      {
+       "name": "Data Core 6"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 20 of 22",
+     "needs": [
+      {
+       "name": "Cains Robe"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Experiment 7 of 7",
+     "needs": [
+      {
+       "name": "Data Core 7"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Plasma Core Regulator"
+      }
+     ]
+    },
+    {
+     "title": "Netlauncher Quest: Part 21 of 22",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Dominion Flisk Egg",
+   "px": 7574.3,
+   "py": 1472.9,
+   "npcId": 491,
+   "template": "Eggs",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Dominion Flisk Egg",
+     "gives": [
+      {
+       "name": "Dominion Flisk Egg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Glagrog",
+   "px": 3052.4,
+   "py": 3316.5,
+   "npcId": 526,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Letter from Gwenam"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Package from Glagrog"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Part 1 of 9",
+     "needs": [
+      {
+       "name": "GI Head"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Glagrog Token"
+      },
+      {
+       "name": "GI Head"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 11 Quest: Completed",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Digson",
+   "px": 4135.2,
+   "py": 1757.2,
+   "npcId": 538,
+   "template": "Sarin",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Sealed Letter from Quis"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sealed Letter from Quis"
+      }
+     ]
+    },
+    {
+     "title": "Armor 12 Quest: Part 6 of 9 Fight!",
+     "needs": [
+      {
+       "name": "Acon Tongue"
+      },
+      {
+       "name": "Sealed Letter from Quis"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sealed Letter from Quis"
+      },
+      {
+       "name": "Acon Tongue"
+      }
+     ]
+    },
+    {
+     "title": "Armor 12 Quest: Part 6 of 9 Fight!!",
+     "needs": [
+      {
+       "name": "Sealed Letter from Quis"
+      },
+      {
+       "name": "Acon Tongue"
+      },
+      {
+       "name": "Bosdon Wings"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Bosdon Wings"
+      },
+      {
+       "name": "Acon Tongue"
+      },
+      {
+       "name": "Sealed Letter from Quis"
+      }
+     ]
+    },
+    {
+     "title": "Armor 12 Quest: Part 6 of 9 Fight!!!",
+     "needs": [
+      {
+       "name": "Lolo Head"
+      },
+      {
+       "name": "Acon Tongue"
+      },
+      {
+       "name": "Sealed Letter from Quis"
+      },
+      {
+       "name": "Bosdon Wings"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Digson"
+      }
+     ],
+     "cash": 1000
+    },
+    {
+     "title": "Armor 12 Quest: Part 6 of 9",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Property of Drodar",
+   "px": 7180.9,
+   "py": 6389.6,
+   "npcId": 734,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Drodar Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Drodars Salve"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Trinster Quest) Chest - Arilious Cave",
+   "px": 7822.6,
+   "py": 788.4,
+   "npcId": 910,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "temp",
+     "needs": [
+      {
+       "name": "Key of the Trinster"
+      }
+     ],
+     "gives": [
+      {
+       "name": "(AP) Trinster (N)(E) (Lv8)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 37",
+   "px": 2862.6,
+   "py": 3049.4,
+   "radiusPx": 934.9,
+   "detail": "Action 6: play soundtrack, argument 37\nRadius: 500\nObject 2518 (SupportLightsa.ARW)"
+  }
+ ]
+}

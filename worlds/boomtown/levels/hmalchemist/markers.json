@@ -1,0 +1,709 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Vectra (Alchemist)",
+   "px": 3266.9,
+   "py": 3080.1,
+   "npcId": 333,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Alchemy",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Aged Orange",
+     "price": 10
+    },
+    {
+     "name": "Antimony",
+     "price": 5
+    },
+    {
+     "name": "Berry Bunch",
+     "price": 8
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Lemon Extract",
+     "price": 8
+    },
+    {
+     "name": "Coffee Beans",
+     "price": 9
+    },
+    {
+     "name": "Multi Vitamin",
+     "price": 9
+    },
+    {
+     "name": "Gen Juice",
+     "price": 10
+    },
+    {
+     "name": "Grain Alcohol",
+     "price": 12
+    },
+    {
+     "name": "Cell Plant",
+     "price": 16
+    },
+    {
+     "name": "Chrome Green",
+     "price": 5
+    },
+    {
+     "name": "Banana",
+     "price": 4
+    },
+    {
+     "name": "Manga Mix",
+     "price": 3
+    },
+    {
+     "name": "Gena Root",
+     "price": 2
+    },
+    {
+     "name": "Chrome Yellow",
+     "price": 2
+    },
+    {
+     "name": "Galena",
+     "price": 2
+    },
+    {
+     "name": "Fruit Liquor",
+     "price": 2
+    },
+    {
+     "name": "Cinnabar",
+     "price": 2
+    },
+    {
+     "name": "Orange",
+     "price": 2
+    },
+    {
+     "name": "Cocktail Mix",
+     "price": 2
+    },
+    {
+     "name": "Spiritus Fumans",
+     "price": 2
+    },
+    {
+     "name": "Mercurius Praecipitatus",
+     "price": 2
+    },
+    {
+     "name": "Cantaloupe",
+     "price": 2
+    },
+    {
+     "name": "Fuel",
+     "price": 4
+    },
+    {
+     "name": "Barley",
+     "price": 5
+    },
+    {
+     "name": "Lime",
+     "price": 5
+    },
+    {
+     "name": "Marcasite",
+     "price": 5
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Quicklime",
+     "price": 4
+    },
+    {
+     "name": "Blue Vitriol",
+     "price": 15
+    },
+    {
+     "name": "Gypsum",
+     "price": 18
+    },
+    {
+     "name": "Natron",
+     "price": 20
+    },
+    {
+     "name": "Sal Ammoniac",
+     "price": 5
+    },
+    {
+     "name": "Sal Volatile",
+     "price": 24
+    },
+    {
+     "name": "Thion Hudor",
+     "price": 28
+    },
+    {
+     "name": "Milk of Sulphur",
+     "price": 35
+    },
+    {
+     "name": "Orchid Flower",
+     "price": 40
+    },
+    {
+     "name": "Oil of Vitriol",
+     "price": 45
+    },
+    {
+     "name": "Caustic Volatile Alkali",
+     "price": 50
+    },
+    {
+     "name": "Realgar",
+     "price": 150
+    },
+    {
+     "name": "Orpiment Auri-Pigmentum",
+     "price": 200
+    },
+    {
+     "name": "White Arsenic",
+     "price": 300
+    },
+    {
+     "name": "Aqua Tofani",
+     "price": 350
+    },
+    {
+     "name": "Kings Yellow",
+     "price": 400
+    },
+    {
+     "name": "Alchemy Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Alch 5",
+   "px": 5235.8,
+   "py": 3515.9,
+   "npcId": 334,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Three Jolly Bloblics, verse 1"
+    },
+    {
+     "title": "Three Jolly Bloblics, verse 2"
+    },
+    {
+     "title": "Three Jolly Bloblics, verse 3"
+    },
+    {
+     "title": "Three Jolly Bloblics, verse 4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Alch 7",
+   "px": 1475.1,
+   "py": 6576,
+   "npcId": 336,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Beat the Arena!"
+    },
+    {
+     "title": "Step 1"
+    },
+    {
+     "title": "Step 2"
+    },
+    {
+     "title": "Step 3"
+    },
+    {
+     "title": "(price tag)"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Alch 1",
+   "px": 4379.9,
+   "py": 947.2,
+   "npcId": 339,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Bloblic Poetry"
+    },
+    {
+     "title": "Volume 4"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Alch 2",
+   "px": 4357.5,
+   "py": 2648.3,
+   "npcId": 340,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Dedication"
+    },
+    {
+     "title": "The Art of Melee Combat, by Zeg"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Alch 3",
+   "px": 1174.8,
+   "py": 5669.8,
+   "npcId": 341,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Cheever the Sly"
+    },
+    {
+     "title": "Rings and Amulets, by Cheever"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Alch 4",
+   "px": 2327.5,
+   "py": 4258.6,
+   "npcId": 342,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "The Wild Rascal"
+    },
+    {
+     "title": "Verse 2"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(RBT - Access Extender) Vectra",
+   "px": 2383.9,
+   "py": 2806,
+   "npcId": 398,
+   "template": "Invis noCo",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Aged Orange",
+     "price": 10
+    },
+    {
+     "name": "Antimony",
+     "price": 5
+    },
+    {
+     "name": "Berry Bunch",
+     "price": 8
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Lemon Extract",
+     "price": 8
+    },
+    {
+     "name": "Coffee Beans",
+     "price": 9
+    },
+    {
+     "name": "Multi Vitamin",
+     "price": 9
+    },
+    {
+     "name": "Gen Juice",
+     "price": 10
+    },
+    {
+     "name": "Grain Alcohol",
+     "price": 12
+    },
+    {
+     "name": "Cell Plant",
+     "price": 16
+    },
+    {
+     "name": "Chrome Green",
+     "price": 5
+    },
+    {
+     "name": "Banana",
+     "price": 4
+    },
+    {
+     "name": "Manga Mix",
+     "price": 3
+    },
+    {
+     "name": "Gena Root",
+     "price": 2
+    },
+    {
+     "name": "Chrome Yellow",
+     "price": 2
+    },
+    {
+     "name": "Galena",
+     "price": 2
+    },
+    {
+     "name": "Fruit Liquor",
+     "price": 2
+    },
+    {
+     "name": "Cinnabar",
+     "price": 2
+    },
+    {
+     "name": "Orange",
+     "price": 2
+    },
+    {
+     "name": "Cocktail Mix",
+     "price": 2
+    },
+    {
+     "name": "Spiritus Fumans",
+     "price": 2
+    },
+    {
+     "name": "Mercurius Praecipitatus",
+     "price": 2
+    },
+    {
+     "name": "Cantaloupe",
+     "price": 2
+    },
+    {
+     "name": "Fuel",
+     "price": 4
+    },
+    {
+     "name": "Barley",
+     "price": 5
+    },
+    {
+     "name": "Lime",
+     "price": 5
+    },
+    {
+     "name": "Marcasite",
+     "price": 5
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Quicklime",
+     "price": 4
+    },
+    {
+     "name": "Blue Vitriol",
+     "price": 15
+    },
+    {
+     "name": "Gypsum",
+     "price": 18
+    },
+    {
+     "name": "Natron",
+     "price": 20
+    },
+    {
+     "name": "Sal Ammoniac",
+     "price": 5
+    },
+    {
+     "name": "Sal Volatile",
+     "price": 24
+    },
+    {
+     "name": "Thion Hudor",
+     "price": 28
+    },
+    {
+     "name": "Milk of Sulphur",
+     "price": 35
+    },
+    {
+     "name": "Orchid Flower",
+     "price": 40
+    },
+    {
+     "name": "Oil of Vitriol",
+     "price": 45
+    },
+    {
+     "name": "Caustic Volatile Alkali",
+     "price": 50
+    },
+    {
+     "name": "Realgar",
+     "price": 150
+    },
+    {
+     "name": "Orpiment Auri-Pigmentum",
+     "price": 200
+    },
+    {
+     "name": "White Arsenic",
+     "price": 300
+    },
+    {
+     "name": "Aqua Tofani",
+     "price": 350
+    },
+    {
+     "name": "Kings Yellow",
+     "price": 400
+    },
+    {
+     "name": "Alchemy Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Alchemy",
+   "px": 3306.8,
+   "py": 3038.9,
+   "box": [
+    -1206.3,
+    -1474.2,
+    7820,
+    7552
+   ],
+   "shopId": 62,
+   "stock": [
+    {
+     "name": "Aged Orange",
+     "price": 10
+    },
+    {
+     "name": "Antimony",
+     "price": 5
+    },
+    {
+     "name": "Berry Bunch",
+     "price": 8
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Lemon Extract",
+     "price": 8
+    },
+    {
+     "name": "Coffee Beans",
+     "price": 9
+    },
+    {
+     "name": "Multi Vitamin",
+     "price": 9
+    },
+    {
+     "name": "Gen Juice",
+     "price": 10
+    },
+    {
+     "name": "Grain Alcohol",
+     "price": 12
+    },
+    {
+     "name": "Cell Plant",
+     "price": 16
+    },
+    {
+     "name": "Chrome Green",
+     "price": 5
+    },
+    {
+     "name": "Banana",
+     "price": 4
+    },
+    {
+     "name": "Manga Mix",
+     "price": 3
+    },
+    {
+     "name": "Gena Root",
+     "price": 2
+    },
+    {
+     "name": "Chrome Yellow",
+     "price": 2
+    },
+    {
+     "name": "Galena",
+     "price": 2
+    },
+    {
+     "name": "Fruit Liquor",
+     "price": 2
+    },
+    {
+     "name": "Cinnabar",
+     "price": 2
+    },
+    {
+     "name": "Orange",
+     "price": 2
+    },
+    {
+     "name": "Cocktail Mix",
+     "price": 2
+    },
+    {
+     "name": "Spiritus Fumans",
+     "price": 2
+    },
+    {
+     "name": "Mercurius Praecipitatus",
+     "price": 2
+    },
+    {
+     "name": "Cantaloupe",
+     "price": 2
+    },
+    {
+     "name": "Fuel",
+     "price": 4
+    },
+    {
+     "name": "Barley",
+     "price": 5
+    },
+    {
+     "name": "Lime",
+     "price": 5
+    },
+    {
+     "name": "Marcasite",
+     "price": 5
+    },
+    {
+     "name": "Fruit Juice",
+     "price": 8
+    },
+    {
+     "name": "Quicklime",
+     "price": 4
+    },
+    {
+     "name": "Blue Vitriol",
+     "price": 15
+    },
+    {
+     "name": "Gypsum",
+     "price": 18
+    },
+    {
+     "name": "Natron",
+     "price": 20
+    },
+    {
+     "name": "Sal Ammoniac",
+     "price": 5
+    },
+    {
+     "name": "Sal Volatile",
+     "price": 24
+    },
+    {
+     "name": "Thion Hudor",
+     "price": 28
+    },
+    {
+     "name": "Milk of Sulphur",
+     "price": 35
+    },
+    {
+     "name": "Orchid Flower",
+     "price": 40
+    },
+    {
+     "name": "Oil of Vitriol",
+     "price": 45
+    },
+    {
+     "name": "Caustic Volatile Alkali",
+     "price": 50
+    },
+    {
+     "name": "Realgar",
+     "price": 150
+    },
+    {
+     "name": "Orpiment Auri-Pigmentum",
+     "price": 200
+    },
+    {
+     "name": "White Arsenic",
+     "price": 300
+    },
+    {
+     "name": "Aqua Tofani",
+     "price": 350
+    },
+    {
+     "name": "Kings Yellow",
+     "price": 400
+    },
+    {
+     "name": "Alchemy Kit",
+     "price": 15000
+    }
+   ]
+  }
+ ]
+}

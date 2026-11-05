@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "iia-south",
   "title": "IIA South",
   "places": [],
@@ -8,10 +8,10 @@
   "source": {
     "world": "iiaS.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 12.108484745025635,
+    "unitsPerPixel": 12.283437728881836,
     "origin": {
-      "x": -43973.921875,
-      "z": 40869.76953125
+      "x": -44793.44140625,
+      "z": 41646.37109375
     }
   },
   "width": 8192,
@@ -25,7 +25,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 580
+      "count": 451
     },
     {
       "id": "portals",
@@ -66,13 +66,140 @@
   "labels": [
     {
       "name": "IIAS Hive DMG",
-      "px": 2227.3,
-      "py": 5353.8
+      "px": 2262.3,
+      "py": 5340.8
     },
     {
       "name": "IIAS Safezone MAIN",
-      "px": 3658,
-      "py": 3389.7
+      "px": 3672.6,
+      "py": 3404.6
+    }
+  ],
+  "levels": [
+    {
+      "id": "cavew",
+      "name": "West cave",
+      "width": 3797,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#cbcb98",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 26
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.7566613852977753,
+        "origin": {
+          "x": -13245.4482421875,
+          "z": -2509.318603515625
+        }
+      }
+    },
+    {
+      "id": "cavenw",
+      "name": "Northwest cave",
+      "width": 5149,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#cbcb98",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 28
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.4408196657896042,
+        "origin": {
+          "x": -10916.7021484375,
+          "z": 1836.395263671875
+        }
+      }
+    },
+    {
+      "id": "caves",
+      "name": "South cave",
+      "width": 5309,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#cbcb98",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 19
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.44621479511260986,
+        "origin": {
+          "x": -12786.6669921875,
+          "z": -9249.744140625
+        }
+      }
+    },
+    {
+      "id": "cavene",
+      "name": "Northeast cave",
+      "width": 8192,
+      "height": 7777,
+      "maxZoom": 5,
+      "background": "#cbcb98",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 27
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.5026984214782715,
+        "origin": {
+          "x": 11460.412109375,
+          "z": 3588.81103515625
+        }
+      }
+    },
+    {
+      "id": "cavee",
+      "name": "East cave",
+      "width": 6919,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#cbcb98",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 29
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.48552125692367554,
+        "origin": {
+          "x": 17393.80859375,
+          "z": -6433.42626953125
+        }
+      }
     }
   ]
 }

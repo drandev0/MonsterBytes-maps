@@ -3,678 +3,363 @@
  "markers": [
   {
    "layer": "mobs",
-   "name": "Sihopin, Wartraon",
-   "px": 1137.8,
-   "py": 6783.1,
+   "name": "Pidion, Pidion",
+   "px": 1199.3,
+   "py": 1078.2,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 253,
-     "name": "Sihopin",
-     "level": null
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
     },
     {
-     "id": 240,
-     "name": "Wartraon",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Sihopin, Wartraon",
-   "px": 1137.8,
-   "py": 6783.1,
-   "mobs": [
-    {
-     "id": 253,
-     "name": "Sihopin",
-     "level": null
-    },
-    {
-     "id": 240,
-     "name": "Wartraon",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Sihopin, Wartraon",
-   "px": 1137.8,
-   "py": 5312.9,
-   "mobs": [
-    {
-     "id": 253,
-     "name": "Sihopin",
-     "level": null
-    },
-    {
-     "id": 240,
-     "name": "Wartraon",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 87 (GhostPathCenterCaveAI):\nSihopin (Spawner: CENTER ROOM COA SIHOPN 77 DIMI 0, up to 2)\nWartraon (Spawner: COA CENTER ROOM  WARITRAON 73, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Sihopin, Eyezora",
-   "px": 149.4,
-   "py": 4499.7,
-   "mobs": [
-    {
-     "id": 253,
-     "name": "Sihopin",
-     "level": null
-    },
-    {
-     "id": 241,
-     "name": "Eyezora",
+     "id": 715,
+     "name": "Pidion",
      "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 99 (GhostPath12CenterCaveAI):\nSihopin (Spawner: COA Siphor 77 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA  EYEZORA 74 Spiral Seg 2, up to 2)\nEyezora (LV10) (Spawner: COA EYEZORA 74  Spiral Seg 2, up to 2)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Entrance.Pidions):\nPidion (LV10) (Spawner: Entrance.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: Entrance.Rare.Pidion, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Wright",
-   "px": 764.7,
-   "py": 4115.7,
+   "name": "Pidion, Pidion",
+   "px": 949.1,
+   "py": 1367.7,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 236,
-     "name": "Wright",
-     "level": 16
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Wright",
-   "px": 1495.4,
-   "py": 4115.7,
-   "mobs": [
-    {
-     "id": 236,
-     "name": "Wright",
-     "level": 16
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Wright",
-   "px": 2742.2,
-   "py": 4475.9,
-   "mobs": [
-    {
-     "id": 236,
-     "name": "Wright",
-     "level": 16
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Wright",
-   "px": 2742.2,
-   "py": 4945.1,
-   "mobs": [
-    {
-     "id": 236,
-     "name": "Wright",
-     "level": 16
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Wright",
-   "px": 1810.3,
-   "py": 4027.5,
-   "mobs": [
-    {
-     "id": 236,
-     "name": "Wright",
-     "level": 16
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Wright",
-   "px": 2551.6,
-   "py": 4607.9,
-   "mobs": [
-    {
-     "id": 236,
-     "name": "Wright",
-     "level": 16
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 104 (GhostPath07CenterCaveAI):\nWright (LV16) (Spawner: COA WRIGHT 72  Siral Seg 5, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "High Priest of Cron, Grision",
-   "px": 1137.8,
-   "py": 6783.1,
-   "mobs": [
-    {
-     "id": 245,
-     "name": "High Priest of Cron",
-     "level": 16
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
     },
     {
-     "id": 55,
-     "name": "Grision",
-     "level": 15
+     "id": 715,
+     "name": "Pidion",
+     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Entrance.Pidions):\nPidion (LV10) (Spawner: Entrance.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: Entrance.Rare.Pidion, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "High Priest of Cron, Grision",
-   "px": 1137.8,
-   "py": 4599.4,
+   "name": "Pidion, Pidion",
+   "px": 948.4,
+   "py": 1077.3,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 245,
-     "name": "High Priest of Cron",
-     "level": 16
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
     },
     {
-     "id": 55,
-     "name": "Grision",
-     "level": 15
+     "id": 715,
+     "name": "Pidion",
+     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Entrance.Pidions):\nPidion (LV10) (Spawner: Entrance.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: Entrance.Rare.Pidion, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "High Priest of Cron, Grision",
-   "px": 2242.4,
-   "py": 6655.7,
+   "name": "Pidion, Pidion",
+   "px": 1186.3,
+   "py": 976,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 245,
-     "name": "High Priest of Cron",
-     "level": 16
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
     },
     {
-     "id": 55,
-     "name": "Grision",
-     "level": 15
+     "id": 715,
+     "name": "Pidion",
+     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Entrance.Pidions):\nPidion (LV10) (Spawner: Entrance.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: Entrance.Rare.Pidion, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "High Priest of Cron, Grision",
-   "px": 2242.4,
-   "py": 6655.7,
+   "name": "Pidion, Pidion",
+   "px": 1002.9,
+   "py": 1198.3,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 245,
-     "name": "High Priest of Cron",
-     "level": 16
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
     },
     {
-     "id": 55,
-     "name": "Grision",
-     "level": 15
+     "id": 715,
+     "name": "Pidion",
+     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Entrance.Pidions):\nPidion (LV10) (Spawner: Entrance.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: Entrance.Rare.Pidion, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "High Priest of Cron, Grision",
-   "px": 1179.6,
-   "py": 6655.7,
+   "name": "Dark Jouster, Dark Jouster",
+   "px": 2123.9,
+   "py": 594.1,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 245,
-     "name": "High Priest of Cron",
-     "level": 16
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     },
     {
-     "id": 55,
-     "name": "Grision",
-     "level": 15
+     "id": 286,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 109 (GhostPath02CenterCaveAI):\nHigh Priest of Cron (LV16) (Spawner: COA High Priest 75 DIM 0 Center Room, up to 2)\nGrision (LV15) (Spawner: COA GRISION 19 DIM 2 Center Room, up to 2)"
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Left.DarkJousters):\nDark Jouster (LV13) (Spawner: Left.DarkJouster, up to 1, 100/1000)\nDark Jouster (LV13) (Spawner: Left.Rare.DarkJouster, up to 1, 5/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Eyezora",
-   "px": 1137.8,
-   "py": 6783.1,
+   "name": "Dark Jouster, Dark Jouster",
+   "px": 2506.6,
+   "py": 952.6,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 241,
-     "name": "Eyezora",
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    },
+    {
+     "id": 286,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Left.DarkJousters):\nDark Jouster (LV13) (Spawner: Left.DarkJouster, up to 1, 100/1000)\nDark Jouster (LV13) (Spawner: Left.Rare.DarkJouster, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Dark Jouster, Dark Jouster",
+   "px": 1991.5,
+   "py": 538.7,
+   "radiusPx": 28.6,
+   "mobs": [
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    },
+    {
+     "id": 286,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Left.DarkJousters):\nDark Jouster (LV13) (Spawner: Left.DarkJouster, up to 1, 100/1000)\nDark Jouster (LV13) (Spawner: Left.Rare.DarkJouster, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2549.6,
+   "py": 1788.2,
+   "radiusPx": 28.6,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
      "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 2509.1,
-   "py": 6783.1,
-   "mobs": [
+    },
     {
-     "id": 241,
-     "name": "Eyezora",
+     "id": 716,
+     "name": "Pidion",
      "level": 10
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Eyezora",
-   "px": 849.5,
-   "py": 5333.5,
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2305.6,
+   "py": 1472.9,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 241,
-     "name": "Eyezora",
+     "id": 54,
+     "name": "Pidion",
      "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 1773.4,
-   "py": 7253.2,
-   "mobs": [
+    },
     {
-     "id": 241,
-     "name": "Eyezora",
+     "id": 716,
+     "name": "Pidion",
      "level": 10
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Eyezora",
-   "px": 1773.4,
-   "py": 7555.5,
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2483.4,
+   "py": 1413.6,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 241,
-     "name": "Eyezora",
+     "id": 54,
+     "name": "Pidion",
      "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 178.8,
-   "py": 4792.4,
-   "mobs": [
+    },
     {
-     "id": 241,
-     "name": "Eyezora",
+     "id": 716,
+     "name": "Pidion",
      "level": 10
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 110 (GhostPath01CenterCaveAI):\nEyezora (LV10) (Spawner: COA Eyezora 74 DIM 0 Center Room, up to 3)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Jouster",
-   "px": 1266.6,
-   "py": 757.7,
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2784.8,
+   "py": 2090.7,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 716,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Jouster",
-   "px": 1438.5,
-   "py": 757.7,
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2548.5,
+   "py": 2023.6,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 716,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Jouster",
-   "px": 1582.7,
-   "py": 901.4,
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2934,
+   "py": 1850.6,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 716,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Jouster",
-   "px": 1830.2,
-   "py": 779.1,
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2680.1,
+   "py": 1678.1,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 716,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Jouster",
-   "px": 2007.5,
-   "py": 544.3,
+   "name": "Pidion, Pidion, Dark Jouster",
+   "px": 2477.5,
+   "py": 1526.5,
+   "radiusPx": 28.6,
    "mobs": [
     {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2297.5,
-   "py": 813.1,
-   "mobs": [
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
     {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 111 (AICREATUREFIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Prt2Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2409.8,
-   "py": 2395.4,
-   "mobs": [
+     "id": 716,
+     "name": "Pidion",
+     "level": 10
+    },
     {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2192,
-   "py": 2129.7,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2184.5,
-   "py": 2003.7,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2267.4,
-   "py": 1874.5,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2534.5,
-   "py": 2390,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2761.4,
-   "py": 2467,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 112 (AICREATURE2FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent04Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2409.8,
-   "py": 1123.4,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2409.8,
-   "py": 1425.5,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2537.2,
-   "py": 1721.5,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2740.4,
-   "py": 1755.7,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2915.5,
-   "py": 1755.7,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 2915.5,
-   "py": 2044.3,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 113 (AICREATURE1FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent03Jouster, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 577.3,
-   "py": 368.6,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 713.2,
-   "py": 957.1,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 1101.6,
-   "py": 957.1,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 1412,
-   "py": 931.2,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 726.9,
-   "py": 1252.6,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 431.9,
-   "py": 480.8,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 114 (AICREATURE0FIRE):\nJouster (LV8) (Spawner: RIFTFIRE_Ent01Jouster, up to 2)"
+   "detail": "Can spawn at this node, one of 8 on AI web 2 (End.Pidions.DarkJousters):\nPidion (LV10) (Spawner: End.Pidion, up to 1, 100/1000)\nPidion (LV10) (Spawner: End.Rare.Pidion, up to 1, 10/1000)\nDark Jouster (LV13) (Spawner: End.DarkJousters, up to 2, 100/1000)"
   },
   {
    "layer": "npcs",
@@ -1843,7 +1528,7 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 1624.2,
    "py": 7870.6,
    "npcId": 1091,
@@ -1852,8 +1537,8 @@
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 644.3,
-      "py": 254.3
+      "px": 1010.5,
+      "py": 327.1
      },
      "title": "PortalHF",
      "needs": [
@@ -1866,7 +1551,7 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 1223.4,
    "py": 7974.6,
    "npcId": 1092,
@@ -1889,7 +1574,7 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 1415.3,
    "py": 7925.6,
    "npcId": 1093,
@@ -1898,8 +1583,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 4387.4,
-      "py": 4973.2
+      "px": 4839.7,
+      "py": 6440.5
      },
      "title": "Blink!"
     }

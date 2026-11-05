@@ -19,7 +19,7 @@
      "level": 2
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3, 1000/1000)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2, 1000/1000)"
   },
   {
    "layer": "mobs",
@@ -39,7 +39,7 @@
      "level": 2
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3, 1000/1000)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2, 1000/1000)"
   },
   {
    "layer": "mobs",
@@ -59,7 +59,7 @@
      "level": 2
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3, 1000/1000)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2, 1000/1000)"
   },
   {
    "layer": "mobs",
@@ -79,7 +79,7 @@
      "level": 2
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (flob area):\nFlob (Spawner: flob nubie zone, up to 3, 1000/1000)\nInfant Stount (LV2) (Spawner: Infant stount, up to 2, 1000/1000)"
   },
   {
    "layer": "npcs",

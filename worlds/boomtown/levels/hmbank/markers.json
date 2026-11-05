@@ -1,0 +1,174 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Taris(Bank Guard)",
+   "px": 6953.3,
+   "py": 5005.7,
+   "npcId": 254,
+   "template": "Human Male",
+   "quests": [
+    {
+     "title": "*Grumble*"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Aaron (Banker)",
+   "px": 4519.8,
+   "py": 3259.2,
+   "npcId": 328,
+   "template": "Human Male",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Personal Vault",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Bank 1",
+   "px": 5013.4,
+   "py": 4539.2,
+   "npcId": 343,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Jolly Well Drunk"
+    },
+    {
+     "title": "Chorus"
+    },
+    {
+     "title": "Verse 2"
+    },
+    {
+     "title": "Verse 3"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Bank 3",
+   "px": 3258.7,
+   "py": 2749.9,
+   "npcId": 344,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Battle Hymn of Celeste"
+    },
+    {
+     "title": "Chorus"
+    },
+    {
+     "title": "Verse 2"
+    },
+    {
+     "title": "Verse 3"
+    },
+    {
+     "title": "Verse 4"
+    },
+    {
+     "title": "Verse 5"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Bank 4",
+   "px": 2607.6,
+   "py": 6196.8,
+   "npcId": 345,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "The Flower"
+    },
+    {
+     "title": "Verse 2"
+    },
+    {
+     "title": "The Lark"
+    },
+    {
+     "title": "Verse 3"
+    },
+    {
+     "title": "Verse 4"
+    },
+    {
+     "title": "Verse 5"
+    },
+    {
+     "title": "Verse 6"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Bank 5",
+   "px": 1492.2,
+   "py": 4133.7,
+   "npcId": 346,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "The Amphibious Social Journal"
+    },
+    {
+     "title": "Vol. XX, Issue IV"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(RBT - Access Extender) Aaron (Banker)",
+   "px": 5392.1,
+   "py": 3212.9,
+   "npcId": 393,
+   "template": "Invis noCo",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Bank 2",
+   "px": 3891,
+   "py": 1065.1,
+   "npcId": 627,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Flight of the Free Peoples"
+    },
+    {
+     "title": "Chapter 2"
+    },
+    {
+     "title": "Chapter 3"
+    },
+    {
+     "title": "Chapter 4"
+    },
+    {
+     "title": "Chapter 5"
+    }
+   ]
+  }
+ ]
+}

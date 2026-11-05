@@ -1,0 +1,186 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Ethan",
+   "px": 3292.3,
+   "py": 1728.8,
+   "npcId": 728,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Tryklan Armor",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Infant Dilirium Eyes",
+       "qty": 5
+      },
+      {
+       "name": "Vigon Shell",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Tryklan Chest Armor (Lv6)"
+      },
+      {
+       "name": "(HM) Tryklan Gauntlet Armor (Lv6)"
+      },
+      {
+       "name": "(HM) Tryklan Thigh Armor (Lv6)"
+      },
+      {
+       "name": "(HM) Tryklan Face Mask (Lv6)"
+      },
+      {
+       "name": "UNUSED (HM) Tryklan Boot Armor"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Tiberius Armor",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Vigon Shell",
+       "qty": 5
+      },
+      {
+       "name": "Clegorn Tongue",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Tiberius Gauntlet Armor (Lv7)"
+      },
+      {
+       "name": "(HM) Tiberius Face Mask (Lv7)"
+      },
+      {
+       "name": "UNUSED (HM) Tiberius Boot Armor"
+      },
+      {
+       "name": "(HM) Tiberius Thigh Armor (Lv7)"
+      },
+      {
+       "name": "(HM) Tiberius Chest Armor (Lv7)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Fision Armor",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Clegorn Tongue",
+       "qty": 6
+      },
+      {
+       "name": "Malia Bat Wings",
+       "qty": 7
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Fision Gauntlet Armor (Lv8)"
+      },
+      {
+       "name": "(HM) Fision Chest Armor (Lv8)"
+      },
+      {
+       "name": "(HM) Fision Thigh Armor (Lv8)"
+      },
+      {
+       "name": "(HM) Fision Face Mask (Lv8)"
+      },
+      {
+       "name": "UNUSED (HM) Fision Boot Armor"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "GI Armor",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Clegorn Tongue",
+       "qty": 5
+      },
+      {
+       "name": "Malia Bat Wings",
+       "qty": 13
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) GI Face Mask (Lv9)"
+      },
+      {
+       "name": "UNUSED (HM) GI Boot Armor"
+      },
+      {
+       "name": "(HM) GI Gauntlet Armor (Lv9)"
+      },
+      {
+       "name": "(HM) GI Chest Armor (Lv9)"
+      },
+      {
+       "name": "(HM) GI Thigh Armor (Lv9)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Ligon Armor",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Malia Bat Wings",
+       "qty": 8
+      },
+      {
+       "name": "Adult Shockion Claw",
+       "qty": 5
+      },
+      {
+       "name": "Ascherion Venom Sack",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(HM) Ligon Chest Armor (Lv10)"
+      },
+      {
+       "name": "(HM) Ligon Thigh Armor (Lv10)"
+      },
+      {
+       "name": "(HM) Ligon Face Mask (Lv10)"
+      },
+      {
+       "name": "(HM) Ligon Gauntlet Armor (Lv10)"
+      },
+      {
+       "name": "UNUSED (HM) Ligon Boot Armor"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Pridio Armor",
+     "race": "HM"
+    }
+   ]
+  }
+ ]
+}

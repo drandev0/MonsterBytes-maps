@@ -4,16 +4,16 @@
   {
    "layer": "portals",
    "name": "Traveler",
-   "px": 3292,
-   "py": 4937.3,
+   "px": 3280,
+   "py": 4707.6,
    "npcId": 1650,
    "routes": [
     {
      "to": {
       "world": "4 Falls",
       "slug": "4-falls",
-      "px": 3294.6,
-      "py": 3241.7
+      "px": 4090,
+      "py": 4023.7
      },
      "title": "Back to 4 Falls"
     }

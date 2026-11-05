@@ -1,0 +1,781 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 2255.3,
+   "py": 4537,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 1689.7,
+   "py": 4668.6,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 1437.8,
+   "py": 4494.5,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 1828,
+   "py": 4198.4,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 2352.4,
+   "py": 3922.1,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 1928.5,
+   "py": 3783.2,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 2081.2,
+   "py": 4090.9,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 2357.9,
+   "py": 4397.2,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 2098.2,
+   "py": 4425.7,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 1777.6,
+   "py": 4128.3,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 1458,
+   "py": 4073.3,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 1735.3,
+   "py": 3851.9,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 2046.9,
+   "py": 3936.7,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Crid",
+   "px": 2394.4,
+   "py": 4307.4,
+   "radiusPx": 16.6,
+   "mobs": [
+    {
+     "id": 94,
+     "name": "Crid",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 19 (4Falls Physion01):\nCrid (LV10) (Spawner: 4Falls Crid, up to 1, 50/1000)"
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Arch halls room",
+   "px": 2972.8,
+   "py": 6100.5,
+   "npcId": 199,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Greater Light (Lv5)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Circ room 2",
+   "px": 2151.9,
+   "py": 7312.5,
+   "npcId": 200,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Greater Heal (Lv5)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Circ 3 room",
+   "px": 4180.6,
+   "py": 7445,
+   "npcId": 201,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Lightning Strike (Lv5) (Re)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) deep underground",
+   "px": 4596.5,
+   "py": 5596.8,
+   "npcId": 202,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Air Blast (Lv5) (A)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Left corridor 1-2",
+   "px": 4054.7,
+   "py": 1636.3,
+   "npcId": 203,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Meteor (Lv3) (E)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Corridor Block",
+   "px": 464.4,
+   "py": 3374.2,
+   "npcId": 204,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Radius Flame (Lv5) (F)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(FF Crypt) Side Corridor",
+   "px": 283.4,
+   "py": 3340.9,
+   "npcId": 205,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Crypt Chest Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Scroll of Radius Heal (Lv5)"
+      },
+      {
+       "name": "Large Wood Chest"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Trenes",
+   "px": 2303.3,
+   "py": 7399.2,
+   "npcId": 404,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Decode Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Xellion Mission"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 5 of 28",
+     "needs": [
+      {
+       "name": "Elder Stone Mission"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Shockion Scout Mission"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 8 of 28",
+     "needs": [
+      {
+       "name": "Spirit Gateway Orb"
+      },
+      {
+       "name": "Note to Trenes"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Note to Sirra"
+      },
+      {
+       "name": "Spirit Gateway Orb"
+      }
+     ]
+    },
+    {
+     "title": "ImpulseCannon Quest: Part 11 of 28",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Quazon Chest FFC) Aventure",
+   "px": 4436.6,
+   "py": 6061.9,
+   "npcId": 446,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Aventurine Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Aventurine"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Quazon Chest FFC) Chalcedony",
+   "px": 2465.8,
+   "py": 2430.9,
+   "npcId": 447,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Chalcedony Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Chalcedony"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Mineral Chest",
+   "px": 5634.4,
+   "py": 5477,
+   "npcId": 448,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "needs": [
+      {
+       "name": "Mineral Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Naggite",
+       "qty": 2
+      },
+      {
+       "name": "Zancon",
+       "qty": 2
+      },
+      {
+       "name": "Rocap Ore"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Property of Detinu",
+   "px": 1374.4,
+   "py": 3899.7,
+   "npcId": 732,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Flint",
+     "needs": [
+      {
+       "name": "Detinu Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Detinus Flint"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Trunor",
+   "px": 2381.7,
+   "py": 3935,
+   "npcId": 1551,
+   "template": "Sarin",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sarus",
+   "px": 2381.7,
+   "py": 3935,
+   "npcId": 1552,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "KX-1",
+   "px": 2381.7,
+   "py": 3935,
+   "npcId": 1553,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Cirucuto",
+   "px": 2381.7,
+   "py": 3935,
+   "npcId": 1554,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Herieven",
+   "px": 2381.7,
+   "py": 3935,
+   "npcId": 1555,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Overking Shadow",
+   "px": 1462.9,
+   "py": 7382.7,
+   "npcId": 1566,
+   "template": "Braun Adult",
+   "quests": [
+    {
+     "title": "Raid!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Moonus - Portal Guardian",
+   "px": 1993.5,
+   "py": 4075.5,
+   "npcId": 211,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "level": "crypt",
+      "levelName": "Crypt",
+      "px": 1886.8,
+      "py": 4187.7
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Succa - Portal Guardian",
+   "px": 1967,
+   "py": 2418.9,
+   "npcId": 212,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "level": "crypt",
+      "levelName": "Crypt",
+      "px": 2383.8,
+      "py": 3916.8
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Zeeke - Portal Guardian",
+   "px": 3667.4,
+   "py": 3722.5,
+   "npcId": 213,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "level": "crypt",
+      "levelName": "Crypt",
+      "px": 3526.2,
+      "py": 3718.9
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Pnet - Portal Guardian",
+   "px": 228,
+   "py": 5465.9,
+   "npcId": 214,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 6836.8,
+      "py": 3423.1
+     },
+     "title": "Are you stuck in here?"
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 50",
+   "px": 579.8,
+   "py": 5740.1,
+   "radiusPx": 579.9,
+   "detail": "Action 6: play soundtrack, argument 50\nRadius: 700\nObject 262 (CryptCavern02e.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 10",
+   "px": 2398.1,
+   "py": 3934.3,
+   "radiusPx": 414.2,
+   "detail": "Action 6: play soundtrack, argument 10\nRadius: 500\nObject 543 (CryptFourWaya.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "Exclusion",
+   "px": 399.8,
+   "py": 3134.8,
+   "box": [
+    205.1,
+    2709.9,
+    594.5,
+    3559.8
+   ],
+   "detail": "Exclusion zone (no water here)"
+  }
+ ]
+}

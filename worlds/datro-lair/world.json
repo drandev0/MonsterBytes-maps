@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "datro-lair",
   "title": "Datro Lair",
   "places": [
@@ -10,13 +10,13 @@
   "source": {
     "world": "DATRO_LAIR.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 1.3918933272361755,
+    "unitsPerPixel": 0.5798948407173157,
     "origin": {
-      "x": -17864.3203125,
-      "z": 19440.904296875
+      "x": -15687.140625,
+      "z": 12916.93359375
     }
   },
-  "width": 3641,
+  "width": 4762,
   "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
@@ -27,7 +27,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 64
+      "count": 99
     },
     {
       "id": "npcs",
@@ -55,14 +55,7 @@
       "title": "Music and triggers",
       "color": "#fdd835",
       "shown": false,
-      "count": 11
-    },
-    {
-      "id": "water",
-      "title": "Water",
-      "color": "#00bcd4",
-      "shown": false,
-      "count": 19
+      "count": 9
     }
   ]
 }

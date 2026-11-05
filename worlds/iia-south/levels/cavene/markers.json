@@ -1,0 +1,413 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 3481.3,
+   "py": 3603.5,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 157 (Cave NE - A):\nAscherion (LV8) (Spawner: Cave NE 01 - Ascherion, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 3169.7,
+   "py": 4229.5,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 157 (Cave NE - A):\nAscherion (LV8) (Spawner: Cave NE 01 - Ascherion, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 2849.4,
+   "py": 7382.1,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 158 (Cave NE - B):\nSkarshar (LV13) (Spawner: Cave NE 02 - Skarshar, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 3533.4,
+   "py": 7065.1,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 158 (Cave NE - B):\nSkarshar (LV13) (Spawner: Cave NE 02 - Skarshar, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 3310.5,
+   "py": 6513.6,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 158 (Cave NE - B):\nSkarshar (LV13) (Spawner: Cave NE 02 - Skarshar, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2413.2,
+   "py": 6139.8,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 159 (Cave NE - C):\nAscherion (LV8) (Spawner: Cave NE 03 - Ascherion, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 2259.6,
+   "py": 5167.7,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 159 (Cave NE - C):\nAscherion (LV8) (Spawner: Cave NE 03 - Ascherion, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4923.5,
+   "py": 2786.2,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 160 (Cave NE - D):\nSkarshar (LV13) (Spawner: Cave NE 04 - Skarshar, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 4678.9,
+   "py": 2131.6,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 160 (Cave NE - D):\nSkarshar (LV13) (Spawner: Cave NE 04 - Skarshar, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar",
+   "px": 5307.3,
+   "py": 2044.8,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 160 (Cave NE - D):\nSkarshar (LV13) (Spawner: Cave NE 04 - Skarshar, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 6047,
+   "py": 2652.6,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 161 (Cave NE - E):\nInfant Dilirium (LV3) (Spawner: Cave NE 05 - Infant Dilirium, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5725.3,
+   "py": 3382.5,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 161 (Cave NE - E):\nInfant Dilirium (LV3) (Spawner: Cave NE 05 - Infant Dilirium, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 5211.2,
+   "py": 3051.1,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 161 (Cave NE - E):\nInfant Dilirium (LV3) (Spawner: Cave NE 05 - Infant Dilirium, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 6281.9,
+   "py": 2877.1,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 457,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 162 (Cave NE - F):\nAdult Dilirium (LV6) (Spawner: Cave NE 06 - Adult Dilirium (Orb), up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 7489.5,
+   "py": 2928.6,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 457,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 162 (Cave NE - F):\nAdult Dilirium (LV6) (Spawner: Cave NE 06 - Adult Dilirium (Orb), up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 7692.7,
+   "py": 2205.5,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 463,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 163 (Cave NE - G):\nPidion (LV10) (Spawner: Cave NE 07 - Pidion (Orb), up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion",
+   "px": 6665.2,
+   "py": 2040.7,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 463,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 163 (Cave NE - G):\nPidion (LV10) (Spawner: Cave NE 07 - Pidion (Orb), up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 6569.1,
+   "py": 3556.6,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 164 (Cave NE - H):\nGrision (LV15) (Spawner: Cave NE 08 - Grision, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Grision",
+   "px": 6381.6,
+   "py": 4723.7,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 55,
+     "name": "Grision",
+     "level": 15
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 164 (Cave NE - H):\nGrision (LV15) (Spawner: Cave NE 08 - Grision, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion",
+   "px": 6170.2,
+   "py": 7004.6,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 278,
+     "name": "Elite Ascherion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 165 (Cave NE - I):\nElite Ascherion (LV10) (Spawner: Cave NE 09 - Ascherion Elite, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion",
+   "px": 5459.4,
+   "py": 6610.5,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 278,
+     "name": "Elite Ascherion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 165 (Cave NE - I):\nElite Ascherion (LV10) (Spawner: Cave NE 09 - Ascherion Elite, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Elite Ascherion",
+   "px": 5491,
+   "py": 7181.2,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 278,
+     "name": "Elite Ascherion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 165 (Cave NE - I):\nElite Ascherion (LV10) (Spawner: Cave NE 09 - Ascherion Elite, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Dark Jouster",
+   "px": 5427.7,
+   "py": 6132.6,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 166 (Cave NE - J):\nDark Jouster (LV13) (Spawner: Cave NE 10 - Dark Jouster, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Dark Jouster",
+   "px": 5167.6,
+   "py": 5143.9,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 56,
+     "name": "Dark Jouster",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 166 (Cave NE - J):\nDark Jouster (LV13) (Spawner: Cave NE 10 - Dark Jouster, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion",
+   "px": 4125.8,
+   "py": 4556.9,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 167 (Cave NE - K):\nPridion (LV15 BOSS) (Spawner: Cave NE 11 - Boss Pridion, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion",
+   "px": 4983.4,
+   "py": 4107.3,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 167 (Cave NE - K):\nPridion (LV15 BOSS) (Spawner: Cave NE 11 - Boss Pridion, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pridion",
+   "px": 5103.6,
+   "py": 4918.2,
+   "radiusPx": 39.8,
+   "mobs": [
+    {
+     "id": 109,
+     "name": "Pridion",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 167 (Cave NE - K):\nPridion (LV15 BOSS) (Spawner: Cave NE 11 - Boss Pridion, up to 1, 500/1000)"
+  }
+ ]
+}

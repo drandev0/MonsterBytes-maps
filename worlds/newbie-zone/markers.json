@@ -62,7 +62,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6, 250/1000)"
   },
   {
    "layer": "mobs",
@@ -77,7 +77,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6, 250/1000)"
   },
   {
    "layer": "mobs",
@@ -92,7 +92,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6, 250/1000)"
   },
   {
    "layer": "mobs",
@@ -107,7 +107,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6)"
+   "detail": "Can spawn at this node, one of 4 on AI web 0 (Newbie Flobs):\nFlob (LV1) (Spawner: Newbie Flobs, up to 6, 250/1000)"
   },
   {
    "layer": "mobs",
@@ -122,7 +122,7 @@
      "level": 2
     }
    ],
-   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2)"
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -137,7 +137,7 @@
      "level": 2
     }
    ],
-   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2)"
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -152,7 +152,7 @@
      "level": 2
     }
    ],
-   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2)"
+   "detail": "Can spawn at this node, one of 3 on AI web 1 (Newbie InfantStount):\nInfant Stount (LV2) (Spawner: Newbie Infant Stount, up to 2, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -167,7 +167,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -182,7 +182,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -197,7 +197,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -212,7 +212,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3)"
+   "detail": "Can spawn at this node, one of 4 on AI web 2 (Newbie Lazeel):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel, up to 3, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -227,7 +227,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 2 on AI web 3 (Newbie Lazeel 2):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel 2, up to 1)"
+   "detail": "Can spawn at this node, one of 2 on AI web 3 (Newbie Lazeel 2):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel 2, up to 1, 200/1000)"
   },
   {
    "layer": "mobs",
@@ -242,7 +242,7 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 2 on AI web 3 (Newbie Lazeel 2):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel 2, up to 1)"
+   "detail": "Can spawn at this node, one of 2 on AI web 3 (Newbie Lazeel 2):\nInfant Lazeel (LV1) (Spawner: Newbie Lazeel 2, up to 1, 200/1000)"
   },
   {
    "layer": "npcs",
@@ -922,8 +922,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 2979,
-      "py": 5100.1
+      "px": 1018.6,
+      "py": 6784.9
      },
      "title": "Portal Bloblic",
      "races": [
@@ -939,8 +939,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 4588.1,
-      "py": 2980.2
+      "px": 5384,
+      "py": 1033.7
      },
      "title": "Portal Amphibian",
      "races": [
@@ -956,8 +956,8 @@
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6331.9,
-      "py": 5899.5
+      "px": 4104.7,
+      "py": 2573.4
      },
      "title": "Portal Human Male",
      "races": [
@@ -974,7 +974,7 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 4849.6,
    "py": 3194.3,
    "npcId": 911,
@@ -1157,19 +1157,6 @@
    "py": 4086.7,
    "radiusPx": 19.7,
    "detail": "Action 7: text output, argument 0, once\nRadius: 15\nObject 1032 (Light001.ARW)"
-  },
-  {
-   "layer": "water",
-   "name": "Telekey Water",
-   "px": 3775.4,
-   "py": 2949.9,
-   "box": [
-    3775.4,
-    2949.9,
-    3775.4,
-    2949.9
-   ],
-   "detail": "Water zone"
   }
  ]
 }

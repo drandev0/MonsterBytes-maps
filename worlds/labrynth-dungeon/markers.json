@@ -2,6 +2,396 @@
  "format": "MonsterBytes/markers/2",
  "markers": [
   {
+   "layer": "mobs",
+   "name": "Nolion",
+   "px": 3164.2,
+   "py": 2246.4,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 751,
+     "name": "Nolion",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 0 (Nolion):\nNolion (Spawner: Nolion, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nolion",
+   "px": 3109.9,
+   "py": 1409.6,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 751,
+     "name": "Nolion",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 0 (Nolion):\nNolion (Spawner: Nolion, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nolion",
+   "px": 3021.9,
+   "py": 553.9,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 751,
+     "name": "Nolion",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 0 (Nolion):\nNolion (Spawner: Nolion, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 3300.2,
+   "py": 5142.3,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 3188.1,
+   "py": 5375.7,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 2792.7,
+   "py": 4983,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 3550.9,
+   "py": 5067.2,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 3098.7,
+   "py": 5304.6,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 2887.1,
+   "py": 4883,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 2895.2,
+   "py": 4767,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Necrolaz",
+   "px": 3469.7,
+   "py": 5160.8,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 675,
+     "name": "Necrolaz",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 1 (Necrolaz):\nNecrolaz (LV2) (Spawner: Necrolaz, up to 5, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 1914.2,
+   "py": 5349,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 1029.9,
+   "py": 3606.2,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 3738.9,
+   "py": 1862.6,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 886.1,
+   "py": 5101.3,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 950.7,
+   "py": 6234.1,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 4331.8,
+   "py": 6568.3,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 3154.3,
+   "py": 5079.9,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Spiriton",
+   "px": 1878.4,
+   "py": 5115.8,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 753,
+     "name": "Spiriton",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 3 (Spiriton):\nSpiriton (Spawner: Spiriton, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Spiriton",
+   "px": 4508.9,
+   "py": 3906.5,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 753,
+     "name": "Spiriton",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 3 (Spiriton):\nSpiriton (Spawner: Spiriton, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Spiriton",
+   "px": 4372.6,
+   "py": 2471.1,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 753,
+     "name": "Spiriton",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 3 (Spiriton):\nSpiriton (Spawner: Spiriton, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Spiriton",
+   "px": 4288.7,
+   "py": 4760.9,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 753,
+     "name": "Spiriton",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 3 (Spiriton):\nSpiriton (Spawner: Spiriton, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezu",
+   "px": 4002.4,
+   "py": 4176.5,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 754,
+     "name": "Eyezu",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 4 (Eyezu):\nEyezu (Spawner: Eyezu, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezu",
+   "px": 4002.4,
+   "py": 4176.5,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 754,
+     "name": "Eyezu",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 4 (Eyezu):\nEyezu (Spawner: Eyezu, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shale",
+   "px": 1073,
+   "py": 5143,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 755,
+     "name": "Shale",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 5 (Shale):\nShale (Spawner: Shale, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Shale",
+   "px": 1073,
+   "py": 5143,
+   "radiusPx": 107.7,
+   "mobs": [
+    {
+     "id": 755,
+     "name": "Shale",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 5 (Shale):\nShale (Spawner: Shale, up to 1, 5/1000)"
+  },
+  {
    "layer": "portals",
    "name": "Portal Out",
    "px": 3134.9,
@@ -12,8 +402,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 2911.5,
-      "py": 4096.2
+      "px": 835.6,
+      "py": 4061.2
      },
      "title": "Portal Out"
     }

@@ -1,0 +1,71 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Chu Chu Kitty Rebirther",
+   "px": 2073.4,
+   "py": 7758.2,
+   "npcId": 784,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chu Chu Kitty\"s Key Required",
+     "needs": [
+      {
+       "name": "Chu Chu Rebirther Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Chu Chu Kitty Rebirther"
+      }
+     ]
+    },
+    {
+     "title": "Insert Key",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 2172.3,
+   "py": 7543.4,
+   "radiusPx": 1228.3,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 74 (MainSE_Cave02b.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 3925.1,
+   "py": 1243.3,
+   "radiusPx": 1228.3,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 84 (MainSE_Cave06a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 3648.4,
+   "py": 6049.1,
+   "radiusPx": 1228.3,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 207 (MainSE_CaveHall05a.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 521.7,
+   "py": 857.2,
+   "radiusPx": 1228.3,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 210 (MainSE_CaveHall01b.ARW)"
+  }
+ ]
+}

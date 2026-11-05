@@ -1,0 +1,1083 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3186.3,
+   "py": 2803.2,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 64 (Clegurk02 BC Island Cave):\nClegurk (LV2) (Spawner: Clegurk02 BC Caves, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3920.2,
+   "py": 2670.8,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 64 (Clegurk02 BC Island Cave):\nClegurk (LV2) (Spawner: Clegurk02 BC Caves, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4232.9,
+   "py": 2425.3,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 64 (Clegurk02 BC Island Cave):\nClegurk (LV2) (Spawner: Clegurk02 BC Caves, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3622.3,
+   "py": 2804.9,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 64 (Clegurk02 BC Island Cave):\nClegurk (LV2) (Spawner: Clegurk02 BC Caves, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3228.6,
+   "py": 2723.1,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 64 (Clegurk02 BC Island Cave):\nClegurk (LV2) (Spawner: Clegurk02 BC Caves, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3463,
+   "py": 2715.5,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 64 (Clegurk02 BC Island Cave):\nClegurk (LV2) (Spawner: Clegurk02 BC Caves, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4302.7,
+   "py": 1807.8,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (Clergurks01 BCCave):\nClegurk (LV2) (Spawner: Clergurk01 BC Cave, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4238.8,
+   "py": 2176.8,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (Clergurks01 BCCave):\nClegurk (LV2) (Spawner: Clergurk01 BC Cave, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4378.5,
+   "py": 1707.2,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (Clergurks01 BCCave):\nClegurk (LV2) (Spawner: Clergurk01 BC Cave, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3994.6,
+   "py": 1736.4,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (Clergurks01 BCCave):\nClegurk (LV2) (Spawner: Clergurk01 BC Cave, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4191.5,
+   "py": 1410.3,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (Clergurks01 BCCave):\nClegurk (LV2) (Spawner: Clergurk01 BC Cave, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4191.1,
+   "py": 1600.3,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 65 (Clergurks01 BCCave):\nClegurk (LV2) (Spawner: Clergurk01 BC Cave, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4044.6,
+   "py": 981.7,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4132.5,
+   "py": 808.3,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4288.2,
+   "py": 658.2,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4677.8,
+   "py": 431.3,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4912,
+   "py": 268.6,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4622.9,
+   "py": 427.6,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4376.9,
+   "py": 665.5,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4175,
+   "py": 745.1,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 4076.7,
+   "py": 969.3,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 3892.7,
+   "py": 1242,
+   "radiusPx": 56.7,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 66 (InfantDili01 BC Cave):\nInfant Dilirium (LV3) (Spawner: InfantDili01 BC Cave, up to 2, 200/1000)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Talpite",
+   "px": 3816.8,
+   "py": 2661.1,
+   "npcId": 148,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Talpite",
+     "needs": [
+      {
+       "name": "Extractor (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor (Minerals)"
+      },
+      {
+       "name": "Talpite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Talpite",
+   "px": 3700.8,
+   "py": 2718.1,
+   "npcId": 149,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Talpite",
+     "needs": [
+      {
+       "name": "Extractor (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor (Minerals)"
+      },
+      {
+       "name": "Talpite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Talpite",
+   "px": 3591.7,
+   "py": 2695.7,
+   "npcId": 150,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Talpite",
+     "needs": [
+      {
+       "name": "Extractor (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor (Minerals)"
+      },
+      {
+       "name": "Talpite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Talpite",
+   "px": 3892.7,
+   "py": 2666.2,
+   "npcId": 151,
+   "template": "All Minerals",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Talpite",
+     "needs": [
+      {
+       "name": "Extractor (Minerals)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Talpite"
+      },
+      {
+       "name": "Extractor (Minerals)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Opot-Plorb (Items)",
+   "px": 4360.4,
+   "py": 5156.4,
+   "npcId": 392,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Accessing my store...",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "(BL) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Zigton (Melee Weapons)",
+   "px": 4332.3,
+   "py": 4847.1,
+   "npcId": 399,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Melee Weapons",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(BL) Octograph (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(BL) Ontroytag (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(BL) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(BL) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(BL) Alamzaterius (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(BL) TovechLerin (N) (Lv5)",
+     "price": 608
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Sobooth (Banker)",
+   "px": 747.8,
+   "py": 7447.9,
+   "npcId": 435,
+   "template": "Bloblic",
+   "roles": [
+    "bank"
+   ],
+   "quests": [
+    {
+     "title": "Accessing the Vault...",
+     "opens": "bank"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Pugnus",
+   "px": 1050.5,
+   "py": 7502.6,
+   "npcId": 621,
+   "template": "Bloblic",
+   "says": [
+    "Pugnus> \"You call this free checking?? What does the word \"FREE\" mean to you?\"",
+    "Pugnus> \"No, you DIDN\"T tell me you placed a hold on my paycheck! What is the matter with you people?\"",
+    "Pugnus> \"Look, I\"m just here to get a little cash, okay? What do you mean I\"m overdrawn?\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Hartman - BC Guard",
+   "px": 470.6,
+   "py": 7329.7,
+   "npcId": 624,
+   "template": "Bloblic",
+   "says": [
+    "Hartman> \"Maybe you should try a round in the arena?\"",
+    "Hartman> \"I guard the bank. Nobody would dare mess with me. Not after what we did to the invaders here.\"",
+    "Hartman> \"If you didn\"t hear, we drove them into the ground and killed their leader. Well, Bo did, that is.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Archyon - BC Guard",
+   "px": 4286.1,
+   "py": 5462.5,
+   "npcId": 625,
+   "template": "Bloblic",
+   "says": [
+    "Archyon> \"The store is this way. Come on in.\"",
+    "Archyon> \"Don\"t look suspicious, now. I\"ll have to open you up and see what\"s inside.\"",
+    "Archyon> \"I\"m hoping the invaders will try again. This time we won\"t be caught unprepared.\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Blasta (Armor)",
+   "px": 3970.7,
+   "py": 5033.1,
+   "npcId": 706,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Armors",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Doperod (Range Weapons)",
+   "px": 4513.8,
+   "py": 4902.4,
+   "npcId": 707,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Range Weapons",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(BL) Hyperuzi-Chalis (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(BL) KvCrusher (N) (Lv4)",
+     "price": 928
+    },
+    {
+     "name": "(BL) Pulse Mortar (N) (Lv6)",
+     "price": 1808
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "BL City Items",
+   "px": 4384.5,
+   "py": 5169.1,
+   "box": [
+    4299.4,
+    5084.1,
+    4469.5,
+    5254.2
+   ],
+   "shopId": 31,
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "(BL) SpaceJet",
+     "price": 1788
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "(BL) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "BL City Armor",
+   "px": 3970.7,
+   "py": 5033.1,
+   "box": [
+    3914,
+    4976.4,
+    4027.3,
+    5089.8
+   ],
+   "shopId": 49,
+   "stock": [
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "BL City Range Weapons",
+   "px": 4520.5,
+   "py": 4914.1,
+   "box": [
+    4463.8,
+    4857.4,
+    4577.2,
+    4970.7
+   ],
+   "shopId": 50,
+   "stock": [
+    {
+     "name": "(BL) Genshock (N) (Lv0)",
+     "price": 50
+    },
+    {
+     "name": "(BL) Hyperuzi-Chalis (N) (Lv2)",
+     "price": 648
+    },
+    {
+     "name": "(BL) KvCrusher (N) (Lv4)",
+     "price": 928
+    },
+    {
+     "name": "(BL) Pulse Mortar (N) (Lv6)",
+     "price": 1808
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "BL City Melee Weapons",
+   "px": 4327.8,
+   "py": 4860.2,
+   "box": [
+    4271.1,
+    4803.5,
+    4384.5,
+    4916.9
+   ],
+   "shopId": 51,
+   "stock": [
+    {
+     "name": "(BL) Octograph (N) (Lv0)",
+     "price": 16
+    },
+    {
+     "name": "(BL) Ontroytag (N) (Lv1)",
+     "price": 76
+    },
+    {
+     "name": "(BL) Stafftripe (N) (Lv2)",
+     "price": 92
+    },
+    {
+     "name": "(BL) Waston (N) (Lv3)",
+     "price": 412
+    },
+    {
+     "name": "(BL) Alamzaterius (N) (Lv4)",
+     "price": 448
+    },
+    {
+     "name": "(BL) TovechLerin (N) (Lv5)",
+     "price": 608
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 43",
+   "px": 343.4,
+   "py": 7415.8,
+   "radiusPx": 425.1,
+   "detail": "Action 6: play soundtrack, argument 43\nRadius: 150\nObject 2681 (BNKDRWYS01e.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 3",
+   "px": 4128.8,
+   "py": 5495.1,
+   "radiusPx": 566.9,
+   "detail": "Action 6: play soundtrack, argument 3\nRadius: 200\nObject 2800 (STRDRWYS02e.ARW)"
+  }
+ ]
+}

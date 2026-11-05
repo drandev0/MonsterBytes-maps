@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "skelcy-rune-lair",
   "title": "Skelcy Rune Lair",
   "places": [
@@ -27,7 +27,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 1
+      "count": 13
     },
     {
       "id": "portals",

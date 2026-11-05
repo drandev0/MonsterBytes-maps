@@ -1,0 +1,175 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Thorin (smithy)",
+   "px": 4045.2,
+   "py": 5413.6,
+   "npcId": 255,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Smithy",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Aluminum Stock-SMT",
+     "price": 3
+    },
+    {
+     "name": "Andros Alloy Unit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Ceramic Flex Unit-SMT",
+     "price": 150
+    },
+    {
+     "name": "Ceramic Stock-SMT",
+     "price": 25
+    },
+    {
+     "name": "Cobalt Unit-SMT",
+     "price": 300
+    },
+    {
+     "name": "Core Metal Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Iron Stock-SMT",
+     "price": 8
+    },
+    {
+     "name": "Lightweight Titanium Plugs-SMT",
+     "price": 150
+    },
+    {
+     "name": "Magnesium Plating-SMT",
+     "price": 400
+    },
+    {
+     "name": "Plasma Unit-SMT",
+     "price": 25
+    },
+    {
+     "name": "Platinum Stock-SMT",
+     "price": 75
+    },
+    {
+     "name": "Rivet Kit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Stainless Steel Stock-SMT",
+     "price": 100
+    },
+    {
+     "name": "Steel Stock-SMT",
+     "price": 20
+    },
+    {
+     "name": "Titanium Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Wood Unit-SMT",
+     "price": 2
+    },
+    {
+     "name": "Smith Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Smithy Forgery",
+   "px": 4083.7,
+   "py": 5393.9,
+   "box": [
+    831.8,
+    2142,
+    7335.6,
+    8645.9
+   ],
+   "shopId": 13,
+   "stock": [
+    {
+     "name": "Aluminum Stock-SMT",
+     "price": 3
+    },
+    {
+     "name": "Andros Alloy Unit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Ceramic Flex Unit-SMT",
+     "price": 150
+    },
+    {
+     "name": "Ceramic Stock-SMT",
+     "price": 25
+    },
+    {
+     "name": "Cobalt Unit-SMT",
+     "price": 300
+    },
+    {
+     "name": "Core Metal Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Iron Stock-SMT",
+     "price": 8
+    },
+    {
+     "name": "Lightweight Titanium Plugs-SMT",
+     "price": 150
+    },
+    {
+     "name": "Magnesium Plating-SMT",
+     "price": 400
+    },
+    {
+     "name": "Plasma Unit-SMT",
+     "price": 25
+    },
+    {
+     "name": "Platinum Stock-SMT",
+     "price": 75
+    },
+    {
+     "name": "Rivet Kit-SMT",
+     "price": 100
+    },
+    {
+     "name": "Stainless Steel Stock-SMT",
+     "price": 100
+    },
+    {
+     "name": "Steel Stock-SMT",
+     "price": 20
+    },
+    {
+     "name": "Titanium Stock-SMT",
+     "price": 50
+    },
+    {
+     "name": "Wood Unit-SMT",
+     "price": 2
+    },
+    {
+     "name": "Smith Kit",
+     "price": 15000
+    }
+   ]
+  }
+ ]
+}

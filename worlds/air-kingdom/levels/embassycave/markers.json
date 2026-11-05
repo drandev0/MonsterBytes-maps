@@ -1,0 +1,21 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 2849.5,
+   "py": 4096,
+   "radiusPx": 1668.6,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 215 (Embassy_Cavea.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 2861.8,
+   "py": 4117.5,
+   "radiusPx": 1668.6,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 216 (Embassy_Caveb.ARW)"
+  }
+ ]
+}

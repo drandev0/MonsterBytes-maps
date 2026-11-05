@@ -3,7 +3,7 @@
  "markers": [
   {
    "layer": "mobs",
-   "name": "Destroyer01, Deathbot02",
+   "name": "Destroyer01",
    "px": 2182.5,
    "py": 2602.1,
    "radiusPx": 2.9,
@@ -13,18 +13,13 @@
      "name": "Destroyer01",
      "level": 15,
      "boss": true
-    },
-    {
-     "id": 99,
-     "name": "Deathbot02",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: Destroyer, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Destroyer01, Deathbot02",
+   "name": "Destroyer01",
    "px": 1829.9,
    "py": 1824.2,
    "mobs": [
@@ -33,18 +28,13 @@
      "name": "Destroyer01",
      "level": 15,
      "boss": true
-    },
-    {
-     "id": 99,
-     "name": "Deathbot02",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: Destroyer, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Destroyer01, Deathbot02",
+   "name": "Destroyer01",
    "px": 1751.6,
    "py": 844.7,
    "radiusPx": 2.9,
@@ -54,18 +44,13 @@
      "name": "Destroyer01",
      "level": 15,
      "boss": true
-    },
-    {
-     "id": 99,
-     "name": "Deathbot02",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: Destroyer, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Destroyer01, Deathbot02",
+   "name": "Destroyer01",
    "px": 2975.3,
    "py": 1160.3,
    "radiusPx": 2.9,
@@ -75,18 +60,13 @@
      "name": "Destroyer01",
      "level": 15,
      "boss": true
-    },
-    {
-     "id": 99,
-     "name": "Deathbot02",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: Destroyer, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Destroyer01, Deathbot02",
+   "name": "Destroyer01",
    "px": 2975.3,
    "py": 1817.7,
    "radiusPx": 2.9,
@@ -96,18 +76,13 @@
      "name": "Destroyer01",
      "level": 15,
      "boss": true
-    },
-    {
-     "id": 99,
-     "name": "Deathbot02",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: Destroyer, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Destroyer01, Deathbot02",
+   "name": "Destroyer01",
    "px": 2522.7,
    "py": 2375.6,
    "radiusPx": 2.9,
@@ -117,14 +92,109 @@
      "name": "Destroyer01",
      "level": 15,
      "boss": true
-    },
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: Destroyer, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02, Deathbot01",
+   "px": 2253.5,
+   "py": 4023,
+   "radiusPx": 58.3,
+   "mobs": [
     {
      "id": 99,
      "name": "Deathbot02",
      "level": 13
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 43 (Destroyer):\nDestroyer01 (LV15 BOSS) (Spawner: 31 Destroyer01, up to 1)\nDeathbot02 (LV13) (Spawner: 31 Deathbot 02, up to 4)"
+   "detail": "Can spawn at this node, one of 5 on AI web 1 (DeathBots):\nDeathbot02 (LV13) (Spawner: DeathBot02, up to 1, 150/1000)\nDeathbot01 (LV12) (Spawner: DeathBot01, up to 1, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02, Deathbot01",
+   "px": 2448.3,
+   "py": 4821.8,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 1 (DeathBots):\nDeathbot02 (LV13) (Spawner: DeathBot02, up to 1, 150/1000)\nDeathbot01 (LV12) (Spawner: DeathBot01, up to 1, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02, Deathbot01",
+   "px": 2273.5,
+   "py": 5081.1,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 1 (DeathBots):\nDeathbot02 (LV13) (Spawner: DeathBot02, up to 1, 150/1000)\nDeathbot01 (LV12) (Spawner: DeathBot01, up to 1, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02, Deathbot01",
+   "px": 2490.8,
+   "py": 5495.9,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 1 (DeathBots):\nDeathbot02 (LV13) (Spawner: DeathBot02, up to 1, 150/1000)\nDeathbot01 (LV12) (Spawner: DeathBot01, up to 1, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02, Deathbot01",
+   "px": 2241.6,
+   "py": 5861.2,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    },
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 5 on AI web 1 (DeathBots):\nDeathbot02 (LV13) (Spawner: DeathBot02, up to 1, 150/1000)\nDeathbot01 (LV12) (Spawner: DeathBot01, up to 1, 150/1000)"
   },
   {
    "layer": "portals",
@@ -137,8 +207,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 3393,
-      "py": 4045.1
+      "px": 2141.8,
+      "py": 3922.8
      },
      "title": "Blink!",
      "needs": [
@@ -160,8 +230,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 3393,
-      "py": 4045.1
+      "px": 2141.8,
+      "py": 3922.8
      },
      "title": "Blink!",
      "needs": [

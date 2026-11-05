@@ -1,0 +1,417 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Crunk (Armors)",
+   "px": 2349.1,
+   "py": 1630.3,
+   "npcId": 261,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Armors",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bostuk (Items)",
+   "px": 1654.6,
+   "py": 4390.7,
+   "npcId": 347,
+   "template": "Bloblic",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Items",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "(BL) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "BL Items",
+   "px": 1647.1,
+   "py": 4400.9,
+   "box": [
+    626.8,
+    3380.6,
+    2667.5,
+    5421.3
+   ],
+   "shopId": 0,
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "Chalis Charge (10)",
+     "price": 400
+    },
+    {
+     "name": "Genshock Mag (35)",
+     "price": 4
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "JakkleEpozisTubes (20)",
+     "price": 201
+    },
+    {
+     "name": "Kvcrusher Belt (20)",
+     "price": 51
+    },
+    {
+     "name": "Neronicle Cell (10)",
+     "price": 320
+    },
+    {
+     "name": "Pulse Master Cell (20)",
+     "price": 249
+    },
+    {
+     "name": "PulseMortar Shells (20)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "StingLayzor Mag (20)",
+     "price": 174
+    },
+    {
+     "name": "TomshockNeo Cell (20)",
+     "price": 147
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "(BL) Dashpack (Lv1)",
+     "price": 3000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "BL Armor",
+   "px": 2327.4,
+   "py": 1646,
+   "box": [
+    1307,
+    625.7,
+    3347.7,
+    2666.3
+   ],
+   "shopId": 1,
+   "stock": [
+    {
+     "name": "(BL) Cyril Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(BL) Cyril Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Cyril Boot Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(BL) Emerald Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(BL) Emerald Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(BL) Emerald Boot Armor (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(BL) Slate Chest Armor (Lv3)",
+     "price": 464
+    },
+    {
+     "name": "(BL) Slate Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(BL) Slate Boot Armor (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(BL) Nacell Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Nacell Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(BL) Nacell Boot Armor (Lv4)",
+     "price": 504
+    },
+    {
+     "name": "(BL) Shakra Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(BL) Shakra Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(BL) Shakra Boot Armor (Lv5)",
+     "price": 804
+    }
+   ]
+  }
+ ]
+}

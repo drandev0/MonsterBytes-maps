@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "slate-and-brike-rune-lair",
   "title": "Slate and Brike Rune Lair",
   "places": [
@@ -11,14 +11,14 @@
   "source": {
     "world": "SLATEBRIKE_RUNEZONE.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 1.0812925696372986,
+    "unitsPerPixel": 0.26705193519592285,
     "origin": {
-      "x": -16285.1640625,
-      "z": -19126.740234375
+      "x": -8399.6337890625,
+      "z": -19255.015625
     }
   },
-  "width": 8192,
-  "height": 2261,
+  "width": 3161,
+  "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
   "background": "#190000",
@@ -28,35 +28,76 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 17
-    },
-    {
-      "id": "npcs",
-      "title": "NPCs",
-      "color": "#ec407a",
-      "shown": true,
-      "count": 1
+      "count": 6
     },
     {
       "id": "portals",
       "title": "Teleporters",
       "color": "#26a69a",
       "shown": true,
-      "count": 4
-    },
-    {
-      "id": "entities",
-      "title": "Placed entities",
-      "color": "#1e88e5",
-      "shown": false,
-      "count": 1
+      "count": 2
     },
     {
       "id": "triggers",
       "title": "Music and triggers",
       "color": "#fdd835",
       "shown": false,
-      "count": 2
+      "count": 1
+    }
+  ],
+  "levels": [
+    {
+      "id": "west",
+      "name": "West copy",
+      "width": 3161,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#190000",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 10
+        },
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        },
+        {
+          "id": "portals",
+          "title": "Teleporters",
+          "color": "#26a69a",
+          "shown": true,
+          "count": 2
+        },
+        {
+          "id": "entities",
+          "title": "Placed entities",
+          "color": "#1e88e5",
+          "shown": false,
+          "count": 1
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.26705193519592285,
+        "origin": {
+          "x": -16156.890625,
+          "z": -19255.015625
+        }
+      }
     }
   ]
 }

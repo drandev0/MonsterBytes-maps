@@ -1,0 +1,555 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Seemlin (Seamstress)",
+   "px": 694,
+   "py": 3424.6,
+   "npcId": 266,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Tailor store access",
+     "opens": "shop"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tray (Tailor)",
+   "px": 5276,
+   "py": 3721.3,
+   "npcId": 322,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Welcome...",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(HM) Grey-Blue Jacket",
+     "price": 50
+    },
+    {
+     "name": "(HM) Red and Black Shirt",
+     "price": 250
+    },
+    {
+     "name": "(HM) Brown Sleeveless Tech Shirt",
+     "price": 125
+    },
+    {
+     "name": "(HM) Brown Shoes",
+     "price": 135
+    },
+    {
+     "name": "(HM) Black Shoes",
+     "price": 100
+    },
+    {
+     "name": "(HM) Black Boots",
+     "price": 210
+    },
+    {
+     "name": "(HM) Dark Grey Boots",
+     "price": 250
+    },
+    {
+     "name": "(HM) Black Gloves 1",
+     "price": 35
+    },
+    {
+     "name": "(HM) Long Black Gloves",
+     "price": 75
+    },
+    {
+     "name": "(HM) Black Gloves 2",
+     "price": 27
+    },
+    {
+     "name": "(HM) Black Boxers",
+     "price": 35
+    },
+    {
+     "name": "(HM) Grey Pants",
+     "price": 280
+    },
+    {
+     "name": "(HM) Black Pants with Red Stripes",
+     "price": 190
+    },
+    {
+     "name": "(HM) Brown Cargo Pants",
+     "price": 157
+    },
+    {
+     "name": "(HM) Blonde Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blonde Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blonde Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Red Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Red Ponytail Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blond Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Red Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) White Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Long Hair",
+     "price": 600
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "FM Tailor",
+   "px": 389.1,
+   "py": 3097.2,
+   "box": [
+    -212.9,
+    2826.3,
+    991.1,
+    3368.1
+   ],
+   "shopId": 28,
+   "stock": [
+    {
+     "name": "(HF) Black Bikini Top",
+     "price": 500
+    },
+    {
+     "name": "(HF) Olive Tank Top",
+     "price": 500
+    },
+    {
+     "name": "(HF) Blue-Grey Sports Bra",
+     "price": 500
+    },
+    {
+     "name": "(HF) Red and Black Bustier",
+     "price": 500
+    },
+    {
+     "name": "(HF) Black Shoes with White Socks",
+     "price": 300
+    },
+    {
+     "name": "(HF) Red Shoes",
+     "price": 300
+    },
+    {
+     "name": "(HF) Blue-Grey Shoes",
+     "price": 300
+    },
+    {
+     "name": "(HF) Black Shoes",
+     "price": 300
+    },
+    {
+     "name": "(HF) Blue Grey Boots (Big)",
+     "price": 300
+    },
+    {
+     "name": "(HF) White Boots (Big)",
+     "price": 300
+    },
+    {
+     "name": "(HF) Black Boots",
+     "price": 300
+    },
+    {
+     "name": "(HF) Black Gloves",
+     "price": 200
+    },
+    {
+     "name": "(HF) Black Long Gloves (Big)",
+     "price": 200
+    },
+    {
+     "name": "(HF) Blue Gloves",
+     "price": 200
+    },
+    {
+     "name": "(HF) Black Gloves with Olive Forearms",
+     "price": 200
+    },
+    {
+     "name": "(HF) White Gloves",
+     "price": 200
+    },
+    {
+     "name": "(HF) White Long Gloves",
+     "price": 200
+    },
+    {
+     "name": "(HF) Black Bikini Bottom with White Thigh Highs",
+     "price": 400
+    },
+    {
+     "name": "(HF) Olive Bikini Bottom with Tan Mesh",
+     "price": 400
+    },
+    {
+     "name": "(HF) Blue-Grey Bikini Bottom with Tan Mesh",
+     "price": 400
+    },
+    {
+     "name": "(HF) Olive Bikini Bottom",
+     "price": 400
+    },
+    {
+     "name": "(HF) Red Bikini Bottom",
+     "price": 400
+    },
+    {
+     "name": "(HF) Black Bikini Bottom",
+     "price": 400
+    },
+    {
+     "name": "(HF) Olive Bikini Bottom",
+     "price": 400
+    },
+    {
+     "name": "(HF) Red Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HF) Blonde Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HF) Purple Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HF) Brunette Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HF) Purple Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HF) White Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HF) Blonde Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HF) Red Pigtails",
+     "price": 600
+    },
+    {
+     "name": "(HF) Blonde Pigtails",
+     "price": 600
+    },
+    {
+     "name": "(HF) Brunette Pigtails",
+     "price": 600
+    },
+    {
+     "name": "(HF) Purple Pigtails",
+     "price": 600
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "HM Tailor",
+   "px": 5506.1,
+   "py": 3729.3,
+   "box": [
+    4603.1,
+    3428.3,
+    6409.1,
+    4030.3
+   ],
+   "shopId": 29,
+   "stock": [
+    {
+     "name": "(HM) Grey-Blue Jacket",
+     "price": 50
+    },
+    {
+     "name": "(HM) Red and Black Shirt",
+     "price": 250
+    },
+    {
+     "name": "(HM) Brown Sleeveless Tech Shirt",
+     "price": 125
+    },
+    {
+     "name": "(HM) Brown Shoes",
+     "price": 135
+    },
+    {
+     "name": "(HM) Black Shoes",
+     "price": 100
+    },
+    {
+     "name": "(HM) Black Boots",
+     "price": 210
+    },
+    {
+     "name": "(HM) Dark Grey Boots",
+     "price": 250
+    },
+    {
+     "name": "(HM) Black Gloves 1",
+     "price": 35
+    },
+    {
+     "name": "(HM) Long Black Gloves",
+     "price": 75
+    },
+    {
+     "name": "(HM) Black Gloves 2",
+     "price": 27
+    },
+    {
+     "name": "(HM) Black Boxers",
+     "price": 35
+    },
+    {
+     "name": "(HM) Grey Pants",
+     "price": 280
+    },
+    {
+     "name": "(HM) Black Pants with Red Stripes",
+     "price": 190
+    },
+    {
+     "name": "(HM) Brown Cargo Pants",
+     "price": 157
+    },
+    {
+     "name": "(HM) Blonde Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blonde Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blonde Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Red Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Red Ponytail Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Short Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Spike Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Ponytail",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blond Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Brown Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Blue Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Green Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Red Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Purple Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) White Long Hair",
+     "price": 600
+    },
+    {
+     "name": "(HM) Dark Brown Long Hair",
+     "price": 600
+    }
+   ]
+  }
+ ]
+}

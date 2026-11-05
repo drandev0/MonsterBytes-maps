@@ -1,0 +1,299 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 1678.4,
+   "py": 6784.7,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 150 (Cave SW - A):\nInfant Dilirium (LV3) (Spawner: Cave SW 01 - Infant Dilirium, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 2045,
+   "py": 6183.7,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 150 (Cave SW - A):\nInfant Dilirium (LV3) (Spawner: Cave SW 01 - Infant Dilirium, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 1197.5,
+   "py": 5998.2,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 150 (Cave SW - A):\nInfant Dilirium (LV3) (Spawner: Cave SW 01 - Infant Dilirium, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 3128.6,
+   "py": 4929.1,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 151 (Cave SW - B):\nAdult Dilirium (LV6) (Spawner: Cave SW 02 - Adult Dilirium, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Adult Dilirium",
+   "px": 2698.7,
+   "py": 5227.8,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 151 (Cave SW - B):\nAdult Dilirium (LV6) (Spawner: Cave SW 02 - Adult Dilirium, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Slate",
+   "px": 4160.8,
+   "py": 6637.5,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 152 (Cave SW - C):\nSlate (LV15 BOSS) (Spawner: Cave SW 03 - Slate, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Slate",
+   "px": 3948.9,
+   "py": 5617.8,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 152 (Cave SW - C):\nSlate (LV15 BOSS) (Spawner: Cave SW 03 - Slate, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Slate",
+   "px": 4548.6,
+   "py": 5877.4,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 184,
+     "name": "Slate",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 152 (Cave SW - C):\nSlate (LV15 BOSS) (Spawner: Cave SW 03 - Slate, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 4828.7,
+   "py": 3637,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 153 (Cave SW - D):\nAscherion (LV8) (Spawner: Cave SW 04 - Ascherion, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ascherion",
+   "px": 4650.9,
+   "py": 4521.2,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 153 (Cave SW - D):\nAscherion (LV8) (Spawner: Cave SW 04 - Ascherion, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike",
+   "px": 3690,
+   "py": 2974.1,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 154 (Cave SW - E):\nBrike (LV15 BOSS) (Spawner: Cave SW 05 - Brike, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike",
+   "px": 3822.9,
+   "py": 3582.1,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 154 (Cave SW - E):\nBrike (LV15 BOSS) (Spawner: Cave SW 05 - Brike, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike",
+   "px": 4481.5,
+   "py": 3237.4,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 154 (Cave SW - E):\nBrike (LV15 BOSS) (Spawner: Cave SW 05 - Brike, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ashadra",
+   "px": 3099.9,
+   "py": 1645.8,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 146,
+     "name": "Ashadra",
+     "level": 12,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 155 (Cave SW - F):\nAshadra (LV12 BOSS) (Spawner: Cave SW 06 - Boss Ashadra, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ashadra",
+   "px": 4645.9,
+   "py": 1206.9,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 146,
+     "name": "Ashadra",
+     "level": 12,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 155 (Cave SW - F):\nAshadra (LV12 BOSS) (Spawner: Cave SW 06 - Boss Ashadra, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ashadra",
+   "px": 3823.9,
+   "py": 491.3,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 146,
+     "name": "Ashadra",
+     "level": 12,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 155 (Cave SW - F):\nAshadra (LV12 BOSS) (Spawner: Cave SW 06 - Boss Ashadra, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Overking Shadow",
+   "px": 917.7,
+   "py": 3796.2,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 590,
+     "name": "Overking Shadow",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 156 (Cave SW - G):\nOverking Shadow (LV14) (Spawner: Cave SW 07 - Overking Shadow, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Overking Shadow",
+   "px": 598.5,
+   "py": 3311.4,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 590,
+     "name": "Overking Shadow",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 156 (Cave SW - G):\nOverking Shadow (LV14) (Spawner: Cave SW 07 - Overking Shadow, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Overking Shadow",
+   "px": 399.4,
+   "py": 3814.9,
+   "radiusPx": 44.8,
+   "mobs": [
+    {
+     "id": 590,
+     "name": "Overking Shadow",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 156 (Cave SW - G):\nOverking Shadow (LV14) (Spawner: Cave SW 07 - Overking Shadow, up to 1, 500/1000)"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "black-market-inside",
   "title": "Black Market (inside)",
   "places": [],
@@ -8,14 +8,14 @@
   "source": {
     "world": "BlackMarketInside.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 2.0796593874692917,
+    "unitsPerPixel": 1.979940876364708,
     "origin": {
-      "x": -327.8470458984375,
-      "z": 15629.125
+      "x": 2534.541015625,
+      "z": 15613.416015625
     }
   },
-  "width": 8192,
-  "height": 7815,
+  "width": 7151,
+  "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
   "background": "#00a800",
@@ -25,7 +25,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 8
+      "count": 92
     },
     {
       "id": "npcs",
@@ -74,19 +74,19 @@
       "title": "Water",
       "color": "#00bcd4",
       "shown": false,
-      "count": 5
+      "count": 3
     }
   ],
   "labels": [
     {
       "name": "BlackMarketCaveEntrance",
-      "px": 7018.1,
-      "py": 7077.7
+      "px": 5925.9,
+      "py": 7426.2
     },
     {
       "name": "StoneMazeEntrance",
-      "px": 5459,
-      "py": 1432.5
+      "px": 4288.2,
+      "py": 1496.7
     }
   ]
 }

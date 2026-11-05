@@ -219,7 +219,7 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 5580.5,
    "py": 7796.6,
    "npcId": 1137,
@@ -228,8 +228,8 @@
      "to": {
       "world": "Black Market (inside)",
       "slug": "black-market-inside",
-      "px": 5586.4,
-      "py": 2152.8
+      "px": 4422.1,
+      "py": 2253.3
      },
      "title": "Blink!"
     }

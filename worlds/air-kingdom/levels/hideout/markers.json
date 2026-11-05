@@ -1,0 +1,127 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Mister Rebirther",
+   "px": 314.9,
+   "py": 4029,
+   "npcId": 785,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Mr.\"s Key Required",
+     "needs": [
+      {
+       "name": "Mr Rebirther Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Mr Rebirther"
+      }
+     ]
+    },
+    {
+     "title": "Insert Key",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bedbug Rebirther",
+   "px": 3444.9,
+   "py": 7404.8,
+   "npcId": 786,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Bedbug\"s Key Required",
+     "needs": [
+      {
+       "name": "Bedbug Rebirther Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Bedbug Rebirther"
+      }
+     ]
+    },
+    {
+     "title": "Insert Key",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Steve Da Man Rebirther",
+   "px": 1690.5,
+   "py": 285.3,
+   "npcId": 787,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Steve Da Man\"s Key Required",
+     "needs": [
+      {
+       "name": "SDM Rebirther Key"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Steve Da Man Rebirther"
+      }
+     ]
+    },
+    {
+     "title": "Insert Key",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "gather",
+   "name": "BuckBuck Crate 10",
+   "px": 2951,
+   "py": 3210.1,
+   "holds": [
+    {
+     "name": "BuckBuck Crate 10"
+    }
+   ],
+   "respawnMin": 10
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 2693.5,
+   "py": 1271.3,
+   "radiusPx": 675.2,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 236 (3Peaks_Cavea.ARW)"
+  }
+ ]
+}

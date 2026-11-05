@@ -1,0 +1,405 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 658.9,
+   "py": 2761.1,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 22 (Sewers.Fadun3):\nFadun (LV4) (Spawner: Sewers.Fadun3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 729.8,
+   "py": 3886.3,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 22 (Sewers.Fadun3):\nFadun (LV4) (Spawner: Sewers.Fadun3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 4099.5,
+   "py": 1505,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 4649.8,
+   "py": 549.1,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 5683.2,
+   "py": 2354,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6493.1,
+   "py": 3024.9,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun, Didon",
+   "px": 5691.1,
+   "py": 3243.8,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    },
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 27 (Sewers.Fadun6):\nFadun (LV4) (Spawner: Sewers.Fadun6, up to 1, 50/1000)\nDidon (LV4) (Spawner: Sewers.Didon6, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7349.8,
+   "py": 1414.2,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7561.1,
+   "py": 399.2,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7392.2,
+   "py": 558.8,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7669.4,
+   "py": 766.6,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7587.8,
+   "py": 644.8,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7677.5,
+   "py": 959.2,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7590.1,
+   "py": 1113.3,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7403.3,
+   "py": 1195.5,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7223.8,
+   "py": 1140.6,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7110.7,
+   "py": 991.1,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7110.7,
+   "py": 821.5,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7195.7,
+   "py": 670.7,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7376.5,
+   "py": 851.6,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 7358.5,
+   "py": 856.1,
+   "radiusPx": 43.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2, 100/1000)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Galothien",
+   "px": 381.8,
+   "py": 3700.3,
+   "npcId": 727,
+   "template": "Human Male",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Letter from Clike"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 16 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "Ear of Godion",
+       "qty": 20
+      }
+     ],
+     "gives": [
+      {
+       "name": "Blue Gem from Galothien"
+      }
+     ]
+    },
+    {
+     "title": "Darius Quest: Part 17 of 22",
+     "race": "HM",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 26",
+   "px": 4268.4,
+   "py": 969.9,
+   "radiusPx": 1080.6,
+   "detail": "Action 6: play soundtrack, argument 26\nRadius: 500\nObject 198 (powerpiece01a.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater02",
+   "px": 1107.5,
+   "py": 3296.4,
+   "box": [
+    -495.5,
+    2527.7,
+    2710.4,
+    4065
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "Water",
+   "px": 5657.8,
+   "py": 2147.6,
+   "box": [
+    5358.9,
+    -2293.8,
+    5956.7,
+    6588.9
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

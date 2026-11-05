@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "boomtown",
   "title": "Boomtown",
   "places": [
@@ -27,21 +27,21 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 321
+      "count": 317
     },
     {
       "id": "npcs",
       "title": "NPCs",
       "color": "#ec407a",
       "shown": true,
-      "count": 154
+      "count": 108
     },
     {
       "id": "portals",
       "title": "Teleporters",
       "color": "#26a69a",
       "shown": true,
-      "count": 26
+      "count": 23
     },
     {
       "id": "gather",
@@ -55,7 +55,7 @@
       "title": "Shop counters",
       "color": "#8d6e63",
       "shown": false,
-      "count": 16
+      "count": 7
     },
     {
       "id": "safezones",
@@ -101,6 +101,382 @@
       "name": "Blob Town",
       "px": 3951.4,
       "py": 2024
+    }
+  ],
+  "levels": [
+    {
+      "id": "hmportal",
+      "name": "Portal hall",
+      "width": 5877,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        },
+        {
+          "id": "portals",
+          "title": "Teleporters",
+          "color": "#26a69a",
+          "shown": true,
+          "count": 3
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.01620805263519287,
+        "origin": {
+          "x": -2625.34033203125,
+          "z": -5487.587890625
+        }
+      }
+    },
+    {
+      "id": "hmlounge",
+      "name": "Lounge",
+      "width": 8192,
+      "height": 4118,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 5
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.034622922539711,
+        "origin": {
+          "x": -2117.7548828125,
+          "z": -5158.125
+        }
+      }
+    },
+    {
+      "id": "hmstore",
+      "name": "Human Monarchy store",
+      "width": 7430,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 4
+        },
+        {
+          "id": "shops",
+          "title": "Shop counters",
+          "color": "#8d6e63",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.017350614070892334,
+        "origin": {
+          "x": -1433.5379638671875,
+          "z": -4184.8974609375
+        }
+      }
+    },
+    {
+      "id": "hmleader",
+      "name": "Human Monarchy leader",
+      "width": 8192,
+      "height": 8181,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.022281836718320847,
+        "origin": {
+          "x": 357.4243469238281,
+          "z": -4803.7158203125
+        }
+      }
+    },
+    {
+      "id": "hmbank",
+      "name": "Bank",
+      "width": 8192,
+      "height": 6633,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 8
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.016591563820838928,
+        "origin": {
+          "x": -2041.490478515625,
+          "z": -6449.77490234375
+        }
+      }
+    },
+    {
+      "id": "hmengineer",
+      "name": "Engineer",
+      "width": 6345,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 6
+        },
+        {
+          "id": "shops",
+          "title": "Shop counters",
+          "color": "#8d6e63",
+          "shown": false,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.018044114112854004,
+        "origin": {
+          "x": -2860.92578125,
+          "z": -6020.45068359375
+        }
+      }
+    },
+    {
+      "id": "hmalchemist",
+      "name": "Alchemist",
+      "width": 6634,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 8
+        },
+        {
+          "id": "shops",
+          "title": "Shop counters",
+          "color": "#8d6e63",
+          "shown": false,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.016618192195892334,
+        "origin": {
+          "x": -2736.95361328125,
+          "z": -6019.4990234375
+        }
+      }
+    },
+    {
+      "id": "hmsmith",
+      "name": "Smith",
+      "width": 6218,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        },
+        {
+          "id": "shops",
+          "title": "Shop counters",
+          "color": "#8d6e63",
+          "shown": false,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.018450677394866943,
+        "origin": {
+          "x": -2617.34716796875,
+          "z": -6016.47802734375
+        }
+      }
+    },
+    {
+      "id": "hmhousing",
+      "name": "Housing",
+      "width": 8192,
+      "height": 6630,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 4
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.0165766179561615,
+        "origin": {
+          "x": -2150.409912109375,
+          "z": -6744.99365234375
+        }
+      }
+    },
+    {
+      "id": "hmtailor",
+      "name": "Tailor",
+      "width": 6637,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 2
+        },
+        {
+          "id": "shops",
+          "title": "Shop counters",
+          "color": "#8d6e63",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.016611158847808838,
+        "origin": {
+          "x": -1606.4630126953125,
+          "z": -6803.05224609375
+        }
+      }
+    },
+    {
+      "id": "dariustower",
+      "name": "Darius tower",
+      "width": 8192,
+      "height": 7290,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.02856527268886566,
+        "origin": {
+          "x": -2052.216552734375,
+          "z": -5888.3896484375
+        }
+      }
+    },
+    {
+      "id": "bloblicstore",
+      "name": "Bloblic store",
+      "width": 5262,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 2
+        },
+        {
+          "id": "shops",
+          "title": "Shop counters",
+          "color": "#8d6e63",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.029401957988739014,
+        "origin": {
+          "x": 1289.57080078125,
+          "z": 2295.395751953125
+        }
+      }
+    },
+    {
+      "id": "blobleader",
+      "name": "Bloblic leader",
+      "width": 8192,
+      "height": 7818,
+      "maxZoom": 5,
+      "background": "#000044",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.034856826066970825,
+        "origin": {
+          "x": 701.108642578125,
+          "z": 2585.9755859375
+        }
+      }
     }
   ]
 }

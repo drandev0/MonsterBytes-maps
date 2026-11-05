@@ -299,14 +299,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 5113.9,
    "py": 4064.7,
    "npcId": 758,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!"
     }
@@ -314,14 +317,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 5760.9,
    "py": 5575.7,
    "npcId": 759,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!"
     }
@@ -329,14 +335,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 6579.8,
    "py": 889.5,
    "npcId": 760,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!"
     }
@@ -344,14 +353,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 1118.5,
    "py": 4536.4,
    "npcId": 761,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!"
     }
@@ -359,14 +371,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 2312.6,
    "py": 2196.4,
    "npcId": 762,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!"
     }
@@ -374,14 +389,15 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 5636.6,
    "py": 2205.4,
    "npcId": 763,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial"
      },
      "title": "Blink!"
     }
@@ -389,14 +405,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 2384.7,
    "py": 5690.7,
    "npcId": 765,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!",
      "needs": [
@@ -409,14 +428,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 2508.8,
    "py": 5619.2,
    "npcId": 766,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!",
      "needs": [
@@ -429,14 +451,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 2631.1,
    "py": 5691.2,
    "npcId": 767,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 1217.1,
+      "py": 1170.3
      },
      "title": "Blink!",
      "needs": [
@@ -449,14 +474,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 4333.1,
    "py": 5967.7,
    "npcId": 875,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4261,
+      "py": 5968.1
      },
      "title": "Blink!",
      "needs": [
@@ -469,14 +497,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 6388.7,
    "py": 5071,
    "npcId": 876,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 6387.4,
+      "py": 4982
      },
      "title": "Blink!",
      "needs": [
@@ -489,14 +520,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 3809.1,
    "py": 4418.4,
    "npcId": 877,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 3704.6,
+      "py": 4430.1
      },
      "title": "Blink!",
      "needs": [
@@ -509,14 +543,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 4722.6,
    "py": 3501.7,
    "npcId": 878,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4726.1,
+      "py": 3424.6
      },
      "title": "Blink!",
      "needs": [
@@ -529,14 +566,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 5973.9,
    "py": 1878.6,
    "npcId": 879,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 6008.1,
+      "py": 2074.1
      },
      "title": "Blink!",
      "needs": [
@@ -549,14 +589,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 4749.5,
    "py": 1872.1,
    "npcId": 880,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4627.8,
+      "py": 1869.5
      },
      "title": "Blink!",
      "needs": [
@@ -569,14 +612,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 2969.5,
    "py": 2772.1,
    "npcId": 881,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 3087.6,
+      "py": 2773.3
      },
      "title": "Blink!",
      "needs": [
@@ -589,14 +635,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 2301.5,
    "py": 3421.3,
    "npcId": 882,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 2304.9,
+      "py": 3498.9
      },
      "title": "Blink!",
      "needs": [
@@ -609,14 +658,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 1645.5,
    "py": 4270.9,
    "npcId": 883,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 1646.7,
+      "py": 4173
      },
      "title": "Blink!",
      "needs": [
@@ -629,14 +681,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 1477.3,
    "py": 5682.8,
    "npcId": 884,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 1467.4,
+      "py": 5835.5
      },
      "title": "Blink!",
      "needs": [
@@ -649,14 +704,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
+   "name": "Teleporter",
    "px": 1224,
    "py": 923.5,
    "npcId": 894,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Final SS Trial",
+      "slug": "final-ss-trial",
+      "px": 4718.1,
+      "py": 1722.1
      },
      "title": "Blink!"
     }

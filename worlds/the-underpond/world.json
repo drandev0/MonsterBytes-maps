@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "the-underpond",
   "title": "The Underpond",
   "places": [],
@@ -8,24 +8,43 @@
   "source": {
     "world": "TheUnderpond.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 0.6212833821773529,
+    "unitsPerPixel": 0.30124666541814804,
     "origin": {
-      "x": -2262.973388671875,
-      "z": 2616.240234375
+      "x": -1228.9248046875,
+      "z": 1843.9171142578125
     }
   },
-  "width": 6419,
+  "width": 7463,
   "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
   "background": "#161419",
-  "layers": [
+  "layers": [],
+  "levels": [
     {
-      "id": "portals",
-      "title": "Teleporters",
-      "color": "#26a69a",
-      "shown": true,
-      "count": 1
+      "id": "bottom",
+      "name": "Bottom floor",
+      "width": 8192,
+      "height": 6903,
+      "maxZoom": 5,
+      "background": "#161419",
+      "layers": [
+        {
+          "id": "portals",
+          "title": "Teleporters",
+          "color": "#26a69a",
+          "shown": true,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.10892952047288418,
+        "origin": {
+          "x": -159.16026306152344,
+          "z": 157.93128967285156
+        }
+      }
     }
   ]
 }

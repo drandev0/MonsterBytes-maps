@@ -1,0 +1,338 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Cylic (Engineer)",
+   "px": 2294,
+   "py": 5229.2,
+   "npcId": 329,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Engineering",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Base Gas Jet-ENG",
+     "price": 300
+    },
+    {
+     "name": "Bolt Pack-ENG",
+     "price": 3
+    },
+    {
+     "name": "Chromium Powder-ENG",
+     "price": 10
+    },
+    {
+     "name": "Composite Casing-ENG",
+     "price": 200
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    },
+    {
+     "name": "Glove-ENG",
+     "price": 35
+    },
+    {
+     "name": "Hi-Density Graphite-ENG",
+     "price": 3
+    },
+    {
+     "name": "Hyper Cell Material-ENG",
+     "price": 18
+    },
+    {
+     "name": "Plasma Unit-ENG",
+     "price": 100
+    },
+    {
+     "name": "Pulse Pack-ENG",
+     "price": 65
+    },
+    {
+     "name": "Refined Stainless Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Refined Steel Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Stainless Bolt Pack-ENG",
+     "price": 10
+    },
+    {
+     "name": "Stainless Stock-ENG",
+     "price": 85
+    },
+    {
+     "name": "Steel Plate-ENG",
+     "price": 60
+    },
+    {
+     "name": "Steel Stock-ENG",
+     "price": 18
+    },
+    {
+     "name": "Sub-Micron Alumina-ENG",
+     "price": 5
+    },
+    {
+     "name": "Wood Unit-ENG",
+     "price": 2
+    },
+    {
+     "name": "Engineering Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(RBT - Access Extender) Cylic (Engineer)",
+   "px": 2744.3,
+   "py": 6121.2,
+   "npcId": 394,
+   "template": "Invis noCo",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Base Gas Jet-ENG",
+     "price": 300
+    },
+    {
+     "name": "Bolt Pack-ENG",
+     "price": 3
+    },
+    {
+     "name": "Chromium Powder-ENG",
+     "price": 10
+    },
+    {
+     "name": "Composite Casing-ENG",
+     "price": 200
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    },
+    {
+     "name": "Glove-ENG",
+     "price": 35
+    },
+    {
+     "name": "Hi-Density Graphite-ENG",
+     "price": 3
+    },
+    {
+     "name": "Hyper Cell Material-ENG",
+     "price": 18
+    },
+    {
+     "name": "Plasma Unit-ENG",
+     "price": 100
+    },
+    {
+     "name": "Pulse Pack-ENG",
+     "price": 65
+    },
+    {
+     "name": "Refined Stainless Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Refined Steel Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Stainless Bolt Pack-ENG",
+     "price": 10
+    },
+    {
+     "name": "Stainless Stock-ENG",
+     "price": 85
+    },
+    {
+     "name": "Steel Plate-ENG",
+     "price": 60
+    },
+    {
+     "name": "Steel Stock-ENG",
+     "price": 18
+    },
+    {
+     "name": "Sub-Micron Alumina-ENG",
+     "price": 5
+    },
+    {
+     "name": "Wood Unit-ENG",
+     "price": 2
+    },
+    {
+     "name": "Engineering Kit",
+     "price": 15000
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Xtx Hover Bike",
+   "px": 4863.3,
+   "py": 6315.6,
+   "npcId": 421,
+   "template": "Hover Bike",
+   "says": [
+    "The Xtx Hover Bike is our fastest model ever! Sleek styling combined with precision handling add up to superior performance.",
+    "The latest Hover Sonic Engine in the Xtx delivers over 850 Ean Factors of raw torque while the new and improved Sonic Thrusters make acceleration delay a thing of the past.",
+    "The Xtx goes from 0 to top speed of 250 factors per hour in .001 seconds, making it the fastest mode of transportation on the planet!"
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Folus",
+   "px": 2263.5,
+   "py": 7122.5,
+   "npcId": 542,
+   "template": "Human Male",
+   "quests": [
+    {
+     "title": "Intro"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "JXi Hydro Craft",
+   "px": 5364.8,
+   "py": 5101.2,
+   "npcId": 544,
+   "template": "JetSki",
+   "says": [
+    "Immerse yourself in the perfect blend of luxury and watersport - the JXi Hydro Craft.",
+    "The JXi single-passenger personal watercraft is sleek, stylish and affordable.",
+    "Its fission-tempered hull can withstand the most acidic liquids as well as most energy weapons, making body work virtually a non-factor."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "P-13 Polycycle",
+   "px": 3912.1,
+   "py": 3347.7,
+   "npcId": 664,
+   "template": "(Standard) Polycycle",
+   "says": [
+    "Prepare for the ultimate in sport utility transportation. Prepare for the P-13 Polycycle.",
+    "The stylish design comes complete with a full atmospheric containment system for use in unbreatheable environments.",
+    "Experience the latest technology in vehicle defense -- the polycycle fusion beam takes power from the vehicle energy recovery system and never requires any ammunition!"
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "Engineering Bay",
+   "px": 2323.5,
+   "py": 4962.8,
+   "box": [
+    605.5,
+    2746,
+    4041.5,
+    7179.6
+   ],
+   "shopId": 14,
+   "stock": [
+    {
+     "name": "Base Gas Jet-ENG",
+     "price": 300
+    },
+    {
+     "name": "Bolt Pack-ENG",
+     "price": 3
+    },
+    {
+     "name": "Chromium Powder-ENG",
+     "price": 10
+    },
+    {
+     "name": "Composite Casing-ENG",
+     "price": 200
+    },
+    {
+     "name": "Couplers-ENG",
+     "price": 750
+    },
+    {
+     "name": "Glove-ENG",
+     "price": 35
+    },
+    {
+     "name": "Hi-Density Graphite-ENG",
+     "price": 3
+    },
+    {
+     "name": "Hyper Cell Material-ENG",
+     "price": 18
+    },
+    {
+     "name": "Plasma Unit-ENG",
+     "price": 100
+    },
+    {
+     "name": "Pulse Pack-ENG",
+     "price": 65
+    },
+    {
+     "name": "Refined Stainless Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Refined Steel Barrel-ENG",
+     "price": 150
+    },
+    {
+     "name": "Stainless Bolt Pack-ENG",
+     "price": 10
+    },
+    {
+     "name": "Stainless Stock-ENG",
+     "price": 85
+    },
+    {
+     "name": "Steel Plate-ENG",
+     "price": 60
+    },
+    {
+     "name": "Steel Stock-ENG",
+     "price": 18
+    },
+    {
+     "name": "Sub-Micron Alumina-ENG",
+     "price": 5
+    },
+    {
+     "name": "Wood Unit-ENG",
+     "price": 2
+    },
+    {
+     "name": "Engineering Kit",
+     "price": 15000
+    }
+   ]
+  }
+ ]
+}

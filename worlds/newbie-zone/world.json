@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "newbie-zone",
   "title": "Newbie Zone",
   "places": [
@@ -77,13 +77,6 @@
       "color": "#fdd835",
       "shown": false,
       "count": 8
-    },
-    {
-      "id": "water",
-      "title": "Water",
-      "color": "#00bcd4",
-      "shown": false,
-      "count": 1
     }
   ],
   "labels": [

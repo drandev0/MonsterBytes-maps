@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "destroyer01-rune-lair",
   "title": "Destroyer01 Rune Lair",
   "places": [
@@ -27,7 +27,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 6
+      "count": 11
     },
     {
       "id": "portals",

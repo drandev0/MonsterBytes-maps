@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "4-falls",
   "title": "4 Falls",
   "places": [
@@ -11,14 +11,14 @@
   "source": {
     "world": "4Falls.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 2.705403447151184,
+    "unitsPerPixel": 2.158203125,
     "origin": {
-      "x": -8925.4052734375,
-      "z": 8924.96484375
+      "x": -8839.2001953125,
+      "z": 8838.759765625
     }
   },
   "width": 8192,
-  "height": 6599,
+  "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
   "background": "#44ade2",
@@ -28,21 +28,21 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 147
+      "count": 838
     },
     {
       "id": "npcs",
       "title": "NPCs",
       "color": "#ec407a",
       "shown": true,
-      "count": 45
+      "count": 27
     },
     {
       "id": "portals",
       "title": "Teleporters",
       "color": "#26a69a",
       "shown": true,
-      "count": 9
+      "count": 5
     },
     {
       "id": "shops",
@@ -63,21 +63,76 @@
       "title": "Music and triggers",
       "color": "#fdd835",
       "shown": false,
-      "count": 10
+      "count": 8
     },
     {
       "id": "water",
       "title": "Water",
       "color": "#00bcd4",
       "shown": false,
-      "count": 8
+      "count": 7
     }
   ],
   "labels": [
     {
       "name": "4 Falls",
-      "px": 3299.1,
-      "py": 3298.9
+      "px": 4095.6,
+      "py": 4095.4
+    }
+  ],
+  "levels": [
+    {
+      "id": "crypt",
+      "name": "Crypt",
+      "width": 6149,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#44ade2",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 14
+        },
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 18
+        },
+        {
+          "id": "portals",
+          "title": "Teleporters",
+          "color": "#26a69a",
+          "shown": true,
+          "count": 4
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 2
+        },
+        {
+          "id": "water",
+          "title": "Water",
+          "color": "#00bcd4",
+          "shown": false,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 1.207142099738121,
+        "origin": {
+          "x": 5579.373046875,
+          "z": 7939.19189453125
+        }
+      }
     }
   ]
 }

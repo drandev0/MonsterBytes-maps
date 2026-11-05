@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "air-kingdom",
   "title": "Air Kingdom",
   "places": [],
@@ -8,14 +8,14 @@
   "source": {
     "world": "Airworld_cv.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 9.64123010635376,
+    "unitsPerPixel": 7.914325714111328,
     "origin": {
-      "x": -34243.36328125,
-      "z": 36251.00390625
+      "x": -25022.4140625,
+      "z": 29004.037109375
     }
   },
-  "width": 8097,
-  "height": 8192,
+  "width": 8192,
+  "height": 8062,
   "tileSize": 256,
   "maxZoom": 5,
   "background": "#a3a8f7",
@@ -25,7 +25,7 @@
       "title": "NPCs",
       "color": "#ec407a",
       "shown": true,
-      "count": 76
+      "count": 72
     },
     {
       "id": "portals",
@@ -39,7 +39,7 @@
       "title": "Gathering and chests",
       "color": "#8bc34a",
       "shown": false,
-      "count": 31
+      "count": 30
     },
     {
       "id": "safezones",
@@ -60,7 +60,7 @@
       "title": "Music and triggers",
       "color": "#fdd835",
       "shown": false,
-      "count": 16
+      "count": 9
     },
     {
       "id": "water",
@@ -73,8 +73,106 @@
   "labels": [
     {
       "name": "Air Kingdom Hurtzone",
-      "px": 3551.8,
-      "py": 3760
+      "px": 3161.7,
+      "py": 3664.8
+    }
+  ],
+  "levels": [
+    {
+      "id": "hideout",
+      "name": "3 Peaks hideout",
+      "width": 3897,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#a3a8f7",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 3
+        },
+        {
+          "id": "gather",
+          "title": "Gathering and chests",
+          "color": "#8bc34a",
+          "shown": false,
+          "count": 1
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 1.0366606060415506,
+        "origin": {
+          "x": -6883.89990234375,
+          "z": -158.8843231201172
+        }
+      }
+    },
+    {
+      "id": "secave",
+      "name": "Southeast cave",
+      "width": 4474,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#a3a8f7",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 4
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.5698826909065247,
+        "origin": {
+          "x": 1629.6640625,
+          "z": -4116.05810546875
+        }
+      }
+    },
+    {
+      "id": "embassycave",
+      "name": "Embassy cave",
+      "width": 5700,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#a3a8f7",
+      "layers": [
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.4195147603750229,
+        "origin": {
+          "x": 3669.428466796875,
+          "z": 4416.09765625
+        }
+      }
     }
   ]
 }

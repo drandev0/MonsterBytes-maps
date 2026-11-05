@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "catacombs",
   "title": "Catacombs",
   "places": [
@@ -10,13 +10,13 @@
   "source": {
     "world": "CATACOMBS.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 2.4421916157007217,
+    "unitsPerPixel": 1.3937546610832214,
     "origin": {
-      "x": -18073.580078125,
-      "z": 19621.02734375
+      "x": -17908.412109375,
+      "z": 19455.859375
     }
   },
-  "width": 7559,
+  "width": 3667,
   "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
@@ -27,7 +27,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 8
+      "count": 107
     },
     {
       "id": "npcs",
@@ -41,7 +41,7 @@
       "title": "Teleporters",
       "color": "#26a69a",
       "shown": true,
-      "count": 24
+      "count": 23
     },
     {
       "id": "gather",
@@ -76,8 +76,8 @@
   "labels": [
     {
       "name": "Catacombs Entrance",
-      "px": 639.2,
-      "py": 258
+      "px": 1001.5,
+      "py": 333.5
     }
   ]
 }

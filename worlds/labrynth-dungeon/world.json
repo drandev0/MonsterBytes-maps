@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "labrynth-dungeon",
   "title": "Labrynth Dungeon",
   "places": [],
@@ -21,6 +21,13 @@
   "background": "#333366",
   "layers": [
     {
+      "id": "mobs",
+      "title": "Mob spawns",
+      "color": "#e53935",
+      "shown": true,
+      "count": 26
+    },
+    {
       "id": "portals",
       "title": "Teleporters",
       "color": "#26a69a",
@@ -33,6 +40,50 @@
       "color": "#00bcd4",
       "shown": false,
       "count": 3
+    }
+  ],
+  "levels": [
+    {
+      "id": "airmid",
+      "name": "Air room, middle floor",
+      "width": 6040,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#333366",
+      "layers": [],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.061290450394153595,
+        "origin": {
+          "x": -233.06817626953125,
+          "z": 382.0974426269531
+        }
+      }
+    },
+    {
+      "id": "airlow",
+      "name": "Air room, lower floor",
+      "width": 8192,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#333366",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.022697465494275093,
+        "origin": {
+          "x": -91.39786529541016,
+          "z": 92.97492980957031
+        }
+      }
     }
   ]
 }

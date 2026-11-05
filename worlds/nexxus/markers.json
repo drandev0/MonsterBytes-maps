@@ -4,15 +4,15 @@
   {
    "layer": "entities",
    "name": "Human Male",
-   "px": 1427,
-   "py": 3305.9,
+   "px": 1694.2,
+   "py": 3968.6,
    "detail": "Entity template 39\nControl type 0"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 55",
-   "px": 3411.2,
-   "py": 2313.8,
+   "px": 4096,
+   "py": 2767.7,
    "detail": "Action 6: play soundtrack, argument 55\nRadius: 9000\nObject 25 (Nexus_INT01.ARW)"
   }
  ]

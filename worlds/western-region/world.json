@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "western-region",
   "title": "Western Region",
   "places": [],
@@ -8,17 +8,17 @@
   "source": {
     "world": "WesternRegion.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 0.414461687207222,
+    "unitsPerPixel": 0.3776726871728897,
     "origin": {
-      "x": -1631.83154296875,
-      "z": 1806.8486328125
+      "x": -1506.221923828125,
+      "z": 1538.473876953125
     }
   },
-  "width": 8119,
-  "height": 8192,
+  "width": 8192,
+  "height": 7873,
   "tileSize": 256,
   "maxZoom": 5,
-  "background": "#291107",
+  "background": "#893f19",
   "layers": [
     {
       "id": "portals",

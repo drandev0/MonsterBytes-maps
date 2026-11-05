@@ -1,0 +1,440 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Eyemba",
+   "px": 1947.4,
+   "py": 6241.9,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 9,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 168 (Cave E - SeaA):\nEyemba (LV10) (Spawner: Cave E Sea 01 - Eyemba, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyemba",
+   "px": 2100.7,
+   "py": 5303.4,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 9,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 168 (Cave E - SeaA):\nEyemba (LV10) (Spawner: Cave E Sea 01 - Eyemba, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyemba",
+   "px": 1104.1,
+   "py": 5918.8,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 9,
+     "name": "Eyemba",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 168 (Cave E - SeaA):\nEyemba (LV10) (Spawner: Cave E Sea 01 - Eyemba, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 657.3,
+   "py": 5234.2,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 169 (Cave E - SeaB):\nTrine (LV8) (Spawner: Cave E Sea 02 - Trine, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Trine",
+   "px": 1862.9,
+   "py": 2951.7,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 169 (Cave E - SeaB):\nTrine (LV8) (Spawner: Cave E Sea 02 - Trine, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 1430.3,
+   "py": 3053.1,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 170 (Cave E - SeaC):\nStontrile (LV6) (Spawner: Cave E Sea 03 - Stontrile, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 1933.2,
+   "py": 4534.4,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 170 (Cave E - SeaC):\nStontrile (LV6) (Spawner: Cave E Sea 03 - Stontrile, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile",
+   "px": 2607.6,
+   "py": 3731.7,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 170 (Cave E - SeaC):\nStontrile (LV6) (Spawner: Cave E Sea 03 - Stontrile, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Amberuab",
+   "px": 1992,
+   "py": 5358.8,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 683,
+     "name": "Amberuab",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 171 (Cave E - SeaD):\nAmberuab (Spawner: Cave E Sea 04 - Amberuab, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Amberuab",
+   "px": 2518,
+   "py": 4295.2,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 683,
+     "name": "Amberuab",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 171 (Cave E - SeaD):\nAmberuab (Spawner: Cave E Sea 04 - Amberuab, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Amberuab",
+   "px": 2885,
+   "py": 5155.9,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 683,
+     "name": "Amberuab",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 171 (Cave E - SeaD):\nAmberuab (Spawner: Cave E Sea 04 - Amberuab, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Aquab",
+   "px": 1730.6,
+   "py": 3784.5,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 684,
+     "name": "Aquab",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 172 (Cave E - SeaE):\nAquab (Spawner: Cave E Sea 05 - Aquab, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Aquab",
+   "px": 1016.4,
+   "py": 2203.1,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 684,
+     "name": "Aquab",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 172 (Cave E - SeaE):\nAquab (Spawner: Cave E Sea 05 - Aquab, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 3083.9,
+   "py": 2188.2,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 173 (Cave E - A):\nFarion (LV13) (Spawner: Cave E 01 - Farion, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 3377.4,
+   "py": 1612.2,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 173 (Cave E - A):\nFarion (LV13) (Spawner: Cave E 01 - Farion, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 3735.6,
+   "py": 985.3,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 174 (Cave E - B):\nJouster (LV8) (Spawner: Cave E 02 - Jouster, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4477.9,
+   "py": 316.4,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 174 (Cave E - B):\nJouster (LV8) (Spawner: Cave E 02 - Jouster, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Jouster",
+   "px": 4880.6,
+   "py": 924.5,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 174 (Cave E - B):\nJouster (LV8) (Spawner: Cave E 02 - Jouster, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 4981.3,
+   "py": 1773.9,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 175 (Cave E - C):\nKandra (LV14) (Spawner: Cave E 03 - Kandra, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 5469,
+   "py": 1260.7,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 175 (Cave E - C):\nKandra (LV14) (Spawner: Cave E 03 - Kandra, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 4637.7,
+   "py": 319.4,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 175 (Cave E - C):\nKandra (LV14) (Spawner: Cave E 03 - Kandra, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 2749.3,
+   "py": 1813.2,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 3564.6,
+   "py": 1830,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 4375,
+   "py": 1133.7,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 4522.7,
+   "py": 694.8,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 4788,
+   "py": 1922.7,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 284.6,
+   "py": 566.3,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 2772.7,
+   "py": 5290.6,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 3051.7,
+   "py": 6118.4,
+   "radiusPx": 41.2,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 176 (Cave E - Blod):\nGonlon (LV8) (Spawner: Cave E 04 - Gonlon, up to 2, 500/1000)"
+  }
+ ]
+}

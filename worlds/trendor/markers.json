@@ -4,9 +4,9 @@
   {
    "layer": "mobs",
    "name": "Guab Fish",
-   "px": 6344.2,
-   "py": 6298.7,
-   "radiusPx": 7.1,
+   "px": 4158.1,
+   "py": 4298,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 709,
@@ -14,14 +14,14 @@
      "level": 4
     }
    ],
-   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3, 400/1000)"
   },
   {
    "layer": "mobs",
    "name": "Guab Fish",
-   "px": 6339.7,
-   "py": 6249.3,
-   "radiusPx": 7.1,
+   "px": 4138.5,
+   "py": 4084.8,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 709,
@@ -29,14 +29,14 @@
      "level": 4
     }
    ],
-   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3, 400/1000)"
   },
   {
    "layer": "mobs",
    "name": "Guab Fish",
-   "px": 6395.5,
-   "py": 6266.1,
-   "radiusPx": 7.1,
+   "px": 4379.5,
+   "py": 4157.2,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 709,
@@ -44,14 +44,14 @@
      "level": 4
     }
    ],
-   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3, 400/1000)"
   },
   {
    "layer": "mobs",
    "name": "Guab Fish",
-   "px": 6371.7,
-   "py": 6264.1,
-   "radiusPx": 7.1,
+   "px": 4276.9,
+   "py": 4148.6,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 709,
@@ -59,14 +59,14 @@
      "level": 4
     }
    ],
-   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3, 400/1000)"
   },
   {
    "layer": "mobs",
    "name": "Guab Fish",
-   "px": 6378.2,
-   "py": 6306.1,
-   "radiusPx": 7.1,
+   "px": 4304.9,
+   "py": 4330.2,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 709,
@@ -74,14 +74,14 @@
      "level": 4
     }
    ],
-   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3)"
+   "detail": "Can spawn at this node, one of 5 on AI web 0 (Park.Fish1):\nGuab Fish (LV4) (Spawner: Park.Fish1, up to 3, 400/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6359.8,
-   "py": 6264.4,
-   "radiusPx": 7.1,
+   "px": 4225.2,
+   "py": 4149.9,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -89,14 +89,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6433,
-   "py": 6307,
-   "radiusPx": 7.1,
+   "px": 4541.7,
+   "py": 4334.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -104,14 +104,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6321.7,
-   "py": 6403.4,
-   "radiusPx": 7.1,
+   "px": 4060.9,
+   "py": 4750.6,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -119,14 +119,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6242.2,
-   "py": 6181.6,
-   "radiusPx": 7.1,
+   "px": 3717.2,
+   "py": 3792,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -134,14 +134,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6399.5,
-   "py": 6148.8,
-   "radiusPx": 7.1,
+   "px": 4397.1,
+   "py": 3650.6,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -149,14 +149,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6361.6,
-   "py": 6217.9,
-   "radiusPx": 7.1,
+   "px": 4233.2,
+   "py": 3949.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -164,14 +164,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6437.4,
-   "py": 6219.5,
-   "radiusPx": 7.1,
+   "px": 4560.6,
+   "py": 3955.9,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -179,14 +179,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6196.2,
-   "py": 6245.7,
-   "radiusPx": 7.1,
+   "px": 3518.4,
+   "py": 4069.2,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -194,14 +194,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
    "name": "HEAVY WELL DRONE",
-   "px": 6433.9,
-   "py": 6261.1,
-   "radiusPx": 7.1,
+   "px": 4545.5,
+   "py": 4135.8,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 33,
@@ -209,134 +209,14 @@
      "level": null
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (Park.Drone):\nHEAVY WELL DRONE (Spawner: Park.HeavyWellDrone, up to 1, 1000/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Kip - Trendor Guard",
-   "px": 6369.1,
-   "py": 5824.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 662,
-     "name": "Kip - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 2 (City.Guard.Kip):\nKip - Trendor Guard (Spawner: City.Guard.Kip, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Kip - Trendor Guard",
-   "px": 6369.1,
-   "py": 5824.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 662,
-     "name": "Kip - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 2 (City.Guard.Kip):\nKip - Trendor Guard (Spawner: City.Guard.Kip, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Duliet - Trendor Guard",
-   "px": 6203.2,
-   "py": 6315.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 664,
-     "name": "Duliet - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 3 (City.Guard.Duliet):\nDuliet - Trendor Guard (Spawner: City.Guard.Duliet, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Duliet - Trendor Guard",
-   "px": 6203.2,
-   "py": 6315.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 664,
-     "name": "Duliet - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 3 (City.Guard.Duliet):\nDuliet - Trendor Guard (Spawner: City.Guard.Duliet, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Josh - Trendor Guard",
-   "px": 6750.6,
-   "py": 6230.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 663,
-     "name": "Josh - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 4 (City.Guard.Josh):\nJosh - Trendor Guard (Spawner: City.Guard.Josh, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Josh - Trendor Guard",
-   "px": 6750.6,
-   "py": 6230.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 663,
-     "name": "Josh - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 4 (City.Guard.Josh):\nJosh - Trendor Guard (Spawner: City.Guard.Josh, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lorella - Trendor Guard",
-   "px": 6338.7,
-   "py": 6263.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 665,
-     "name": "Lorella - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 5 (City.Guard.Lorella):\nLorella - Trendor Guard (Spawner: City.Guard.Lorella, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lorella - Trendor Guard",
-   "px": 6338.7,
-   "py": 6263.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 665,
-     "name": "Lorella - Trendor Guard",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 5 (City.Guard.Lorella):\nLorella - Trendor Guard (Spawner: City.Guard.Lorella, up to 0)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5968,
-   "py": 6523.7,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2532.4,
+   "py": 5270.4,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -347,21 +227,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5998.7,
-   "py": 6532.5,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2665.1,
+   "py": 5308.4,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -372,21 +247,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5978.2,
-   "py": 6587.4,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2576.6,
+   "py": 5545.7,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -397,21 +267,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5968.6,
-   "py": 6642.9,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2535,
+   "py": 5785.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -422,21 +287,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5970.2,
-   "py": 6668.2,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2542.1,
+   "py": 5894.8,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -447,21 +307,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5965.4,
-   "py": 6622.6,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2521.4,
+   "py": 5697.4,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -472,21 +327,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5972.8,
-   "py": 6595.2,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2553.2,
+   "py": 5579.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -497,21 +347,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5973.2,
-   "py": 6556.3,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2555,
+   "py": 5411,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -522,21 +367,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5962.4,
-   "py": 6536.2,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2508.4,
+   "py": 5324.3,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -547,21 +387,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5981.6,
-   "py": 6509.6,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2591.3,
+   "py": 5209.4,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -572,21 +407,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5981.8,
-   "py": 6538,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2592.3,
+   "py": 5332.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -597,21 +427,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5966,
-   "py": 6543.1,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2524,
+   "py": 5354.2,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -622,21 +447,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5982.9,
-   "py": 6514.5,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2597,
+   "py": 5230.7,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -647,21 +467,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Vigon, Eyemba",
-   "px": 5979.4,
-   "py": 6559.6,
-   "radiusPx": 7.1,
+   "name": "Flob, Vigon",
+   "px": 2581.8,
+   "py": 5425.5,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -672,21 +487,16 @@
      "id": 174,
      "name": "Vigon",
      "level": 3
-    },
-    {
-     "id": 769,
-     "name": "Eyemba",
-     "level": 10
     }
    ],
-   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 2)\nEyemba (LV10) (Spawner: Condemned.Vigons.Emblem.Req, up to 2)"
+   "detail": "Can spawn at this node, one of 14 on AI web 6 (Condemned.Leftent.Flobs.Vigons):\nFlob (LV1) (Spawner: Condemned.Leftent.Flobs, up to 4, 150/1000)\nVigon (LV3) (Spawner: Condemned.Leftent.Vigons, up to 3, 40/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5914.1,
-   "py": 6478.2,
-   "radiusPx": 7.1,
+   "px": 2299.7,
+   "py": 5073.8,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -694,14 +504,14 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5952.5,
-   "py": 6501.2,
-   "radiusPx": 7.1,
+   "px": 2465.5,
+   "py": 5172.9,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -709,14 +519,14 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5936.9,
-   "py": 6500.5,
-   "radiusPx": 7.1,
+   "px": 2398.2,
+   "py": 5170.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -724,14 +534,14 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5876.4,
-   "py": 6486.5,
-   "radiusPx": 7.1,
+   "px": 2136.8,
+   "py": 5109.7,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -739,14 +549,14 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5847.5,
-   "py": 6477.4,
-   "radiusPx": 7.1,
+   "px": 2012,
+   "py": 5070.2,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -754,14 +564,14 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5882.4,
-   "py": 6473.7,
-   "radiusPx": 7.1,
+   "px": 2162.8,
+   "py": 5054.5,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -769,14 +579,14 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5915.8,
-   "py": 6475.3,
-   "radiusPx": 7.1,
+   "px": 2307.3,
+   "py": 5061.3,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 89,
@@ -784,59 +594,1499 @@
      "level": 1
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
    "name": "Flob",
-   "px": 5898.1,
+   "px": 2230.5,
+   "py": 5087.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 2126.2,
+   "py": 5081.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob",
+   "px": 2386.6,
+   "py": 5091.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1622.2,
+   "py": 5077.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1456.2,
+   "py": 4851.9,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1636.4,
+   "py": 4959.8,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1818.1,
+   "py": 5051.4,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1900,
+   "py": 5089.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1803.5,
+   "py": 5136.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1639.4,
+   "py": 5104.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1506.3,
+   "py": 4899.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1546.4,
+   "py": 4900.6,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1620.1,
+   "py": 5020.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1772.4,
+   "py": 5098,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 1845.1,
+   "py": 5090.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1320.4,
+   "py": 4820.9,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1022.8,
+   "py": 4843.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1038.1,
+   "py": 4777.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1299,
+   "py": 4801.8,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1337.9,
+   "py": 4844.9,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1206.5,
+   "py": 4843.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1083.8,
+   "py": 4805.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1208.5,
+   "py": 4808.4,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1275.5,
+   "py": 4816.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 673.1,
+   "py": 6796.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 878.4,
+   "py": 7017.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 467.7,
+   "py": 7082.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 253.7,
+   "py": 6665.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 507.5,
+   "py": 6572.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 631.4,
+   "py": 6788.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 777.6,
+   "py": 6580.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 462,
+   "py": 6798.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 910.8,
+   "py": 6830.4,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 515.8,
+   "py": 6976.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Flob, Adult Dilirium, Mydria",
+   "px": 690.9,
+   "py": 6932.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 89,
+     "name": "Flob",
+     "level": 1
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    },
+    {
+     "id": 279,
+     "name": "Mydria",
+     "level": 7
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4, 500/1000)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2, 100/1000)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 966.4,
+   "py": 4857.6,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 966.9,
+   "py": 4906.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 793.7,
+   "py": 5078.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 854.2,
+   "py": 4970.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 977.7,
+   "py": 4835.8,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1022.4,
+   "py": 4791,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1001.2,
+   "py": 4847.4,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 934.9,
+   "py": 4909,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 864.5,
+   "py": 4988,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 802.7,
+   "py": 5045.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 694.2,
+   "py": 5463.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 752.1,
+   "py": 5468.6,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 673.2,
+   "py": 5629.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 738.8,
+   "py": 5383.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 710.1,
+   "py": 5510.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 685.3,
+   "py": 5562.8,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 700.7,
+   "py": 5716,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 717.6,
+   "py": 5563.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Naton",
+   "px": 723.7,
+   "py": 5420.8,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3, 50/1000)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 924,
+   "py": 5827.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 991.3,
+   "py": 5641.9,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 792.7,
+   "py": 5737.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 906.5,
+   "py": 5749.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 1097.6,
+   "py": 5787.9,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 844.6,
+   "py": 5822.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 934.4,
+   "py": 5686.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 1003.4,
+   "py": 5747.9,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium, Adult Dilirium",
+   "px": 953.6,
+   "py": 5834,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    },
+    {
+     "id": 142,
+     "name": "Adult Dilirium",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3, 150/1000)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 1449.4,
+   "py": 5508,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2, 40/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 1135.7,
+   "py": 5691.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2, 40/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 1317.9,
+   "py": 5620.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2, 40/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Infant Dilirium",
+   "px": 1301.5,
+   "py": 5565.7,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2, 40/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 2116.3,
+   "py": 6033.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 1726,
+   "py": 5839,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 1616.1,
+   "py": 5727.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 1837.8,
+   "py": 5820.6,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 1770.6,
+   "py": 5826,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 1689.5,
+   "py": 5774.6,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 1986,
+   "py": 5944,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag, Neglik",
+   "px": 2058.4,
+   "py": 5989.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    },
+    {
+     "id": 1,
+     "name": "Neglik",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2, 100/1000)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2091.7,
+   "py": 6492.8,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2096.7,
+   "py": 6355.3,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2197.3,
+   "py": 6517.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2166.2,
+   "py": 6621.6,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2128.5,
+   "py": 6513.5,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2040.4,
+   "py": 6415.1,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2047.9,
+   "py": 6310.4,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2067.7,
+   "py": 6389.6,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 90,
+     "name": "Naton",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Naton",
+   "px": 2139.6,
    "py": 6481.3,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob",
-   "px": 5874,
-   "py": 6479.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob",
-   "px": 5934.2,
-   "py": 6482.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 7 (Condemned.Ent.Flobs):\nFlob (LV1) (Spawner: Condemned.Ent.Flobs, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5757.3,
-   "py": 6479,
-   "radiusPx": 7.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 90,
@@ -844,1454 +2094,104 @@
      "level": 5
     }
    ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3, 50/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Naton",
-   "px": 5718.9,
-   "py": 6426.9,
-   "radiusPx": 7.1,
+   "name": "Brag",
+   "px": 2029.3,
+   "py": 6850.3,
+   "radiusPx": 30.6,
    "mobs": [
     {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5760.6,
-   "py": 6451.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5802.6,
-   "py": 6473,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5821.6,
-   "py": 6481.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5799.3,
-   "py": 6492.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5761.3,
-   "py": 6485.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5730.5,
-   "py": 6437.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5739.7,
-   "py": 6438.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5756.8,
-   "py": 6465.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5792,
-   "py": 6483.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5808.9,
-   "py": 6482,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 8 (Condemned.Entright.Natons):\nNaton (LV5) (Spawner: Condemned.Entright.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5687.4,
-   "py": 6419.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5618.6,
-   "py": 6424.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5622.1,
-   "py": 6409.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5682.5,
-   "py": 6415.3,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5691.5,
-   "py": 6425.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5661.1,
-   "py": 6424.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5632.7,
-   "py": 6416,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5661.5,
-   "py": 6416.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5677.1,
-   "py": 6418.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 9 (Condemned.Clegurks):\nClegurk (LV2) (Spawner: Condemned.Clegurks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5537.6,
-   "py": 6876.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
+     "id": 175,
+     "name": "Brag",
      "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5585.1,
-   "py": 6928.1,
-   "radiusPx": 7.1,
+   "name": "Brag",
+   "px": 1751.7,
+   "py": 6842.7,
+   "radiusPx": 30.6,
    "mobs": [
     {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
+     "id": 175,
+     "name": "Brag",
      "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5490.1,
-   "py": 6943,
-   "radiusPx": 7.1,
+   "name": "Brag",
+   "px": 1719,
+   "py": 6885,
+   "radiusPx": 30.6,
    "mobs": [
     {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
+     "id": 175,
+     "name": "Brag",
      "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5440.5,
+   "name": "Brag",
+   "px": 1638.8,
+   "py": 6839.2,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 1681.5,
+   "py": 6783.4,
+   "radiusPx": 30.6,
+   "mobs": [
+    {
+     "id": 175,
+     "name": "Brag",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brag",
+   "px": 1716.8,
    "py": 6846.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5499.3,
-   "py": 6825,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5528,
-   "py": 6875,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5561.8,
-   "py": 6826.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5488.8,
-   "py": 6877.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5592.6,
-   "py": 6884.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5501.2,
-   "py": 6918.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Flob, Adult Dilirium, Mydria",
-   "px": 5541.7,
-   "py": 6908.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 89,
-     "name": "Flob",
-     "level": 1
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    },
-    {
-     "id": 279,
-     "name": "Mydria",
-     "level": 7
-    }
-   ],
-   "detail": "Can spawn at this node, one of 11 on AI web 10 (Condemned.Mydria.Dili.Flobs):\nFlob (LV1) (Spawner: Condemned.Mydriaroom.Flobs, up to 4)\nAdult Dilirium (LV6) (Spawner: Condemned.Mydriaroom.Dilis, up to 2)\nMydria (LV7) (Spawner: Condemned.Mydria, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5605.5,
-   "py": 6428.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5605.6,
-   "py": 6439.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5565.5,
-   "py": 6479.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5579.5,
-   "py": 6454.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5608.1,
-   "py": 6423.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5618.5,
-   "py": 6412.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5613.5,
-   "py": 6425.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5598.2,
-   "py": 6440.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5581.9,
-   "py": 6458.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clegurk",
-   "px": 5567.6,
-   "py": 6471.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 113,
-     "name": "Clegurk",
-     "level": 2
-    }
-   ],
-   "detail": "Can spawn at this node, one of 10 on AI web 11 (Condemned.Clegurks2):\nClegurk (LV2) (Spawner: Condemned.Clegurks2, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5542.5,
-   "py": 6568.5,
-   "radiusPx": 7.1,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 175,
      "name": "Brag",
      "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5555.9,
-   "py": 6569.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5537.6,
-   "py": 6606.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5552.8,
-   "py": 6550,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5546.2,
-   "py": 6579.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5540.4,
-   "py": 6591.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5544,
-   "py": 6626.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5547.9,
-   "py": 6591.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Naton",
-   "px": 5549.3,
-   "py": 6558.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 12 (Condemned.Brags.Naton):\nBrag (LV6) (Spawner: Condemned.Brags, up to 3)\nNaton (LV5) (Spawner: Condemned.Naton2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5595.7,
-   "py": 6652.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5611.3,
-   "py": 6609.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5565.3,
-   "py": 6631.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5591.6,
-   "py": 6634.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5635.9,
-   "py": 6643.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5577.3,
-   "py": 6651.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5598.1,
-   "py": 6620,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5614.1,
-   "py": 6634.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium, Adult Dilirium",
-   "px": 5602.5,
-   "py": 6654.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    },
-    {
-     "id": 142,
-     "name": "Adult Dilirium",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 13 (Condemned.Dilirium.Infants):\nInfant Dilirium (LV3) (Spawner: Condemned.InfantDiliriums, up to 3)\nAdult Dilirium (LV6) (Spawner: Condemend.Diliriums, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium",
-   "px": 5717.3,
-   "py": 6578.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    }
-   ],
-   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium",
-   "px": 5644.7,
-   "py": 6621.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    }
-   ],
-   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium",
-   "px": 5686.9,
-   "py": 6604.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    }
-   ],
-   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Infant Dilirium",
-   "px": 5683.1,
-   "py": 6592.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 41,
-     "name": "Infant Dilirium",
-     "level": 3
-    }
-   ],
-   "detail": "Can spawn at this node, one of 4 on AI web 14 (Condemned.InfantDiliHall):\nInfant Dilirium (LV3) (Spawner: Comdemned.InfantDiliHall, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5871.6,
-   "py": 6700.3,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5781.3,
-   "py": 6655.3,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5755.9,
-   "py": 6629.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5807.2,
-   "py": 6651.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5791.6,
-   "py": 6652.3,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5772.9,
-   "py": 6640.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5841.5,
-   "py": 6679.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag, Neglik",
-   "px": 5858.3,
-   "py": 6690.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    },
-    {
-     "id": 1,
-     "name": "Neglik",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 8 on AI web 15 (Condemned.Left.Brags.Negliks):\nBrag (LV6) (Spawner: Condemned.Left.Brags, up to 2)\nNeglik (LV5) (Spawner: Condemned.left.Negliks, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5865.9,
-   "py": 6806.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5867.1,
-   "py": 6774.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5890.4,
-   "py": 6812.3,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5883.2,
-   "py": 6836.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5874.5,
-   "py": 6811.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5854.1,
-   "py": 6788.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5855.8,
-   "py": 6764.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5860.4,
-   "py": 6782.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Naton",
-   "px": 5877,
-   "py": 6804,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 90,
-     "name": "Naton",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 16 (Condemned.SecretHall.Natons):\nNaton (LV5) (Spawner: Condemned.Secrethall.Natons, up to 3)"
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Brag",
-   "px": 5851.5,
-   "py": 6889.4,
-   "radiusPx": 7.1,
+   "px": 1804.7,
+   "py": 6853.2,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 175,
@@ -2299,104 +2199,14 @@
      "level": 6
     }
    ],
-   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag",
-   "px": 5787.3,
-   "py": 6887.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag",
-   "px": 5779.7,
-   "py": 6897.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag",
-   "px": 5761.1,
-   "py": 6886.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag",
-   "px": 5771,
-   "py": 6873.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag",
-   "px": 5779.2,
-   "py": 6888.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Brag",
-   "px": 5799.5,
-   "py": 6890.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 175,
-     "name": "Brag",
-     "level": 6
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2)"
+   "detail": "Can spawn at this node, one of 7 on AI web 17 (Condemend.Secrethall.Brags):\nBrag (LV6) (Spawner: Condemned.Secrethall.Brags, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Infant Dilirium",
-   "px": 5771.8,
-   "py": 6745.1,
-   "radiusPx": 7.1,
+   "px": 1685,
+   "py": 6226.8,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 41,
@@ -2404,14 +2214,14 @@
      "level": 3
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Infant Dilirium",
-   "px": 5770.4,
-   "py": 6700.1,
-   "radiusPx": 7.1,
+   "px": 1678.6,
+   "py": 6032.3,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 41,
@@ -2419,14 +2229,14 @@
      "level": 3
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Infant Dilirium",
-   "px": 5771.4,
-   "py": 6760.1,
-   "radiusPx": 7.1,
+   "px": 1683.1,
+   "py": 6291.8,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 41,
@@ -2434,14 +2244,14 @@
      "level": 3
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Infant Dilirium",
-   "px": 5766.4,
-   "py": 6748.4,
-   "radiusPx": 7.1,
+   "px": 1661.8,
+   "py": 6241,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 41,
@@ -2449,14 +2259,14 @@
      "level": 3
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Infant Dilirium",
-   "px": 5766.9,
-   "py": 6727.2,
-   "radiusPx": 7.1,
+   "px": 1663.8,
+   "py": 6149.5,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 41,
@@ -2464,14 +2274,14 @@
      "level": 3
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Infant Dilirium",
-   "px": 5773.7,
-   "py": 6750.8,
-   "radiusPx": 7.1,
+   "px": 1692.9,
+   "py": 6251.7,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 41,
@@ -2479,14 +2289,14 @@
      "level": 3
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 18 (Condemned.SecretHall.InfantDilis):\nInfant Dilirium (LV3) (Spawner: Condemned.SecretHall.infantdilis, up to 2, 50/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5780.2,
-   "py": 6543.8,
-   "radiusPx": 7.1,
+   "px": 1721.1,
+   "py": 5357,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2504,14 +2314,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5766.6,
-   "py": 6586,
-   "radiusPx": 7.1,
+   "px": 1662.3,
+   "py": 5539.4,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2529,14 +2339,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5778,
-   "py": 6532.1,
-   "radiusPx": 7.1,
+   "px": 1711.7,
+   "py": 5306.5,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2554,14 +2364,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5806.6,
-   "py": 6551.8,
-   "radiusPx": 7.1,
+   "px": 1835.3,
+   "py": 5391.9,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2579,14 +2389,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5778.1,
-   "py": 6579.7,
-   "radiusPx": 7.1,
+   "px": 1712.2,
+   "py": 5512.4,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2604,14 +2414,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5749.7,
-   "py": 6573.8,
-   "radiusPx": 7.1,
+   "px": 1589.5,
+   "py": 5486.9,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2629,14 +2439,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5758.8,
-   "py": 6542.1,
-   "radiusPx": 7.1,
+   "px": 1628.8,
+   "py": 5349.7,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2654,14 +2464,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5777.5,
-   "py": 6571.3,
-   "radiusPx": 7.1,
+   "px": 1709.4,
+   "py": 5476,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2679,14 +2489,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5758.5,
-   "py": 6522.4,
-   "radiusPx": 7.1,
+   "px": 1627.6,
+   "py": 5264.8,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2704,14 +2514,14 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "mobs",
    "name": "Nigon, Uline, Slabon",
-   "px": 5762.5,
-   "py": 6540.3,
-   "radiusPx": 7.1,
+   "px": 1644.5,
+   "py": 5342,
+   "radiusPx": 30.6,
    "mobs": [
     {
      "id": 2,
@@ -2729,788 +2539,13 @@
      "level": 7
     }
    ],
-   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "InvisCamera",
-   "px": 6362.4,
-   "py": 5576.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 771,
-     "name": "InvisCamera",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 20 (Sewers.Fadun1):\nGM Razor (Spawner: Sewers.Fadun1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "InvisCamera",
-   "px": 6383,
-   "py": 5462,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 771,
-     "name": "InvisCamera",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 20 (Sewers.Fadun1):\nGM Razor (Spawner: Sewers.Fadun1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 6384.8,
-   "py": 5449.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 6414.3,
-   "py": 5370.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 6402.4,
-   "py": 5359.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "InvisCamera",
-   "px": 6631.1,
-   "py": 5237.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 771,
-     "name": "InvisCamera",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 22 (Sewers.Fadun3):\nGM Razor (Spawner: Sewers.Fadun3, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "InvisCamera",
-   "px": 6642.7,
-   "py": 5422,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 771,
-     "name": "InvisCamera",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 22 (Sewers.Fadun3):\nGM Razor (Spawner: Sewers.Fadun3, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 6853.8,
-   "py": 5307.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 6942,
-   "py": 5236.4,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 6930.7,
-   "py": 5127.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7061.1,
-   "py": 4932.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7194.7,
-   "py": 5031.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7284.9,
-   "py": 4875.3,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "InvisCamera",
-   "px": 7354.3,
-   "py": 4938.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 771,
-     "name": "InvisCamera",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 25 (Sewers.Fadun5):\nGM Razor (Spawner: Sewers.Fadun5, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "InvisCamera",
-   "px": 7461.3,
-   "py": 4990.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 771,
-     "name": "InvisCamera",
-     "level": null
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 25 (Sewers.Fadun5):\nGM Razor (Spawner: Sewers.Fadun5, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7505.6,
-   "py": 5035.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7454.2,
-   "py": 5171,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7586.8,
-   "py": 5280.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun, Didon",
-   "px": 7455.5,
-   "py": 5316.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    },
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 27 (Sewers.Fadun6):\nFadun (LV4) (Spawner: Sewers.Fadun6, up to 1)\nDidon (LV4) (Spawner: Sewers.Didon6, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun, Didon",
-   "px": 7522.6,
-   "py": 5422.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    },
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 27 (Sewers.Fadun6):\nFadun (LV4) (Spawner: Sewers.Fadun6, up to 1)\nDidon (LV4) (Spawner: Sewers.Didon6, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7547,
-   "py": 5502.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7646.1,
-   "py": 5515,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7692.1,
-   "py": 5534.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7777.5,
-   "py": 5516.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7872.3,
-   "py": 5532.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 7982.8,
-   "py": 5464.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 8018.3,
-   "py": 5434.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 8007,
-   "py": 5267.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Fadun",
-   "px": 8025.1,
-   "py": 5123.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 8007.8,
-   "py": 5098.1,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 31 (Sewers.Didon5):\nDidon (LV4) (Spawner: Sewers.Didon5, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Didon",
-   "px": 8028.8,
-   "py": 5269.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 22,
-     "name": "Didon",
-     "level": 4
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 31 (Sewers.Didon5):\nDidon (LV4) (Spawner: Sewers.Didon5, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Ligon",
-   "px": 7727.2,
-   "py": 5017,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 23,
-     "name": "Ligon",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Ligon",
-   "px": 7962.8,
-   "py": 4943.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 23,
-     "name": "Ligon",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Ligon",
-   "px": 7761.8,
-   "py": 4850.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 23,
-     "name": "Ligon",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Ligon",
-   "px": 7570,
-   "py": 4920,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 23,
-     "name": "Ligon",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Ligon",
-   "px": 7462.3,
-   "py": 4871.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 23,
-     "name": "Ligon",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Ligon",
-   "px": 7457.5,
-   "py": 4727.8,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 23,
-     "name": "Ligon",
-     "level": 5
-    }
-   ],
-   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 7449.4,
-   "py": 4472.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 35 (Sewers.Gonlon):\nGonlon (LV8) (Spawner: Sewers.Gonlon, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 7449.4,
-   "py": 4472.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 2 on AI web 35 (Sewers.Gonlon):\nGonlon (LV8) (Spawner: Sewers.Gonlon, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7734.1,
-   "py": 4876.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7779.5,
-   "py": 4911,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7766.2,
-   "py": 4891,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7780.9,
-   "py": 4942.5,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7766.6,
-   "py": 4967.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7735.9,
-   "py": 4981.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7706.5,
-   "py": 4972.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7688,
-   "py": 4947.7,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7688,
-   "py": 4920,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7701.9,
-   "py": 4895.2,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7731.6,
-   "py": 4924.9,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Trine",
-   "px": 7728.6,
-   "py": 4925.6,
-   "radiusPx": 7.1,
-   "mobs": [
-    {
-     "id": 10,
-     "name": "Trine",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 12 on AI web 36 (Sewers.Trine):\nTrine (LV8) (Spawner: Sewers.Trine, up to 2)"
+   "detail": "Can spawn at this node, one of 10 on AI web 19 (Concemned.Center.Nigons.Uline.Slabon):\nNigon (LV7) (Spawner: Condemned.Center.Nigons, up to 2, 100/1000)\nUline (LV7) (Spawner: Condemned.Center.Uline, up to 1, 100/1000)\nSlabon (LV7) (Spawner: Condemned.Center.Slabon, up to 2, 100/1000)"
   },
   {
    "layer": "npcs",
    "name": "Tidi (Items)",
-   "px": 6140.7,
-   "py": 6084,
+   "px": 3278.7,
+   "py": 3370.7,
    "npcId": 326,
    "template": "Grounce",
    "roles": [
@@ -3656,8 +2691,8 @@
   {
    "layer": "npcs",
    "name": "Mercan (Smithy)",
-   "px": 6418.7,
-   "py": 5865.1,
+   "px": 4480,
+   "py": 2425,
    "npcId": 434,
    "template": "Human Male",
    "roles": [
@@ -3747,8 +2782,8 @@
   {
    "layer": "npcs",
    "name": "Tali (Banker)",
-   "px": 6723.6,
-   "py": 6239.3,
+   "px": 5797.4,
+   "py": 4041.5,
    "npcId": 436,
    "template": "Human Female",
    "roles": [
@@ -3763,221 +2798,9 @@
   },
   {
    "layer": "npcs",
-   "name": "G\"fron",
-   "px": 6452.3,
-   "py": 5296.5,
-   "npcId": 486,
-   "template": "Grounce",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "(BL)",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "Dominion Briging Egg"
-      },
-      {
-       "name": "Dominion Grison Egg"
-      },
-      {
-       "name": "Dominion Drout Egg"
-      },
-      {
-       "name": "Dominion Ligton Egg"
-      },
-      {
-       "name": "Dominion Briscore Egg"
-      },
-      {
-       "name": "Dominion Cripton Egg"
-      },
-      {
-       "name": "Dominion Gratute Egg"
-      },
-      {
-       "name": "Dominion Flisk Egg"
-      },
-      {
-       "name": "Dominion Powlong Egg"
-      }
-     ],
-     "gives": [
-      {
-       "name": "(BL) Ring of Power +20"
-      }
-     ]
-    },
-    {
-     "title": "(AP)",
-     "race": "AP",
-     "needs": [
-      {
-       "name": "Dominion Flisk Egg"
-      },
-      {
-       "name": "Dominion Powlong Egg"
-      },
-      {
-       "name": "Dominion Drout Egg"
-      },
-      {
-       "name": "Dominion Cripton Egg"
-      },
-      {
-       "name": "Dominion Grison Egg"
-      },
-      {
-       "name": "Dominion Gratute Egg"
-      },
-      {
-       "name": "Dominion Briging Egg"
-      },
-      {
-       "name": "Dominion Briscore Egg"
-      },
-      {
-       "name": "Dominion Ligton Egg"
-      }
-     ],
-     "gives": [
-      {
-       "name": "(AP) Ring of Power +20"
-      }
-     ]
-    },
-    {
-     "title": "(HM)",
-     "race": "HM",
-     "needs": [
-      {
-       "name": "Dominion Briscore Egg"
-      },
-      {
-       "name": "Dominion Grison Egg"
-      },
-      {
-       "name": "Dominion Drout Egg"
-      },
-      {
-       "name": "Dominion Cripton Egg"
-      },
-      {
-       "name": "Dominion Gratute Egg"
-      },
-      {
-       "name": "Dominion Flisk Egg"
-      },
-      {
-       "name": "Dominion Ligton Egg"
-      },
-      {
-       "name": "Dominion Briging Egg"
-      },
-      {
-       "name": "Dominion Powlong Egg"
-      }
-     ],
-     "gives": [
-      {
-       "name": "(HM) Ring of Power +20"
-      }
-     ]
-    },
-    {
-     "title": "(HF)",
-     "race": "HF",
-     "needs": [
-      {
-       "name": "Dominion Briging Egg"
-      },
-      {
-       "name": "Dominion Drout Egg"
-      },
-      {
-       "name": "Dominion Flisk Egg"
-      },
-      {
-       "name": "Dominion Ligton Egg"
-      },
-      {
-       "name": "Dominion Powlong Egg"
-      },
-      {
-       "name": "Dominion Grison Egg"
-      },
-      {
-       "name": "Dominion Gratute Egg"
-      },
-      {
-       "name": "Dominion Cripton Egg"
-      },
-      {
-       "name": "Dominion Briscore Egg"
-      }
-     ],
-     "gives": [
-      {
-       "name": "(HF) Ring of Power +20"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Lasgat",
-   "px": 7448.8,
-   "py": 4470.4,
-   "npcId": 505,
-   "template": "Amphibious",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "Intro",
-     "needs": [
-      {
-       "name": "Letter from Flogran"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Letter from Lasgat"
-      }
-     ]
-    },
-    {
-     "title": "Armor 13 Quest: Part 5 of 20",
-     "needs": [
-      {
-       "name": "Sword of Val"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Sealed Letter from Lasgat"
-      }
-     ]
-    },
-    {
-     "title": "Armor 13 Quest: Part 7 of 20",
-     "needs": [
-      {
-       "name": "None1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
    "name": "Kara - Lady of the Air",
-   "px": 6376.8,
-   "py": 6267.1,
+   "px": 4298.8,
+   "py": 4161.7,
    "npcId": 515,
    "template": "Human Female",
    "roles": [
@@ -4036,8 +2859,8 @@
   {
    "layer": "npcs",
    "name": "Lorut",
-   "px": 6127.7,
-   "py": 6011.2,
+   "px": 3222.7,
+   "py": 3056,
    "npcId": 545,
    "template": "Human Male",
    "roles": [
@@ -4132,8 +2955,8 @@
   {
    "layer": "npcs",
    "name": "Sush",
-   "px": 6473.4,
-   "py": 6259.2,
+   "px": 4716.3,
+   "py": 4127.6,
    "npcId": 580,
    "template": "Blod",
    "roles": [
@@ -4182,160 +3005,9 @@
   },
   {
    "layer": "npcs",
-   "name": "Q-Forge",
-   "px": 6306,
-   "py": 5321.6,
-   "npcId": 609,
-   "template": "K Forge",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "Intro",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "K-Forge Keg"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Letter for Sotannalk"
-      }
-     ]
-    },
-    {
-     "title": "Neronicle Quest: Part 3 of 13",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "Neronicle Barrel"
-      },
-      {
-       "name": "Neronicle Power Supply"
-      },
-      {
-       "name": "NeronicleLazer Gun Drive"
-      },
-      {
-       "name": "NeronicleLazer Gun Casing"
-      }
-     ],
-     "gives": [
-      {
-       "name": "(BL) NeronicleLazer Gun (Ru) (Lv14)"
-      },
-      {
-       "name": "Note for K-Forge"
-      }
-     ]
-    },
-    {
-     "title": "Neronicle Quest: Complete 13 of 13",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "Note for Q-Forge"
-      }
-     ]
-    },
-    {
-     "title": "Chalis Focali Quest: Part 3 of 19",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "Iolite",
-       "qty": 3
-      },
-      {
-       "name": "Moonstone",
-       "qty": 3
-      },
-      {
-       "name": "Lemon Quartz",
-       "qty": 3
-      }
-     ]
-    },
-    {
-     "title": "Chalis Focali Quest: Part 4 of 19",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "Q-Forges Keg"
-      }
-     ]
-    },
-    {
-     "title": "Chalis Focali Quest: Part 5 of 19",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "Shendos Pack"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Tools for J-Forge"
-      }
-     ]
-    },
-    {
-     "title": "Chalis Focali Quest: Part 6 of 19",
-     "race": "BL",
-     "needs": [
-      {
-       "name": "None1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Sassi",
-   "px": 6312.8,
-   "py": 5309.6,
-   "npcId": 630,
-   "template": "Human Female",
-   "says": [
-    "\"Q is our man! Isn\"t he soooo sexy?\"",
-    "\"Turn it up DJ!!\"",
-    "\"Watch how you look at me, I am Q\"s baby.\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Nubian",
-   "px": 6300.8,
-   "py": 5329.5,
-   "npcId": 631,
-   "template": "Human Female",
-   "says": [
-    "\"This party is jamming!\"",
-    "\"Why can\"t we get K and T here too?\"",
-    "\"Shendo is such a bad guy... I hope he doesn\"t show up here.\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Domanie",
-   "px": 6286.2,
-   "py": 5309.2,
-   "npcId": 632,
-   "template": "Human Female",
-   "says": [
-    "\"Doma, Doma, Doma....\"",
-    "\"Share a drink with us!\"",
-    "\"Hey, where\"s the fire big boy?\""
-   ]
-  },
-  {
-   "layer": "npcs",
    "name": "K-Forge",
-   "px": 6128,
-   "py": 6119.2,
+   "px": 3223.8,
+   "py": 3522.8,
    "npcId": 633,
    "template": "K Forge",
    "roles": [
@@ -4447,8 +3119,8 @@
   {
    "layer": "npcs",
    "name": "Sam",
-   "px": 6323.6,
-   "py": 5532.4,
+   "px": 4068.8,
+   "py": 987.4,
    "npcId": 637,
    "template": "Human Male",
    "says": [
@@ -4459,113 +3131,9 @@
   },
   {
    "layer": "npcs",
-   "name": "Woody",
-   "px": 6295.5,
-   "py": 5314.9,
-   "npcId": 638,
-   "template": "Amphibious",
-   "says": [
-    "Woody> \"Hi there! Can I make you a nice Slugdrip Nectar? No?\"",
-    "Woody> \"Hey, how about a refreshing Bluetail Fly Tonic! Oh, come on, why not? It\"s good!\"",
-    "Woody> \"You must try my Wormgut Spritzer! I\"ll even sprinkle some gnats on top for ya! No? Are you sure?\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Etten",
-   "px": 6443.9,
-   "py": 5315.5,
-   "npcId": 639,
-   "template": "Human Female",
-   "says": [
-    "\"I like bartending almost as much as dancing!\"",
-    "\"Isn\"t DJ Mister just the most awesome DJ? Yeah baby!\"",
-    "\"Have you met Q-Forge yet? He\"s the most fun ever!\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Asay",
-   "px": 6430.9,
-   "py": 5332.9,
-   "npcId": 640,
-   "template": "Human Female",
-   "says": [
-    "\"What would you like, friend?\"",
-    "\"Hmm... I don\"t think I\"ve heard of that one. I am new here, by the way.\"",
-    "\"<giggle> I\"m staring at a secret passageway! Can you find it?\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "(Bouncer) Og",
-   "px": 6339.2,
-   "py": 5333.7,
-   "npcId": 641,
-   "template": "Bloblic",
-   "says": [
-    "Og> \"Og think that women look good, but they don\"t think right. Og have trouble making friends with them.\"",
-    "Og> \"It is mystery to Og why women like clean house. It just get dirty again. Why not leave it alone and save time? Og just not get it.\"",
-    "Og] \"Og not understand women.\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Denisa",
-   "px": 6414.8,
-   "py": 5305.7,
-   "npcId": 642,
-   "template": "Human Female",
-   "says": [
-    "Denisa> \"So then he says that women are all the same. Isn\"t that just like a man?\"",
-    "Denisa> \"Who needs \"em? That\"s what I say. But then, some of them are so cute.\"",
-    "Denisa> \"It\"s not like I\"m demanding or unreasonable or anything.\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Marlot",
-   "px": 6419.4,
-   "py": 5300.8,
-   "npcId": 643,
-   "template": "Human Female",
-   "says": [
-    "Marlot> \"I totallly understand. Mine said the same thing last week.\"",
-    "Marlot> \"What are you drinking? Mine is getting warm.\"",
-    "Marlot> \"You\"d think they could get a clue. It\"s not like we\"re being unreasonable.\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "George",
-   "px": 6458.7,
-   "py": 5321.5,
-   "npcId": 644,
-   "template": "Human Male",
-   "says": [
-    "George> \"I drink alone.\"",
-    "George> \"I drink with nobody else.\"",
-    "George> \"You know when I drink alone, I prefer to be by myself.\""
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Flitter",
-   "px": 6285.3,
-   "py": 5294.4,
-   "npcId": 645,
-   "template": "Amphibious",
-   "says": [
-    "Flitter> \"I just watch people. You are a people. I watch you.\"",
-    "Flitter> \"Not many people here right now. Are you going to stay?\"",
-    "Flitter> \"Even I wouldn\"t drink what Woody is serving.\""
-   ]
-  },
-  {
-   "layer": "npcs",
    "name": "Mobodo",
-   "px": 6375.2,
-   "py": 5517.9,
+   "px": 4291.8,
+   "py": 924.5,
    "npcId": 646,
    "template": "Human Male",
    "says": [
@@ -4577,8 +3145,8 @@
   {
    "layer": "npcs",
    "name": "Berri",
-   "px": 6371.2,
-   "py": 5538,
+   "px": 4274.6,
+   "py": 1011.7,
    "npcId": 647,
    "template": "Human Female",
    "says": [
@@ -4589,22 +3157,9 @@
   },
   {
    "layer": "npcs",
-   "name": "Freddith Blorp",
-   "px": 6434.7,
-   "py": 5320.2,
-   "npcId": 648,
-   "template": "Bloblic",
-   "says": [
-    "Freddith Blorp> \"I\"m a legend here. They pay me to dance, I\"m so good!\"",
-    "Freddith Blorp> \"It\"s not just the moves, it\"s the stamina. I never get tired.\"",
-    "Freddith Blorp> \"I just wish I could find a partner that could keep up with me.\""
-   ]
-  },
-  {
-   "layer": "npcs",
    "name": "Royder - Trendor Guard",
-   "px": 6371.2,
-   "py": 5866.1,
+   "px": 4274.5,
+   "py": 2428.9,
    "npcId": 651,
    "template": "Human Male",
    "says": [
@@ -4616,8 +3171,8 @@
   {
    "layer": "npcs",
    "name": "Hayden - Trendor Guard",
-   "px": 6536.4,
-   "py": 6208.5,
+   "px": 4988.6,
+   "py": 3908.3,
    "npcId": 652,
    "template": "Human Male",
    "says": [
@@ -4629,8 +3184,8 @@
   {
    "layer": "npcs",
    "name": "Lissa - Trendor Guard",
-   "px": 6536.2,
-   "py": 6267,
+   "px": 4987.3,
+   "py": 4161.2,
    "npcId": 653,
    "template": "Human Female",
    "says": [
@@ -4642,8 +3197,8 @@
   {
    "layer": "npcs",
    "name": "Bevel - Trendor Guard",
-   "px": 6175.9,
-   "py": 6168.3,
+   "px": 3430.8,
+   "py": 3734.9,
    "npcId": 654,
    "template": "Human Male",
    "says": [
@@ -4655,8 +3210,8 @@
   {
    "layer": "npcs",
    "name": "Jo - Trendor Guard",
-   "px": 6049.5,
-   "py": 6380.9,
+   "px": 2884.9,
+   "py": 4653.5,
    "npcId": 655,
    "template": "Human Female",
    "says": [
@@ -4668,8 +3223,8 @@
   {
    "layer": "npcs",
    "name": "Penelope - Trendor Guard",
-   "px": 6297,
-   "py": 6402.3,
+   "px": 3953.9,
+   "py": 4745.8,
    "npcId": 656,
    "template": "Human Female",
    "says": [
@@ -4680,22 +3235,9 @@
   },
   {
    "layer": "npcs",
-   "name": "Mr. Fowell",
-   "px": 6441.9,
-   "py": 5321.2,
-   "npcId": 657,
-   "template": "Amphibious",
-   "says": [
-    "Mr. Fowell> \"Hmm? Oh, just cleaning up this room. Been a big party in here from the looks of things.\"",
-    "Mr. Fowell> \"These kids nowadays never clean up after themselves. Think the world owes them a living.\"",
-    "Mr. Fowell> \"Someone spilled liquor all over this floor and danced in it. Bunch of hoodlums.\""
-   ]
-  },
-  {
-   "layer": "npcs",
    "name": "Muni (Engineer)",
-   "px": 6129.5,
-   "py": 5953.6,
+   "px": 3230.5,
+   "py": 2807.1,
    "npcId": 658,
    "template": "Human Female",
    "roles": [
@@ -4789,8 +3331,8 @@
   {
    "layer": "npcs",
    "name": "Witzer (Engineer)",
-   "px": 6142.7,
-   "py": 5941.2,
+   "px": 3287.3,
+   "py": 2753.6,
    "npcId": 659,
    "template": "Human Male",
    "roles": [
@@ -4884,8 +3426,8 @@
   {
    "layer": "npcs",
    "name": "Chemoise (Alchemist)",
-   "px": 6313.1,
-   "py": 6638.5,
+   "px": 4023.6,
+   "py": 5766.5,
    "npcId": 660,
    "template": "Human Female",
    "roles": [
@@ -5019,8 +3561,8 @@
   {
    "layer": "npcs",
    "name": "Gradius (Smithy)",
-   "px": 6436.5,
-   "py": 5863.9,
+   "px": 4556.8,
+   "py": 2419.7,
    "npcId": 661,
    "template": "Human Male",
    "roles": [
@@ -5110,8 +3652,8 @@
   {
    "layer": "npcs",
    "name": "Xtx Hover Bike",
-   "px": 5958.8,
-   "py": 6022.5,
+   "px": 2493,
+   "py": 3105,
    "npcId": 662,
    "template": "Hover Bike",
    "says": [
@@ -5123,8 +3665,8 @@
   {
    "layer": "npcs",
    "name": "Jxi Hydro Craft",
-   "px": 5970.2,
-   "py": 6006.7,
+   "px": 2542,
+   "py": 3036.4,
    "npcId": 666,
    "template": "JetSki",
    "says": [
@@ -5136,8 +3678,8 @@
   {
    "layer": "npcs",
    "name": "Merrick (Melee)",
-   "px": 6133.6,
-   "py": 6055.6,
+   "px": 3248.1,
+   "py": 3247.9,
    "npcId": 667,
    "template": "Human Male",
    "roles": [
@@ -5251,8 +3793,8 @@
   {
    "layer": "npcs",
    "name": "Leesha (Range)",
-   "px": 6138,
-   "py": 6053.8,
+   "px": 3267,
+   "py": 3240,
    "npcId": 668,
    "template": "Human Female",
    "roles": [
@@ -5318,8 +3860,8 @@
   {
    "layer": "npcs",
    "name": "JD - Vehicle Upgrades",
-   "px": 6204.1,
-   "py": 6134.6,
+   "px": 3552.5,
+   "py": 3589,
    "npcId": 691,
    "template": "Human Male",
    "roles": [
@@ -5831,8 +4373,8 @@
   {
    "layer": "npcs",
    "name": "Darius",
-   "px": 6370,
-   "py": 5583.2,
+   "px": 4269.4,
+   "py": 1206.9,
    "npcId": 725,
    "template": "Human Male",
    "roles": [
@@ -6208,55 +4750,9 @@
   },
   {
    "layer": "npcs",
-   "name": "Galothien",
-   "px": 6585.7,
-   "py": 5391.5,
-   "npcId": 727,
-   "template": "Human Male",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "Intro",
-     "race": "HM",
-     "needs": [
-      {
-       "name": "Letter from Clike"
-      }
-     ]
-    },
-    {
-     "title": "Darius Quest: Part 16 of 22",
-     "race": "HM",
-     "needs": [
-      {
-       "name": "Ear of Godion",
-       "qty": 20
-      }
-     ],
-     "gives": [
-      {
-       "name": "Blue Gem from Galothien"
-      }
-     ]
-    },
-    {
-     "title": "Darius Quest: Part 17 of 22",
-     "race": "HM",
-     "needs": [
-      {
-       "name": "None1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
    "name": "Zarwen",
-   "px": 6368.5,
-   "py": 5849.9,
+   "px": 4263,
+   "py": 2358.9,
    "npcId": 729,
    "template": "Human Male",
    "roles": [
@@ -6440,8 +4936,8 @@
   {
    "layer": "npcs",
    "name": "Celeste",
-   "px": 6325,
-   "py": 6186,
+   "px": 4075.1,
+   "py": 3811.4,
    "npcId": 737,
    "template": "Human Female",
    "roles": [
@@ -6791,8 +5287,8 @@
   {
    "layer": "npcs",
    "name": "Emril",
-   "px": 6434.6,
-   "py": 6193,
+   "px": 4548.4,
+   "py": 3841.7,
    "npcId": 741,
    "template": "Human Female",
    "roles": [
@@ -6976,8 +5472,8 @@
   {
    "layer": "npcs",
    "name": "Kinis - Inceptor Instructor",
-   "px": 6346.1,
-   "py": 5612.8,
+   "px": 4166,
+   "py": 1334.7,
    "npcId": 747,
    "template": "Human Male",
    "roles": [
@@ -7036,8 +5532,8 @@
   {
    "layer": "npcs",
    "name": "Amblik",
-   "px": 5992.5,
-   "py": 6028.2,
+   "px": 2638.6,
+   "py": 3129.4,
    "npcId": 750,
    "template": "Human Male",
    "roles": [
@@ -7229,8 +5725,8 @@
   {
    "layer": "npcs",
    "name": "Jester",
-   "px": 6305.5,
-   "py": 6231.3,
+   "px": 3990.7,
+   "py": 4007,
    "npcId": 1054,
    "template": "Bloblic",
    "says": [
@@ -7242,8 +5738,8 @@
   {
    "layer": "npcs",
    "name": "esiomehC",
-   "px": 6295.8,
-   "py": 6644,
+   "px": 3948.8,
+   "py": 5790.2,
    "npcId": 1576,
    "template": "Human Female",
    "roles": [
@@ -7333,8 +5829,8 @@
   {
    "layer": "npcs",
    "name": "Chalis chest",
-   "px": 6354.3,
-   "py": 6019.3,
+   "px": 4201.8,
+   "py": 3090.8,
    "npcId": 1679,
    "template": "Misc Inventory",
    "roles": [
@@ -7370,17 +5866,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6385.5,
-   "py": 5882.4,
+   "name": "Teleporter",
+   "px": 4336.2,
+   "py": 2499.7,
    "npcId": 1123,
    "routes": [
     {
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 3320.9,
-      "py": 2960.3
+      "px": 1946.2,
+      "py": 979.7
      },
      "title": "Blink!"
     }
@@ -7388,17 +5884,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6351.8,
-   "py": 5883.5,
+   "name": "Teleporter",
+   "px": 4190.9,
+   "py": 2504.2,
    "npcId": 1125,
    "routes": [
     {
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 3583,
-      "py": 3285.3
+      "px": 2657.3,
+      "py": 1861.5
      },
      "title": "Blink!"
     }
@@ -7406,17 +5902,19 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6365.5,
-   "py": 6086.8,
+   "name": "Teleporter",
+   "px": 4250.1,
+   "py": 3382.6,
    "npcId": 1126,
    "routes": [
     {
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6378.7,
-      "py": 5940.9
+      "level": "sewers",
+      "levelName": "Sewers",
+      "px": 385.8,
+      "py": 7185
      },
      "title": "Blink!"
     }
@@ -7424,143 +5922,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6364.2,
-   "py": 5940.6,
-   "npcId": 1127,
-   "routes": [
-    {
-     "to": {
-      "world": "Trendor",
-      "slug": "trendor",
-      "px": 6373.1,
-      "py": 6086.7
-     },
-     "title": "Blink!"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 6307,
-   "py": 5349.6,
-   "npcId": 1129,
-   "routes": [
-    {
-     "to": {
-      "world": "Trendor",
-      "slug": "trendor",
-      "px": 6335.9,
-      "py": 5320.2
-     },
-     "title": "Blink!"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 6306.8,
-   "py": 5348.9,
-   "npcId": 1130,
-   "routes": [
-    {
-     "to": {
-      "world": "Trendor",
-      "slug": "trendor",
-      "px": 6431.8,
-      "py": 5291.2
-     },
-     "title": "Blink!"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 6432.3,
-   "py": 5348.9,
-   "npcId": 1131,
-   "routes": [
-    {
-     "to": {
-      "world": "Trendor",
-      "slug": "trendor",
-      "px": 6431.8,
-      "py": 5348.9
-     },
-     "title": "Blink!"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 6403.2,
-   "py": 5320,
-   "npcId": 1132,
-   "routes": [
-    {
-     "to": {
-      "world": "Trendor",
-      "slug": "trendor",
-      "px": 6431.8,
-      "py": 5291.2
-     },
-     "title": "Blink!"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 6460.5,
-   "py": 5320,
-   "npcId": 1133,
-   "routes": [
-    {
-     "to": {
-      "world": "Trendor",
-      "slug": "trendor",
-      "px": 6431.8,
-      "py": 5291.2
-     },
-     "title": "Blink!"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 6306.7,
-   "py": 5291.2,
-   "npcId": 1134,
-   "routes": [
-    {
-     "to": {
-      "world": "Trendor",
-      "slug": "trendor",
-      "px": 6431.8,
-      "py": 5291.2
-     },
-     "title": "Blink!"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 6163.1,
-   "py": 6345.7,
+   "name": "Teleporter",
+   "px": 3375.5,
+   "py": 4501.4,
    "npcId": 1411,
    "routes": [
     {
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6373.6,
-      "py": 6197.1
+      "px": 4285.1,
+      "py": 3859
      },
      "title": "Zap~"
     }
@@ -7568,17 +5940,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6209.1,
-   "py": 6372.4,
+   "name": "Teleporter",
+   "px": 3574.4,
+   "py": 4616.8,
    "npcId": 1412,
    "routes": [
     {
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6093.2,
-      "py": 6354.5
+      "px": 3073.5,
+      "py": 4539.3
      },
      "title": "Wooo~"
     }
@@ -7587,16 +5959,16 @@
   {
    "layer": "portals",
    "name": "Traveler HM",
-   "px": 6369.6,
-   "py": 6315.8,
+   "px": 4267.5,
+   "py": 4372.2,
    "npcId": 1414,
    "routes": [
     {
      "to": {
       "world": "4 Falls",
       "slug": "4-falls",
-      "px": 3221.1,
-      "py": 3334.1
+      "px": 3997.9,
+      "py": 4139.4
      },
      "title": "Portal to 4falls"
     },
@@ -7604,8 +5976,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 4588.1,
-      "py": 2980.2
+      "px": 5384,
+      "py": 1033.7
      },
      "title": "Portal to Amphibious Island"
     },
@@ -7613,8 +5985,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 2979,
-      "py": 5100.1
+      "px": 1018.6,
+      "py": 6784.9
      },
      "title": "Portal to Bloblic Colonies"
     }
@@ -7622,17 +5994,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6558,
-   "py": 6099.1,
+   "name": "Teleporter",
+   "px": 5081.5,
+   "py": 3435.7,
    "npcId": 1417,
    "routes": [
     {
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6419.6,
-      "py": 6312
+      "px": 4483.7,
+      "py": 4355.7
      },
      "title": "Poof~"
     }
@@ -7640,17 +6012,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6602.6,
-   "py": 6124.5,
+   "name": "Teleporter",
+   "px": 5274.6,
+   "py": 3545.5,
    "npcId": 1418,
    "routes": [
     {
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6373.6,
-      "py": 6197.1
+      "px": 4285.1,
+      "py": 3859
      },
      "title": "Kablow"
     }
@@ -7658,17 +6030,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6369.3,
-   "py": 6224.2,
+   "name": "Teleporter",
+   "px": 4266.5,
+   "py": 3976.4,
    "npcId": 1419,
    "routes": [
     {
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6419.6,
-      "py": 6312
+      "px": 4483.7,
+      "py": 4355.7
      },
      "title": "Go!"
     }
@@ -7676,17 +6048,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 6342.4,
-   "py": 6177.7,
+   "name": "Teleporter",
+   "px": 4150,
+   "py": 3775.3,
    "npcId": 1420,
    "routes": [
     {
      "to": {
       "world": "Trendor",
       "slug": "trendor",
-      "px": 6093.2,
-      "py": 6354.5
+      "px": 3073.5,
+      "py": 4539.3
      },
      "title": "Kazam~"
     }
@@ -7695,13 +6067,13 @@
   {
    "layer": "shops",
    "name": "Trendor ChemLab2",
-   "px": 6284.6,
-   "py": 6738.2,
+   "px": 3900.3,
+   "py": 6196.9,
    "box": [
-    6265.1,
-    6620.3,
-    6304,
-    6856.1
+    3816.1,
+    5687.5,
+    3984.4,
+    6706.3
    ],
    "shopId": 15,
    "stock": [
@@ -7782,13 +6154,13 @@
   {
    "layer": "shops",
    "name": "K-Forge Items",
-   "px": 6150.5,
-   "py": 6082.3,
+   "px": 3321.3,
+   "py": 3363.2,
    "box": [
-    6138,
-    6057.3,
-    6163.1,
-    6107.3
+    3267,
+    3255.3,
+    3375.6,
+    3471
    ],
    "shopId": 37,
    "stock": [
@@ -7925,13 +6297,13 @@
   {
    "layer": "shops",
    "name": "K-Forge Melee",
-   "px": 6125.2,
-   "py": 6061.9,
+   "px": 3211.9,
+   "py": 3275.2,
    "box": [
-    6114.6,
-    6051.3,
-    6135.9,
-    6072.6
+    3166,
+    3229.3,
+    3257.8,
+    3321.1
    ],
    "shopId": 38,
    "stock": [
@@ -7988,13 +6360,13 @@
   {
    "layer": "shops",
    "name": "K-Forge Range",
-   "px": 6138,
-   "py": 6053.8,
+   "px": 3267,
+   "py": 3240,
    "box": [
-    6127.4,
-    6043.2,
-    6148.6,
-    6064.4
+    3221.1,
+    3194.1,
+    3312.9,
+    3285.9
    ],
    "shopId": 39,
    "stock": [
@@ -8051,13 +6423,13 @@
   {
    "layer": "shops",
    "name": "Trendor Engineering",
-   "px": 6128.8,
-   "py": 5955.4,
+   "px": 3227.2,
+   "py": 2814.8,
    "box": [
-    6111.1,
-    5937.7,
-    6146.5,
-    5973.1
+    3150.7,
+    2738.3,
+    3303.7,
+    2891.3
    ],
    "shopId": 40,
    "stock": [
@@ -8142,13 +6514,13 @@
   {
    "layer": "shops",
    "name": "Trendor Chemlab",
-   "px": 6319.4,
-   "py": 6738.2,
+   "px": 4050.9,
+   "py": 6196.9,
    "box": [
-    6307.6,
-    6620.3,
-    6331.3,
-    6856.1
+    3999.7,
+    5687.5,
+    4102.2,
+    6706.3
    ],
    "shopId": 41,
    "stock": [
@@ -8273,13 +6645,13 @@
   {
    "layer": "shops",
    "name": "Trendor Smith Armor",
-   "px": 6436.4,
-   "py": 5864,
+   "px": 4556.5,
+   "py": 2420.1,
    "box": [
-    6429.4,
-    5856.9,
-    6443.5,
-    5871.1
+    4525.9,
+    2389.5,
+    4587.1,
+    2450.7
    ],
    "shopId": 42,
    "stock": [
@@ -8360,13 +6732,13 @@
   {
    "layer": "shops",
    "name": "Trendor Smith Forgery",
-   "px": 6418.4,
-   "py": 5865.1,
+   "px": 4478.5,
+   "py": 2424.7,
    "box": [
-    6411.3,
-    5858,
-    6425.5,
-    5872.2
+    4447.9,
+    2394.1,
+    4509.1,
+    2455.3
    ],
    "shopId": 43,
    "stock": [
@@ -8447,13 +6819,13 @@
   {
    "layer": "shops",
    "name": "Trendor Armor NEW",
-   "px": 6089.5,
-   "py": 6041.6,
+   "px": 3057.4,
+   "py": 3187.3,
    "box": [
-    6070.4,
-    6030.1,
-    6108.6,
-    6053.1
+    2974.8,
+    3137.5,
+    3140,
+    3237
    ],
    "shopId": 63,
    "stock": [
@@ -8622,534 +6994,316 @@
   {
    "layer": "safezones",
    "name": "Trendor City",
-   "px": 6524.4,
-   "py": 6240,
+   "px": 4936.6,
+   "py": 4044.6,
    "box": [
-    5942.9,
-    5811.6,
-    7105.9,
-    6668.4
+    2424.1,
+    2193.7,
+    7449.1,
+    5895.6
    ],
    "kind": "safe zone (respawn point)"
   },
   {
    "layer": "safezones",
    "name": "Trendor Sewer",
-   "px": 6820.6,
-   "py": 5384.8,
+   "px": 6216.2,
+   "py": 349.7,
    "box": [
-    6306.9,
-    4818.5,
-    7334.3,
-    5951.1
+    3996.6,
+    -2097.1,
+    8435.8,
+    2796.4
    ],
    "kind": "safe zone (respawn point)"
   },
   {
    "layer": "safezones",
    "name": "Trendor City2",
-   "px": 5728,
-   "py": 6672.8,
+   "px": 1495.6,
+   "py": 5914.7,
    "box": [
-    5414.3,
-    6365.4,
-    6041.7,
-    6980.3
+    140.3,
+    4586.2,
+    2850.9,
+    7243.2
    ],
    "kind": "safe zone (respawn point)"
   },
   {
    "layer": "safezones",
    "name": "Trendor City3",
-   "px": 6333.4,
-   "py": 5613.4,
+   "px": 4111.4,
+   "py": 1337.1,
    "box": [
-    6193.6,
-    5280.6,
-    6473.3,
-    5946.2
+    3507.1,
+    -100.8,
+    4715.6,
+    2775
    ],
    "kind": "safe zone (respawn point)"
   },
   {
    "layer": "safezones",
    "name": "UGCCityNONPK1",
-   "px": 6524.4,
-   "py": 6240,
+   "px": 4936.6,
+   "py": 4044.6,
    "box": [
-    5942.9,
-    5811.6,
-    7105.9,
-    6668.4
+    2424.1,
+    2193.7,
+    7449.1,
+    5895.6
    ],
    "kind": "monsters don't attack here"
   },
   {
    "layer": "safezones",
    "name": "UGCCitySewerNonPK",
-   "px": 6820.6,
-   "py": 5384.8,
+   "px": 6216.2,
+   "py": 349.7,
    "box": [
-    6306.9,
-    4818.5,
-    7334.3,
-    5951.1
+    3996.6,
+    -2097.1,
+    8435.8,
+    2796.4
    ],
    "kind": "monsters don't attack here"
   },
   {
    "layer": "safezones",
    "name": "UGCCityNONPK2",
-   "px": 5728,
-   "py": 6672.8,
+   "px": 1495.6,
+   "py": 5914.7,
    "box": [
-    5414.3,
-    6365.4,
-    6041.7,
-    6980.3
+    140.3,
+    4586.2,
+    2850.9,
+    7243.2
    ],
    "kind": "monsters don't attack here"
   },
   {
    "layer": "safezones",
    "name": "UGCCityNONPK3",
-   "px": 6333.4,
-   "py": 5613.4,
+   "px": 4111.4,
+   "py": 1337.1,
    "box": [
-    6193.6,
-    5280.6,
-    6473.3,
-    5946.2
+    3507.1,
+    -100.8,
+    4715.6,
+    2775
    ],
    "kind": "monsters don't attack here"
   },
   {
    "layer": "players",
    "name": "Player spawn 2",
-   "px": 6163.9,
-   "py": 6416.5,
+   "px": 3378.9,
+   "py": 4807,
    "detail": "Object 231 (L01Ports_FROML02_01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6385.3,
-   "py": 5875.3,
-   "radiusPx": 7.1,
+   "px": 4335.5,
+   "py": 2469,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 69 (EXTPORTALOUT03a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6378.5,
-   "py": 5882.2,
-   "radiusPx": 7.1,
+   "px": 4306.2,
+   "py": 2498.6,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 70 (EXTPORTALOUT04a.ARW)"
   },
   {
    "layer": "triggers",
-   "name": "Soundtrack 26",
-   "px": 7222.4,
-   "py": 4944.3,
-   "radiusPx": 177,
-   "detail": "Action 6: play soundtrack, argument 26\nRadius: 500\nObject 198 (powerpiece01a.ARW)"
-  },
-  {
-   "layer": "triggers",
    "name": "external portal",
-   "px": 6183.2,
-   "py": 6345.8,
-   "radiusPx": 7.1,
+   "px": 3462.4,
+   "py": 4501.6,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 229 (L01Ports_FROML00_01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6163.9,
-   "py": 6345.9,
-   "radiusPx": 7.1,
+   "px": 3378.9,
+   "py": 4501.9,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 230 (L01Ports_FROML00_02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6208.7,
-   "py": 6371.4,
-   "radiusPx": 7.1,
+   "px": 3572.7,
+   "py": 4612.3,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 233 (L01Ports_TOL00_01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6208.9,
-   "py": 6390.7,
-   "radiusPx": 7.1,
+   "px": 3573.2,
+   "py": 4695.8,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 234 (L01Ports_TOL00_02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6583.4,
-   "py": 6124.8,
-   "radiusPx": 7.1,
+   "px": 5191.5,
+   "py": 3546.6,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 236 (L00Ports_FROML01_01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6602.7,
-   "py": 6124.8,
-   "radiusPx": 7.1,
+   "px": 5274.8,
+   "py": 3546.7,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 237 (L00Ports_FROML01_02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6557.8,
-   "py": 6079.9,
-   "radiusPx": 7.1,
+   "px": 5080.8,
+   "py": 3352.9,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 240 (L00Ports_TOL01_01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6557.9,
-   "py": 6099.2,
-   "radiusPx": 7.1,
+   "px": 5081.1,
+   "py": 3436.3,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 241 (L00Ports_TOL01_02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6369.3,
-   "py": 6223.9,
-   "radiusPx": 7.1,
+   "px": 4266.3,
+   "py": 3975,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 244 (L02_PortTrigger03a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6342.6,
-   "py": 6178,
-   "radiusPx": 7.1,
+   "px": 4151,
+   "py": 3776.5,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 2\nRadius: 20\nObject 246 (L02_PortTrigger02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 33",
-   "px": 6369.4,
-   "py": 5855.4,
-   "radiusPx": 70.8,
+   "px": 4266.9,
+   "py": 2382.7,
+   "radiusPx": 305.9,
    "detail": "Action 6: play soundtrack, argument 33\nRadius: 200\nObject 308 (L01_MainEntg.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6360.3,
-   "py": 5882.2,
-   "radiusPx": 7.1,
+   "px": 4227.6,
+   "py": 2498.6,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 310 (EXTPORTALOUT01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6353.5,
-   "py": 5875.3,
-   "radiusPx": 7.1,
+   "px": 4198.1,
+   "py": 2469,
+   "radiusPx": 30.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 311 (EXTPORTALOUT02a.ARW)"
   },
   {
    "layer": "triggers",
-   "name": "Soundtrack 13",
-   "px": 6379.3,
-   "py": 5940.6,
-   "radiusPx": 70.8,
-   "detail": "Action 6: play soundtrack, argument 13\nRadius: 200\nObject 1172 (PORTAL_INa.ARW)"
-  },
-  {
-   "layer": "triggers",
    "name": "external portal",
-   "px": 6364,
-   "py": 5940.6,
-   "radiusPx": 3.5,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 10\nObject 1175 (PORTAL_OUTa.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 6365.5,
-   "py": 6086.5,
-   "radiusPx": 3.5,
+   "px": 4250.1,
+   "py": 3381.1,
+   "radiusPx": 15.3,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 10\nObject 1178 (SEWPORTINa.ARW)"
   },
   {
    "layer": "triggers",
-   "name": "external portal",
-   "px": 6306.8,
-   "py": 5348.9,
-   "radiusPx": 7.1,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1334 (Bar01PortalPada.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 6432,
-   "py": 5348.9,
-   "radiusPx": 7.1,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1338 (Bar02PortalPad02a.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 6460.8,
-   "py": 5320.2,
-   "radiusPx": 7.1,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1363 (SUBLEV01PortPad02a.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 6403.2,
-   "py": 5320.2,
-   "radiusPx": 7.1,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1365 (SUBLEV01PortPad04a.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 6306.8,
-   "py": 5348.9,
-   "radiusPx": 7.1,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1367 (SUBLEV01PortPad06a.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 6306.8,
-   "py": 5291.4,
-   "radiusPx": 7.1,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1369 (SUBLEV01PortPad08a.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 6524.2,
-   "py": 5341.2,
-   "radiusPx": 7.1,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1497 (PORTALTRIGSEWER_OUTa.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "Soundtrack 52",
-   "px": 6369.5,
-   "py": 5320,
-   "radiusPx": 26.6,
-   "detail": "Action 6: play soundtrack, argument 52\nRadius: 75\nObject 1600 (musictrigger03a.ARW)"
-  },
-  {
-   "layer": "triggers",
    "name": "Soundtrack 53",
-   "px": 6368.7,
-   "py": 5630.4,
-   "radiusPx": 26.6,
+   "px": 4263.8,
+   "py": 1410.7,
+   "radiusPx": 114.7,
    "detail": "Action 6: play soundtrack, argument 53\nRadius: 75\nObject 1601 (musictrigger04a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 13",
-   "px": 5904.5,
-   "py": 6484.2,
-   "radiusPx": 35.4,
+   "px": 2258.2,
+   "py": 5099.4,
+   "radiusPx": 153,
    "detail": "Action 6: play soundtrack, argument 13\nRadius: 100\nObject 1604 (CONDEMCAVE_MUSICTRIGa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 7127,
-   "py": 6272.5,
-   "radiusPx": 10.6,
+   "px": 7540.1,
+   "py": 4184.8,
+   "radiusPx": 45.9,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1613 (Portala.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6966,
-   "py": 6351.7,
-   "radiusPx": 10.6,
+   "px": 6844.4,
+   "py": 4527.2,
+   "radiusPx": 45.9,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1626 (Portala.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 6971.4,
-   "py": 6149,
-   "radiusPx": 10.6,
+   "px": 6867.9,
+   "py": 3651.2,
+   "radiusPx": 45.9,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1641 (PORTTRIG_FEMALEENTa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 7008.9,
-   "py": 6339.8,
-   "radiusPx": 10.6,
+   "px": 7029.9,
+   "py": 4475.7,
+   "radiusPx": 45.9,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 1642 (PORTTRIG_MALEENTa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 0",
-   "px": 6367.6,
-   "py": 6265.7,
-   "radiusPx": 478,
+   "px": 4259,
+   "py": 4155.6,
+   "radiusPx": 2065.1,
    "detail": "Action 6: play soundtrack, argument 0\nRadius: 1350\nObject 3484 (Light001.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 29",
-   "px": 5737,
-   "py": 6725.2,
-   "radiusPx": 212.4,
+   "px": 1534.7,
+   "py": 6140.9,
+   "radiusPx": 917.8,
    "detail": "Action 6: play soundtrack, argument 29\nRadius: 600\nObject 3488 (Light001.ARW)"
   },
   {
    "layer": "water",
    "name": "IIACityParkWater",
-   "px": 6368.5,
-   "py": 6262.8,
+   "px": 4263.1,
+   "py": 4143.2,
    "box": [
-    6138.4,
-    6094.7,
-    6598.7,
-    6431
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "CatacombsLava01",
-   "px": 531.7,
-   "py": 694.3,
-   "box": [
-    301.6,
-    74.8,
-    761.9,
-    1313.9
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "CatacombsWater01",
-   "px": 529.1,
-   "py": 1149.8,
-   "box": [
-    263.6,
-    1096.7,
-    794.7,
-    1202.9
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "CatacombsWater02",
-   "px": 529.1,
-   "py": 1506,
-   "box": [
-    263.6,
-    1452.9,
-    794.7,
-    1559.1
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "CatacombsWater03",
-   "px": 529.1,
-   "py": 1787.3,
-   "box": [
-    511.4,
-    1610.3,
-    546.8,
-    1964.3
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "CatacombsWater04",
-   "px": 529.1,
-   "py": 2372.8,
-   "box": [
-    381.7,
-    1958.2,
-    676.5,
-    2787.3
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "SewerWater01",
-   "px": 6381.1,
-   "py": 5484.8,
-   "box": [
-    6311.1,
-    5267.4,
-    6451.1,
-    5702.3
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "SewerWater02",
-   "px": 6704.6,
-   "py": 5325.4,
-   "box": [
-    6442,
-    5199.5,
-    6967.2,
-    5451.3
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "SewerWater03",
-   "px": 7478,
-   "py": 4998.3,
-   "box": [
-    6909.5,
-    4790,
-    8046.4,
-    5206.6
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "SewerWater04",
-   "px": 7710.9,
-   "py": 5343.6,
-   "box": [
-    7375.4,
-    5135.3,
-    8046.4,
-    5551.9
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Water",
-   "px": 7450,
-   "py": 5137.2,
-   "box": [
-    7401,
-    4409.6,
-    7499,
-    5864.7
+    3268.8,
+    3416.6,
+    5257.4,
+    4869.8
    ],
    "detail": "Water zone"
   }

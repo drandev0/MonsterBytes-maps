@@ -1,0 +1,146 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Calik",
+   "px": 2319.5,
+   "py": 3711.5,
+   "npcId": 268,
+   "template": "Human Male",
+   "says": [
+    "Calik> \"What do you want, kid? So you came for advice from a veteran, huh? Well, go buy me a drink and I might have time to sit with ya...\"",
+    "Calik> \"I worked all day for months to keep you damned kids safe from the Dark Horde, and what thanks did I get?? Not so much as a large heal! Ungrateful spoiled brats.\"",
+    "Calik> \"You know what really gets to me? Ever since the frogs moved here to the valley, there has been this one that always wants to jump in and dirty the water of our fountain! We humans never go try to jump into their bathtubs. Bah, you wouldn\"t understand...\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Kildar - Historian",
+   "px": 7228.6,
+   "py": 1275.7,
+   "npcId": 305,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "You came to see me?",
+     "needs": [
+      {
+       "name": "Ancient Quest Tablet (Purple)"
+      },
+      {
+       "name": "Letter of Intent"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Yellow Gem"
+      },
+      {
+       "name": "Letter of Intent"
+      },
+      {
+       "name": "Ancient Quest Tablet (Purple)"
+      }
+     ]
+    },
+    {
+     "title": "Key to the chests of the sanctuary?",
+     "needs": [
+      {
+       "name": "Letter of Intent"
+      },
+      {
+       "name": "Yellow Gem"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Fossil Key of Elders"
+      },
+      {
+       "name": "Key of Silence"
+      },
+      {
+       "name": "Old Bone Key"
+      },
+      {
+       "name": "Key of Rain Drop"
+      },
+      {
+       "name": "Water Key of Old JellyFish"
+      }
+     ],
+     "oneOf": true
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Terard",
+   "px": 7791.2,
+   "py": 2682.5,
+   "npcId": 307,
+   "template": "Human Male",
+   "says": [
+    "Terard> \"Hey... do you have a sister about my age?\"",
+    "Terard> \"Sit with me and have a drink!\"",
+    "Terard> \"Ahhh, nothing better than sitting down for some drinks with good company!\""
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Tika - Soothsayer",
+   "px": 6346.5,
+   "py": 934.9,
+   "npcId": 308,
+   "template": "Human Female",
+   "says": [
+    "Just wait, I will give you insight into the spirit world yet. My time to speak is not now."
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "[UG] Brig",
+   "px": 5258.9,
+   "py": 3127.1,
+   "npcId": 475,
+   "template": "Kziian",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Guard Ration"
+      },
+      {
+       "name": "Guard Pass 2"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Guard Pass 3"
+      },
+      {
+       "name": "Guard Ration"
+      }
+     ]
+    },
+    {
+     "title": "Guard Quest: Part 3 of 12",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

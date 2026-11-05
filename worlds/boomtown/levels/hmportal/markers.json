@@ -1,0 +1,72 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Helper Mostif",
+   "px": 4472.6,
+   "py": 1347.9,
+   "npcId": 318,
+   "template": "Kziian",
+   "quests": [
+    {
+     "title": "Hey!"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "To UOC Penninsula",
+   "px": 1607.4,
+   "py": 1848.9,
+   "npcId": 551,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 3363.7,
+      "py": 1192.7
+     },
+     "title": "Portal To UOC Penninsula - HM"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "To Four Falls",
+   "px": 1553.6,
+   "py": 4152.4,
+   "npcId": 552,
+   "routes": [
+    {
+     "to": {
+      "world": "4 Falls",
+      "slug": "4-falls",
+      "px": 3997.9,
+      "py": 4139.4
+     },
+     "title": "Portal To 4Falls - HM"
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "To Bloblic City",
+   "px": 1629.6,
+   "py": 6351.3,
+   "npcId": 873,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 1018.6,
+      "py": 6784.9
+     },
+     "title": "Portal To Bloblic City"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "General Thorsan",
+   "px": 6984.7,
+   "py": 2057.6,
+   "npcId": 723,
+   "template": "Bloblic",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Core Armor",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Vigon Shell",
+       "qty": 4
+      },
+      {
+       "name": "Clegorn Tongue",
+       "qty": 2
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Core Gauntlet Armor (Lv6)"
+      },
+      {
+       "name": "(BL) Core Chest Armor (Lv6)"
+      },
+      {
+       "name": "(BL) Core Thigh Armor (Lv6)"
+      },
+      {
+       "name": "(BL) Core Boot Armor (Lv6)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Cytomic Armor",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Vigon Shell",
+       "qty": 6
+      },
+      {
+       "name": "Clegorn Tongue",
+       "qty": 4
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Cytomic Thigh Armor (Lv7)"
+      },
+      {
+       "name": "(BL) Cytomic Boot Armor (Lv7)"
+      },
+      {
+       "name": "(BL) Cytomic Gauntlet Armor (Lv7)"
+      },
+      {
+       "name": "(BL) Cytomic Chest Armor (Lv7)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Magnix Armor",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Malia Bat Wings",
+       "qty": 10
+      },
+      {
+       "name": "Clegorn Tongue",
+       "qty": 5
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Magnix Chest Armor (Lv8)"
+      },
+      {
+       "name": "(BL) Magnix Thigh Armor (Lv8)"
+      },
+      {
+       "name": "(BL) Magnix Boot Armor (Lv8)"
+      },
+      {
+       "name": "(BL) Magnix Gauntlet Armor (Lv8)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Coalazine Armor",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Clegorn Tongue",
+       "qty": 5
+      },
+      {
+       "name": "Malia Bat Wings",
+       "qty": 15
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Coalazine Chest Armor (Lv9)"
+      },
+      {
+       "name": "(BL) Coalazine Thigh Armor (Lv9)"
+      },
+      {
+       "name": "(BL) Coalazine Boot Armor (Lv9)"
+      },
+      {
+       "name": "(BL) Coalazine Gauntlet Armor (Lv9)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Tetra Armor",
+     "race": "BL",
+     "needs": [
+      {
+       "name": "Clegorn Tongue",
+       "qty": 10
+      },
+      {
+       "name": "Malia Bat Wings",
+       "qty": 15
+      }
+     ],
+     "gives": [
+      {
+       "name": "(BL) Tetra Chest Armor (Lv10)"
+      },
+      {
+       "name": "(BL) Tetra Thigh Armor (Lv10)"
+      },
+      {
+       "name": "(BL) Tetra Boot Armor (Lv10)"
+      },
+      {
+       "name": "(BL) Tetra Gauntlet Armor (Lv10)"
+      }
+     ],
+     "oneOf": true
+    },
+    {
+     "title": "Nordic Armor",
+     "race": "BL"
+    }
+   ]
+  }
+ ]
+}

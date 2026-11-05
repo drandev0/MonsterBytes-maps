@@ -4,8 +4,8 @@
   {
    "layer": "npcs",
    "name": "Crazed Farmer Br\"ck",
-   "px": 4813,
-   "py": 3379.8,
+   "px": 4698.1,
+   "py": 3201.6,
    "npcId": 768,
    "template": "Kziian",
    "roles": [
@@ -33,8 +33,8 @@
   {
    "layer": "npcs",
    "name": "Balis",
-   "px": 5209.2,
-   "py": 3002.6,
+   "px": 5180.8,
+   "py": 2742.1,
    "npcId": 769,
    "template": "Kziian",
    "roles": [
@@ -59,8 +59,8 @@
   {
    "layer": "gather",
    "name": "Crazed Farmers Book",
-   "px": 5376.9,
-   "py": 3025.2,
+   "px": 5385,
+   "py": 2769.6,
    "holds": [
     {
      "name": "Crazed Farmers Book"
@@ -71,8 +71,8 @@
   {
    "layer": "npcs",
    "name": "M\"tal",
-   "px": 2015,
-   "py": 3589.6,
+   "px": 1289.6,
+   "py": 3457.2,
    "npcId": 771,
    "template": "Kziian",
    "roles": [
@@ -101,8 +101,8 @@
   {
    "layer": "npcs",
    "name": "Vreen",
-   "px": 2082.8,
-   "py": 3637,
+   "px": 1372.2,
+   "py": 3514.9,
    "npcId": 772,
    "template": "Kziian",
    "roles": [
@@ -127,8 +127,8 @@
   {
    "layer": "gather",
    "name": "Quadoty Bud",
-   "px": 2060.1,
-   "py": 3477.5,
+   "px": 1344.5,
+   "py": 3320.6,
    "holds": [
     {
      "name": "Quadoty Bud"
@@ -140,8 +140,8 @@
   {
    "layer": "gather",
    "name": "Quadoty Bud",
-   "px": 2057.4,
-   "py": 3467.7,
+   "px": 1341.2,
+   "py": 3308.6,
    "holds": [
     {
      "name": "Quadoty Bud"
@@ -153,8 +153,8 @@
   {
    "layer": "gather",
    "name": "Quadoty Bud",
-   "px": 2042.2,
-   "py": 3451.9,
+   "px": 1322.7,
+   "py": 3289.4,
    "holds": [
     {
      "name": "Quadoty Bud"
@@ -166,8 +166,8 @@
   {
    "layer": "gather",
    "name": "Quadoty Bud",
-   "px": 2037.7,
-   "py": 3458.3,
+   "px": 1317.2,
+   "py": 3297.2,
    "holds": [
     {
      "name": "Quadoty Bud"
@@ -179,8 +179,8 @@
   {
    "layer": "gather",
    "name": "Quadoty Bud",
-   "px": 2035.7,
-   "py": 3488.8,
+   "px": 1314.8,
+   "py": 3334.3,
    "holds": [
     {
      "name": "Quadoty Bud"
@@ -192,8 +192,8 @@
   {
    "layer": "gather",
    "name": "Quadoty Bud",
-   "px": 2045.4,
-   "py": 3490.4,
+   "px": 1326.6,
+   "py": 3336.3,
    "holds": [
     {
      "name": "Quadoty Bud"
@@ -205,8 +205,8 @@
   {
    "layer": "npcs",
    "name": "Gren\"k",
-   "px": 3605.5,
-   "py": 2127.2,
+   "px": 3227.2,
+   "py": 1675.6,
    "npcId": 779,
    "template": "Kziian",
    "roles": [
@@ -231,8 +231,8 @@
   {
    "layer": "gather",
    "name": "Quadune Bud",
-   "px": 3585.7,
-   "py": 2119.8,
+   "px": 3203,
+   "py": 1666.7,
    "holds": [
     {
      "name": "Quadune Bud"
@@ -244,8 +244,8 @@
   {
    "layer": "npcs",
    "name": "Pikel",
-   "px": 3595.2,
-   "py": 2083,
+   "px": 3214.6,
+   "py": 1621.8,
    "npcId": 781,
    "template": "Kziian",
    "roles": [
@@ -270,8 +270,8 @@
   {
    "layer": "npcs",
    "name": "Kazeel - Champion Trainer",
-   "px": 2510.9,
-   "py": 5041.6,
+   "px": 1893.7,
+   "py": 5226,
    "npcId": 782,
    "template": "Kziian",
    "roles": [
@@ -480,8 +480,8 @@
   {
    "layer": "npcs",
    "name": "Bounty Hunter Tren`p",
-   "px": 4169,
-   "py": 4191.2,
+   "px": 3913.6,
+   "py": 4190,
    "npcId": 783,
    "template": "Kziian",
    "roles": [
@@ -528,145 +528,9 @@
   },
   {
    "layer": "npcs",
-   "name": "Chu Chu Kitty Rebirther",
-   "px": 3843.4,
-   "py": 4645.5,
-   "npcId": 784,
-   "template": "Misc Inventory",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "Chu Chu Kitty\"s Key Required",
-     "needs": [
-      {
-       "name": "Chu Chu Rebirther Key"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Chu Chu Kitty Rebirther"
-      }
-     ]
-    },
-    {
-     "title": "Insert Key",
-     "needs": [
-      {
-       "name": "None1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Mister Rebirther",
-   "px": 2871.6,
-   "py": 4209.7,
-   "npcId": 785,
-   "template": "Misc Inventory",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "Mr.\"s Key Required",
-     "needs": [
-      {
-       "name": "Mr Rebirther Key"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Mr Rebirther"
-      }
-     ]
-    },
-    {
-     "title": "Insert Key",
-     "needs": [
-      {
-       "name": "None1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Bedbug Rebirther",
-   "px": 3208.2,
-   "py": 4572.7,
-   "npcId": 786,
-   "template": "Misc Inventory",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "Bedbug\"s Key Required",
-     "needs": [
-      {
-       "name": "Bedbug Rebirther Key"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Bedbug Rebirther"
-      }
-     ]
-    },
-    {
-     "title": "Insert Key",
-     "needs": [
-      {
-       "name": "None1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
-   "name": "Steve Da Man Rebirther",
-   "px": 3019.5,
-   "py": 3807.2,
-   "npcId": 787,
-   "template": "Misc Inventory",
-   "roles": [
-    "quest"
-   ],
-   "quests": [
-    {
-     "title": "Steve Da Man\"s Key Required",
-     "needs": [
-      {
-       "name": "SDM Rebirther Key"
-      }
-     ],
-     "gives": [
-      {
-       "name": "Steve Da Man Rebirther"
-      }
-     ]
-    },
-    {
-     "title": "Insert Key",
-     "needs": [
-      {
-       "name": "None1"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "layer": "npcs",
    "name": "Farmer Twipit",
-   "px": 3268.9,
-   "py": 4215.5,
+   "px": 2817.1,
+   "py": 4219.7,
    "npcId": 788,
    "template": "Kziian",
    "roles": [
@@ -822,8 +686,8 @@
   {
    "layer": "npcs",
    "name": "Wopu",
-   "px": 3782.8,
-   "py": 3840.8,
+   "px": 3443.2,
+   "py": 3763.2,
    "npcId": 789,
    "template": "Kziian",
    "roles": [
@@ -851,8 +715,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:01",
-   "px": 4735.4,
-   "py": 2060,
+   "px": 4603.5,
+   "py": 1593.8,
    "holds": [
     {
      "name": "Egg Sample MKB 01"
@@ -863,8 +727,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:03",
-   "px": 6631.4,
-   "py": 4186.9,
+   "px": 6913.3,
+   "py": 4184.9,
    "holds": [
     {
      "name": "Egg Sample MKB 03"
@@ -875,8 +739,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:04",
-   "px": 5885,
-   "py": 5361.7,
+   "px": 6004,
+   "py": 5615.9,
    "holds": [
     {
      "name": "Egg Sample MKB 04"
@@ -887,8 +751,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:05",
-   "px": 4263.4,
-   "py": 5831.6,
+   "px": 4028.5,
+   "py": 6188.4,
    "holds": [
     {
      "name": "Egg Sample MKB 05"
@@ -899,8 +763,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:06",
-   "px": 2860.4,
-   "py": 5970.2,
+   "px": 2319.4,
+   "py": 6357.2,
    "holds": [
     {
      "name": "Egg Sample MKB 06"
@@ -911,8 +775,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:07",
-   "px": 1216.4,
-   "py": 4551.9,
+   "px": 316.7,
+   "py": 4629.5,
    "holds": [
     {
      "name": "Egg Sample MKB 07"
@@ -923,8 +787,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:08",
-   "px": 1296.7,
-   "py": 2930.4,
+   "px": 414.6,
+   "py": 2654.2,
    "holds": [
     {
      "name": "Egg Sample MKB 08"
@@ -935,8 +799,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:09",
-   "px": 2952.6,
-   "py": 3621.4,
+   "px": 2431.7,
+   "py": 3496,
    "holds": [
     {
      "name": "Egg Sample MKB 09"
@@ -947,8 +811,8 @@
   {
    "layer": "gather",
    "name": "Egg Sample MKB:02",
-   "px": 4603.9,
-   "py": 5077.8,
+   "px": 4443.3,
+   "py": 5270.1,
    "holds": [
     {
      "name": "Egg Sample MKB 02"
@@ -959,8 +823,8 @@
   {
    "layer": "npcs",
    "name": "Farmer Drapin",
-   "px": 3273.8,
-   "py": 4218.9,
+   "px": 2823,
+   "py": 4223.8,
    "npcId": 799,
    "template": "Kziian",
    "roles": [
@@ -1013,8 +877,8 @@
   {
    "layer": "gather",
    "name": "Quaderth Bud",
-   "px": 2092,
-   "py": 3437.8,
+   "px": 1383.4,
+   "py": 3272.3,
    "holds": [
     {
      "name": "Quaderth Bud"
@@ -1026,8 +890,8 @@
   {
    "layer": "npcs",
    "name": "Klondon",
-   "px": 3337.1,
-   "py": 5191.1,
+   "px": 2900.2,
+   "py": 5408.1,
    "npcId": 801,
    "template": "Cribuant",
    "roles": [
@@ -1066,8 +930,8 @@
   {
    "layer": "npcs",
    "name": "BuckBuck",
-   "px": 4176.1,
-   "py": 4184.8,
+   "px": 3922.2,
+   "py": 4182.3,
    "npcId": 803,
    "template": "Kziian",
    "roles": [
@@ -1279,8 +1143,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 1",
-   "px": 2057,
-   "py": 3465.5,
+   "px": 1340.8,
+   "py": 3306,
    "holds": [
     {
      "name": "BuckBuck Crate 1"
@@ -1291,8 +1155,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 2",
-   "px": 4692.7,
-   "py": 3152.8,
+   "px": 4551.6,
+   "py": 2925,
    "holds": [
     {
      "name": "BuckBuck Crate 2"
@@ -1303,8 +1167,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 3",
-   "px": 5216.4,
-   "py": 2986.2,
+   "px": 5189.6,
+   "py": 2722.1,
    "holds": [
     {
      "name": "BuckBuck Crate 3"
@@ -1315,8 +1179,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 4",
-   "px": 2948.3,
-   "py": 4357.1,
+   "px": 2426.6,
+   "py": 4392.1,
    "holds": [
     {
      "name": "BuckBuck Crate 4"
@@ -1327,8 +1191,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 5",
-   "px": 3623.5,
-   "py": 3187,
+   "px": 3249.1,
+   "py": 2966.7,
    "holds": [
     {
      "name": "BuckBuck Crate 5"
@@ -1339,8 +1203,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 6",
-   "px": 3939.3,
-   "py": 2187.7,
+   "px": 3633.7,
+   "py": 1749.4,
    "holds": [
     {
      "name": "BuckBuck Crate 6"
@@ -1351,8 +1215,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 7",
-   "px": 3557.4,
-   "py": 5759.2,
+   "px": 3168.5,
+   "py": 6100.1,
    "holds": [
     {
      "name": "BuckBuck Crate 7"
@@ -1363,8 +1227,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 8",
-   "px": 4641.3,
-   "py": 5334.1,
+   "px": 4488.9,
+   "py": 5582.3,
    "holds": [
     {
      "name": "BuckBuck Crate 8"
@@ -1375,8 +1239,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 9",
-   "px": 5968,
-   "py": 4918.8,
+   "px": 6105.1,
+   "py": 5076.5,
    "holds": [
     {
      "name": "BuckBuck Crate 9"
@@ -1386,21 +1250,9 @@
   },
   {
    "layer": "gather",
-   "name": "BuckBuck Crate 10",
-   "px": 3155.1,
-   "py": 4121.6,
-   "holds": [
-    {
-     "name": "BuckBuck Crate 10"
-    }
-   ],
-   "respawnMin": 10
-  },
-  {
-   "layer": "gather",
    "name": "BuckBuck Crate 11",
-   "px": 3268.4,
-   "py": 4184.3,
+   "px": 2816.4,
+   "py": 4181.7,
    "holds": [
     {
      "name": "BuckBuck Crate 11"
@@ -1411,8 +1263,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 12",
-   "px": 1570.1,
-   "py": 5556.9,
+   "px": 747.6,
+   "py": 5853.8,
    "holds": [
     {
      "name": "BuckBuck Crate 12"
@@ -1423,8 +1275,8 @@
   {
    "layer": "gather",
    "name": "BuckBuck Crate 13",
-   "px": 3754,
-   "py": 4373.9,
+   "px": 3408.1,
+   "py": 4412.6,
    "holds": [
     {
      "name": "BuckBuck Crate 13"
@@ -1435,8 +1287,8 @@
   {
    "layer": "npcs",
    "name": "Guard F\"vaul",
-   "px": 3750.1,
-   "py": 3383.8,
+   "px": 3403.3,
+   "py": 3206.4,
    "npcId": 817,
    "template": "Kziian",
    "says": [
@@ -1448,8 +1300,8 @@
   {
    "layer": "npcs",
    "name": "Quati\"g",
-   "px": 4816.3,
-   "py": 3414.3,
+   "px": 4702.1,
+   "py": 3243.6,
    "npcId": 818,
    "template": "Kziian",
    "roles": [
@@ -1499,8 +1351,8 @@
   {
    "layer": "npcs",
    "name": "Farmer Motz\"b",
-   "px": 3381,
-   "py": 5230.4,
+   "px": 2953.6,
+   "py": 5456,
    "npcId": 819,
    "template": "Kziian",
    "quests": [
@@ -1512,16 +1364,16 @@
   {
    "layer": "npcs",
    "name": "(Kingdom Portal) Portal to Su\"sojka",
-   "px": 3512.3,
-   "py": 3694.5,
+   "px": 3113.6,
+   "py": 3585,
    "npcId": 820,
    "template": "Portal Entity"
   },
   {
    "layer": "npcs",
    "name": "Piloting Vendor",
-   "px": 4803,
-   "py": 3816.8,
+   "px": 4685.9,
+   "py": 3734,
    "npcId": 823,
    "template": "Venderbot",
    "roles": [
@@ -1580,8 +1432,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) Course A",
-   "px": 4788.7,
-   "py": 3891,
+   "px": 4668.5,
+   "py": 3824.4,
    "npcId": 824,
    "template": "Invis noCo",
    "roles": [
@@ -1606,8 +1458,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) A01",
-   "px": 4668.4,
-   "py": 3890.3,
+   "px": 4522,
+   "py": 3823.4,
    "npcId": 825,
    "template": "Invis noCo",
    "roles": [
@@ -1632,8 +1484,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) A02",
-   "px": 4668.1,
-   "py": 4005.1,
+   "px": 4521.5,
+   "py": 3963.3,
    "npcId": 826,
    "template": "Invis noCo",
    "roles": [
@@ -1658,8 +1510,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) A03",
-   "px": 4668.1,
-   "py": 4118.7,
+   "px": 4521.5,
+   "py": 4101.7,
    "npcId": 827,
    "template": "Invis noCo",
    "roles": [
@@ -1684,8 +1536,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) A04",
-   "px": 4554.2,
-   "py": 4119.1,
+   "px": 4382.9,
+   "py": 4102.2,
    "npcId": 828,
    "template": "Invis noCo",
    "roles": [
@@ -1710,8 +1562,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) A05",
-   "px": 4553.5,
-   "py": 4232.4,
+   "px": 4382,
+   "py": 4240.3,
    "npcId": 829,
    "template": "Invis noCo",
    "roles": [
@@ -1736,8 +1588,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) A06",
-   "px": 4553.7,
-   "py": 4346.5,
+   "px": 4382.2,
+   "py": 4379.2,
    "npcId": 830,
    "template": "Invis noCo",
    "roles": [
@@ -1762,8 +1614,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) Course B",
-   "px": 4829.5,
-   "py": 3899.2,
+   "px": 4718.2,
+   "py": 3834.3,
    "npcId": 831,
    "template": "Invis noCo",
    "roles": [
@@ -1788,8 +1640,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) B01",
-   "px": 4829.6,
-   "py": 4142.2,
+   "px": 4718.3,
+   "py": 4130.3,
    "npcId": 832,
    "template": "Invis noCo",
    "roles": [
@@ -1814,8 +1666,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) B02",
-   "px": 4771.5,
-   "py": 4390.7,
+   "px": 4647.5,
+   "py": 4433,
    "npcId": 833,
    "template": "Invis noCo",
    "roles": [
@@ -1840,8 +1692,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) B03",
-   "px": 4836.3,
-   "py": 4611.7,
+   "px": 4726.4,
+   "py": 4702.3,
    "npcId": 834,
    "template": "Invis noCo",
    "roles": [
@@ -1866,8 +1718,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) B04",
-   "px": 5066.3,
-   "py": 4653.8,
+   "px": 5006.7,
+   "py": 4753.5,
    "npcId": 835,
    "template": "Invis noCo",
    "roles": [
@@ -1892,8 +1744,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) B05",
-   "px": 5189.4,
-   "py": 4465.9,
+   "px": 5156.6,
+   "py": 4524.7,
    "npcId": 836,
    "template": "Invis noCo",
    "roles": [
@@ -1918,8 +1770,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) B06",
-   "px": 5207.1,
-   "py": 4259.3,
+   "px": 5178.2,
+   "py": 4273,
    "npcId": 837,
    "template": "Invis noCo",
    "roles": [
@@ -1944,8 +1796,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) Course C",
-   "px": 4901.4,
-   "py": 3800.1,
+   "px": 4805.8,
+   "py": 3713.6,
    "npcId": 838,
    "template": "Invis noCo",
    "roles": [
@@ -1970,8 +1822,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) C01",
-   "px": 5133.3,
-   "py": 3795.1,
+   "px": 5088.3,
+   "py": 3707.5,
    "npcId": 839,
    "template": "Invis noCo",
    "roles": [
@@ -1996,8 +1848,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) C02",
-   "px": 5372.6,
-   "py": 3686,
+   "px": 5379.8,
+   "py": 3574.6,
    "npcId": 840,
    "template": "Invis noCo",
    "roles": [
@@ -2022,8 +1874,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) C03",
-   "px": 5620.1,
-   "py": 3609.3,
+   "px": 5681.3,
+   "py": 3481.2,
    "npcId": 841,
    "template": "Invis noCo",
    "roles": [
@@ -2048,8 +1900,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) C04",
-   "px": 5848.7,
-   "py": 3722.7,
+   "px": 5959.8,
+   "py": 3619.3,
    "npcId": 842,
    "template": "Invis noCo",
    "roles": [
@@ -2074,8 +1926,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) C05",
-   "px": 5852.7,
-   "py": 3946.3,
+   "px": 5964.6,
+   "py": 3891.8,
    "npcId": 843,
    "template": "Invis noCo",
    "roles": [
@@ -2100,8 +1952,8 @@
   {
    "layer": "npcs",
    "name": "(Piloting) C06",
-   "px": 5600.4,
-   "py": 4135.9,
+   "px": 5657.3,
+   "py": 4122.6,
    "npcId": 844,
    "template": "Invis noCo",
    "roles": [
@@ -2126,8 +1978,8 @@
   {
    "layer": "npcs",
    "name": "Melee Vendorbot",
-   "px": 4182.8,
-   "py": 4195.3,
+   "px": 3930.4,
+   "py": 4195.1,
    "npcId": 845,
    "template": "Venderbot",
    "roles": [
@@ -2143,8 +1995,8 @@
   {
    "layer": "npcs",
    "name": "Magic Vendorbot",
-   "px": 4182.8,
-   "py": 4178.4,
+   "px": 3930.3,
+   "py": 4174.4,
    "npcId": 846,
    "template": "Venderbot",
    "roles": [
@@ -2160,8 +2012,8 @@
   {
    "layer": "npcs",
    "name": "Engineer Vendorbot",
-   "px": 4173.5,
-   "py": 4169.1,
+   "px": 3919,
+   "py": 4163.2,
    "npcId": 847,
    "template": "Venderbot",
    "roles": [
@@ -2177,8 +2029,8 @@
   {
    "layer": "npcs",
    "name": "Secret Vendorbot",
-   "px": 4164.1,
-   "py": 4173.9,
+   "px": 3907.7,
+   "py": 4169,
    "npcId": 848,
    "template": "Venderbot",
    "roles": [
@@ -2737,8 +2589,8 @@
   {
    "layer": "npcs",
    "name": "Smith Vendorbot",
-   "px": 4177.9,
-   "py": 4169.1,
+   "px": 3924.4,
+   "py": 4163.2,
    "npcId": 849,
    "template": "Venderbot",
    "roles": [
@@ -2754,8 +2606,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 1",
-   "px": 4177.6,
-   "py": 4188.5,
+   "px": 3924.1,
+   "py": 4186.7,
    "npcId": 850,
    "template": "Invis noCo",
    "roles": [
@@ -2771,8 +2623,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 2",
-   "px": 4180.2,
-   "py": 4184.9,
+   "px": 3927.3,
+   "py": 4182.4,
    "npcId": 851,
    "template": "Invis noCo",
    "roles": [
@@ -2788,8 +2640,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 3",
-   "px": 4180.3,
-   "py": 4180.6,
+   "px": 3927.3,
+   "py": 4177.1,
    "npcId": 852,
    "template": "Invis noCo",
    "roles": [
@@ -2805,8 +2657,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 4",
-   "px": 4177.6,
-   "py": 4177,
+   "px": 3924.1,
+   "py": 4172.7,
    "npcId": 853,
    "template": "Invis noCo",
    "roles": [
@@ -2822,8 +2674,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 5",
-   "px": 4169.3,
-   "py": 4176.9,
+   "px": 3914,
+   "py": 4172.7,
    "npcId": 854,
    "template": "Invis noCo",
    "roles": [
@@ -2839,8 +2691,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 6",
-   "px": 4166.8,
-   "py": 4180.5,
+   "px": 3910.8,
+   "py": 4177,
    "npcId": 855,
    "template": "Invis noCo",
    "roles": [
@@ -2856,8 +2708,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 7",
-   "px": 4166.7,
-   "py": 4184.9,
+   "px": 3910.8,
+   "py": 4182.4,
    "npcId": 856,
    "template": "Invis noCo",
    "roles": [
@@ -2873,8 +2725,8 @@
   {
    "layer": "npcs",
    "name": "(Bank) 8",
-   "px": 4169.2,
-   "py": 4188.5,
+   "px": 3913.9,
+   "py": 4186.7,
    "npcId": 857,
    "template": "Invis noCo",
    "roles": [
@@ -2890,8 +2742,8 @@
   {
    "layer": "npcs",
    "name": "Armor Vendorbot",
-   "px": 4164.1,
-   "py": 4178.4,
+   "px": 3907.7,
+   "py": 4174.4,
    "npcId": 858,
    "template": "Venderbot",
    "roles": [
@@ -2907,8 +2759,8 @@
   {
    "layer": "npcs",
    "name": "Alchemy Vendorbot",
-   "px": 4169,
-   "py": 4169.1,
+   "px": 3913.6,
+   "py": 4163.1,
    "npcId": 859,
    "template": "Venderbot",
    "roles": [
@@ -2924,8 +2776,8 @@
   {
    "layer": "npcs",
    "name": "Adventure Vendorbot",
-   "px": 4164.2,
-   "py": 4195.4,
+   "px": 3907.7,
+   "py": 4195.1,
    "npcId": 860,
    "template": "Venderbot",
    "roles": [
@@ -2941,8 +2793,8 @@
   {
    "layer": "npcs",
    "name": "Familiar Vendorbot",
-   "px": 4182.8,
-   "py": 4173.9,
+   "px": 3930.4,
+   "py": 4169,
    "npcId": 861,
    "template": "Venderbot",
    "roles": [
@@ -2958,8 +2810,8 @@
   {
    "layer": "npcs",
    "name": "Su\"sojka Bazaar",
-   "px": 4173.5,
-   "py": 4191.1,
+   "px": 3919.1,
+   "py": 4189.9,
    "npcId": 862,
    "template": "Invis noCo",
    "says": [
@@ -2971,8 +2823,8 @@
   {
    "layer": "npcs",
    "name": "Guardian J\"ta",
-   "px": 3570.9,
-   "py": 3813.7,
+   "px": 3185,
+   "py": 3730.2,
    "npcId": 863,
    "template": "Kziian",
    "says": [
@@ -2983,8 +2835,8 @@
   {
    "layer": "npcs",
    "name": "Fortress Vendorbot",
-   "px": 2939.5,
-   "py": 3949.1,
+   "px": 2415.8,
+   "py": 3895.1,
    "npcId": 871,
    "template": "Venderbot",
    "roles": [
@@ -3000,8 +2852,8 @@
   {
    "layer": "npcs",
    "name": "(Fortress) Bank",
-   "px": 2939.5,
-   "py": 3981.1,
+   "px": 2415.8,
+   "py": 3934.1,
    "npcId": 872,
    "template": "Invis noCo",
    "roles": [
@@ -3017,8 +2869,8 @@
   {
    "layer": "npcs",
    "name": "Chatt\"r",
-   "px": 3764.9,
-   "py": 3408.7,
+   "px": 3421.3,
+   "py": 3236.8,
    "npcId": 1250,
    "template": "Kziian",
    "says": [
@@ -3030,8 +2882,8 @@
   {
    "layer": "npcs",
    "name": "Blat\"r",
-   "px": 3358.5,
-   "py": 3637.9,
+   "px": 2926.3,
+   "py": 3516.1,
    "npcId": 1251,
    "template": "Kziian",
    "says": [
@@ -3043,8 +2895,8 @@
   {
    "layer": "npcs",
    "name": "Guard Doop",
-   "px": 4125.8,
-   "py": 4160.9,
+   "px": 3860.9,
+   "py": 4153.1,
    "npcId": 1252,
    "template": "Kziian",
    "says": [
@@ -3056,8 +2908,8 @@
   {
    "layer": "npcs",
    "name": "Tick\"l",
-   "px": 3960.4,
-   "py": 3989.1,
+   "px": 3659.5,
+   "py": 3943.8,
    "npcId": 1253,
    "template": "Kziian",
    "says": [
@@ -3069,8 +2921,8 @@
   {
    "layer": "npcs",
    "name": "|Legacy| Darmbrin",
-   "px": 2944.8,
-   "py": 3983.2,
+   "px": 2422.2,
+   "py": 3936.6,
    "npcId": 1342,
    "template": "Kziian",
    "roles": [
@@ -3154,8 +3006,8 @@
   {
    "layer": "npcs",
    "name": "|Legacy| Qhef\"r",
-   "px": 5265.6,
-   "py": 4893.6,
+   "px": 5249.4,
+   "py": 5045.7,
    "npcId": 1343,
    "template": "Kziian",
    "roles": [
@@ -3213,8 +3065,8 @@
   {
    "layer": "npcs",
    "name": "|Legacy| Brill",
-   "px": 6701.3,
-   "py": 4241.2,
+   "px": 6998.4,
+   "py": 4250.9,
    "npcId": 1344,
    "template": "Kziian",
    "roles": [
@@ -3268,8 +3120,8 @@
   {
    "layer": "npcs",
    "name": "|Legacy| Fen\"mir",
-   "px": 1564,
-   "py": 5794.6,
+   "px": 740.2,
+   "py": 6143.2,
    "npcId": 1345,
    "template": "Kziian",
    "roles": [
@@ -3323,8 +3175,8 @@
   {
    "layer": "npcs",
    "name": "|Legacy| Alvin the Faithful",
-   "px": 3578.1,
-   "py": 3781.2,
+   "px": 3193.7,
+   "py": 3690.6,
    "npcId": 1347,
    "template": "Kziian",
    "roles": [
@@ -3464,8 +3316,8 @@
   {
    "layer": "npcs",
    "name": "Chest with tiny world",
-   "px": 2080.1,
-   "py": 2757.4,
+   "px": 1368.9,
+   "py": 2443.4,
    "npcId": 1348,
    "template": "Misc Inventory",
    "roles": [
@@ -3490,8 +3342,8 @@
   {
    "layer": "npcs",
    "name": "|Legacy| Theodore the Twisted",
-   "px": 3571.2,
-   "py": 3602.4,
+   "px": 3185.4,
+   "py": 3472.8,
    "npcId": 1396,
    "template": "Kziian",
    "roles": [
@@ -3631,8 +3483,8 @@
   {
    "layer": "npcs",
    "name": "Armor Vendorbot",
-   "px": 4168.8,
-   "py": 4189.1,
+   "px": 3913.3,
+   "py": 4187.5,
    "npcId": 1684,
    "template": "Venderbot",
    "roles": [
@@ -3648,16 +3500,16 @@
   {
    "layer": "portals",
    "name": "To 4Falls",
-   "px": 3707.9,
-   "py": 3378.3,
+   "px": 3351.9,
+   "py": 3199.8,
    "npcId": 751,
    "routes": [
     {
      "to": {
       "world": "4 Falls",
       "slug": "4-falls",
-      "px": 3221.1,
-      "py": 3334.1
+      "px": 3997.9,
+      "py": 4139.4
      },
      "title": "Blink!"
     }
@@ -3665,14 +3517,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 3342.8,
-   "py": 5127.2,
+   "name": "Teleporter",
+   "px": 2907.1,
+   "py": 5330.3,
    "npcId": 802,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 5187.4,
+      "py": 4994.5
      },
      "title": "Blink!"
     }
@@ -3681,16 +3536,16 @@
   {
    "layer": "portals",
    "name": "To SouthEast Barracks",
-   "px": 3567.2,
-   "py": 3450.4,
+   "px": 3180.5,
+   "py": 3287.5,
    "npcId": 864,
    "routes": [
     {
      "to": {
       "world": "Air Kingdom",
       "slug": "air-kingdom",
-      "px": 4994.1,
-      "py": 5327.1
+      "px": 4918.7,
+      "py": 5573.8
      },
      "title": "Blink!"
     }
@@ -3699,16 +3554,16 @@
   {
    "layer": "portals",
    "name": "To 3Peaks Island",
-   "px": 3592.8,
-   "py": 2113.5,
+   "px": 3211.6,
+   "py": 1659,
    "npcId": 865,
    "routes": [
     {
      "to": {
       "world": "Air Kingdom",
       "slug": "air-kingdom",
-      "px": 2589.1,
-      "py": 5044
+      "px": 1989,
+      "py": 5228.9
      },
      "title": "Blink!"
     }
@@ -3717,13 +3572,16 @@
   {
    "layer": "portals",
    "name": "Fortress In",
-   "px": 2822.3,
-   "py": 4191,
+   "px": 2273.1,
+   "py": 4189.8,
    "npcId": 869,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 2461.3,
+      "py": 3914.6
      },
      "title": "Blink!"
     }
@@ -3732,13 +3590,16 @@
   {
    "layer": "portals",
    "name": "Fortress Out",
-   "px": 2976.4,
-   "py": 3965.2,
+   "px": 2460.7,
+   "py": 3914.7,
    "npcId": 870,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 2319.4,
+      "py": 4164.1
      },
      "title": "Blink!"
     }
@@ -3747,13 +3608,16 @@
   {
    "layer": "portals",
    "name": "To NW Tower",
-   "px": 2844.7,
-   "py": 4153.4,
+   "px": 2300.3,
+   "py": 4144,
    "npcId": 896,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 2639.3,
+      "py": 2781.5
      },
      "title": "Blink!"
     }
@@ -3762,13 +3626,16 @@
   {
    "layer": "portals",
    "name": "To NE Tower",
-   "px": 2861.2,
-   "py": 4148.8,
+   "px": 2320.5,
+   "py": 4138.4,
    "npcId": 897,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 3996,
+      "py": 2777.4
      },
      "title": "Blink!"
     }
@@ -3777,13 +3644,16 @@
   {
    "layer": "portals",
    "name": "To SW Tower",
-   "px": 2855.3,
-   "py": 4179.1,
+   "px": 2313.3,
+   "py": 4175.3,
    "npcId": 898,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 2613.9,
+      "py": 4872.6
      },
      "title": "Blink!"
     }
@@ -3792,13 +3662,16 @@
   {
    "layer": "portals",
    "name": "To SE Tower",
-   "px": 2871.5,
-   "py": 4179.9,
+   "px": 2332.9,
+   "py": 4176.3,
    "npcId": 899,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 3971.2,
+      "py": 4494.5
      },
      "title": "Blink!"
     }
@@ -3807,13 +3680,16 @@
   {
    "layer": "portals",
    "name": "To Main Tower",
-   "px": 2911.6,
-   "py": 4152.9,
+   "px": 2381.8,
+   "py": 4143.3,
    "npcId": 900,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 3212.3,
+      "py": 3699.2
      },
      "title": "Blink!"
     }
@@ -3822,23 +3698,40 @@
   {
    "layer": "portals",
    "name": "AesirHelper",
-   "px": 3559,
-   "py": 4036.8,
+   "px": 3170.5,
+   "py": 4001.9,
    "npcId": 1393,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 4895,
+      "py": 3525.6
      },
      "title": "Portal to BT"
+    },
+    {
+     "to": {
+      "world": "Air Kingdom",
+      "slug": "air-kingdom",
+      "px": 2288,
+      "py": 3627.1
+     },
+     "title": "Portal to Kance",
+     "needs": [
+      {
+       "name": "GM Key"
+      }
+     ]
     }
    ]
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 3108,
-   "py": 4744,
+   "name": "Teleporter",
+   "px": 2621,
+   "py": 4863.4,
    "npcId": 1530,
    "routes": [
     {
@@ -3855,16 +3748,16 @@
   {
    "layer": "portals",
    "name": "Traveler",
-   "px": 3557.9,
-   "py": 3768.2,
+   "px": 3169.1,
+   "py": 3674.8,
    "npcId": 1643,
    "routes": [
     {
      "to": {
       "world": "4 Falls",
       "slug": "4-falls",
-      "px": 3294.6,
-      "py": 3241.7
+      "px": 4090,
+      "py": 4023.7
      },
      "title": "Back to 4 Falls"
     }
@@ -3873,213 +3766,157 @@
   {
    "layer": "safezones",
    "name": "Air Kingdom Hurtzone",
-   "px": 3551.8,
-   "py": 3760,
+   "px": 3161.7,
+   "py": 3664.8,
    "box": [
-    -78.5,
-    129.8,
-    7182,
-    7390.2
+    -1260.7,
+    -757.6,
+    7584,
+    8087.1
    ],
    "kind": "monsters don't attack here"
   },
   {
    "layer": "entities",
    "name": "Landrazorcappa",
-   "px": 3639.9,
-   "py": 3803.5,
+   "px": 3269,
+   "py": 3717.7,
    "detail": "Entity template 5\nControl type 0"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 57",
-   "px": 4173.5,
-   "py": 4186.6,
-   "radiusPx": 103.7,
+   "px": 3919,
+   "py": 4184.5,
+   "radiusPx": 126.4,
    "detail": "Action 6: play soundtrack, argument 57\nRadius: 1000\nObject 45 (BazaarZone_Interior_Illuma.ARW)"
   },
   {
    "layer": "triggers",
-   "name": "Soundtrack 46",
-   "px": 3849.2,
-   "py": 4632.8,
-   "radiusPx": 72.6,
-   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 74 (MainSE_Cave02b.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "Soundtrack 46",
-   "px": 3952.8,
-   "py": 4260.4,
-   "radiusPx": 72.6,
-   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 84 (MainSE_Cave06a.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "Soundtrack 46",
-   "px": 3936.4,
-   "py": 4544.5,
-   "radiusPx": 72.6,
-   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 207 (MainSE_CaveHall05a.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "Soundtrack 46",
-   "px": 3751.6,
-   "py": 4237.6,
-   "radiusPx": 72.6,
-   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 210 (MainSE_CaveHall01b.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "Soundtrack 46",
-   "px": 4056.3,
-   "py": 3480.2,
-   "radiusPx": 72.6,
-   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 215 (Embassy_Cavea.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "Soundtrack 46",
-   "px": 4056.9,
-   "py": 3481.1,
-   "radiusPx": 72.6,
-   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 216 (Embassy_Caveb.ARW)"
-  },
-  {
-   "layer": "triggers",
    "name": "Soundtrack 55",
-   "px": 3801.1,
-   "py": 3401.5,
-   "radiusPx": 311.2,
+   "px": 3465.4,
+   "py": 3228,
+   "radiusPx": 379.1,
    "detail": "Action 6: play soundtrack, argument 55\nRadius: 3000\nObject 221 (Embassy_MainRocka.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 46",
-   "px": 3127.4,
-   "py": 3913.2,
-   "radiusPx": 72.6,
-   "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 236 (3Peaks_Cavea.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "Soundtrack 46",
-   "px": 4793.6,
-   "py": 3391.6,
-   "radiusPx": 51.9,
+   "px": 4674.4,
+   "py": 3216,
+   "radiusPx": 63.2,
    "detail": "Action 6: play soundtrack, argument 46\nRadius: 500\nObject 288 (FarmA_Waterplaina.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 46",
-   "px": 5295.1,
-   "py": 3022.9,
-   "radiusPx": 72.6,
+   "px": 5285.4,
+   "py": 2766.8,
+   "radiusPx": 88.4,
    "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 324 (FarmB_Cavea.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 55",
-   "px": 4823.3,
-   "py": 3826.8,
-   "radiusPx": 103.7,
+   "px": 4710.7,
+   "py": 3746.1,
+   "radiusPx": 126.4,
    "detail": "Action 6: play soundtrack, argument 55\nRadius: 1000\nObject 5365 (SafeZoneC_Grassa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 56",
-   "px": 3106,
-   "py": 4746.2,
-   "radiusPx": 51.9,
+   "px": 2618.7,
+   "py": 4866.2,
+   "radiusPx": 63.2,
    "detail": "Action 6: play soundtrack, argument 56\nRadius: 500\nObject 5388 (2ndTower_3Peaksa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 56",
-   "px": 3127.2,
-   "py": 3039.8,
-   "radiusPx": 51.9,
+   "px": 2644.4,
+   "py": 2787.4,
+   "radiusPx": 63.2,
    "detail": "Action 6: play soundtrack, argument 56\nRadius: 500\nObject 5391 (2ndTower_NWa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 56",
-   "px": 4211.3,
-   "py": 4437.4,
-   "radiusPx": 51.9,
+   "px": 3965.1,
+   "py": 4489.9,
+   "radiusPx": 63.2,
    "detail": "Action 6: play soundtrack, argument 56\nRadius: 500\nObject 5394 (2ndTower_Commercea.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 56",
-   "px": 4232.3,
-   "py": 3036.6,
-   "radiusPx": 103.7,
+   "px": 3990.7,
+   "py": 2783.5,
+   "radiusPx": 126.4,
    "detail": "Action 6: play soundtrack, argument 56\nRadius: 1000\nObject 5397 (2ndTower_Embassya.ARW)"
   },
   {
    "layer": "water",
    "name": "Farm A",
-   "px": 4793.6,
-   "py": 3391.6,
+   "px": 4674.4,
+   "py": 3216,
    "box": [
-    4765.2,
-    3362.7,
-    4821.9,
-    3420.5
+    4639.9,
+    3180.8,
+    4709,
+    3251.2
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Farm B",
-   "px": 5369.5,
-   "py": 3061.1,
+   "px": 5376,
+   "py": 2813.4,
    "box": [
-    5349.4,
-    3040.7,
-    5389.5,
-    3081.5
+    5351.6,
+    2788.5,
+    5400.4,
+    2838.3
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Farm D",
-   "px": 3346.1,
-   "py": 5236.3,
+   "px": 2911.1,
+   "py": 5463.2,
    "box": [
-    3326.5,
-    5216.3,
-    3365.7,
-    5256.3
+    2887.2,
+    5438.8,
+    2935,
+    5487.6
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Fortress",
-   "px": 2959.3,
-   "py": 3965.2,
+   "px": 2439.9,
+   "py": 3914.7,
    "box": [
-    2957.3,
-    3963,
-    2961.3,
-    3967.3
+    2437.5,
+    3912.1,
+    2442.4,
+    3917.2
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Under Map",
-   "px": 3551.8,
-   "py": 3760,
+   "px": 3161.7,
+   "py": 3664.8,
    "box": [
-    -78.5,
-    129.8,
-    7182,
-    7390.2
+    -1260.7,
+    -757.6,
+    7584,
+    8087.1
    ],
    "detail": "Water zone"
   }

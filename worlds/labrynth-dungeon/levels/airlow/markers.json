@@ -1,0 +1,20 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Nedon",
+   "px": 3816.1,
+   "py": 4787.3,
+   "radiusPx": 881.2,
+   "mobs": [
+    {
+     "id": 752,
+     "name": "Nedon",
+     "level": null
+    }
+   ],
+   "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
+  }
+ ]
+}

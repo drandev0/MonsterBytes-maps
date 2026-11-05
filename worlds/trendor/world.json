@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "trendor",
   "title": "Trendor",
   "places": [
@@ -11,38 +11,38 @@
   "source": {
     "world": "UGC_REV04.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 2.824467182159424,
+    "unitsPerPixel": 0.6537267565727234,
     "origin": {
-      "x": -17995.509765625,
-      "z": 16564.740234375
+      "x": -2794.707763671875,
+      "z": 1584.0950927734375
     }
   },
   "width": 8192,
-  "height": 7173,
+  "height": 7549,
   "tileSize": 256,
   "maxZoom": 5,
-  "background": "#190204",
+  "background": "#190000",
   "layers": [
     {
       "id": "mobs",
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 201
+      "count": 142
     },
     {
       "id": "npcs",
       "title": "NPCs",
       "color": "#ec407a",
       "shown": true,
-      "count": 51
+      "count": 34
     },
     {
       "id": "portals",
       "title": "Teleporters",
       "color": "#26a69a",
       "shown": true,
-      "count": 17
+      "count": 10
     },
     {
       "id": "shops",
@@ -70,27 +70,167 @@
       "title": "Music and triggers",
       "color": "#fdd835",
       "shown": false,
-      "count": 35
+      "count": 24
     },
     {
       "id": "water",
       "title": "Water",
       "color": "#00bcd4",
       "shown": false,
-      "count": 11
+      "count": 1
     }
   ],
   "note": "Its interiors are in the same map, away from the main area.",
   "labels": [
     {
       "name": "Trendor City",
-      "px": 6524.4,
-      "py": 6240
+      "px": 4936.6,
+      "py": 4044.6
     },
     {
       "name": "Trendor Sewers",
-      "px": 6820.6,
-      "py": 5384.8
+      "px": 6216.2,
+      "py": 349.7
+    }
+  ],
+  "levels": [
+    {
+      "id": "mainroom",
+      "name": "Main room",
+      "width": 8192,
+      "height": 4193,
+      "maxZoom": 5,
+      "background": "#190000",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 21
+        },
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 1
+        },
+        {
+          "id": "water",
+          "title": "Water",
+          "color": "#00bcd4",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.46268656849861145,
+        "origin": {
+          "x": 429.016357421875,
+          "z": 3048.603759765625
+        }
+      }
+    },
+    {
+      "id": "sewers",
+      "name": "Sewers",
+      "width": 8192,
+      "height": 7359,
+      "maxZoom": 5,
+      "background": "#190000",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 30
+        },
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 1
+        },
+        {
+          "id": "portals",
+          "title": "Teleporters",
+          "color": "#26a69a",
+          "shown": true,
+          "count": 1
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 3
+        },
+        {
+          "id": "water",
+          "title": "Water",
+          "color": "#00bcd4",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.6114235073328018,
+        "origin": {
+          "x": -214.8956298828125,
+          "z": 4178.06689453125
+        }
+      }
+    },
+    {
+      "id": "sublevel",
+      "name": "Sub-level",
+      "width": 8192,
+      "height": 3795,
+      "maxZoom": 5,
+      "background": "#190000",
+      "layers": [
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 15
+        },
+        {
+          "id": "portals",
+          "title": "Teleporters",
+          "color": "#26a69a",
+          "shown": true,
+          "count": 6
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 7
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.08041014894843102,
+        "origin": {
+          "x": -374.6049499511719,
+          "z": 1650.757080078125
+        }
+      }
     }
   ]
 }

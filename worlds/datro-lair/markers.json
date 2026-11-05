@@ -3,741 +3,10 @@
  "markers": [
   {
    "layer": "mobs",
-   "name": "Rigprion",
-   "px": 1629.6,
-   "py": 4938.4,
-   "mobs": [
-    {
-     "id": 79,
-     "name": "Rigprion",
-     "level": 13
-    }
-   ],
-   "spawner": "RIGPRION 26 DIM 2 CATACOMBS HALL2",
-   "capacity": 3,
-   "detail": "Spawner: RIGPRION 26 DIM 2 CATACOMBS HALL2\nAI config: 79\nUp to 3 at once, 250/1000 chance a round\nAI web 27, node 8"
-  },
-  {
-   "layer": "mobs",
-   "name": "Clidion",
-   "px": 817.7,
-   "py": 5171.2,
-   "mobs": [
-    {
-     "id": 78,
-     "name": "Clidion",
-     "level": 11
-    }
-   ],
-   "spawner": "CLIDION 26 DIM 2 MIDROOMCATACOMBS",
-   "capacity": 3,
-   "detail": "Spawner: CLIDION 26 DIM 2 MIDROOMCATACOMBS\nAI config: 78\nUp to 3 at once, 250/1000 chance a round\nAI web 29, node 0"
-  },
-  {
-   "layer": "mobs",
-   "name": "Farion",
-   "px": 817.7,
-   "py": 2723.2,
-   "mobs": [
-    {
-     "id": 60,
-     "name": "Farion",
-     "level": 13
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Farion",
-   "px": 1199.6,
-   "py": 2718.6,
-   "mobs": [
-    {
-     "id": 60,
-     "name": "Farion",
-     "level": 13
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Farion",
-   "px": 960.6,
-   "py": 2867.8,
-   "mobs": [
-    {
-     "id": 60,
-     "name": "Farion",
-     "level": 13
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Farion",
-   "px": 817,
-   "py": 2511.1,
-   "mobs": [
-    {
-     "id": 60,
-     "name": "Farion",
-     "level": 13
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Farion",
-   "px": 960.5,
-   "py": 2723.7,
-   "mobs": [
-    {
-     "id": 60,
-     "name": "Farion",
-     "level": 13
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Farion",
-   "px": 1122.2,
-   "py": 2572.6,
-   "mobs": [
-    {
-     "id": 60,
-     "name": "Farion",
-     "level": 13
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 24 (MAINCHAMBERCATACOMBS):\nFarion (LV13) (Spawner: FARION 20 DIM 3 MAINHALLCATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Agron",
-   "px": 901.8,
-   "py": 4354.9,
-   "mobs": [
-    {
-     "id": 59,
-     "name": "Agron",
-     "level": 12
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Agron",
-   "px": 1037,
-   "py": 4335.7,
-   "mobs": [
-    {
-     "id": 59,
-     "name": "Agron",
-     "level": 12
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Agron",
-   "px": 960.6,
-   "py": 4494.7,
-   "mobs": [
-    {
-     "id": 59,
-     "name": "Agron",
-     "level": 12
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Agron",
-   "px": 995.3,
-   "py": 3014,
-   "mobs": [
-    {
-     "id": 59,
-     "name": "Agron",
-     "level": 12
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Agron",
-   "px": 987.1,
-   "py": 3853.6,
-   "mobs": [
-    {
-     "id": 59,
-     "name": "Agron",
-     "level": 12
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Agron",
-   "px": 981.2,
-   "py": 3429.4,
-   "mobs": [
-    {
-     "id": 59,
-     "name": "Agron",
-     "level": 12
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 25 (MAINHALLCATACOMBS):\nAgron (LV12) (Spawner: AGRON 20 DIM 2 MAIN HALL CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lauder",
-   "px": 926.2,
-   "py": 4364.6,
-   "mobs": [
-    {
-     "id": 58,
-     "name": "Lauder",
-     "level": 11
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lauder",
-   "px": 1061.4,
-   "py": 4345.5,
-   "mobs": [
-    {
-     "id": 58,
-     "name": "Lauder",
-     "level": 11
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lauder",
-   "px": 985,
-   "py": 4504.5,
-   "mobs": [
-    {
-     "id": 58,
-     "name": "Lauder",
-     "level": 11
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lauder",
-   "px": 1190.9,
-   "py": 4405.6,
-   "mobs": [
-    {
-     "id": 58,
-     "name": "Lauder",
-     "level": 11
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lauder",
-   "px": 605.9,
-   "py": 4403.1,
-   "mobs": [
-    {
-     "id": 58,
-     "name": "Lauder",
-     "level": 11
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Lauder",
-   "px": 1010.7,
-   "py": 4396.7,
-   "mobs": [
-    {
-     "id": 58,
-     "name": "Lauder",
-     "level": 11
-    }
-   ],
-   "detail": "Can spawn at this node, one of 6 on AI web 26 (MAINFOYERCATACAOMBSAI):\nLauder (LV11) (Spawner: LAUDER 20 DIM 1 MAIN FROYER CATACOMBS, up to 2)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 385.4,
-   "py": 5016.4,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 327.4,
-   "py": 4817,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 322,
-   "py": 4653.1,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 389.2,
-   "py": 4514.1,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 485,
-   "py": 4398.3,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 441,
-   "py": 4450.2,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 341,
-   "py": 4572.3,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 322.8,
-   "py": 4778,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Jouster",
-   "px": 351.4,
-   "py": 4948.1,
-   "mobs": [
-    {
-     "id": 53,
-     "name": "Jouster",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 9 on AI web 28 (CATACOMBSHALL2LEFT):\nJouster (LV8) (Spawner: JOUSTER 19 DIM 0 CATACOMBS HALLLEFT, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Rancon",
-   "px": 817.7,
-   "py": 5171.2,
-   "mobs": [
-    {
-     "id": 182,
-     "name": "Rancon",
-     "level": 15
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Rancon",
-   "px": 1199.6,
-   "py": 5126.6,
-   "mobs": [
-    {
-     "id": 182,
-     "name": "Rancon",
-     "level": 15
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Rancon",
-   "px": 960.6,
-   "py": 5315.8,
-   "mobs": [
-    {
-     "id": 182,
-     "name": "Rancon",
-     "level": 15
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Rancon",
-   "px": 817,
-   "py": 4959.1,
-   "mobs": [
-    {
-     "id": 182,
-     "name": "Rancon",
-     "level": 15
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Rancon",
-   "px": 960.5,
-   "py": 4958.9,
-   "mobs": [
-    {
-     "id": 182,
-     "name": "Rancon",
-     "level": 15
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Rancon",
-   "px": 1122.2,
-   "py": 5020.6,
-   "mobs": [
-    {
-     "id": 182,
-     "name": "Rancon",
-     "level": 15
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Rancon",
-   "px": 844.5,
-   "py": 5236.4,
-   "mobs": [
-    {
-     "id": 182,
-     "name": "Rancon",
-     "level": 15
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 29 (CATACOMBSMIDROOM):\nRancon (LV15) (Spawner: RANCON 57 DIM 0 MID ROOM CATACOMBS, up to 3)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 878.7,
-   "py": 6392.2,
-   "mobs": [
-    {
-     "id": 241,
-     "name": "Eyezora",
-     "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 1199.6,
-   "py": 6347.6,
-   "mobs": [
-    {
-     "id": 241,
-     "name": "Eyezora",
-     "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 960.6,
-   "py": 6536.8,
-   "mobs": [
-    {
-     "id": 241,
-     "name": "Eyezora",
-     "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 846.9,
-   "py": 6206.2,
-   "mobs": [
-    {
-     "id": 241,
-     "name": "Eyezora",
-     "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 960.5,
-   "py": 6179.9,
-   "mobs": [
-    {
-     "id": 241,
-     "name": "Eyezora",
-     "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 1122.2,
-   "py": 6241.6,
-   "mobs": [
-    {
-     "id": 241,
-     "name": "Eyezora",
-     "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Eyezora",
-   "px": 844.5,
-   "py": 6457.4,
-   "mobs": [
-    {
-     "id": 241,
-     "name": "Eyezora",
-     "level": 10
-    }
-   ],
-   "detail": "Can spawn at this node, one of 7 on AI web 30 (CATACOMBTOMBROOM):\nEyezora (LV10) (Spawner: EYEZORA 74 DIM 0 CATACOMBS TOMB, up to 4)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 1818.1,
-   "py": 6445.1,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 31 (CATACOMBSUB2):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBSSUB2, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 1164.5,
-   "py": 7111.2,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 33 (BLOBCATACOMBS):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 1175.4,
-   "py": 7163,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 34 (BLBO1):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 1075.4,
-   "py": 7196.1,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 35 (BLOB3):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS 3, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 1062.9,
-   "py": 7136.5,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 36 (BLOBLIC4):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBSPORTAL ROOM, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 401.1,
-   "py": 7111.9,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 37 (BLOBLIC4):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS PORTAL, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 474.8,
-   "py": 7080.6,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 38 (BLOBLIC5):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS PORTAL, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 522.4,
-   "py": 7204.7,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 39 (BLOBLIC6):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
-  },
-  {
-   "layer": "mobs",
-   "name": "Gonlon",
-   "px": 440,
-   "py": 7204.7,
-   "mobs": [
-    {
-     "id": 24,
-     "name": "Gonlon",
-     "level": 8
-    }
-   ],
-   "detail": "Can spawn at this node, one of 1 on AI web 40 (BLOBLIC7):\nGonlon (LV8) (Spawner: 6 GONLON DIM 3 CATACOMBS, up to 1)"
-  },
-  {
-   "layer": "mobs",
    "name": "Tilidon",
-   "px": 2090.8,
-   "py": 5675.2,
+   "px": 3110.6,
+   "py": 2325,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 183,
@@ -745,13 +14,14 @@
      "level": 16
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
   },
   {
    "layer": "mobs",
    "name": "Tilidon",
-   "px": 2917.8,
-   "py": 5670.7,
+   "px": 2659.2,
+   "py": 1604.6,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 183,
@@ -759,13 +29,14 @@
      "level": 16
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
   },
   {
    "layer": "mobs",
    "name": "Tilidon",
-   "px": 2439.1,
-   "py": 5894.8,
+   "px": 2057.9,
+   "py": 1484.6,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 183,
@@ -773,13 +44,14 @@
      "level": 16
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
   },
   {
    "layer": "mobs",
    "name": "Tilidon",
-   "px": 2295.5,
-   "py": 5463.1,
+   "px": 1606,
+   "py": 1454.9,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 183,
@@ -787,13 +59,14 @@
      "level": 16
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
   },
   {
    "layer": "mobs",
    "name": "Tilidon",
-   "px": 2227.7,
-   "py": 5675.7,
+   "px": 2565,
+   "py": 1994.8,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 183,
@@ -801,13 +74,14 @@
      "level": 16
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
   },
   {
    "layer": "mobs",
    "name": "Tilidon",
-   "px": 2840.8,
-   "py": 5524.6,
+   "px": 2989.2,
+   "py": 1698,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 183,
@@ -815,133 +89,1702 @@
      "level": 16
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 41 (DATROROOM1):\nTilidon (LV16) (Spawner: TILIDION 57 DIM 2, up to 4)"
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Datro, Skarshar",
-   "px": 2218.2,
-   "py": 6870.5,
+   "name": "Tilidon",
+   "px": 2451.2,
+   "py": 1664.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2829.7,
+   "py": 2049.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2030,
+   "py": 1586,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1890.8,
+   "py": 1345.4,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 0 (Tilidon1):\nTilidon (LV16) (Spawner: Tilidon1, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2040.7,
+   "py": 1342.2,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1571.5,
+   "py": 2978.4,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1062,
+   "py": 1926.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1953,
+   "py": 1293.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2015.9,
+   "py": 1809.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1502.8,
+   "py": 1155.2,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1168.5,
+   "py": 2644.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1901.2,
+   "py": 1855.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1502,
+   "py": 2006.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1319.7,
+   "py": 2812.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1514,
+   "py": 1742.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1794.9,
+   "py": 1916.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1543.7,
+   "py": 2485.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 1 (Tilidon2):\nTilidon (LV16) (Spawner: Tilidon2, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1559.4,
+   "py": 2924.2,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 3155.4,
+   "py": 2619.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2597.3,
+   "py": 3311.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1454.9,
+   "py": 3223,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1853.6,
+   "py": 2982.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1925.8,
+   "py": 3239.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2391.9,
+   "py": 2769.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2666.2,
+   "py": 3179.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2884.9,
+   "py": 3190.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2340.7,
+   "py": 3120.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1979.6,
+   "py": 2918.8,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1474.4,
+   "py": 2991.4,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 1878.7,
+   "py": 3269.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Tilidon",
+   "px": 2209.8,
+   "py": 3179.2,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 183,
+     "name": "Tilidon",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 2 (Tilidon3):\nTilidon (LV16) (Spawner: Tilidon3, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 2190.2,
+   "py": 983.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 1062.3,
+   "py": 3050.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 3393.4,
+   "py": 3042.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 2220.8,
+   "py": 1003.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 3377.1,
+   "py": 1810.8,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 1049.8,
+   "py": 1973.4,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 2172.6,
+   "py": 3484.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 3291.9,
+   "py": 1965.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 2489.7,
+   "py": 2249.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 2010.3,
+   "py": 2748.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 2684.7,
+   "py": 3072.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "High Priest of Cron",
+   "px": 1155.9,
+   "py": 2627.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 245,
+     "name": "High Priest of Cron",
+     "level": 16
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 3 (Priest):\nHigh Priest of Cron (LV16) (Spawner: Priest, up to 1, 80/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 2581,
+   "py": 5159.8,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 5,
      "name": "Datro",
      "level": 18,
      "boss": true
-    },
-    {
-     "id": 134,
-     "name": "Skarshar",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Datro, Skarshar",
-   "px": 2763.3,
-   "py": 6865.9,
+   "name": "Datro",
+   "px": 1795,
+   "py": 5045.3,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 5,
      "name": "Datro",
      "level": 18,
      "boss": true
-    },
-    {
-     "id": 134,
-     "name": "Skarshar",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Datro, Skarshar",
-   "px": 2439.1,
-   "py": 6960.9,
+   "name": "Datro",
+   "px": 1964.8,
+   "py": 5665.2,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 5,
      "name": "Datro",
      "level": 18,
      "boss": true
-    },
-    {
-     "id": 134,
-     "name": "Skarshar",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Datro, Skarshar",
-   "px": 2295.5,
-   "py": 6658.3,
+   "name": "Datro",
+   "px": 1931.9,
+   "py": 5364.3,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 5,
      "name": "Datro",
      "level": 18,
      "boss": true
-    },
-    {
-     "id": 134,
-     "name": "Skarshar",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Datro, Skarshar",
-   "px": 2327.6,
-   "py": 6870.9,
+   "name": "Datro",
+   "px": 2475.3,
+   "py": 5020.9,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 5,
      "name": "Datro",
      "level": 18,
      "boss": true
-    },
-    {
-     "id": 134,
-     "name": "Skarshar",
-     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Datro, Skarshar",
-   "px": 2707.3,
-   "py": 6719.9,
+   "name": "Datro",
+   "px": 2031.5,
+   "py": 5350.3,
+   "radiusPx": 34.5,
    "mobs": [
     {
      "id": 5,
      "name": "Datro",
      "level": 18,
      "boss": true
-    },
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 2145.8,
+   "py": 5301.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 1859.7,
+   "py": 5168.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 2394.6,
+   "py": 5625.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 2100,
+   "py": 5233.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 2368.5,
+   "py": 5588.2,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 2046.2,
+   "py": 5588,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 1805.1,
+   "py": 5072.1,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Datro",
+   "px": 2285.2,
+   "py": 4974.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 5,
+     "name": "Datro",
+     "level": 18,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 4 (Datro):\nDatro (LV18 BOSS) (Spawner: Datro, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2383.4,
+   "py": 5692.9,
+   "radiusPx": 34.5,
+   "mobs": [
     {
      "id": 134,
      "name": "Skarshar",
      "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 42 (DATROMAIN ROOM):\nDatro (LV18 BOSS) (Spawner: DATRO DIM 2 DATRO MAIN ROOM, up to 1)\nSkarshar (LV13) (Spawner: 43 SKARSHAR DIM 0 DATRO ROOM, up to 5)"
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2019.2,
+   "py": 5676.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 1749,
+   "py": 5435.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 1805.4,
+   "py": 5027.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 1981,
+   "py": 4842.4,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2210.7,
+   "py": 4833.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2471.1,
+   "py": 4984.2,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2580.8,
+   "py": 5179.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2523.9,
+   "py": 5514.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2319.6,
+   "py": 5617.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2052,
+   "py": 5612.4,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 1832.7,
+   "py": 5403.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 1828.3,
+   "py": 5194.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2024.2,
+   "py": 4953,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2323.3,
+   "py": 4974.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2450.2,
+   "py": 5212.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2492.1,
+   "py": 5375.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2372.3,
+   "py": 5483.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2213.7,
+   "py": 5529.4,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2029.5,
+   "py": 5487.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 1907.4,
+   "py": 5340.2,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2060.1,
+   "py": 5068.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2294.8,
+   "py": 5092,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2349.9,
+   "py": 5301.6,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2145.4,
+   "py": 5379.1,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2028.5,
+   "py": 5255.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2095.1,
+   "py": 5165.8,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Kandra, Kandra",
+   "px": 2221.8,
+   "py": 5206.1,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    },
+    {
+     "id": 749,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 28 on AI web 5 (Datro.Room.Ground):\nSkarshar (LV13) (Spawner: Datro.Room.Ground.Skarshars, up to 3, 150/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra, up to 1, 100/1000)\nKandra (LV14) (Spawner: Datro.Room.Kandra.Rare, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2089.3,
+   "py": 2596.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2484.6,
+   "py": 2423.3,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2457.8,
+   "py": 2145.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2311.9,
+   "py": 2293.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 1980.7,
+   "py": 2367.5,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 1988.4,
+   "py": 2066.7,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2222.9,
+   "py": 2189.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 2332.4,
+   "py": 2205.9,
+   "radiusPx": 34.5,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 6 (PillarTop.Kandra1):\nKandra (LV14) (Spawner: PillarTop.Kandra1, up to 3, 100/1000)"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossEntRm Chest01",
-   "px": 3255,
-   "py": 5611.5,
+   "px": 4058.4,
+   "py": 2218.7,
    "npcId": 22,
    "template": "Misc Inventory",
    "roles": [
@@ -966,32 +1809,32 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossEntRm Chest02 (EMPTY)",
-   "px": 3243.1,
-   "py": 5575.7,
+   "px": 4029.8,
+   "py": 2132.9,
    "npcId": 23,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossEntRm Chest03 (EMPTY)",
-   "px": 3244.8,
-   "py": 5583.3,
+   "px": 4033.9,
+   "py": 2151.1,
    "npcId": 24,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossEntRm Chest04 (EMPTY)",
-   "px": 3226.2,
-   "py": 5736.2,
+   "px": 3989.2,
+   "py": 2518.1,
    "npcId": 25,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest01 (KEYS)",
-   "px": 2224.1,
-   "py": 5822.4,
+   "px": 1584,
+   "py": 2724.9,
    "npcId": 26,
    "template": "Misc Inventory",
    "quests": [
@@ -1003,56 +1846,56 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest03 (EMPTY)",
-   "px": 2416.6,
-   "py": 5643,
+   "px": 2046,
+   "py": 2294.3,
    "npcId": 27,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest02 (EMPTY)",
-   "px": 2415.5,
-   "py": 5703.7,
+   "px": 2043.4,
+   "py": 2440,
    "npcId": 28,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest04 (EMPTY)",
-   "px": 2506.5,
-   "py": 5602,
+   "px": 2261.9,
+   "py": 2196,
    "npcId": 29,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest05 (EMPTY)",
-   "px": 2534.3,
-   "py": 5704.8,
+   "px": 2328.6,
+   "py": 2442.6,
    "npcId": 30,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest06 (EMPTY)",
-   "px": 2475.7,
-   "py": 5767,
+   "px": 2187.9,
+   "py": 2592.1,
    "npcId": 31,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest07 (EMPTY)",
-   "px": 2390.4,
-   "py": 5709.9,
+   "px": 1983.2,
+   "py": 2455,
    "npcId": 32,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest08",
-   "px": 2486.6,
-   "py": 5360.9,
+   "px": 2214.1,
+   "py": 1617.2,
    "npcId": 33,
    "template": "Misc Inventory",
    "roles": [
@@ -1077,40 +1920,40 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest09 (EMPTY)",
-   "px": 2575.3,
-   "py": 5504.3,
+   "px": 2426.9,
+   "py": 1961.4,
    "npcId": 34,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest10 (EMPTY)",
-   "px": 2591.5,
-   "py": 5608.1,
+   "px": 2465.9,
+   "py": 2210.6,
    "npcId": 35,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest11 (EMPTY)",
-   "px": 2681.5,
-   "py": 5743.3,
+   "px": 2681.9,
+   "py": 2535,
    "npcId": 36,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest12 (EMPTY)",
-   "px": 2503.5,
-   "py": 5697.4,
+   "px": 2254.6,
+   "py": 2424.8,
    "npcId": 37,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm01 Chest13",
-   "px": 2678.5,
-   "py": 5530.9,
+   "px": 2674.5,
+   "py": 2025.3,
    "npcId": 38,
    "template": "Misc Inventory",
    "roles": [
@@ -1135,8 +1978,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm02 Chest01",
-   "px": 2477.2,
-   "py": 5855.7,
+   "px": 2191.5,
+   "py": 2804.9,
    "npcId": 39,
    "template": "Misc Inventory",
    "quests": [
@@ -1148,8 +1991,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) DropRm02 Chest02",
-   "px": 2383.5,
-   "py": 5715.8,
+   "px": 1966.5,
+   "py": 2469.1,
    "npcId": 40,
    "template": "Misc Inventory",
    "roles": [
@@ -1169,8 +2012,8 @@
   {
    "layer": "npcs",
    "name": "Ligian of Kanasta",
-   "px": 2418.4,
-   "py": 5593,
+   "px": 2050.3,
+   "py": 2174.4,
    "npcId": 41,
    "template": "Human Male",
    "says": [
@@ -1182,8 +2025,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest01",
-   "px": 3009.4,
-   "py": 5995.6,
+   "px": 3468.8,
+   "py": 3140.6,
    "npcId": 42,
    "template": "Misc Inventory",
    "quests": [
@@ -1195,8 +2038,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest02",
-   "px": 2484.3,
-   "py": 5022.6,
+   "px": 2208.6,
+   "py": 805.2,
    "npcId": 43,
    "template": "Misc Inventory",
    "roles": [
@@ -1216,32 +2059,32 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest03 (EMPTY)",
-   "px": 1860.1,
-   "py": 6931.6,
+   "px": 710.2,
+   "py": 5387.4,
    "npcId": 44,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest04 (EMPTY)",
-   "px": 3093.8,
-   "py": 6977.1,
+   "px": 3671.4,
+   "py": 5496.4,
    "npcId": 45,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest05 (EMPTY)",
-   "px": 3029.7,
-   "py": 6946,
+   "px": 3517.6,
+   "py": 5421.9,
    "npcId": 46,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest06 (SoC)",
-   "px": 2960.5,
-   "py": 6963.1,
+   "px": 3351.5,
+   "py": 5462.9,
    "npcId": 47,
    "template": "Misc Inventory",
    "roles": [
@@ -1272,24 +2115,24 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest08 (EMPTY)",
-   "px": 2346.7,
-   "py": 6727,
+   "px": 1878.2,
+   "py": 4896.1,
    "npcId": 49,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest09 (EMPTY)",
-   "px": 1966.3,
-   "py": 6963.3,
+   "px": 965.1,
+   "py": 5463.5,
    "npcId": 50,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest10",
-   "px": 2475,
-   "py": 6535.3,
+   "px": 2186.2,
+   "py": 4436,
    "npcId": 51,
    "template": "Misc Inventory",
    "roles": [
@@ -1309,8 +2152,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest11",
-   "px": 2605.6,
-   "py": 6774.9,
+   "px": 2499.7,
+   "py": 5011.1,
    "npcId": 52,
    "template": "Misc Inventory",
    "roles": [
@@ -1330,32 +2173,32 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest12 (EMPTY)",
-   "px": 2477.8,
-   "py": 6418.3,
+   "px": 2192.9,
+   "py": 4155.3,
    "npcId": 53,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest13 (EMPTY)",
-   "px": 2479.3,
-   "py": 6432,
+   "px": 2196.5,
+   "py": 4188.1,
    "npcId": 54,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest14 (EMPTY)",
-   "px": 2477.9,
-   "py": 6456.2,
+   "px": 2193.2,
+   "py": 4246.2,
    "npcId": 55,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest15",
-   "px": 2479.6,
-   "py": 6351.9,
+   "px": 2197.2,
+   "py": 3996,
    "npcId": 56,
    "template": "Misc Inventory",
    "roles": [
@@ -1380,16 +2223,16 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest16 (EMPTY)",
-   "px": 2673.6,
-   "py": 5616,
+   "px": 2662.8,
+   "py": 2229.4,
    "npcId": 57,
    "template": "Misc Inventory"
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest17",
-   "px": 2501.4,
-   "py": 5223.8,
+   "px": 2249.4,
+   "py": 1288.2,
    "npcId": 58,
    "template": "Misc Inventory",
    "quests": [
@@ -1400,17 +2243,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 3420.8,
-   "py": 5668.9,
+   "name": "Teleporter",
+   "px": 4456.2,
+   "py": 2356.6,
    "npcId": 1148,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 546.1,
-      "py": 4204.2
+      "px": 838.3,
+      "py": 7248.3
      },
      "title": "Blink!",
      "needs": [
@@ -1423,17 +2266,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 3418,
-   "py": 5669.5,
+   "name": "Teleporter",
+   "px": 4449.5,
+   "py": 2358,
    "npcId": 1573,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 576.2,
-      "py": 4470.9
+      "px": 891.1,
+      "py": 7715.6
      },
      "title": ""
     }
@@ -1441,17 +2284,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 2480.1,
-   "py": 6881.4,
+   "name": "Teleporter",
+   "px": 2198.5,
+   "py": 5266.8,
    "npcId": 1574,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 576.2,
-      "py": 4470.9
+      "px": 891.1,
+      "py": 7715.6
      },
      "title": ""
     }
@@ -1460,344 +2303,81 @@
   {
    "layer": "entities",
    "name": "Landrazorcappa",
-   "px": 2522.7,
-   "py": 5935.1,
+   "px": 2300.6,
+   "py": 2995.6,
    "detail": "Entity template 5\nControl type 0"
   },
   {
    "layer": "triggers",
-   "name": "external portal",
-   "px": 978.5,
-   "py": 1046.7,
-   "radiusPx": 1077.7,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 1500\nObject 82 (PORTTRIG_MainEntDropa.ARW)"
-  },
-  {
-   "layer": "triggers",
-   "name": "external portal",
-   "px": 978.7,
-   "py": 2522.4,
-   "radiusPx": 10.8,
-   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 83 (PORTTRIG_MainEntTombSeca.ARW)"
-  },
-  {
-   "layer": "triggers",
    "name": "Soundtrack 6",
-   "px": 2476.7,
-   "py": 5668.4,
-   "radiusPx": 718.4,
+   "px": 2190.2,
+   "py": 2355.2,
+   "radiusPx": 1724.5,
    "detail": "Action 6: play soundtrack, argument 6\nRadius: 1000\nObject 161 (DROPRMGLOWBALLa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 3420.9,
-   "py": 5668.6,
-   "radiusPx": 21.6,
+   "px": 4456.5,
+   "py": 2355.7,
+   "radiusPx": 51.7,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 183 (PARTTRIG_BOSSSECENTPORTa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 2476.7,
-   "py": 6879.5,
-   "radiusPx": 53.9,
+   "px": 2190.2,
+   "py": 5262.3,
+   "radiusPx": 129.3,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 207 (DROPRMGLOWBALL02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 17",
-   "px": 2476.7,
-   "py": 6879.5,
-   "radiusPx": 1796.1,
+   "px": 2190.2,
+   "py": 5262.3,
+   "radiusPx": 4311.1,
    "detail": "Action 6: play soundtrack, argument 17\nRadius: 2500\nObject 208 (DROPRMGLOWBALL03a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 2478.9,
-   "py": 7992.6,
-   "radiusPx": 53.9,
+   "px": 2195.5,
+   "py": 7934,
+   "radiusPx": 129.3,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 251 (MAINEXITPORT01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 3421.1,
-   "py": 5668.7,
-   "radiusPx": 21.6,
+   "px": 4457,
+   "py": 2356,
+   "radiusPx": 51.7,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 293 (PORTTRIG_BossSecReturna.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 2479.2,
-   "py": 7093.4,
-   "radiusPx": 107.8,
+   "px": 2196.2,
+   "py": 5775.7,
+   "radiusPx": 258.7,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 150\nObject 296 (PORTTRIG_BossSecKeyDra.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 2479.2,
-   "py": 7160.7,
-   "radiusPx": 10.8,
+   "px": 2196.2,
+   "py": 5937.2,
+   "radiusPx": 25.9,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 297 (PORTTRIG_BossSecKeyDr01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 2478.8,
-   "py": 7799.7,
-   "radiusPx": 10.8,
+   "px": 2195.3,
+   "py": 7470.9,
+   "radiusPx": 25.9,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 298 (PORTTRIG_MnCataExita.ARW)"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs01",
-   "px": 978.1,
-   "py": 2675.6,
-   "box": [
-    669.2,
-    2366.6,
-    1287,
-    2984.5
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs02",
-   "px": 978.1,
-   "py": 3616.7,
-   "box": [
-    897.3,
-    2970.1,
-    1058.9,
-    4263.3
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs03",
-   "px": 978.1,
-   "py": 4404.1,
-   "box": [
-    789.5,
-    4215.5,
-    1166.7,
-    4592.7
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs04",
-   "px": 978.1,
-   "py": 4404.1,
-   "box": [
-    583,
-    4323.3,
-    1373.3,
-    4484.9
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs05",
-   "px": 705.1,
-   "py": 5122.7,
-   "box": [
-    611.7,
-    5043.7,
-    798.5,
-    5201.8
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs06",
-   "px": 1254.4,
-   "py": 5122.7,
-   "box": [
-    1161,
-    5043.7,
-    1347.8,
-    5201.8
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs07",
-   "px": 978.8,
-   "py": 5705,
-   "box": [
-    951.8,
-    5345.7,
-    1005.7,
-    6064.2
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs08",
-   "px": 977.7,
-   "py": 6350.3,
-   "box": [
-    694,
-    6053.9,
-    1261.5,
-    6646.6
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs09",
-   "px": 977.7,
-   "py": 6350.3,
-   "box": [
-    941.8,
-    6314.4,
-    1013.7,
-    6386.2
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs10",
-   "px": 977.7,
-   "py": 6547.5,
-   "box": [
-    941.8,
-    6367.9,
-    1013.7,
-    6727.1
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs11",
-   "px": 866.2,
-   "py": 6713.9,
-   "box": [
-    722.6,
-    6534.3,
-    1009.9,
-    6893.5
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs12",
-   "px": 810.9,
-   "py": 7041.2,
-   "box": [
-    757,
-    6892.2,
-    864.8,
-    7190.3
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs13",
-   "px": 810.1,
-   "py": 7243.7,
-   "box": [
-    734.6,
-    7171.9,
-    885.5,
-    7315.6
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs14",
-   "px": 815.5,
-   "py": 7176.5,
-   "box": [
-    792.1,
-    7129.8,
-    838.8,
-    7223.2
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs15",
-   "px": 650.4,
-   "py": 7192.5,
-   "box": [
-    542.7,
-    7162,
-    758.2,
-    7223
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs16",
-   "px": 511.4,
-   "py": 7170.7,
-   "box": [
-    437.8,
-    7116.8,
-    585,
-    7224.6
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs17",
-   "px": 1016.1,
-   "py": 7191.2,
-   "box": [
-    881.4,
-    7083.4,
-    1150.9,
-    7299
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs18",
-   "px": 823.4,
-   "py": 7458.9,
-   "box": [
-    787.4,
-    7306.2,
-    859.3,
-    7611.5
-   ],
-   "detail": "Water zone"
-  },
-  {
-   "layer": "water",
-   "name": "Catacombs19",
-   "px": 811.5,
-   "py": 7627.3,
-   "box": [
-    719.9,
-    7537.4,
-    903.1,
-    7717.1
-   ],
-   "detail": "Water zone"
   }
  ]
 }

@@ -15,7 +15,7 @@
      "boss": true
     }
    ],
-   "detail": "Can spawn at this node, one of 2 on AI web 0 (Frube):\nFrube (LV15 BOSS) (Spawner: Frube, up to 1)"
+   "detail": "Can spawn at this node, one of 2 on AI web 0 (Frube):\nFrube (LV15 BOSS) (Spawner: Frube, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
@@ -31,7 +31,7 @@
      "boss": true
     }
    ],
-   "detail": "Can spawn at this node, one of 2 on AI web 0 (Frube):\nFrube (LV15 BOSS) (Spawner: Frube, up to 1)"
+   "detail": "Can spawn at this node, one of 2 on AI web 0 (Frube):\nFrube (LV15 BOSS) (Spawner: Frube, up to 1, 10/1000)"
   },
   {
    "layer": "mobs",
@@ -46,7 +46,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -61,7 +61,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -76,7 +76,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -91,7 +91,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -106,7 +106,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -121,7 +121,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -136,7 +136,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -151,7 +151,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "mobs",
@@ -166,7 +166,7 @@
      "level": 9
     }
    ],
-   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3)"
+   "detail": "Can spawn at this node, one of 9 on AI web 1 (FrubeTrisks):\nTrisk (LV9) (Spawner: FrubeTrisks, up to 3, 300/1000)"
   },
   {
    "layer": "portals",
@@ -179,8 +179,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 3746.1,
-      "py": 5207.6
+      "px": 3099.8,
+      "py": 7076.4
      },
      "title": "Blink!",
      "needs": [
@@ -202,8 +202,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 3746.1,
-      "py": 5207.6
+      "px": 3099.8,
+      "py": 7076.4
      },
      "title": "Blink!",
      "needs": [

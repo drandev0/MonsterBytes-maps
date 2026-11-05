@@ -1,0 +1,2431 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5834.2,
+   "py": 4495.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5947.1,
+   "py": 4879.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5517.3,
+   "py": 4841.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5499,
+   "py": 5300.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5384.4,
+   "py": 5711.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4887,
+   "py": 5664.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5212.9,
+   "py": 5532.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4403.7,
+   "py": 5939.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4292.2,
+   "py": 5587.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3604.4,
+   "py": 5887.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3411.9,
+   "py": 5305.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 2674.2,
+   "py": 5539.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 2310.6,
+   "py": 5514.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 2698.7,
+   "py": 4981.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 2201.3,
+   "py": 4665.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1713,
+   "py": 4418.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1988.5,
+   "py": 3925.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1464.1,
+   "py": 3362.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1993.2,
+   "py": 3087.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1460.7,
+   "py": 3157.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 1553.7,
+   "py": 3785.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 2109.2,
+   "py": 4360.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 2174.1,
+   "py": 5145.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 2906.3,
+   "py": 5214.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 3413.2,
+   "py": 5712.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4149.6,
+   "py": 5965.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 4656,
+   "py": 5610.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5296.7,
+   "py": 5390,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5730,
+   "py": 5096.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegurk",
+   "px": 5603.3,
+   "py": 4590.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    }
+   ],
+   "detail": "Can spawn at this node, one of 30 on AI web 6 (AP.Island.Cave.Clegurks):\nClegurk (LV2) (Spawner: AP.Island.Cave.Clergurks, up to 3, 800/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 3827.7,
+   "py": 4345.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 3921.9,
+   "py": 3833.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 4218.7,
+   "py": 2963.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 3805.6,
+   "py": 2909.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 3628.1,
+   "py": 3271.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 3230.3,
+   "py": 3043,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 3515,
+   "py": 2821.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Clegorn, Clegurk, Infant Dilirium",
+   "px": 3536.2,
+   "py": 3779.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 162,
+     "name": "Clegorn",
+     "level": 10
+    },
+    {
+     "id": 113,
+     "name": "Clegurk",
+     "level": 2
+    },
+    {
+     "id": 41,
+     "name": "Infant Dilirium",
+     "level": 3
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 7 (AP.Island.SkullCave.Clegorn.Clegurk.InfantDilirium):\nClegorn (LV10) (Spawner: AP.Island.SkullCave.Clegorn, up to 1, 100/1000)\nClegurk (LV2) (Spawner: AP.Island.SkullCave.Clegurks, up to 1, 150/1000)\nInfant Dilirium (LV3) (Spawner: AP.Island.SkullCave.InfantDiliriums, up to 1, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 1229.7,
+   "py": 4511.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 443.9,
+   "py": 4915.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 497.8,
+   "py": 5885.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 1016.1,
+   "py": 6201.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 927.9,
+   "py": 6533.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 416.1,
+   "py": 6130.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 238.7,
+   "py": 5427.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 417.3,
+   "py": 5087.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 806.3,
+   "py": 4892.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 899.8,
+   "py": 4387.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 516.5,
+   "py": 4733.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 411.3,
+   "py": 5518.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 402.3,
+   "py": 5857.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Stontrile, Guab Fish",
+   "px": 652.4,
+   "py": 6202.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    },
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 14 on AI web 8 (AP.Island.WaterTunnel1):\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel1.Stontrile, up to 3, 200/1000)\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel1.GuabFish, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1199.1,
+   "py": 6849.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1394,
+   "py": 6607.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1622.7,
+   "py": 7073.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1369.2,
+   "py": 6958,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1672.5,
+   "py": 6921.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1967.5,
+   "py": 7121.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1793.3,
+   "py": 7263.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1656.6,
+   "py": 7123.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1578.6,
+   "py": 6962.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1792.1,
+   "py": 7168.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2163.3,
+   "py": 7330.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2282.6,
+   "py": 7591.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2609.7,
+   "py": 7533.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2668.4,
+   "py": 7754,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2894.7,
+   "py": 7642.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3178.9,
+   "py": 7861.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2454.7,
+   "py": 7691.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2318.7,
+   "py": 7401.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 1982.7,
+   "py": 7362.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2800.4,
+   "py": 7623.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 2951.3,
+   "py": 7765.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3263.3,
+   "py": 7626.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3659.3,
+   "py": 7805,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3562.4,
+   "py": 7650.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3224.1,
+   "py": 7875.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3297.9,
+   "py": 7759.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3844.4,
+   "py": 7571.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3295.5,
+   "py": 7726.2,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3535.8,
+   "py": 7848.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3808.1,
+   "py": 7529.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3883.9,
+   "py": 7785.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4177.8,
+   "py": 7475.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4207.6,
+   "py": 7629.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4374.5,
+   "py": 7218,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4644.7,
+   "py": 7549.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4846.8,
+   "py": 7141.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4675.5,
+   "py": 7189.1,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4471.6,
+   "py": 7507.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4035.1,
+   "py": 7707.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 3733.9,
+   "py": 7786.6,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4246.3,
+   "py": 7308.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4554,
+   "py": 7154.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4639.1,
+   "py": 7380.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5013.8,
+   "py": 7439.8,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5272.3,
+   "py": 7120.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5405.1,
+   "py": 7409.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5715.7,
+   "py": 7092.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5758.2,
+   "py": 7392.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5609.7,
+   "py": 7347.3,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5408.4,
+   "py": 7094.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 5196.5,
+   "py": 7345.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4963.2,
+   "py": 7171.7,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4750.2,
+   "py": 7414,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4578.8,
+   "py": 7564.5,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4338.2,
+   "py": 7433.4,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Guab Fish, Stontrile",
+   "px": 4605.1,
+   "py": 7141.9,
+   "radiusPx": 44.7,
+   "mobs": [
+    {
+     "id": 709,
+     "name": "Guab Fish",
+     "level": 4
+    },
+    {
+     "id": 130,
+     "name": "Stontrile",
+     "level": 6
+    }
+   ],
+   "detail": "Can spawn at this node, one of 56 on AI web 9 (AP.Island.WaterTunnel2):\nGuab Fish (LV4) (Spawner: AP.Island.WaterTunnel2.GuabFish, up to 3, 150/1000)\nStontrile (LV6) (Spawner: AP.Island.WaterTunnel2.Stontriles, up to 2, 70/1000)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Inseraitus Bark",
+   "px": 4074.6,
+   "py": 3603.6,
+   "npcId": 102,
+   "template": "Plant Quest",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Inseraitus Bark (Mid Quest)",
+     "needs": [
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Inseraitus Bark"
+      },
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Inseraitus Bark",
+   "px": 4097.1,
+   "py": 3502.9,
+   "npcId": 103,
+   "template": "Plant Quest",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Inseraitus Bark (Mid Quest)",
+     "needs": [
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      },
+      {
+       "name": "Inseraitus Bark"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Inseraitus Bark",
+   "px": 4008.6,
+   "py": 3682,
+   "npcId": 104,
+   "template": "Plant Quest",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Inseraitus Bark (Mid Quest)",
+     "needs": [
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Inseraitus Bark"
+      },
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Inseraitus Bark",
+   "px": 3912.8,
+   "py": 3839,
+   "npcId": 105,
+   "template": "Plant Quest",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Inseraitus Bark (Mid Quest)",
+     "needs": [
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Inseraitus Bark"
+      },
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Srag",
+   "px": 3907.3,
+   "py": 3155.3,
+   "npcId": 376,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Plants, Roots and Seeds",
+     "gives": [
+      {
+       "name": "Extractor (Plants and Roots)"
+      }
+     ]
+    },
+    {
+     "title": "Extractor 2",
+     "needs": [
+      {
+       "name": "Asgon Plant",
+       "qty": 5
+      },
+      {
+       "name": "Gurg Seed",
+       "qty": 5
+      },
+      {
+       "name": "Tug Seed",
+       "qty": 5
+      },
+      {
+       "name": "Mandion Shell",
+       "qty": 5
+      },
+      {
+       "name": "Docux Bean",
+       "qty": 5
+      },
+      {
+       "name": "Frodigon Sap",
+       "qty": 5
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 2 (Plants and Roots)"
+      }
+     ]
+    },
+    {
+     "title": "Extractor 5",
+     "needs": [
+      {
+       "name": "Edipidone Pollen",
+       "qty": 10
+      },
+      {
+       "name": "Hig Fern",
+       "qty": 10
+      },
+      {
+       "name": "Filidian Syrup",
+       "qty": 10
+      },
+      {
+       "name": "Sigpruce",
+       "qty": 10
+      },
+      {
+       "name": "Viastic Stem",
+       "qty": 10
+      },
+      {
+       "name": "Inseraitus Bark",
+       "qty": 10
+      },
+      {
+       "name": "Buctun Weed",
+       "qty": 10
+      },
+      {
+       "name": "Wigid Nut",
+       "qty": 10
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 5 (Plants and Roots)"
+      }
+     ]
+    },
+    {
+     "title": "Extractor 6",
+     "needs": [
+      {
+       "name": "Magus Leaf",
+       "qty": 20
+      },
+      {
+       "name": "Wigspruce Stalk",
+       "qty": 20
+      },
+      {
+       "name": "Ecolalgae",
+       "qty": 20
+      },
+      {
+       "name": "Sagelmic Bulb",
+       "qty": 20
+      },
+      {
+       "name": "Acban Bean",
+       "qty": 20
+      },
+      {
+       "name": "Digdig Root",
+       "qty": 20
+      }
+     ],
+     "gives": [
+      {
+       "name": "Extractor 6 (Plants and Roots)"
+      }
+     ]
+    },
+    {
+     "title": "Complete",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Bok",
+   "px": 2581.4,
+   "py": 2346.9,
+   "npcId": 524,
+   "template": "Grounce",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Package from Sol"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Wanted Poster of Forgral"
+      }
+     ]
+    },
+    {
+     "title": "Armor 11 Quest: Part 5 of 9",
+     "needs": [
+      {
+       "name": "Badge of Forgral"
+      }
+     ],
+     "gives": [
+      {
+       "name": ""
+      },
+      {
+       "name": "Black Market Field Report"
+      }
+     ],
+     "cash": 3000
+    },
+    {
+     "title": "Armor 11 Quest: Part 7 of 9",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Acrua Plant",
+   "px": 4190.6,
+   "py": 4215.1,
+   "npcId": 614,
+   "template": "Plant Quest",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "1. Acrua Bush",
+     "needs": [
+      {
+       "name": "Extractor (Plants and Roots)"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Root of Acrua"
+      },
+      {
+       "name": "Extractor (Plants and Roots)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Amp Island) R-1 CH- L Health potions",
+   "px": 4088,
+   "py": 5391.8,
+   "npcId": 615,
+   "template": "Misc Inventory",
+   "quests": [
+    {
+     "title": "Chest"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Puffcheek - AP Guard",
+   "px": 4276.4,
+   "py": 5363.6,
+   "npcId": 618,
+   "template": "Amphibious",
+   "says": [
+    "I just guard the island...",
+    "I just guard the island...",
+    "I just guard the island..."
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 46",
+   "px": 3436.8,
+   "py": 3189.2,
+   "radiusPx": 670,
+   "detail": "Action 6: play soundtrack, argument 46\nRadius: 300\nObject 34301 (Light001.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 5",
+   "px": 4143.4,
+   "py": 3674.3,
+   "detail": "Action 6: play soundtrack, argument 5\nRadius: 60000\nObject 34346 (Light001.ARW)"
+  }
+ ]
+}

@@ -3,153 +3,1888 @@
  "markers": [
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 972.7,
-   "py": 791.6,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 941.1,
+   "py": 2756.9,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 795.6,
-   "py": 1009,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 1149.4,
+   "py": 2684.1,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 434.9,
-   "py": 973.4,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 1095.7,
+   "py": 2812.5,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 303.6,
-   "py": 611.3,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 917.8,
+   "py": 2798.3,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 438.8,
-   "py": 352.4,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 1021.1,
+   "py": 2790.9,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 821.3,
-   "py": 341.3,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 898.4,
+   "py": 2696.4,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 1000.4,
-   "py": 549.8,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 872.1,
+   "py": 2766.5,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Fadun",
-   "px": 1009,
-   "py": 723.4,
-   "radiusPx": 8.2,
+   "name": "Farion",
+   "px": 935.9,
+   "py": 2840.6,
+   "radiusPx": 14.3,
    "mobs": [
     {
-     "id": 21,
-     "name": "Fadun",
-     "level": 4
+     "id": 60,
+     "name": "Farion",
+     "level": 13
     }
    ],
-   "detail": "Can spawn at this node, one of 8 on AI web 0 (AI 1STblobRoom01):\nFadun (LV4) (Spawner: FADUN 06 DIM0_1STblobRoom, up to 1)"
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 1010.5,
+   "py": 2857.8,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 1142.2,
+   "py": 2768.4,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Farion",
+   "px": 986.2,
+   "py": 2708.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 60,
+     "name": "Farion",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 11 on AI web 0 (Entrance.Farions):\nFarion (LV13) (Spawner: Entrance.Farions, up to 3, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1034,
+   "py": 4402.4,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 911.1,
+   "py": 4469.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 932.7,
+   "py": 4322.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1008.5,
+   "py": 4276.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1114.2,
+   "py": 4343.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1164.6,
+   "py": 4421.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1027.7,
+   "py": 4411.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 920.5,
+   "py": 4408.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 986.8,
+   "py": 4358.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1094.5,
+   "py": 4488,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1010.1,
+   "py": 4528.8,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 932.9,
+   "py": 4502,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 983.8,
+   "py": 4481.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1021.7,
+   "py": 4426.8,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1020.7,
+   "py": 4331.4,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1066.6,
+   "py": 4368.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1120.8,
+   "py": 4449.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 997.5,
+   "py": 4321.1,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1025.1,
+   "py": 4476.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 920.8,
+   "py": 4482.8,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 988,
+   "py": 4324.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1101.5,
+   "py": 4363.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skarshar, Clidion",
+   "px": 1093.8,
+   "py": 4470.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 23 on AI web 1 (Center.Skarshars.Clidions):\nSkarshar (LV13) (Spawner: Center.Skarshare, up to 2, 100/1000)\nClidion (LV11) (Spawner: Center.Clidions, up to 2, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Clidion, Pidion",
+   "px": 1640.6,
+   "py": 4586.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 292,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Left.Pidions):\nPidion (LV10) (Spawner: Left.Pidions, up to 1, 150/1000)\nClidion (LV11) (Spawner: Left.Clidions, up to 2, 100/1000)\nPidion (LV10) (Spawner: Left.Pidion2.Raredrop, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Clidion, Pidion",
+   "px": 1604.3,
+   "py": 4508.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 292,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Left.Pidions):\nPidion (LV10) (Spawner: Left.Pidions, up to 1, 150/1000)\nClidion (LV11) (Spawner: Left.Clidions, up to 2, 100/1000)\nPidion (LV10) (Spawner: Left.Pidion2.Raredrop, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Clidion, Pidion",
+   "px": 1693.8,
+   "py": 4779.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 292,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Left.Pidions):\nPidion (LV10) (Spawner: Left.Pidions, up to 1, 150/1000)\nClidion (LV11) (Spawner: Left.Clidions, up to 2, 100/1000)\nPidion (LV10) (Spawner: Left.Pidion2.Raredrop, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Clidion, Pidion",
+   "px": 1646.9,
+   "py": 4948.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 292,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Left.Pidions):\nPidion (LV10) (Spawner: Left.Pidions, up to 1, 150/1000)\nClidion (LV11) (Spawner: Left.Clidions, up to 2, 100/1000)\nPidion (LV10) (Spawner: Left.Pidion2.Raredrop, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Clidion, Pidion",
+   "px": 1634.2,
+   "py": 4800.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 292,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Left.Pidions):\nPidion (LV10) (Spawner: Left.Pidions, up to 1, 150/1000)\nClidion (LV11) (Spawner: Left.Clidions, up to 2, 100/1000)\nPidion (LV10) (Spawner: Left.Pidion2.Raredrop, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Clidion, Pidion",
+   "px": 1648.5,
+   "py": 4591.1,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 78,
+     "name": "Clidion",
+     "level": 11
+    },
+    {
+     "id": 292,
+     "name": "Pidion",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 2 (Left.Pidions):\nPidion (LV10) (Spawner: Left.Pidions, up to 1, 150/1000)\nClidion (LV11) (Spawner: Left.Clidions, up to 2, 100/1000)\nPidion (LV10) (Spawner: Left.Pidion2.Raredrop, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Skarshar",
+   "px": 375.1,
+   "py": 4570.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 3 (Right.Pidions):\nPidion (LV10) (Spawner: Right.Pidions, up to 2, 150/1000)\nSkarshar (LV13) (Spawner: Right.Skarshar, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Skarshar",
+   "px": 326.1,
+   "py": 4736.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 3 (Right.Pidions):\nPidion (LV10) (Spawner: Right.Pidions, up to 2, 150/1000)\nSkarshar (LV13) (Spawner: Right.Skarshar, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Skarshar",
+   "px": 359.2,
+   "py": 4903.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 3 (Right.Pidions):\nPidion (LV10) (Spawner: Right.Pidions, up to 2, 150/1000)\nSkarshar (LV13) (Spawner: Right.Skarshar, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Skarshar",
+   "px": 390.9,
+   "py": 4757.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 3 (Right.Pidions):\nPidion (LV10) (Spawner: Right.Pidions, up to 2, 150/1000)\nSkarshar (LV13) (Spawner: Right.Skarshar, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Skarshar",
+   "px": 344.4,
+   "py": 4575.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 3 (Right.Pidions):\nPidion (LV10) (Spawner: Right.Pidions, up to 2, 150/1000)\nSkarshar (LV13) (Spawner: Right.Skarshar, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Skarshar",
+   "px": 390.4,
+   "py": 4701.8,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 3 (Right.Pidions):\nPidion (LV10) (Spawner: Right.Pidions, up to 2, 150/1000)\nSkarshar (LV13) (Spawner: Right.Skarshar, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Pidion, Skarshar",
+   "px": 356.9,
+   "py": 4724.4,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 54,
+     "name": "Pidion",
+     "level": 10
+    },
+    {
+     "id": 134,
+     "name": "Skarshar",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 7 on AI web 3 (Right.Pidions):\nPidion (LV10) (Spawner: Right.Pidions, up to 2, 150/1000)\nSkarshar (LV13) (Spawner: Right.Skarshar, up to 1, 100/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 1001.5,
+   "py": 5127.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 998.4,
+   "py": 5306,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 838.2,
+   "py": 5136.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 905,
+   "py": 4997.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 1124,
+   "py": 4985,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 1073.2,
+   "py": 5210.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 1043.5,
+   "py": 5035.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Rancon, Sgod",
+   "px": 898,
+   "py": 5129.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 182,
+     "name": "Rancon",
+     "level": 15
+    },
+    {
+     "id": 290,
+     "name": "Sgod",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 8 on AI web 4 (Rancons):\nRancon (LV15) (Spawner: Rancons, up to 2, 150/1000)\nSgod (LV8) (Spawner: Rancon.Room.Sgod, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 887.7,
+   "py": 6431.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 918.8,
+   "py": 6182.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1123.8,
+   "py": 6198.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1141.4,
+   "py": 6375.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1050.5,
+   "py": 6538.1,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 961.1,
+   "py": 6495.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 949.8,
+   "py": 6394.4,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1009.9,
+   "py": 6241.8,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1093.5,
+   "py": 6317.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1033.6,
+   "py": 6391.1,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1011.8,
+   "py": 6357.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1155,
+   "py": 6294.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1119.4,
+   "py": 6410.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 986.4,
+   "py": 6463.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 873,
+   "py": 6422.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 888.1,
+   "py": 6315.8,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 982.1,
+   "py": 6239.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 965.6,
+   "py": 6372,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1054.4,
+   "py": 6395,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 974.8,
+   "py": 6400,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 919.4,
+   "py": 6421.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1000.8,
+   "py": 6378.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1078.8,
+   "py": 6357.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 930.8,
+   "py": 6360.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 957.1,
+   "py": 6259.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1042.4,
+   "py": 6271.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1042.4,
+   "py": 6271.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 874,
+   "py": 6367,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 874,
+   "py": 6367,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 874,
+   "py": 6367,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 851.5,
+   "py": 6278.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 851.5,
+   "py": 6278.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1056.1,
+   "py": 6283.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1045.9,
+   "py": 6443.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1045.9,
+   "py": 6443.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 935.7,
+   "py": 6499,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 935.7,
+   "py": 6499,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 899.6,
+   "py": 6446.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 899.6,
+   "py": 6446.5,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 937.7,
+   "py": 6387.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 937.7,
+   "py": 6387.3,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1066.1,
+   "py": 6314.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Eyezora",
+   "px": 1066.1,
+   "py": 6314.2,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 241,
+     "name": "Eyezora",
+     "level": 10
+    }
+   ],
+   "detail": "Can spawn at this node, one of 43 on AI web 5 (Eyezoras):\nEyezora (LV10) (Spawner: Eyezoras, up to 3, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 1760.5,
+   "py": 6102.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 6 (Left.Front.Pit.Room):\nGonlon (LV8) (Spawner: Left.Front.PitRoom.Gonlon, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 1760.5,
+   "py": 6102.6,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 6 (Left.Front.Pit.Room):\nGonlon (LV8) (Spawner: Left.Front.PitRoom.Gonlon, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 1834.1,
+   "py": 6446.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 7 (Left.Back.Pit.Room):\nKandra (LV14) (Spawner: Left.Back.Pit.Room.Kandra2, up to 2, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 1817.7,
+   "py": 6445.7,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 7 (Left.Back.Pit.Room):\nKandra (LV14) (Spawner: Left.Back.Pit.Room.Kandra2, up to 2, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 1754.7,
+   "py": 6448,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 7 (Left.Back.Pit.Room):\nKandra (LV14) (Spawner: Left.Back.Pit.Room.Kandra2, up to 2, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 189.4,
+   "py": 6446.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 8 (Right.Back.Pit.Room):\nKandra (LV14) (Spawner: Right.Back.Pit.Room.Kandras, up to 2, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Kandra",
+   "px": 189.4,
+   "py": 6446.9,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 80,
+     "name": "Kandra",
+     "level": 14
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 8 (Right.Back.Pit.Room):\nKandra (LV14) (Spawner: Right.Back.Pit.Room.Kandras, up to 2, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 238.1,
+   "py": 6119.4,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 9 (Right.Front.Pit.Room):\nGonlon (LV8) (Spawner: Right.Front.Pit.Room.Gonlon, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 238.1,
+   "py": 6119.4,
+   "radiusPx": 14.3,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 9 (Right.Front.Pit.Room):\nGonlon (LV8) (Spawner: Right.Front.Pit.Room.Gonlon, up to 1, 20/1000)"
   },
   {
    "layer": "gather",
    "name": "Chest of Villerus",
-   "px": 235.6,
-   "py": 839.7,
+   "px": 294.2,
+   "py": 1352.8,
    "respawnMin": 100,
    "key": 15
   },
   {
    "layer": "gather",
    "name": "Chest of Villerus",
-   "px": 233.7,
-   "py": 500.8,
+   "px": 290.9,
+   "py": 759.1,
    "respawnMin": 1000,
    "key": 16
   },
   {
    "layer": "gather",
    "name": "Large Wood Chest",
-   "px": 643.1,
-   "py": 2744,
+   "px": 1008.4,
+   "py": 4689.6,
    "respawnMin": 100,
    "key": 17
   },
   {
    "layer": "gather",
    "name": "Large Wood Chest",
-   "px": 628.4,
-   "py": 2752.2,
+   "px": 982.5,
+   "py": 4704,
    "holds": [
     {
      "name": "Large Health Potion (+40 HP)",
@@ -161,30 +1896,30 @@
   {
    "layer": "gather",
    "name": "Large Wood Chest",
-   "px": 1118.9,
-   "py": 3762.3
+   "px": 1842.1,
+   "py": 6473.9
   },
   {
    "layer": "gather",
    "name": "Large Wood Chest",
-   "px": 1108.9,
-   "py": 3747.7,
+   "px": 1824.6,
+   "py": 6448.3,
    "respawnMin": 83,
    "key": 19
   },
   {
    "layer": "gather",
    "name": "Large Wood Chest",
-   "px": 528.8,
-   "py": 3032.5,
+   "px": 808,
+   "py": 5195.1,
    "respawnMin": 83,
    "key": 18
   },
   {
    "layer": "gather",
    "name": "Large Metal Chest",
-   "px": 308.7,
-   "py": 2955.9,
+   "px": 422.4,
+   "py": 5060.9,
    "holds": [
     {
      "name": "Hand Flare Sticks (20)",
@@ -200,16 +1935,16 @@
   {
    "layer": "gather",
    "name": "Large Metal Chest",
-   "px": 394.1,
-   "py": 3692.1,
+   "px": 572,
+   "py": 6350.9,
    "respawnMin": 83,
    "key": 18
   },
   {
    "layer": "npcs",
    "name": "(Catacombs) BossChamber Chest07",
-   "px": 1516.5,
-   "py": 4112.7,
+   "px": 2538.7,
+   "py": 7087.9,
    "npcId": 48,
    "template": "Misc Inventory",
    "roles": [
@@ -234,8 +1969,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) TombRm KeyBox01",
-   "px": 741.9,
-   "py": 3800,
+   "px": 1181.6,
+   "py": 6540,
    "npcId": 64,
    "template": "Misc Inventory",
    "roles": [
@@ -256,8 +1991,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) TombRm KeyBox02",
-   "px": 679.1,
-   "py": 3850,
+   "px": 1071.5,
+   "py": 6627.5,
    "npcId": 65,
    "template": "Misc Inventory",
    "roles": [
@@ -277,8 +2012,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) TombRm KeyBox03",
-   "px": 678.7,
-   "py": 3537.3,
+   "px": 1070.7,
+   "py": 6079.7,
    "npcId": 66,
    "template": "Misc Inventory",
    "roles": [
@@ -298,16 +2033,16 @@
   {
    "layer": "gather",
    "name": "Large Metal Chest",
-   "px": 643.8,
-   "py": 1599.8,
+   "px": 1009.6,
+   "py": 2684.7,
    "respawnMin": 100,
    "key": 17
   },
   {
    "layer": "gather",
    "name": "Large Wood Chest",
-   "px": 743.5,
-   "py": 1597,
+   "px": 1184.2,
+   "py": 2679.8,
    "holds": [
     {
      "name": "Sun Plant"
@@ -319,8 +2054,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) Keybox_serpents01",
-   "px": 643.6,
-   "py": 2673,
+   "px": 1009.2,
+   "py": 4565.2,
    "npcId": 69,
    "template": "Misc Inventory",
    "roles": [
@@ -348,8 +2083,8 @@
   {
    "layer": "npcs",
    "name": "(Catacombs) Keybox_serpents02",
-   "px": 659.7,
-   "py": 2871.6,
+   "px": 1037.5,
+   "py": 4913.2,
    "npcId": 70,
    "template": "Misc Inventory",
    "roles": [
@@ -377,8 +2112,8 @@
   {
    "layer": "npcs",
    "name": "Sirra",
-   "px": 605,
-   "py": 1028.7,
+   "px": 941.6,
+   "py": 1684,
    "npcId": 405,
    "template": "Human Female",
    "roles": [
@@ -454,8 +2189,8 @@
   {
    "layer": "npcs",
    "name": "(Crom Chest) Chest Armor",
-   "px": 1401.4,
-   "py": 4091.8,
+   "px": 2337.1,
+   "py": 7051.4,
    "npcId": 441,
    "template": "Misc Inventory",
    "roles": [
@@ -483,8 +2218,8 @@
   {
    "layer": "npcs",
    "name": "(Neronicle/ChalisQuestChest) Centriole Power Gen",
-   "px": 644.8,
-   "py": 3073.7,
+   "px": 1011.3,
+   "py": 5267.4,
    "npcId": 466,
    "template": "Misc Inventory",
    "roles": [
@@ -509,8 +2244,8 @@
   {
    "layer": "npcs",
    "name": "Blapstion",
-   "px": 698.1,
-   "py": 230.4,
+   "px": 1104.8,
+   "py": 285.2,
    "npcId": 502,
    "template": "Hijon",
    "roles": [
@@ -604,8 +2339,8 @@
   {
    "layer": "npcs",
    "name": "Nargas",
-   "px": 786.8,
-   "py": 1596.9,
+   "px": 1260.2,
+   "py": 2679.7,
    "npcId": 503,
    "template": "Human Male",
    "roles": [
@@ -638,8 +2373,8 @@
   {
    "layer": "npcs",
    "name": "Val",
-   "px": 616.2,
-   "py": 2585.4,
+   "px": 961.2,
+   "py": 4411.7,
    "npcId": 506,
    "template": "Human Female",
    "roles": [
@@ -696,8 +2431,8 @@
   {
    "layer": "npcs",
    "name": "Tasgot",
-   "px": 639.7,
-   "py": 3112.8,
+   "px": 1002.4,
+   "py": 5335.9,
    "npcId": 507,
    "template": "Human Male",
    "roles": [
@@ -745,8 +2480,8 @@
   {
    "layer": "npcs",
    "name": "Vecapan",
-   "px": 644.3,
-   "py": 2754.9,
+   "px": 1010.5,
+   "py": 4708.8,
    "npcId": 509,
    "template": "Shapra",
    "roles": [
@@ -798,8 +2533,8 @@
   {
    "layer": "npcs",
    "name": "Blapstion\"s Servant",
-   "px": 721.7,
-   "py": 214.3,
+   "px": 1146,
+   "py": 257,
    "npcId": 511,
    "template": "Grounce",
    "roles": [
@@ -915,8 +2650,8 @@
   {
    "layer": "npcs",
    "name": "...Happiness...",
-   "px": 337.4,
-   "py": 4194.6,
+   "px": 472.8,
+   "py": 7231.5,
    "npcId": 670,
    "template": "Misc Inventory",
    "roles": [
@@ -952,8 +2687,8 @@
   {
    "layer": "npcs",
    "name": "...Intellect...",
-   "px": 382.2,
-   "py": 4190.3,
+   "px": 551.2,
+   "py": 7223.8,
    "npcId": 671,
    "template": "Misc Inventory",
    "roles": [
@@ -989,8 +2724,8 @@
   {
    "layer": "npcs",
    "name": "...Longevity...",
-   "px": 353.6,
-   "py": 4088.7,
+   "px": 501.1,
+   "py": 7046,
    "npcId": 672,
    "template": "Misc Inventory",
    "roles": [
@@ -1026,8 +2761,8 @@
   {
    "layer": "npcs",
    "name": "...Andradance...",
-   "px": 636.8,
-   "py": 4449.6,
+   "px": 997.4,
+   "py": 7678.3,
    "npcId": 674,
    "template": "Misc Inventory",
    "roles": [
@@ -1063,8 +2798,8 @@
   {
    "layer": "npcs",
    "name": "...Intellect...",
-   "px": 618.9,
-   "py": 4492.4,
+   "px": 966,
+   "py": 7753.2,
    "npcId": 676,
    "template": "Misc Inventory",
    "roles": [
@@ -1100,8 +2835,8 @@
   {
    "layer": "npcs",
    "name": "...Sol...",
-   "px": 564.3,
-   "py": 4406.5,
+   "px": 870.3,
+   "py": 7602.8,
    "npcId": 678,
    "template": "Misc Inventory",
    "roles": [
@@ -1137,8 +2872,8 @@
   {
    "layer": "npcs",
    "name": "...Andradance...",
-   "px": 774.7,
-   "py": 4129.4,
+   "px": 1239,
+   "py": 7117.2,
    "npcId": 679,
    "template": "Misc Inventory",
    "roles": [
@@ -1174,8 +2909,8 @@
   {
    "layer": "npcs",
    "name": "...Happiness...",
-   "px": 759.1,
-   "py": 4110.4,
+   "px": 1211.6,
+   "py": 7083.8,
    "npcId": 680,
    "template": "Misc Inventory",
    "roles": [
@@ -1211,8 +2946,8 @@
   {
    "layer": "npcs",
    "name": "...Sol...",
-   "px": 675.6,
-   "py": 4155.8,
+   "px": 1065.3,
+   "py": 7163.4,
    "npcId": 683,
    "template": "Misc Inventory",
    "roles": [
@@ -1248,8 +2983,8 @@
   {
    "layer": "npcs",
    "name": "Natur",
-   "px": 177.6,
-   "py": 3767.9,
+   "px": 192.7,
+   "py": 6483.7,
    "npcId": 689,
    "template": "Amphibious",
    "roles": [
@@ -1310,8 +3045,8 @@
   {
    "layer": "npcs",
    "name": "Sinance",
-   "px": 689.4,
-   "py": 4148.9,
+   "px": 1089.5,
+   "py": 7151.4,
    "npcId": 1541,
    "template": "Bloblic",
    "quests": [
@@ -1323,8 +3058,8 @@
   {
    "layer": "npcs",
    "name": "Cujex",
-   "px": 689.4,
-   "py": 4148.9,
+   "px": 1089.5,
+   "py": 7151.4,
    "npcId": 1542,
    "template": "InvNoCoHuge65",
    "quests": [
@@ -1336,8 +3071,8 @@
   {
    "layer": "npcs",
    "name": "Blermur",
-   "px": 689.4,
-   "py": 4148.9,
+   "px": 1089.5,
+   "py": 7151.4,
    "npcId": 1543,
    "template": "InvNoCoHuge65",
    "quests": [
@@ -1349,8 +3084,8 @@
   {
    "layer": "npcs",
    "name": "Macris",
-   "px": 689.4,
-   "py": 4148.9,
+   "px": 1089.5,
+   "py": 7151.4,
    "npcId": 1544,
    "template": "InvNoCoHuge65",
    "quests": [
@@ -1362,160 +3097,160 @@
   {
    "layer": "npcs",
    "name": "1",
-   "px": 514.1,
-   "py": 459.5,
+   "px": 782.3,
+   "py": 686.6,
    "npcId": 1592,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "2",
-   "px": 633.7,
-   "py": 409.8,
+   "px": 991.9,
+   "py": 599.5,
    "npcId": 1593,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "3",
-   "px": 775.8,
-   "py": 440.7,
+   "px": 1240.9,
+   "py": 653.7,
    "npcId": 1594,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "4",
-   "px": 886.3,
-   "py": 539.1,
+   "px": 1434.5,
+   "py": 826.1,
    "npcId": 1595,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "5",
-   "px": 899.4,
-   "py": 734.3,
+   "px": 1457.4,
+   "py": 1168.2,
    "npcId": 1596,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "6",
-   "px": 811.8,
-   "py": 868.9,
+   "px": 1304,
+   "py": 1404,
    "npcId": 1597,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "7",
-   "px": 679.8,
-   "py": 929.7,
+   "px": 1072.7,
+   "py": 1510.6,
    "npcId": 1598,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "8",
-   "px": 525.1,
-   "py": 902.4,
+   "px": 801.6,
+   "py": 1462.7,
    "npcId": 1599,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "9",
-   "px": 412.6,
-   "py": 798.1,
+   "px": 604.4,
+   "py": 1279.9,
    "npcId": 1600,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "10",
-   "px": 388.8,
-   "py": 631.4,
+   "px": 562.7,
+   "py": 987.8,
    "npcId": 1601,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "11",
-   "px": 573.3,
-   "py": 771.5,
+   "px": 886.1,
+   "py": 1233.3,
    "npcId": 1602,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "12",
-   "px": 502.2,
-   "py": 644.2,
+   "px": 761.5,
+   "py": 1010.3,
    "npcId": 1603,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "13",
-   "px": 595.8,
-   "py": 554.8,
+   "px": 925.5,
+   "py": 853.7,
    "npcId": 1604,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "14",
-   "px": 686.7,
-   "py": 648.5,
+   "px": 1084.7,
+   "py": 1017.9,
    "npcId": 1605,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "15",
-   "px": 804.4,
-   "py": 636.1,
+   "px": 1291,
+   "py": 996.1,
    "npcId": 1606,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "16",
-   "px": 741,
-   "py": 762.5,
+   "px": 1179.9,
+   "py": 1217.6,
    "npcId": 1607,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "17",
-   "px": 664.9,
-   "py": 831.9,
+   "px": 1046.6,
+   "py": 1339.2,
    "npcId": 1608,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "18",
-   "px": 724.6,
-   "py": 530.1,
+   "px": 1151.1,
+   "py": 810.4,
    "npcId": 1609,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "20",
-   "px": 477.7,
-   "py": 723.4,
+   "px": 718.6,
+   "py": 1149.1,
    "npcId": 1611,
    "template": "InvNoCoHuge65"
   },
   {
    "layer": "npcs",
    "name": "Sorgon",
-   "px": 639,
-   "py": 2990.8,
+   "px": 1001.3,
+   "py": 5122,
    "npcId": 1620,
    "template": "Bloblic",
    "quests": [
@@ -1527,8 +3262,8 @@
   {
    "layer": "npcs",
    "name": "Motakor1",
-   "px": 639,
-   "py": 2990.8,
+   "px": 1001.3,
+   "py": 5122,
    "npcId": 1621,
    "template": "InvNoCoHuge65",
    "quests": [
@@ -1540,8 +3275,8 @@
   {
    "layer": "npcs",
    "name": "Motakor2",
-   "px": 639,
-   "py": 2990.8,
+   "px": 1001.3,
+   "py": 5122,
    "npcId": 1622,
    "template": "InvNoCoHuge65",
    "quests": [
@@ -1553,8 +3288,8 @@
   {
    "layer": "npcs",
    "name": "Motakor3",
-   "px": 639,
-   "py": 2990.8,
+   "px": 1001.3,
+   "py": 5122,
    "npcId": 1623,
    "template": "InvNoCoHuge65",
    "quests": [
@@ -1566,8 +3301,8 @@
   {
    "layer": "npcs",
    "name": "Motakor4",
-   "px": 639,
-   "py": 2990.8,
+   "px": 1001.3,
+   "py": 5122,
    "npcId": 1624,
    "template": "InvNoCoHuge65",
    "quests": [
@@ -1579,16 +3314,16 @@
   {
    "layer": "portals",
    "name": "...Andradance...",
-   "px": 328.3,
-   "py": 4096.2,
+   "px": 456.8,
+   "py": 7059,
    "npcId": 669,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 773,
-      "py": 4130.9
+      "px": 1235.9,
+      "py": 7119.8
      },
      "title": "Port"
     }
@@ -1597,16 +3332,16 @@
   {
    "layer": "portals",
    "name": "...Sol...",
-   "px": 311.3,
-   "py": 4110.7,
+   "px": 427,
+   "py": 7084.4,
    "npcId": 673,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 566.6,
-      "py": 4405.2
+      "px": 874.4,
+      "py": 7600.5
      },
      "title": "Port"
     }
@@ -1615,16 +3350,16 @@
   {
    "layer": "portals",
    "name": "...Happiness...",
-   "px": 632.7,
-   "py": 4471.6,
+   "px": 990.2,
+   "py": 7716.7,
    "npcId": 675,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 337.5,
-      "py": 4192.1
+      "px": 472.9,
+      "py": 7227.1
      },
      "title": "Port"
     }
@@ -1633,16 +3368,16 @@
   {
    "layer": "portals",
    "name": "...Longevity...",
-   "px": 546.7,
-   "py": 4418.2,
+   "px": 839.4,
+   "py": 7623.3,
    "npcId": 677,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 352.6,
-      "py": 4090.6
+      "px": 499.3,
+      "py": 7049.2
      },
      "title": "port"
     }
@@ -1651,16 +3386,16 @@
   {
    "layer": "portals",
    "name": "...Intellect...",
-   "px": 683.8,
-   "py": 4175.6,
+   "px": 1079.8,
+   "py": 7198.1,
    "npcId": 681,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 617.4,
-      "py": 4493.7
+      "px": 963.3,
+      "py": 7755.6
      },
      "title": "port"
     }
@@ -1669,13 +3404,14 @@
   {
    "layer": "portals",
    "name": "...Longevity...",
-   "px": 694.4,
-   "py": 4195.1,
+   "px": 1098.3,
+   "py": 7232.4,
    "npcId": 682,
    "routes": [
     {
      "to": {
-      "world": "unknown"
+      "world": "Catacombs",
+      "slug": "catacombs"
      },
      "title": "I seek the one with longevity...",
      "needs": [
@@ -1688,9 +3424,9 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 644.7,
-   "py": 216.5,
+   "name": "Teleporter",
+   "px": 1011.2,
+   "py": 260.8,
    "npcId": 1104,
    "routes": [
     {
@@ -1706,17 +3442,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 643.9,
-   "py": 1510.7,
+   "name": "Teleporter",
+   "px": 1009.8,
+   "py": 2528.6,
    "npcId": 1105,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 644.3,
-      "py": 283
+      "px": 1010.5,
+      "py": 377.3
      },
      "title": "Blink!"
     }
@@ -1724,17 +3460,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 1498.1,
-   "py": 4627.4,
+   "name": "Teleporter",
+   "px": 2506.5,
+   "py": 7989.8,
    "npcId": 1141,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 644.3,
-      "py": 651.5
+      "px": 1010.5,
+      "py": 1023
      },
      "title": "Blink!"
     }
@@ -1742,17 +3478,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 1498.4,
-   "py": 4519.5,
+   "name": "Teleporter",
+   "px": 2507,
+   "py": 7800.7,
    "npcId": 1142,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 1498.1,
-      "py": 4586.5
+      "px": 2506.5,
+      "py": 7918.1
      },
      "title": "Blink!",
      "needs": [
@@ -1765,17 +3501,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 740.6,
-   "py": 4098.4,
+   "name": "Teleporter",
+   "px": 1179.1,
+   "py": 7062.8,
    "npcId": 1145,
    "routes": [
     {
      "to": {
       "world": "Datro Lair",
       "slug": "datro-lair",
-      "px": 3351.1,
-      "py": 5669.2
+      "px": 4288.9,
+      "py": 2357.2
      },
      "title": "Blink!"
     }
@@ -1783,17 +3519,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 532.7,
-   "py": 4436.2,
+   "name": "Teleporter",
+   "px": 815,
+   "py": 7654.8,
    "npcId": 1146,
    "routes": [
     {
      "to": {
       "world": "Datro Lair",
       "slug": "datro-lair",
-      "px": 3351.1,
-      "py": 5669.2
+      "px": 4288.9,
+      "py": 2357.2
      },
      "title": "Blink!"
     }
@@ -1801,17 +3537,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 360,
-   "py": 4196.2,
+   "name": "Teleporter",
+   "px": 512.3,
+   "py": 7234.3,
    "npcId": 1147,
    "routes": [
     {
      "to": {
       "world": "Datro Lair",
       "slug": "datro-lair",
-      "px": 3351.1,
-      "py": 5669.2
+      "px": 4288.9,
+      "py": 2357.2
      },
      "title": "Blink!"
     }
@@ -1819,17 +3555,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 1498.1,
-   "py": 3994.8,
+   "name": "Teleporter",
+   "px": 2506.5,
+   "py": 6881.3,
    "npcId": 1149,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 657.3,
-      "py": 4201.2
+      "px": 1033.2,
+      "py": 7243
      },
      "title": "Blink!"
     }
@@ -1837,17 +3573,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 617.8,
-   "py": 665.7,
+   "name": "Teleporter",
+   "px": 964.1,
+   "py": 1048,
    "npcId": 1427,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 628.9,
-      "py": 1672.3
+      "px": 983.4,
+      "py": 2811.8
      },
      "title": "Port"
     }
@@ -1855,35 +3591,17 @@
   },
   {
    "layer": "portals",
-   "name": "Telosafixer",
-   "px": 7355.1,
-   "py": 8074.3,
-   "npcId": 1485,
-   "routes": [
-    {
-     "to": {
-      "world": "Gold Nub Zone",
-      "slug": "gold-nub-zone",
-      "px": 3261.4,
-      "py": 3433.8
-     },
-     "title": "lulz"
-    }
-   ]
-  },
-  {
-   "layer": "portals",
-   "name": "",
-   "px": 647.7,
-   "py": 642.1,
+   "name": "Teleporter",
+   "px": 1016.3,
+   "py": 1006.6,
    "npcId": 1506,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": ""
     }
@@ -1891,17 +3609,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 795.7,
-   "py": 573.1,
+   "name": "Teleporter",
+   "px": 1275.8,
+   "py": 885.7,
    "npcId": 1653,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": "0"
     }
@@ -1909,17 +3627,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 732.3,
-   "py": 801.8,
+   "name": "Teleporter",
+   "px": 1164.7,
+   "py": 1286.4,
    "npcId": 1654,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": ""
     }
@@ -1927,17 +3645,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 611.1,
-   "py": 834,
+   "name": "Teleporter",
+   "px": 952.2,
+   "py": 1342.9,
    "npcId": 1655,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": ""
     }
@@ -1945,17 +3663,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 509,
-   "py": 768.1,
+   "name": "Teleporter",
+   "px": 773.5,
+   "py": 1227.4,
    "npcId": 1656,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": ""
     }
@@ -1963,17 +3681,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 480,
-   "py": 637.7,
+   "name": "Teleporter",
+   "px": 722.6,
+   "py": 998.8,
    "npcId": 1657,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": ""
     }
@@ -1981,17 +3699,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 544.6,
-   "py": 534.9,
+   "name": "Teleporter",
+   "px": 835.8,
+   "py": 818.7,
    "npcId": 1658,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": ""
     }
@@ -1999,17 +3717,17 @@
   },
   {
    "layer": "portals",
-   "name": "",
-   "px": 670.9,
-   "py": 521.1,
+   "name": "Teleporter",
+   "px": 1057.1,
+   "py": 794.7,
    "npcId": 1659,
    "routes": [
     {
      "to": {
       "world": "Catacombs",
       "slug": "catacombs",
-      "px": 642.5,
-      "py": 1694.6
+      "px": 1007.3,
+      "py": 2850.8
      },
      "title": ""
     }
@@ -2018,393 +3736,393 @@
   {
    "layer": "safezones",
    "name": "Catacombs Entrance",
-   "px": 639.2,
-   "py": 258,
+   "px": 1001.5,
+   "py": 333.5,
    "box": [
-    593.6,
-    243.2,
-    684.9,
-    272.7
+    921.5,
+    307.7,
+    1081.5,
+    359.4
    ],
    "kind": "monsters don't attack here"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 24",
-   "px": 643.4,
-   "py": 3693.4,
-   "radiusPx": 204.7,
+   "px": 1008.9,
+   "py": 6353.3,
+   "radiusPx": 358.7,
    "detail": "Action 6: play soundtrack, argument 24\nRadius: 500\nObject 12 (TOMBSa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 643.4,
-   "py": 670.3,
-   "radiusPx": 614.2,
+   "px": 1008.9,
+   "py": 1056,
+   "radiusPx": 1076.2,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 1500\nObject 101 (PORTTRIG_MainEntDropa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 643.5,
-   "py": 1511.4,
-   "radiusPx": 6.1,
+   "px": 1009.1,
+   "py": 2529.7,
+   "radiusPx": 10.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 102 (PORTTRIG_MainEntTombSeca.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 360,
-   "py": 4196.1,
-   "radiusPx": 6.1,
+   "px": 512.4,
+   "py": 7234.1,
+   "radiusPx": 10.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 134 (PortGlassDr02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 740.5,
-   "py": 4098.4,
-   "radiusPx": 6.1,
+   "px": 1179,
+   "py": 7062.9,
+   "radiusPx": 10.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 139 (PortGlassDr07a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 532.8,
-   "py": 4435.9,
-   "radiusPx": 6.1,
+   "px": 815.2,
+   "py": 7654.2,
+   "radiusPx": 10.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 146 (PortGlassDr14a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "Soundtrack 18",
-   "px": 643.4,
-   "py": 670.3,
-   "radiusPx": 818.9,
+   "px": 1008.9,
+   "py": 1056,
+   "radiusPx": 1435,
    "detail": "Action 6: play soundtrack, argument 18\nRadius: 2000\nObject 274 (MainDropWalls01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 643.4,
-   "py": 217.2,
-   "radiusPx": 8.2,
+   "px": 1008.9,
+   "py": 262,
+   "radiusPx": 14.3,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 276 (MainPortala.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 2035.4,
-   "py": 3304.5,
-   "radiusPx": 12.3,
+   "px": 3447.9,
+   "py": 5671.7,
+   "radiusPx": 21.5,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 456 (PARTTRIG_BOSSSECENTPORTa.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 1497.2,
-   "py": 3994.6,
-   "radiusPx": 30.7,
+   "px": 2505,
+   "py": 6881.1,
+   "radiusPx": 53.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 480 (DROPRMGLOWBALL02a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 1498.5,
-   "py": 4629,
-   "radiusPx": 30.7,
+   "px": 2507.2,
+   "py": 7992.7,
+   "radiusPx": 53.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 75\nObject 524 (MAINEXITPORT01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 2035.5,
-   "py": 3304.5,
-   "radiusPx": 12.3,
+   "px": 3448.1,
+   "py": 5671.9,
+   "radiusPx": 21.5,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 30\nObject 595 (PORTTRIG_BossSecReturna.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 1498.7,
-   "py": 4116.6,
-   "radiusPx": 61.4,
+   "px": 2507.5,
+   "py": 7094.7,
+   "radiusPx": 107.6,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 150\nObject 598 (PORTTRIG_BossSecKeyDra.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 1498.7,
-   "py": 4154.9,
-   "radiusPx": 6.1,
+   "px": 2507.5,
+   "py": 7161.9,
+   "radiusPx": 10.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 599 (PORTTRIG_BossSecKeyDr01a.ARW)"
   },
   {
    "layer": "triggers",
    "name": "external portal",
-   "px": 1498.4,
-   "py": 4519.1,
-   "radiusPx": 6.1,
+   "px": 2507.1,
+   "py": 7800,
+   "radiusPx": 10.8,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 600 (PORTTRIG_MnCataExita.ARW)"
   },
   {
    "layer": "water",
    "name": "Catacombs01",
-   "px": 643.1,
-   "py": 1598.7,
+   "px": 1008.4,
+   "py": 2682.7,
    "box": [
-    467.1,
-    1422.6,
-    819.2,
-    1774.7
+    699.9,
+    2374.2,
+    1317,
+    2991.2
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs02",
-   "px": 643.1,
-   "py": 2135,
+   "px": 1008.4,
+   "py": 3622.6,
    "box": [
-    597.1,
-    1766.5,
-    689.2,
-    2503.5
+    927.7,
+    2976.8,
+    1089.2,
+    4268.3
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs03",
-   "px": 643.1,
-   "py": 2583.8,
+   "px": 1008.4,
+   "py": 4408.9,
    "box": [
-    535.7,
-    2476.3,
-    750.6,
-    2691.3
+    820.1,
+    4220.6,
+    1196.8,
+    4597.3
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs04",
-   "px": 643.1,
-   "py": 2583.8,
+   "px": 1008.4,
+   "py": 4408.9,
    "box": [
-    417.9,
-    2537.7,
-    868.4,
-    2629.9
+    613.8,
+    4328.2,
+    1403.1,
+    4489.6
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs05",
-   "px": 487.5,
-   "py": 2993.4,
+   "px": 735.8,
+   "py": 5126.6,
    "box": [
-    434.3,
-    2948.3,
-    540.8,
-    3038.4
+    642.5,
+    5047.7,
+    829.1,
+    5205.6
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs06",
-   "px": 800.6,
-   "py": 2993.4,
+   "px": 1284.4,
+   "py": 5126.6,
    "box": [
-    747.4,
-    2948.3,
-    853.9,
-    3038.4
+    1191.1,
+    5047.7,
+    1377.7,
+    5205.6
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs07",
-   "px": 643.5,
-   "py": 3325.2,
+   "px": 1009.1,
+   "py": 5708.1,
    "box": [
-    628.2,
-    3120.5,
-    658.9,
-    3530
+    982.2,
+    5349.3,
+    1036,
+    6066.8
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs08",
-   "px": 642.9,
-   "py": 3693,
+   "px": 1008.1,
+   "py": 6352.5,
    "box": [
-    481.2,
-    3524.1,
-    804.7,
-    3861.9
+    724.7,
+    6056.6,
+    1291.5,
+    6648.5
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs09",
-   "px": 642.9,
-   "py": 3693,
+   "px": 1008.1,
+   "py": 6352.5,
    "box": [
-    622.5,
-    3672.5,
-    663.4,
-    3713.5
+    972.2,
+    6316.6,
+    1044,
+    6388.4
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs10",
-   "px": 642.9,
-   "py": 3805.4,
+   "px": 1008.1,
+   "py": 6549.5,
    "box": [
-    622.5,
-    3703,
-    663.4,
-    3907.8
+    972.2,
+    6370.1,
+    1044,
+    6728.8
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs11",
-   "px": 579.4,
-   "py": 3900.3,
+   "px": 896.7,
+   "py": 6715.7,
    "box": [
-    497.5,
-    3797.9,
-    661.3,
-    4002.6
+    753.2,
+    6536.3,
+    1040.2,
+    6895.1
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs12",
-   "px": 547.9,
-   "py": 4086.8,
+   "px": 841.5,
+   "py": 7042.6,
    "box": [
-    517.2,
-    4001.8,
-    578.6,
-    4171.8
+    787.7,
+    6893.7,
+    895.3,
+    7191.4
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs13",
-   "px": 547.4,
-   "py": 4202.2,
+   "px": 840.6,
+   "py": 7244.8,
    "box": [
-    504.4,
-    4161.3,
-    590.4,
-    4243.2
+    765.3,
+    7173.1,
+    916,
+    7316.6
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs14",
-   "px": 550.4,
-   "py": 4163.9,
+   "px": 846,
+   "py": 7177.7,
    "box": [
-    537.1,
-    4137.3,
-    563.7,
-    4190.5
+    822.7,
+    7131,
+    869.3,
+    7224.3
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs15",
-   "px": 456.4,
-   "py": 4173,
+   "px": 681.2,
+   "py": 7193.6,
    "box": [
-    395,
-    4155.6,
-    517.8,
-    4190.4
+    573.6,
+    7163.1,
+    788.8,
+    7224.1
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs16",
-   "px": 377.2,
-   "py": 4160.6,
+   "px": 542.4,
+   "py": 7171.9,
    "box": [
-    335.2,
-    4129.9,
-    419.1,
-    4191.3
+    468.8,
+    7118.1,
+    615.9,
+    7225.7
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs17",
-   "px": 664.8,
-   "py": 4172.3,
+   "px": 1046.4,
+   "py": 7192.3,
    "box": [
-    588,
-    4110.9,
-    741.6,
-    4233.7
+    911.9,
+    7084.7,
+    1181,
+    7300
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs18",
-   "px": 554.9,
-   "py": 4324.8,
+   "px": 853.9,
+   "py": 7459.6,
    "box": [
-    534.5,
-    4237.8,
-    575.4,
-    4411.8
+    818,
+    7307.2,
+    889.8,
+    7612.1
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs19",
-   "px": 548.2,
-   "py": 4420.8,
+   "px": 842.1,
+   "py": 7627.8,
    "box": [
-    496,
-    4369.6,
-    600.4,
-    4472
+    750.6,
+    7538.1,
+    933.5,
+    7717.5
    ],
    "detail": "Water zone"
   },
   {
    "layer": "water",
    "name": "Catacombs20",
-   "px": 557.7,
-   "py": 4202.6,
+   "px": 858.8,
+   "py": 7245.4,
    "box": [
-    535.4,
-    4179,
-    580,
-    4226.1
+    819.7,
+    7204.2,
+    897.9,
+    7286.7
    ],
    "detail": "Water zone"
   }

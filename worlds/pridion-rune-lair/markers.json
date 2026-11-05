@@ -3,7 +3,7 @@
  "markers": [
   {
    "layer": "mobs",
-   "name": "Pridion, Dark Jouster",
+   "name": "Pridion, Jouster",
    "px": 1529.4,
    "py": 1159.9,
    "radiusPx": 2.3,
@@ -15,16 +15,16 @@
      "boss": true
     },
     {
-     "id": 56,
-     "name": "Dark Jouster",
-     "level": 13
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Pridion):\nPridion (LV15 BOSS) (Spawner: Pridion, up to 1, 10/1000)\nJouster (LV8) (Spawner: Jousters, up to 4, 250/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Pridion, Dark Jouster",
+   "name": "Pridion, Jouster",
    "px": 911.7,
    "py": 2219.6,
    "mobs": [
@@ -35,16 +35,16 @@
      "boss": true
     },
     {
-     "id": 56,
-     "name": "Dark Jouster",
-     "level": 13
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Pridion):\nPridion (LV15 BOSS) (Spawner: Pridion, up to 1, 10/1000)\nJouster (LV8) (Spawner: Jousters, up to 4, 250/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Pridion, Dark Jouster",
+   "name": "Pridion, Jouster",
    "px": 1928.8,
    "py": 2857.7,
    "radiusPx": 2.3,
@@ -56,16 +56,16 @@
      "boss": true
     },
     {
-     "id": 56,
-     "name": "Dark Jouster",
-     "level": 13
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Pridion):\nPridion (LV15 BOSS) (Spawner: Pridion, up to 1, 10/1000)\nJouster (LV8) (Spawner: Jousters, up to 4, 250/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Pridion, Dark Jouster",
+   "name": "Pridion, Jouster",
    "px": 2239.6,
    "py": 2240.9,
    "radiusPx": 2.3,
@@ -77,16 +77,16 @@
      "boss": true
     },
     {
-     "id": 56,
-     "name": "Dark Jouster",
-     "level": 13
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Pridion):\nPridion (LV15 BOSS) (Spawner: Pridion, up to 1, 10/1000)\nJouster (LV8) (Spawner: Jousters, up to 4, 250/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Pridion, Dark Jouster",
+   "name": "Pridion, Jouster",
    "px": 2890.8,
    "py": 3794.6,
    "radiusPx": 2.3,
@@ -98,16 +98,16 @@
      "boss": true
     },
     {
-     "id": 56,
-     "name": "Dark Jouster",
-     "level": 13
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Pridion):\nPridion (LV15 BOSS) (Spawner: Pridion, up to 1, 10/1000)\nJouster (LV8) (Spawner: Jousters, up to 4, 250/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Pridion, Dark Jouster",
+   "name": "Pridion, Jouster",
    "px": 2886.3,
    "py": 3120.6,
    "radiusPx": 2.3,
@@ -119,12 +119,12 @@
      "boss": true
     },
     {
-     "id": 56,
-     "name": "Dark Jouster",
-     "level": 13
+     "id": 53,
+     "name": "Jouster",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 49 (PRIDION_AITREE):\nPridion (LV15 BOSS) (Spawner: 35 PRIDION DIM 0, up to 1)\nDark Jouster (LV13) (Spawner: 19 DARK JOUSTER DIM 3, up to 2)"
+   "detail": "Can spawn at this node, one of 6 on AI web 0 (Pridion):\nPridion (LV15 BOSS) (Spawner: Pridion, up to 1, 10/1000)\nJouster (LV8) (Spawner: Jousters, up to 4, 250/1000)"
   },
   {
    "layer": "portals",
@@ -137,8 +137,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 4714.7,
-      "py": 5293.6
+      "px": 5727.4,
+      "py": 7309.8
      },
      "title": "Blink!",
      "needs": [
@@ -160,8 +160,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 4714.7,
-      "py": 5293.6
+      "px": 5727.4,
+      "py": 7309.8
      },
      "title": "Blink!",
      "needs": [

@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "training",
   "title": "Training",
   "places": [],
@@ -8,13 +8,13 @@
   "source": {
     "world": "Training.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 0.981448233127594,
+    "unitsPerPixel": 0.8463753163814545,
     "origin": {
-      "x": -1713.5360107421875,
-      "z": 4584.419921875
+      "x": -1197.1708984375,
+      "z": 4563.140625
     }
   },
-  "width": 7566,
+  "width": 8139,
   "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,

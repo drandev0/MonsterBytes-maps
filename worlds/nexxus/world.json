@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "nexxus",
   "title": "Nexxus",
   "places": [],
@@ -8,14 +8,14 @@
   "source": {
     "world": "Nexxus.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 0.05519937095232308,
+    "unitsPerPixel": 0.04560116585344076,
     "origin": {
-      "x": -443.6524963378906,
-      "z": 56.843894958496094
+      "x": -442.1404113769531,
+      "z": 55.331809997558594
     }
   },
   "width": 8192,
-  "height": 6068,
+  "height": 6994,
   "tileSize": 256,
   "maxZoom": 5,
   "background": "#281919",

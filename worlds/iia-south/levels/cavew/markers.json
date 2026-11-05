@@ -1,0 +1,397 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 1935.8,
+   "py": 4803.8,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 140 (Cave Sirilious - A):\nDeathbot01 (LV12) (Spawner: Cave Arilious 01 - Deathbot1, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 1960.7,
+   "py": 3901.9,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 140 (Cave Sirilious - A):\nDeathbot01 (LV12) (Spawner: Cave Arilious 01 - Deathbot1, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 1720.1,
+   "py": 3120.4,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 141 (Cave Sirilious - B):\nSarin (LV12) (Spawner: Cave Arilious 02 - Sarin0, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 1821.6,
+   "py": 2301.5,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 141 (Cave Sirilious - B):\nSarin (LV12) (Spawner: Cave Arilious 02 - Sarin0, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 1946,
+   "py": 417.6,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 142 (Cave Sirilious - C):\nDeathbot01 (LV12) (Spawner: Cave Arilious 03 - Deathbot1, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot01",
+   "px": 1465.1,
+   "py": 1317.7,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 98,
+     "name": "Deathbot01",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 142 (Cave Sirilious - C):\nDeathbot01 (LV12) (Spawner: Cave Arilious 03 - Deathbot1, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 1507.7,
+   "py": 1685,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 30,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 143 (Cave Sirilious - D):\nSarin (LV12) (Spawner: Cave Arilious 04 - Sarin1, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 2092.5,
+   "py": 717.9,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 30,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 143 (Cave Sirilious - D):\nSarin (LV12) (Spawner: Cave Arilious 04 - Sarin1, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 2264.8,
+   "py": 642.8,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 144 (Cave Sirilious - E):\nDeathbot02 (LV13) (Spawner: Cave Arilious 05 - Deathbot2, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot02",
+   "px": 3334.4,
+   "py": 647.9,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 99,
+     "name": "Deathbot02",
+     "level": 13
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 144 (Cave Sirilious - E):\nDeathbot02 (LV13) (Spawner: Cave Arilious 05 - Deathbot2, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 3298.5,
+   "py": 4197,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 31,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 145 (Cave Sirilious - F):\nSarin (LV12) (Spawner: Cave Arilious 06 - Sarin2, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 3210.7,
+   "py": 5115.9,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 31,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 145 (Cave Sirilious - F):\nSarin (LV12) (Spawner: Cave Arilious 06 - Sarin2, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 2865.6,
+   "py": 4381.7,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 31,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 145 (Cave Sirilious - F):\nSarin (LV12) (Spawner: Cave Arilious 06 - Sarin2, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3348.3,
+   "py": 2589.8,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 146 (Cave Sirilious - G):\nDeathbot (LV11) (Spawner: Cave Arilious 07 - Deathbot, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 3346.1,
+   "py": 2858,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 146 (Cave Sirilious - G):\nDeathbot (LV11) (Spawner: Cave Arilious 07 - Deathbot, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Deathbot",
+   "px": 2955.1,
+   "py": 2736.7,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 97,
+     "name": "Deathbot",
+     "level": 11
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 146 (Cave Sirilious - G):\nDeathbot (LV11) (Spawner: Cave Arilious 07 - Deathbot, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 2651.9,
+   "py": 4870.6,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 147 (Cave Sirilious - Blod):\nLigon (LV5) (Spawner: Cave Arilious 08 - Ligon, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 2635.9,
+   "py": 4986,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 147 (Cave Sirilious - Blod):\nLigon (LV5) (Spawner: Cave Arilious 08 - Ligon, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 2897.6,
+   "py": 5204.2,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 147 (Cave Sirilious - Blod):\nLigon (LV5) (Spawner: Cave Arilious 08 - Ligon, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 2800.9,
+   "py": 5113.9,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 147 (Cave Sirilious - Blod):\nLigon (LV5) (Spawner: Cave Arilious 08 - Ligon, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 2997.4,
+   "py": 5232.9,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 147 (Cave Sirilious - Blod):\nLigon (LV5) (Spawner: Cave Arilious 08 - Ligon, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 2928.1,
+   "py": 5108.1,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 6 on AI web 147 (Cave Sirilious - Blod):\nLigon (LV5) (Spawner: Cave Arilious 08 - Ligon, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 3378.3,
+   "py": 7127,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 32,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 148 (Cave Sirilious - H):\nSarin (LV12) (Spawner: Cave Arilious 09 - Sarin3, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Sarin",
+   "px": 2848,
+   "py": 7019.1,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 32,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 148 (Cave Sirilious - H):\nSarin (LV12) (Spawner: Cave Arilious 09 - Sarin3, up to 2, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01",
+   "px": 1997.6,
+   "py": 5776.9,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 149 (Cave Sirilious - I):\nDestroyer01 (LV15 BOSS) (Spawner: Cave Arilious 10 - Destroyer, up to 1, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Destroyer01",
+   "px": 2095,
+   "py": 5121.2,
+   "radiusPx": 26.4,
+   "mobs": [
+    {
+     "id": 100,
+     "name": "Destroyer01",
+     "level": 15,
+     "boss": true
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 149 (Cave Sirilious - I):\nDestroyer01 (LV15 BOSS) (Spawner: Cave Arilious 10 - Destroyer, up to 1, 500/1000)"
+  }
+ ]
+}

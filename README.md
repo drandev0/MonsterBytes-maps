@@ -17,10 +17,20 @@ worlds/<slug>/
   world.json     the world's name, the game's world id, the guide's places in it, its size and layers
   markers.json   every marker, joined to the game's tables (below)
   tiles/<z>/<x>/<y>.webp   the map cut into 256-pixel tiles, zoom 0 (whole map) to full detail
+  levels/<id>/   the world's other maps (a crypt, interiors, caves), each with its own
+                 markers.json and tiles; world.json lists them under "levels"
 tools/
   build-world.mjs   makes the world folders from an Aura Editor game data export
   check-worlds.mjs  the check that runs on every pull request
 ```
+
+## Levels
+
+Some worlds keep a second floor in the same file: 4 Falls' crypt, Boomtown's
+buildings, the caves under IIA and IIA South. Each is drawn on a map of its own,
+so it doesn't show through the land or hide under it. A marker is on exactly one
+map of its world. Spawn points come from the copy of each world the game's AI
+server runs, and spawners that can never spawn are left out.
 
 ## The markers
 
@@ -31,7 +41,7 @@ map in pixels, from the top-left corner. Then, by layer:
 |---|---|---|
 | `mobs` | a spawn point | `mobs`: each monster that can appear there, `{ "id", "name", "level" }` (`id` is the game's AI config number; `level` is null where the game's name gives none), `spawner`, `capacity`, `radiusPx` |
 | `npcs` | an NPC | `npcId`, `template` (race or model), `roles`, `quests` (`title`, `race`, `needs`, `gives`, `cash`, `opens`), `stock` (what they sell: `name`, `price`), `says` |
-| `portals` | a teleporter NPC | `npcId`, `routes`: each `{ "to": { "world", "slug", "px", "py" }, "title", "races", "needs" }` |
+| `portals` | a teleporter NPC | `npcId`, `routes`: each `{ "to": { "world", "slug", "level", "levelName", "px", "py" }, "title", "races", "needs" }` (`level` is set when it lands on one of the world's other maps) |
 | `gather` | a chest or gathering spot | `holds`, `respawnMin`, `key` |
 | `shops` | a shop counter (stand in it and talk to the shopkeeper) | `box`, `stock` |
 | `safezones` | a safe or damage zone | `box`, `kind` |

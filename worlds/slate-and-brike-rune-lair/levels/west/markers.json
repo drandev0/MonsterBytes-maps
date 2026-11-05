@@ -1,0 +1,302 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 1442.3,
+   "py": 1120.7,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 1063.2,
+   "py": 1711.2,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 2004.3,
+   "py": 1283.6,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 2132.8,
+   "py": 2051.8,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 2087.1,
+   "py": 2738.3,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 1611.5,
+   "py": 3125.3,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 897.4,
+   "py": 2594.8,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 1387.3,
+   "py": 2230.7,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 1904.7,
+   "py": 2314.4,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Brike, Ascherion",
+   "px": 993.9,
+   "py": 1992.4,
+   "radiusPx": 74.9,
+   "mobs": [
+    {
+     "id": 185,
+     "name": "Brike",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 81,
+     "name": "Ascherion",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 10 on AI web 1 (Brike):\nBrike (LV15 BOSS) (Spawner: Brike, up to 1, 10/1000)\nAscherion (LV8) (Spawner: AscherionBrike, up to 2, 150/1000)"
+  },
+  {
+   "layer": "npcs",
+   "name": "(Neronicle/ChalisQuestChest) Thermantidote Arm",
+   "px": 1568.9,
+   "py": 306.6,
+   "npcId": 467,
+   "template": "Misc Inventory",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Chest",
+     "needs": [
+      {
+       "name": "Key of Thrones"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Thermantidote Arm"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Rune Portal",
+   "px": 1136.2,
+   "py": 7465.2,
+   "npcId": 1085,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 1199.7,
+      "py": 1180.4
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Blue Stone Rune"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Flight Portal",
+   "px": 2028.4,
+   "py": 7454.5,
+   "npcId": 1121,
+   "routes": [
+    {
+     "to": {
+      "world": "IIA",
+      "slug": "iia",
+      "px": 1199.7,
+      "py": 1180.4
+     },
+     "title": "Blink!",
+     "needs": [
+      {
+       "name": "Brike Key of Flight"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "entities",
+   "name": "Landrazorcappa",
+   "px": 1734,
+   "py": 2387.4,
+   "detail": "Entity template 5\nControl type 0"
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 37",
+   "px": 1580.5,
+   "py": 7472.8,
+   "radiusPx": 936.1,
+   "detail": "Action 6: play soundtrack, argument 37\nRadius: 250\nObject 52 (MAINHALLg.ARW)"
+  }
+ ]
+}

@@ -1,0 +1,812 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "npcs",
+   "name": "Caleb (Armors)",
+   "px": 1937.5,
+   "py": 4806.1,
+   "npcId": 319,
+   "template": "Human Male",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Armors",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "Nikkita (Items)",
+   "px": 4993.3,
+   "py": 2558.6,
+   "npcId": 331,
+   "template": "Human Female",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "Welcome",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(Books and Scrolls) Store 1",
+   "px": 4194.1,
+   "py": 1587.7,
+   "npcId": 337,
+   "template": "InvNoCoHuge65",
+   "quests": [
+    {
+     "title": "The Amphibious Social Journal"
+    },
+    {
+     "title": "Vol. XIX, Issue VI"
+    }
+   ]
+  },
+  {
+   "layer": "npcs",
+   "name": "(RBT - Access Extender) Nikkita (Items)",
+   "px": 1415.5,
+   "py": 3393.7,
+   "npcId": 396,
+   "template": "Invis noCo",
+   "roles": [
+    "shop"
+   ],
+   "quests": [
+    {
+     "title": "(no title)",
+     "opens": "shop"
+    }
+   ],
+   "stock": [
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "HM/HF items",
+   "px": 5045.2,
+   "py": 2541.8,
+   "box": [
+    3316.2,
+    812.8,
+    6774.3,
+    4270.9
+   ],
+   "shopId": 9,
+   "stock": [
+    {
+     "name": "Small Health Potion (+10 HP)",
+     "price": 50
+    },
+    {
+     "name": "Medium Health Potion (+20 HP)",
+     "price": 100
+    },
+    {
+     "name": "Large Health Potion (+40 HP)",
+     "price": 150
+    },
+    {
+     "name": "Acid Canister (30)",
+     "price": 4
+    },
+    {
+     "name": "Ephilis Blades (25)",
+     "price": 225
+    },
+    {
+     "name": "Heal Gun Small Pak (5)",
+     "price": 492
+    },
+    {
+     "name": "Hell Sling Blades (30)",
+     "price": 212
+    },
+    {
+     "name": "Hyperuzi Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Impaler Needles (25)",
+     "price": 51
+    },
+    {
+     "name": "Impulse Shells (20)",
+     "price": 320
+    },
+    {
+     "name": "Ion Disrupter Cell (35)",
+     "price": 27
+    },
+    {
+     "name": "Ion Rephilion Mortar (20)",
+     "price": 174
+    },
+    {
+     "name": "Lyson Lazer Cell (35)",
+     "price": 78
+    },
+    {
+     "name": "Nervourvinex Plas (35)",
+     "price": 267
+    },
+    {
+     "name": "Physus Rifle Mag (20)",
+     "price": 120
+    },
+    {
+     "name": "Plasma Shock Nets (5)",
+     "price": 200
+    },
+    {
+     "name": "Plasma Snipe Cell (30)",
+     "price": 39
+    },
+    {
+     "name": "Power Rifle Crom (30)",
+     "price": 249
+    },
+    {
+     "name": "Power Rifle Mag (25)",
+     "price": 117
+    },
+    {
+     "name": "Rocket Pack (5)",
+     "price": 51
+    },
+    {
+     "name": "Rune Bow Bolts (30)",
+     "price": 249
+    },
+    {
+     "name": "Wave Snipe Cart (25)",
+     "price": 189
+    },
+    {
+     "name": "(ALL) Explorer Flare",
+     "price": 300
+    },
+    {
+     "name": "Warp Cells",
+     "price": 2000
+    },
+    {
+     "name": "Stat Training Kit",
+     "price": 5000
+    },
+    {
+     "name": "Stat Token",
+     "price": 20
+    },
+    {
+     "name": "Mechablod Vehicle (Lv1)",
+     "price": 2500
+    },
+    {
+     "name": "(ALL) Fists (Lv0)",
+     "price": 0
+    }
+   ]
+  },
+  {
+   "layer": "shops",
+   "name": "HM/HFArmor Store",
+   "px": 1990.6,
+   "py": 4789.6,
+   "box": [
+    261.5,
+    3060.6,
+    3719.6,
+    6518.6
+   ],
+   "shopId": 24,
+   "stock": [
+    {
+     "name": "(HM) Kryon Face Mask (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Chest Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HM) Kryon Gauntlet Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Kryon Thigh Armor (Lv1)",
+     "price": 85
+    },
+    {
+     "name": "(HM) Clandron Face Mask (Lv2)",
+     "price": 110
+    },
+    {
+     "name": "(HM) Clandron Chest Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HM) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HM) Branton Face Mask (Lv3)",
+     "price": 244
+    },
+    {
+     "name": "(HM) Branton Chest Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HM) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HM) Bloodrain Face Mask (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Chest Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Face Mask (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HM) Odion Chest Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HM) Odion Gauntlet Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HM) Odion Thigh Armor (Lv5)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Kryon Tiara (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Torso Armor (Lv1)",
+     "price": 169
+    },
+    {
+     "name": "(HF) Kryon Gauntlet Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Kryon Thigh Armor (Lv1)",
+     "price": 89
+    },
+    {
+     "name": "(HF) Clandron Tiara (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Torso Armor (Lv2)",
+     "price": 216
+    },
+    {
+     "name": "(HF) Clandron Gauntlet Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Clandron Thigh Armor (Lv2)",
+     "price": 116
+    },
+    {
+     "name": "(HF) Branton Tiara (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Torso Armor (Lv3)",
+     "price": 484
+    },
+    {
+     "name": "(HF) Branton Gauntlet Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Branton Thigh Armor (Lv3)",
+     "price": 284
+    },
+    {
+     "name": "(HF) Bloodrain Tiara (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Torso Armor (Lv4)",
+     "price": 1004
+    },
+    {
+     "name": "(HF) Bloodrain Gauntlet Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Bloodrain Thigh Armor (Lv4)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Tiara (Lv5)",
+     "price": 804
+    },
+    {
+     "name": "(HF) Odion Torso Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Gauntlet Armor (Lv5)",
+     "price": 1604
+    },
+    {
+     "name": "(HF) Odion Thigh Armor (Lv5)",
+     "price": 1604
+    }
+   ]
+  }
+ ]
+}

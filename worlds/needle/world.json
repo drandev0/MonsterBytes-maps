@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "needle",
   "title": "Needle",
   "places": [],
@@ -8,17 +8,17 @@
   "source": {
     "world": "Needle.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 1.4687143564224243,
+    "unitsPerPixel": 0.2644311338663101,
     "origin": {
-      "x": -7818.2353515625,
-      "z": 6350.57470703125
+      "x": -928.0345458984375,
+      "z": 919.0965576171875
     }
   },
-  "width": 8192,
-  "height": 6151,
+  "width": 7630,
+  "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
-  "background": "#00110c",
+  "background": "#d9d9d9",
   "layers": [
     {
       "id": "portals",
@@ -33,6 +33,76 @@
       "color": "#00bcd4",
       "shown": false,
       "count": 2
+    }
+  ],
+  "levels": [
+    {
+      "id": "ship",
+      "name": "Ship",
+      "width": 5915,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#d9d9d9",
+      "layers": [],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.0502514312393032,
+        "origin": {
+          "x": -3989.5908203125,
+          "z": 1.8588519096374512
+        }
+      }
+    },
+    {
+      "id": "frogstart",
+      "name": "Frog start",
+      "width": 8192,
+      "height": 4328,
+      "maxZoom": 5,
+      "background": "#d9d9d9",
+      "layers": [],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.05691187805496156,
+        "origin": {
+          "x": -468.4053039550781,
+          "z": 3111.05712890625
+        }
+      }
+    },
+    {
+      "id": "humanstart",
+      "name": "Human start",
+      "width": 3901,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#d9d9d9",
+      "layers": [],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.04250102490186691,
+        "origin": {
+          "x": 3581.26025390625,
+          "z": -155.51846313476562
+        }
+      }
+    },
+    {
+      "id": "tunnels",
+      "name": "Tunnels",
+      "width": 7917,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#d9d9d9",
+      "layers": [],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.1965598687529564,
+        "origin": {
+          "x": -817.3148803710938,
+          "z": 694.9486694335938
+        }
+      }
     }
   ]
 }

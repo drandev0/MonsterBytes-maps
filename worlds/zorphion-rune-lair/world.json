@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "zorphion-rune-lair",
   "title": "Zorphion Rune Lair",
   "places": [
@@ -20,14 +20,14 @@
   "height": 8192,
   "tileSize": 256,
   "maxZoom": 5,
-  "background": "#330d0a",
+  "background": "#330000",
   "layers": [
     {
       "id": "mobs",
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 6
+      "count": 12
     },
     {
       "id": "npcs",

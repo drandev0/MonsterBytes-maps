@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "iia",
   "title": "IIA",
   "places": [
@@ -31,14 +31,14 @@
   "source": {
     "world": "MAINWORLD_BETA02.EXG",
     "tool": "AuraEditor/map/1",
-    "unitsPerPixel": 15.234503269195557,
+    "unitsPerPixel": 5.615508556365967,
     "origin": {
-      "x": -62400.51953125,
-      "z": 62400.53125
+      "x": -22737.107421875,
+      "z": 22803.51171875
     }
   },
   "width": 8192,
-  "height": 8192,
+  "height": 8049,
   "tileSize": 256,
   "maxZoom": 5,
   "background": "#4cbfbf",
@@ -48,14 +48,14 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 3583
+      "count": 3310
     },
     {
       "id": "npcs",
       "title": "NPCs",
       "color": "#ec407a",
       "shown": true,
-      "count": 299
+      "count": 251
     },
     {
       "id": "portals",
@@ -65,18 +65,11 @@
       "count": 21
     },
     {
-      "id": "gather",
-      "title": "Gathering and chests",
-      "color": "#8bc34a",
-      "shown": false,
-      "count": 2
-    },
-    {
       "id": "shops",
       "title": "Shop counters",
       "color": "#8d6e63",
       "shown": false,
-      "count": 9
+      "count": 5
     },
     {
       "id": "safezones",
@@ -90,7 +83,7 @@
       "title": "Music and triggers",
       "color": "#fdd835",
       "shown": false,
-      "count": 57
+      "count": 52
     },
     {
       "id": "water",
@@ -104,68 +97,201 @@
   "labels": [
     {
       "name": "Amphibious Island",
-      "px": 4657.2,
-      "py": 2988
+      "px": 5571.6,
+      "py": 1054.8
     },
     {
       "name": "Trendor",
-      "px": 3856.2,
-      "py": 3260.4
+      "px": 3398.6,
+      "py": 1793.9
     },
     {
       "name": "Bloblic Colonies",
-      "px": 3118.8,
-      "py": 5122.5
+      "px": 1397.8,
+      "py": 6845.5
     },
     {
       "name": "Moon Rifts",
-      "px": 4551.4,
-      "py": 4229.6
+      "px": 5284.5,
+      "py": 4423.2
     },
     {
       "name": "Unity Island",
-      "px": 5176.9,
-      "py": 5136.4
+      "px": 6981.5,
+      "py": 6883.4
     },
     {
       "name": "Black Market Lighthouse",
-      "px": 5281.1,
-      "py": 3754.3
+      "px": 7264.2,
+      "py": 3133.9
     },
     {
       "name": "Sluggith Island",
-      "px": 5387.3,
-      "py": 2910.5
+      "px": 7552.2,
+      "py": 844.7
     },
     {
       "name": "Sial Island",
-      "px": 3309.6,
-      "py": 2929.4
+      "px": 1915.6,
+      "py": 895.9
     },
     {
       "name": "Black Market Island",
-      "px": 4997.9,
-      "py": 4042.8
+      "px": 6495.8,
+      "py": 3916.6
     },
     {
       "name": "4 Falls Rig",
-      "px": 4568.6,
-      "py": 4096
+      "px": 5331.1,
+      "py": 4060.8
     },
     {
       "name": "Arilous Mining Cave",
-      "px": 3204,
-      "py": 4010.3
+      "px": 1629.1,
+      "py": 3828.2
     },
     {
       "name": "Solothic Caves",
-      "px": 3688.2,
-      "py": 3437.5
+      "px": 2942.6,
+      "py": 2274.2
     },
     {
       "name": "UGC Peninsula",
-      "px": 3838.8,
-      "py": 3035.9
+      "px": 3351.1,
+      "py": 1184.8
+    }
+  ],
+  "levels": [
+    {
+      "id": "minecave",
+      "name": "Mine cave",
+      "width": 8192,
+      "height": 6803,
+      "maxZoom": 5,
+      "background": "#4cbfbf",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 135
+        },
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 27
+        },
+        {
+          "id": "gather",
+          "title": "Gathering and chests",
+          "color": "#8bc34a",
+          "shown": false,
+          "count": 2
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 1
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.5347996950149536,
+        "origin": {
+          "x": -13648.22265625,
+          "z": 2645.06005859375
+        }
+      }
+    },
+    {
+      "id": "caverns",
+      "name": "Northeast caverns",
+      "width": 7411,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#4cbfbf",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 108
+        },
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 9
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.44777095317840576,
+        "origin": {
+          "x": 7294.3037109375,
+          "z": 19015.78125
+        }
+      }
+    },
+    {
+      "id": "blobcave",
+      "name": "Blob caves and interiors",
+      "width": 5192,
+      "height": 8192,
+      "maxZoom": 5,
+      "background": "#4cbfbf",
+      "layers": [
+        {
+          "id": "mobs",
+          "title": "Mob spawns",
+          "color": "#e53935",
+          "shown": true,
+          "count": 22
+        },
+        {
+          "id": "npcs",
+          "title": "NPCs",
+          "color": "#ec407a",
+          "shown": true,
+          "count": 12
+        },
+        {
+          "id": "shops",
+          "title": "Shop counters",
+          "color": "#8d6e63",
+          "shown": false,
+          "count": 4
+        },
+        {
+          "id": "triggers",
+          "title": "Music and triggers",
+          "color": "#fdd835",
+          "shown": false,
+          "count": 2
+        }
+      ],
+      "source": {
+        "tool": "AuraEditor/map/1",
+        "unitsPerPixel": 0.3528256416320801,
+        "origin": {
+          "x": -17196.94921875,
+          "z": -14246.193359375
+        }
+      }
     }
   ]
 }

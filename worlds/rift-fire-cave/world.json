@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "rift-fire-cave",
   "title": "Rift Fire Cave",
   "places": [],
@@ -25,7 +25,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 45
+      "count": 16
     },
     {
       "id": "npcs",

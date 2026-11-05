@@ -1,0 +1,575 @@
+{
+ "format": "MonsterBytes/markers/2",
+ "markers": [
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 310.2,
+   "py": 5502,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 20 (Sewers.Fadun1):\nFadun (LV4) (Spawner: Sewers.Fadun1, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 405.5,
+   "py": 4973,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 20 (Sewers.Fadun1):\nFadun (LV4) (Spawner: Sewers.Fadun1, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 413.8,
+   "py": 4915.6,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 549.9,
+   "py": 4551.2,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 494.9,
+   "py": 4499.7,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 21 (Sewers.Fadun2):\nFadun (LV4) (Spawner: Sewers.Fadun2, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 2580.3,
+   "py": 4258.9,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 2988.1,
+   "py": 3930.7,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 2935.5,
+   "py": 3427.5,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 23 (Sewers.Fadun4):\nFadun (LV4) (Spawner: Sewers.Fadun4, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 3538.1,
+   "py": 2525.2,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 24 (Sewers.Didon1):\nDidon (LV4) (Spawner: Sewers.Didon1, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 4892.4,
+   "py": 2555,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 25 (Sewers.Fadun5):\nFadun (LV4) (Spawner: Sewers.Fadun5, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 5386.8,
+   "py": 2794.6,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 25 (Sewers.Fadun5):\nFadun (LV4) (Spawner: Sewers.Fadun5, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 5591.4,
+   "py": 3001.4,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 26 (Sewers.Didon2):\nDidon (LV4) (Spawner: Sewers.Didon2, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun, Didon",
+   "px": 5669.9,
+   "py": 4792.5,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    },
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 27 (Sewers.Fadun6):\nFadun (LV4) (Spawner: Sewers.Fadun6, up to 1, 50/1000)\nDidon (LV4) (Spawner: Sewers.Didon6, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 5782.8,
+   "py": 5162,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6240.4,
+   "py": 5218,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6453,
+   "py": 5309.4,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 28 (Sewers.Didon3):\nDidon (LV4) (Spawner: Sewers.Didon3, up to 1, 10/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 6847.6,
+   "py": 5225.8,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7285.5,
+   "py": 5297.1,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7795.9,
+   "py": 4985.4,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 29 (Sewers.Didon4):\nDidon (LV4) (Spawner: Sewers.Didon4, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 7959.8,
+   "py": 4845.9,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 7907.6,
+   "py": 4074.8,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Fadun",
+   "px": 7991,
+   "py": 3410.2,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 21,
+     "name": "Fadun",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 30 (Sewers.Fadun7):\nFadun (LV4) (Spawner: Sewers.Fadun7, up to 1, 50/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 7911.4,
+   "py": 3292,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 31 (Sewers.Didon5):\nDidon (LV4) (Spawner: Sewers.Didon5, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Didon",
+   "px": 8008.3,
+   "py": 4084.1,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 22,
+     "name": "Didon",
+     "level": 4
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 31 (Sewers.Didon5):\nDidon (LV4) (Spawner: Sewers.Didon5, up to 1, 30/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 7703.4,
+   "py": 2576.5,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 33 (Sewers.Ligon1):\nLigon (LV5) (Spawner: Sewers.Ligon1, up to 1, 20/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 5888.9,
+   "py": 2469,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1, 40/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 5391.2,
+   "py": 2246.2,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1, 40/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Ligon",
+   "px": 5369.3,
+   "py": 1581.5,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 23,
+     "name": "Ligon",
+     "level": 5
+    }
+   ],
+   "detail": "Can spawn at this node, one of 3 on AI web 34 (Sewers.Ligon2):\nLigon (LV5) (Spawner: Sewers.Ligon2, up to 1, 40/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 5331.7,
+   "py": 401.8,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 35 (Sewers.Gonlon):\nGonlon (LV8) (Spawner: Sewers.Gonlon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Gonlon",
+   "px": 5331.7,
+   "py": 401.8,
+   "radiusPx": 32.7,
+   "mobs": [
+    {
+     "id": 24,
+     "name": "Gonlon",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 2 on AI web 35 (Sewers.Gonlon):\nGonlon (LV8) (Spawner: Sewers.Gonlon, up to 1, 5/1000)"
+  },
+  {
+   "layer": "npcs",
+   "name": "Lasgat",
+   "px": 5329,
+   "py": 392,
+   "npcId": 505,
+   "template": "Amphibious",
+   "roles": [
+    "quest"
+   ],
+   "quests": [
+    {
+     "title": "Intro",
+     "needs": [
+      {
+       "name": "Letter from Flogran"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Letter from Lasgat"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 5 of 20",
+     "needs": [
+      {
+       "name": "Sword of Val"
+      }
+     ],
+     "gives": [
+      {
+       "name": "Sealed Letter from Lasgat"
+      }
+     ]
+    },
+    {
+     "title": "Armor 13 Quest: Part 7 of 20",
+     "needs": [
+      {
+       "name": "None1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "layer": "portals",
+   "name": "Teleporter",
+   "px": 318.8,
+   "py": 7183.9,
+   "npcId": 1127,
+   "routes": [
+    {
+     "to": {
+      "world": "Trendor",
+      "slug": "trendor",
+      "px": 4282.7,
+      "py": 3382.3
+     },
+     "title": "Blink!"
+    }
+   ]
+  },
+  {
+   "layer": "triggers",
+   "name": "Soundtrack 13",
+   "px": 388.5,
+   "py": 7184,
+   "radiusPx": 327.1,
+   "detail": "Action 6: play soundtrack, argument 13\nRadius: 200\nObject 1172 (PORTAL_INa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 317.8,
+   "py": 7184,
+   "radiusPx": 16.4,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 10\nObject 1175 (PORTAL_OUTa.ARW)"
+  },
+  {
+   "layer": "triggers",
+   "name": "external portal",
+   "px": 1057.6,
+   "py": 4415.1,
+   "radiusPx": 32.7,
+   "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 1497 (PORTALTRIGSEWER_OUTa.ARW)"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater01",
+   "px": 396.6,
+   "py": 5078.4,
+   "box": [
+    73.3,
+    4074,
+    720,
+    6082.8
+   ],
+   "detail": "Water zone"
+  },
+  {
+   "layer": "water",
+   "name": "SewerWater03",
+   "px": 5463.7,
+   "py": 2830.9,
+   "box": [
+    2837.6,
+    1868.5,
+    8089.8,
+    3793.2
+   ],
+   "detail": "Water zone"
+  }
+ ]
+}

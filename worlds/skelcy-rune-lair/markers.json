@@ -3,18 +3,276 @@
  "markers": [
   {
    "layer": "mobs",
-   "name": "Sarin",
-   "px": 1714.1,
-   "py": 857.1,
+   "name": "Skelcy, Sarin",
+   "px": 1560.4,
+   "py": 1841,
    "radiusPx": 58.3,
    "mobs": [
     {
-     "id": 865,
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
      "name": "Sarin",
-     "level": null
+     "level": 12
     }
    ],
-   "detail": "Can spawn at this node, one of 1 on AI web 54 (Mineral1):\nSS Sarin+ Melee (Spawner: Mineral Test Spawn1, up to 1)"
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 2463.7,
+   "py": 2575.1,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 3071.2,
+   "py": 1895.7,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 2597.5,
+   "py": 1632.3,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 2475.9,
+   "py": 889.6,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 2047.1,
+   "py": 1625.7,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 1460.7,
+   "py": 1228.2,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 1910.8,
+   "py": 1091,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 2164.7,
+   "py": 1408.6,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 2412.9,
+   "py": 1992.4,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 3129.8,
+   "py": 1138.5,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 3356.4,
+   "py": 1647.7,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Skelcy, Sarin",
+   "px": 3207.7,
+   "py": 2217.7,
+   "radiusPx": 58.3,
+   "mobs": [
+    {
+     "id": 150,
+     "name": "Skelcy",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 29,
+     "name": "Sarin",
+     "level": 12
+    }
+   ],
+   "detail": "Can spawn at this node, one of 13 on AI web 0 (Skelcy):\nSkelcy (LV15 BOSS) (Spawner: Skelcy, up to 1, 10/1000)\nSarin (LV12) (Spawner: Sarins, up to 2, 200/1000)"
   },
   {
    "layer": "portals",
@@ -27,8 +285,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 4949.3,
-      "py": 4542.4
+      "px": 6364,
+      "py": 5271.7
      },
      "title": "Blink!",
      "needs": [
@@ -50,8 +308,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 4949.3,
-      "py": 4542.4
+      "px": 6364,
+      "py": 5271.7
      },
      "title": "Blink!",
      "needs": [

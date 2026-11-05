@@ -3,10 +3,10 @@
  "markers": [
   {
    "layer": "mobs",
-   "name": "Zorphion, Siltron",
-   "px": 3821.5,
-   "py": 3690.3,
-   "radiusPx": 1,
+   "name": "Zorphion, Trine",
+   "px": 3700,
+   "py": 3162.3,
+   "radiusPx": 20.3,
    "mobs": [
     {
      "id": 12,
@@ -15,18 +15,19 @@
      "boss": true
     },
     {
-     "id": 11,
-     "name": "Siltron",
-     "level": 12
+     "id": 10,
+     "name": "Trine",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Zorphion, Siltron",
-   "px": 2501.4,
-   "py": 3219.8,
+   "name": "Zorphion, Trine",
+   "px": 3432.3,
+   "py": 3645.5,
+   "radiusPx": 20.3,
    "mobs": [
     {
      "id": 12,
@@ -35,19 +36,19 @@
      "boss": true
     },
     {
-     "id": 11,
-     "name": "Siltron",
-     "level": 12
+     "id": 10,
+     "name": "Trine",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Zorphion, Siltron",
-   "px": 1256,
-   "py": 2195.7,
-   "radiusPx": 1,
+   "name": "Zorphion, Trine",
+   "px": 2318.1,
+   "py": 3728.1,
+   "radiusPx": 20.3,
    "mobs": [
     {
      "id": 12,
@@ -56,19 +57,19 @@
      "boss": true
     },
     {
-     "id": 11,
-     "name": "Siltron",
-     "level": 12
+     "id": 10,
+     "name": "Trine",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Zorphion, Siltron",
-   "px": 3023.4,
-   "py": 1111.1,
-   "radiusPx": 1,
+   "name": "Zorphion, Trine",
+   "px": 1300,
+   "py": 2498.2,
+   "radiusPx": 20.3,
    "mobs": [
     {
      "id": 12,
@@ -77,19 +78,19 @@
      "boss": true
     },
     {
-     "id": 11,
-     "name": "Siltron",
-     "level": 12
+     "id": 10,
+     "name": "Trine",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Zorphion, Siltron",
-   "px": 3799.4,
-   "py": 1860.5,
-   "radiusPx": 1,
+   "name": "Zorphion, Trine",
+   "px": 1313.6,
+   "py": 1523.9,
+   "radiusPx": 20.3,
    "mobs": [
     {
      "id": 12,
@@ -98,19 +99,19 @@
      "boss": true
     },
     {
-     "id": 11,
-     "name": "Siltron",
-     "level": 12
+     "id": 10,
+     "name": "Trine",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
   },
   {
    "layer": "mobs",
-   "name": "Zorphion, Siltron",
-   "px": 3941.9,
-   "py": 3030.6,
-   "radiusPx": 1,
+   "name": "Zorphion, Trine",
+   "px": 2664.9,
+   "py": 1428.7,
+   "radiusPx": 20.3,
    "mobs": [
     {
      "id": 12,
@@ -119,12 +120,138 @@
      "boss": true
     },
     {
-     "id": 11,
-     "name": "Siltron",
-     "level": 12
+     "id": 10,
+     "name": "Trine",
+     "level": 8
     }
    ],
-   "detail": "Can spawn at this node, one of 6 on AI web 44 (eyembea):\nZorphion (LV15 BOSS) (Spawner: 3 Zorphion dim 3, up to 1)\nSiltron (LV12) (Spawner: 3 siltron dim 2, up to 4)"
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Trine",
+   "px": 3574,
+   "py": 1855.1,
+   "radiusPx": 20.3,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Trine",
+   "px": 4123.8,
+   "py": 2549.7,
+   "radiusPx": 20.3,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Trine",
+   "px": 2980.2,
+   "py": 2744.7,
+   "radiusPx": 20.3,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Trine",
+   "px": 2499.3,
+   "py": 2704,
+   "radiusPx": 20.3,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Trine",
+   "px": 2196.6,
+   "py": 2749.4,
+   "radiusPx": 20.3,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
+  },
+  {
+   "layer": "mobs",
+   "name": "Zorphion, Trine",
+   "px": 2033.3,
+   "py": 2154.1,
+   "radiusPx": 20.3,
+   "mobs": [
+    {
+     "id": 12,
+     "name": "Zorphion",
+     "level": 15,
+     "boss": true
+    },
+    {
+     "id": 10,
+     "name": "Trine",
+     "level": 8
+    }
+   ],
+   "detail": "Can spawn at this node, one of 12 on AI web 0 (Zorphion):\nZorphion (LV15 BOSS) (Spawner: Zorphion, up to 1, 10/1000)\nTrine (LV8) (Spawner: Trines, up to 3, 500/1000)"
   },
   {
    "layer": "npcs",
@@ -224,8 +351,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 2912.8,
-      "py": 4010.7
+      "px": 839.1,
+      "py": 3829.3
      },
      "title": "Blink!",
      "needs": [
@@ -247,8 +374,8 @@
      "to": {
       "world": "IIA",
       "slug": "iia",
-      "px": 2912.8,
-      "py": 4010.7
+      "px": 839.1,
+      "py": 3829.3
      },
      "title": "Blink!",
      "needs": [

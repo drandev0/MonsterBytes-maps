@@ -1,5 +1,5 @@
 {
-  "format": "MonsterBytes/world/2",
+  "format": "MonsterBytes/world/3",
   "slug": "cave-of-ancients",
   "title": "Cave of Ancients",
   "places": [
@@ -27,7 +27,7 @@
       "title": "Mob spawns",
       "color": "#e53935",
       "shown": true,
-      "count": 243
+      "count": 216
     },
     {
       "id": "npcs",
