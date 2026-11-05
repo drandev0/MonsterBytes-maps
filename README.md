@@ -47,6 +47,12 @@ map in pixels, from the top-left corner. Then, by layer:
 | `safezones` | a safe or damage zone | `box`, `kind` |
 | `entities`, `players`, `triggers`, `water` | placed things, the player start, music zones, water | `detail`, `box` |
 
+Each `markers.json` also has `monsters`: what the game files say about every
+monster on that map, keyed by its id (`hp`, `attacks`, `damage`, `drops` with
+`dropChance`, `credits`, `exp`), for the spawn popups. A level in `world.json`
+may have a `footprint`: where it lies on the main map, `[left, top, right, bottom]`
+in the main map's pixels, drawn there as an outline you can open.
+
 Item names are the game's own, like `(AP) Aqualaz (N)(W) (Lv0)`; the site links
 them to the guide's page (`[AP] Aqualaz`).
 

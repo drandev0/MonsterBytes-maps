@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -2379,5 +2379,120 @@
    "radiusPx": 25.9,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 15\nObject 298 (PORTTRIG_MnCataExita.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "5": {
+   "hp": 25000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 120,
+     "max": 120,
+     "element": "Death"
+    },
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Kanastas Key of Retribution",
+    "Datro Tail",
+    "Yellow Gem"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 200
+  },
+  "80": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "drops": [
+    "Kandra Brain",
+    "Orb of Kandra (Lv14)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    300,
+    2699
+   ],
+   "exp": 560
+  },
+  "134": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "drops": [
+    "Skarshar Head",
+    "Orb of Skarshar (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 470
+  },
+  "183": {
+   "hp": 9000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 100,
+     "max": 100,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Tilidon Head",
+    "Orb of Tilidion (Lv16)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    1500,
+    4999
+   ],
+   "exp": 850
+  },
+  "245": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "High Priest Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    1000,
+    2999
+   ],
+   "exp": 850
+  },
+  "749": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "drops": [
+    "Kandra Brain",
+    "(HF) Lillith Tiara (Lv15)",
+    "(HM) Cain Face Mask (Lv15)",
+    "(BL) Ataeus Boot Armor (Lv15)",
+    "(AP) Crom Helmet (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    300,
+    2699
+   ],
+   "exp": 204
+  }
+ }
 }

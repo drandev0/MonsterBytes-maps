@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -215,5 +215,41 @@
    "radiusPx": 829.7,
    "detail": "Action 7: text output, argument 0, once\nRadius: 100\nObject 29 (entTriggera.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "37": {
+   "hp": 40,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Infant Stount Tail"
+   ],
+   "dropChance": 100,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 20
+  },
+  "378": {
+   "hp": 72,
+   "attacks": "passive",
+   "drops": [
+    "Flob Shell",
+    "Agate"
+   ],
+   "dropChance": 5,
+   "credits": [
+    1,
+    4
+   ],
+   "exp": 5
+  }
+ }
 }

@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -4126,5 +4126,188 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "24": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 75,
+     "max": 75,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Gonlon Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 120
+  },
+  "54": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "Garnet"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 220
+  },
+  "60": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 75,
+     "max": 75,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Farion Tail",
+    "Blood Onyx"
+   ],
+   "dropChance": 15,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 460
+  },
+  "78": {
+   "hp": 1000,
+   "attacks": "aggressive",
+   "drops": [
+    "Clidion Feet",
+    "Orb of Clidion (Lv11)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 250
+  },
+  "80": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "drops": [
+    "Kandra Brain",
+    "Orb of Kandra (Lv14)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    300,
+    2699
+   ],
+   "exp": 560
+  },
+  "134": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "drops": [
+    "Skarshar Head",
+    "Orb of Skarshar (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 470
+  },
+  "182": {
+   "hp": 7000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 70,
+     "max": 70,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Rancon Hide",
+    "Orb of Rancon (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    1000,
+    2999
+   ],
+   "exp": 620
+  },
+  "241": {
+   "hp": 900,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 50,
+     "max": 50,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Eyezora Eye",
+    "Lapis Lazuli"
+   ],
+   "dropChance": 25,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 210
+  },
+  "290": {
+   "hp": 5000,
+   "attacks": "passive",
+   "drops": [
+    "Sgod Shell",
+    "(HM) Gryson Double Axe (D) (Lv14)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 39
+  },
+  "292": {
+   "hp": 5000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "(HF) Ironsear (D) (Lv14)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 129
+  }
+ }
 }

@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -2024,5 +2024,117 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "54": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "Garnet"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 220
+  },
+  "56": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 200,
+     "max": 200,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Dark Jouster Heart",
+    "Evonsa Vial",
+    "Orb of Dark Jouster (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 440
+  },
+  "286": {
+   "hp": 6000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 200,
+     "max": 200,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "(BL) Tsunami Axe (D) (Lv14)",
+    "Dark Jouster Heart"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 190
+  },
+  "715": {
+   "hp": 500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "Garnet",
+    "(BL) Cyclopean Boot Armor (Lv12)",
+    "(AP) Morgion Helmet (Lv12)",
+    "(HM) Poldas Face Mask (Lv12)",
+    "(HF) Mulsaki Tiara (Lv12)"
+   ],
+   "dropChance": 10,
+   "exp": 180
+  },
+  "716": {
+   "hp": 900,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "(BL) Cyclopean Thigh Armor (Lv12)",
+    "(AP) Morgion Shin Armor (Lv12)",
+    "(HM) Poldas Thigh Armor (Lv12)",
+    "(HF) Mulsaki Thigh Armor (Lv12)",
+    "Pidion Eye",
+    "Orb of Pidion (Lv10)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    279,
+    2159
+   ],
+   "exp": 204
+  }
+ }
 }

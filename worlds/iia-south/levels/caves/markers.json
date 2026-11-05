@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -295,5 +295,148 @@
    ],
    "detail": "Can spawn at this node, one of 3 on AI web 156 (Cave SW - G):\nOverking Shadow (LV14) (Spawner: Cave SW 07 - Overking Shadow, up to 1, 500/1000)"
   }
- ]
+ ],
+ "monsters": {
+  "41": {
+   "hp": 40,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Infant Dilirium Eyes",
+    "Orb of Infant Dilirium (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 30
+  },
+  "81": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ascherion Venom Sack"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "142": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Adult Dilirium Tail",
+    "Amethyst",
+    "Orb of Adult Dilirium (Lv6)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 85
+  },
+  "146": {
+   "hp": 10000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 50,
+     "max": 50,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ashadra Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    1500,
+    4999
+   ],
+   "exp": 100
+  },
+  "184": {
+   "hp": 18000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 100,
+     "max": 100,
+     "element": "Earth"
+    }
+   ],
+   "drops": [
+    "Grey Stone Rune",
+    "Slate Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  },
+  "185": {
+   "hp": 18000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Blue Stone Rune",
+    "Brike Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  },
+  "590": {
+   "hp": 10000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Signet of Overking"
+   ],
+   "dropChance": 100,
+   "exp": 1
+  }
+ }
 }

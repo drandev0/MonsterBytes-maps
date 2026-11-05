@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -1846,5 +1846,245 @@
    "radiusPx": 45.1,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 40\nObject 46 (AztecTempleEntPorta.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "55": {
+   "hp": 5000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 70,
+     "max": 70,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Grision Plasma",
+    "Orb of Grision (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    1000,
+    2999
+   ],
+   "exp": 660
+  },
+  "338": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Sliglith Beak"
+   ],
+   "dropChance": 100,
+   "exp": 80
+  },
+  "717": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "drops": [
+    "Kandra Brain",
+    "(BL) Bo Chest Armor (Lv14)",
+    "(AP) Strife Cross Chest Armor (Lv14)",
+    "(HM) Endlon Chest Armor (Lv14)",
+    "(HF) Celeste Torso Armor (Lv14)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    279,
+    2159
+   ],
+   "exp": 204
+  },
+  "719": {
+   "hp": 500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 70,
+     "max": 70,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Garnet",
+    "Bo Emblem",
+    "Endlon Emblem",
+    "Celeste Emblem",
+    "Strife Emblem",
+    "Grision Plasma"
+   ],
+   "dropChance": 15,
+   "exp": 180
+  },
+  "721": {
+   "hp": 500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "Garnet",
+    "(BL) Bo Gauntlet Armor (Lv14)",
+    "(AP) Strife Cross Bracers (Lv14)",
+    "(HM) Endlon Gauntlet Armor (Lv14)",
+    "(HF) Celeste Gauntlet Armor (Lv14)"
+   ],
+   "dropChance": 10,
+   "exp": 180
+  },
+  "725": {
+   "hp": 500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "Garnet",
+    "Ataeus Emblem",
+    "Cain Emblem",
+    "Lillith Emblem",
+    "Crom Emblem"
+   ],
+   "dropChance": 10,
+   "exp": 180
+  },
+  "727": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Wright Essence",
+    "(BL) Ataeus Boot Armor (Lv15)",
+    "(AP) Crom Helmet (Lv15)",
+    "(HM) Cain Face Mask (Lv15)",
+    "(HF) Lillith Tiara (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    373,
+    942
+   ],
+   "exp": 264
+  },
+  "761": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ascherion Venom Sack"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "762": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elite Ascherion Venom Sack",
+    "Onyx"
+   ],
+   "dropChance": 25,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "763": {
+   "hp": 1,
+   "attacks": "passive",
+   "credits": [
+    185,
+    899
+   ]
+  },
+  "764": {
+   "hp": 1,
+   "attacks": "passive",
+   "credits": [
+    185,
+    899
+   ]
+  },
+  "766": {
+   "hp": 4500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 200,
+     "max": 200,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "(ALL) Acolyte Amulet of Relic +10"
+   ],
+   "dropChance": 20,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 440
+  },
+  "767": {
+   "hp": 6500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "(ALL) Acolyte Amulet of Air +10"
+   ],
+   "dropChance": 20,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 490
+  }
+ }
 }

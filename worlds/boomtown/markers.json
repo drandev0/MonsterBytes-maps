@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -11385,5 +11385,999 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "1": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Orb of Neglik (Lv5)",
+    "Neglik Stinger"
+   ],
+   "dropChance": 20,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "9": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 75,
+     "max": 75,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Eye of Eyemba",
+    "Peridot"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 210
+  },
+  "10": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Tail of Trine",
+    "Orb of Trine (Lv8)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "21": {
+   "hp": 200,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 10,
+     "max": 10,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Fadun Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 30
+  },
+  "22": {
+   "hp": 300,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Didon Plasma",
+    "Aquamarine"
+   ],
+   "dropChance": 15,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 30
+  },
+  "24": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 75,
+     "max": 75,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Gonlon Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 120
+  },
+  "37": {
+   "hp": 40,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Infant Stount Tail"
+   ],
+   "dropChance": 100,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 20
+  },
+  "41": {
+   "hp": 40,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Infant Dilirium Eyes",
+    "Orb of Infant Dilirium (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 30
+  },
+  "53": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Jouster Tongue"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 150
+  },
+  "56": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 200,
+     "max": 200,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Dark Jouster Heart",
+    "Evonsa Vial",
+    "Orb of Dark Jouster (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 440
+  },
+  "57": {
+   "hp": 300,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 35,
+     "max": 35,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Stount Tail",
+    "Amber"
+   ],
+   "dropChance": 15,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 80
+  },
+  "58": {
+   "hp": 1500,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 50,
+     "max": 50,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Lauder Spikes",
+    "Orb of Lauder (Lv11)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 250
+  },
+  "61": {
+   "hp": 1800,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 45,
+     "max": 45,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Malia Bat Wings"
+   ],
+   "dropChance": 100,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 70
+  },
+  "62": {
+   "hp": 800,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 35,
+     "max": 35,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Si Tail"
+   ],
+   "dropChance": 100,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 90
+  },
+  "63": {
+   "hp": 2800,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Eyes of Kidion"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 150
+  },
+  "65": {
+   "hp": 600,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Shockion Claws",
+    "Chalcedony",
+    "Orb of Shockion (Lv7)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 120
+  },
+  "66": {
+   "hp": 1600,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Adult Shockion Claw"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 170
+  },
+  "67": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elite Shockion Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    1499
+   ],
+   "exp": 260
+  },
+  "68": {
+   "hp": 6000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elder Shockion Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 490
+  },
+  "79": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "drops": [
+    "Rigprion Chest"
+   ],
+   "dropChance": 100,
+   "credits": [
+    185,
+    899
+   ],
+   "exp": 470
+  },
+  "81": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ascherion Venom Sack"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "89": {
+   "hp": 30,
+   "attacks": "passive",
+   "drops": [
+    "Flob Shell",
+    "Agate"
+   ],
+   "dropChance": 33,
+   "credits": [
+    1,
+    4
+   ],
+   "exp": 5
+  },
+  "90": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Naton Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "93": {
+   "hp": 1000,
+   "attacks": "aggressive",
+   "drops": [
+    "Trisk Tentacles"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 160
+  },
+  "108": {
+   "hp": 1500,
+   "attacks": "passive",
+   "drops": [
+    "Gope Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 110
+  },
+  "113": {
+   "hp": 50,
+   "attacks": "passive",
+   "drops": [
+    "Clegurk Tongue",
+    "Orb of Clegurk (Lv2)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 15
+  },
+  "130": {
+   "hp": 300,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Stontrile Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 70
+  },
+  "142": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Adult Dilirium Tail",
+    "Amethyst",
+    "Orb of Adult Dilirium (Lv6)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 85
+  },
+  "154": {
+   "hp": 1400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 70,
+     "max": 70,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Shrite Hide",
+    "Citrine"
+   ],
+   "dropChance": 15,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 115
+  },
+  "162": {
+   "hp": 2300,
+   "attacks": "aggressive",
+   "drops": [
+    "Clegorn Tongue",
+    "Orb of Clegorn (Lv10)",
+    "(ALL) Acolyte Ring of Water +5",
+    "(ALL) Acolyte Ring of Fire +5",
+    "(ALL) Acolyte Ring of Earth +5",
+    "(ALL) Acolyte Ring of Air +5"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "170": {
+   "hp": 3000,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 165,
+     "max": 165,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Wispion Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 165
+  },
+  "171": {
+   "hp": 3500,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 150,
+     "max": 150,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Uato Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 165
+  },
+  "174": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Vigon Shell",
+    "Orb of Vigon (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 20
+  },
+  "176": {
+   "hp": 800,
+   "attacks": "passive",
+   "drops": [
+    "Uline Shell",
+    "Proving Opal Marble"
+   ],
+   "dropChance": 15,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 90
+  },
+  "190": {
+   "hp": 2000,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 200,
+     "max": 200,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Skoid Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 150
+  },
+  "194": {
+   "hp": 1500,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 175,
+     "max": 175,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Skion Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 220
+  },
+  "195": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 190,
+     "max": 190,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pridan Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 220
+  },
+  "198": {
+   "hp": 140,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 35,
+     "max": 35,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ean Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 45
+  },
+  "268": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "drops": [
+    "Mad Neglik Stingers"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 180
+  },
+  "278": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elite Ascherion Venom Sack",
+    "Onyx"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "298": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Shockion Claws"
+   ],
+   "dropChance": 100,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 74
+  },
+  "673": {
+   "hp": 20,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 5,
+     "max": 5,
+     "element": "Water"
+    },
+    {
+     "min": 10,
+     "max": 10,
+     "element": "Normal"
+    },
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    },
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Normal"
+    },
+    {
+     "min": 25,
+     "max": 25,
+     "element": "Normal"
+    },
+    {
+     "min": 100,
+     "max": 104,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Agate",
+    "Aqualaz Shell"
+   ],
+   "dropChance": 50,
+   "credits": [
+    1,
+    4
+   ],
+   "exp": 10
+  },
+  "677": {
+   "hp": 20,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 35,
+     "max": 35,
+     "element": "Air"
+    },
+    {
+     "min": 10,
+     "max": 10,
+     "element": "Normal"
+    },
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    },
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Normal"
+    },
+    {
+     "min": 25,
+     "max": 25,
+     "element": "Normal"
+    },
+    {
+     "min": 100,
+     "max": 104,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Gustlaz Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 50
+  },
+  "680": {
+   "hp": 1000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    },
+    {
+     "min": 15,
+     "max": 19,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Quadoty Bud"
+   ],
+   "dropChance": 100,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 90
+  },
+  "709": {
+   "hp": 150,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 1,
+     "max": 1,
+     "element": "Water"
+    }
+   ],
+   "drops": [
+    "Fish Stick",
+    "Orb of Guab Fish (Lv4)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    50,
+    139
+   ],
+   "exp": 40
+  },
+  "710": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "credits": [
+    80,
+    2999
+   ],
+   "exp": 129
+  },
+  "790": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "High Priest Plasma",
+    "(AP) Strife Cross Shin Armor (Lv14)",
+    "(HF) Celeste Thigh Armor (Lv14)",
+    "(HM) Endlon Thigh Armor (Lv14)",
+    "(BL) Bo Thigh Armor (Lv14)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    549,
+    9999
+   ],
+   "exp": 850
+  },
+  "805": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Wright Essence",
+    "(BL) Ataeus Boot Armor (Lv15)",
+    "(AP) Crom Helmet (Lv15)",
+    "(HM) Cain Face Mask (Lv15)",
+    "(HF) Lillith Tiara (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    373,
+    942
+   ],
+   "exp": 850
+  },
+  "806": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Wright Essence",
+    "(BL) Ataeus Chest Armor (Lv15)",
+    "(AP) Crom Chest Armor (Lv15)",
+    "(HM) Cain Chest Armor (Lv15)",
+    "(HF) Lillith Torso Armor (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    373,
+    942
+   ],
+   "exp": 850
+  }
+ }
 }

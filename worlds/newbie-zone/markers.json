@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -1158,5 +1158,89 @@
    "radiusPx": 19.7,
    "detail": "Action 7: text output, argument 0, once\nRadius: 15\nObject 1032 (Light001.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "7": {
+   "hp": 50,
+   "attacks": "passive"
+  },
+  "8": {
+   "hp": 50,
+   "attacks": "passive",
+   "credits": [
+    10,
+    99
+   ]
+  },
+  "37": {
+   "hp": 40,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Infant Stount Tail"
+   ],
+   "dropChance": 100,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 20
+  },
+  "89": {
+   "hp": 30,
+   "attacks": "passive",
+   "drops": [
+    "Flob Shell",
+    "Agate"
+   ],
+   "dropChance": 33,
+   "credits": [
+    1,
+    4
+   ],
+   "exp": 5
+  },
+  "257": {
+   "hp": 5,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 10,
+     "max": 10,
+     "element": "Normal"
+    },
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    },
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Normal"
+    },
+    {
+     "min": 25,
+     "max": 25,
+     "element": "Normal"
+    },
+    {
+     "min": 100,
+     "max": 104,
+     "element": "Death"
+    }
+   ],
+   "credits": [
+    1,
+    4
+   ],
+   "exp": 5
+  }
+ }
 }

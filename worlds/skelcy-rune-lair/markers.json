@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -343,5 +343,55 @@
    "radiusPx": 875.2,
    "detail": "Action 6: play soundtrack, argument 36\nRadius: 300\nObject 31 (PLATFORMLIGHTa.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "29": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 175,
+     "max": 175,
+     "element": "Normal"
+    },
+    {
+     "min": 0,
+     "max": 0,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Heart of Sarin",
+    "Evonsa Vial",
+    "Orb of Sarin (Lv12)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    150,
+    1999
+   ],
+   "exp": 380
+  },
+  "150": {
+   "hp": 18000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Fire Rune",
+    "Skelcy Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  }
+ }
 }

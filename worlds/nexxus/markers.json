@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "entities",
@@ -15,5 +15,6 @@
    "py": 2767.7,
    "detail": "Action 6: play soundtrack, argument 55\nRadius: 9000\nObject 25 (Nexus_INT01.ARW)"
   }
- ]
+ ],
+ "monsters": {}
 }

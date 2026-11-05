@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -777,5 +777,20 @@
    ],
    "detail": "Exclusion zone (no water here)"
   }
- ]
+ ],
+ "monsters": {
+  "94": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "drops": [
+    "Crid Eyes"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  }
+ }
 }

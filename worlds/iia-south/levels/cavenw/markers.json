@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -421,5 +421,172 @@
    ],
    "detail": "Can spawn at this node, one of 2 on AI web 139 (Cave N - F):\nOverking Geist (Spawner: Cave N 08 - Overking Geist, up to 1, 500/1000)"
   }
- ]
+ ],
+ "monsters": {
+  "21": {
+   "hp": 200,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 10,
+     "max": 10,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Fadun Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 30
+  },
+  "22": {
+   "hp": 300,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Didon Plasma",
+    "Aquamarine"
+   ],
+   "dropChance": 15,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 30
+  },
+  "65": {
+   "hp": 600,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Shockion Claws",
+    "Chalcedony",
+    "Orb of Shockion (Lv7)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 120
+  },
+  "66": {
+   "hp": 1600,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Adult Shockion Claw"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 170
+  },
+  "67": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elite Shockion Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    1499
+   ],
+   "exp": 260
+  },
+  "68": {
+   "hp": 6000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elder Shockion Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 490
+  },
+  "460": {
+   "hp": 600,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Shockion Claws",
+    "Chalcedony",
+    "Orb of Shockion (Lv7)"
+   ],
+   "dropChance": 8,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 74
+  },
+  "589": {
+   "hp": 10000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 100,
+     "max": 100,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Crown of Overking"
+   ],
+   "dropChance": 100,
+   "credits": [
+    1500,
+    4999
+   ],
+   "exp": 1
+  }
+ }
 }

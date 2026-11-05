@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -5358,5 +5358,211 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "29": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 175,
+     "max": 175,
+     "element": "Normal"
+    },
+    {
+     "min": 0,
+     "max": 0,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Heart of Sarin",
+    "Evonsa Vial",
+    "Orb of Sarin (Lv12)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    150,
+    1999
+   ],
+   "exp": 380
+  },
+  "56": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 200,
+     "max": 200,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Dark Jouster Heart",
+    "Evonsa Vial",
+    "Orb of Dark Jouster (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 440
+  },
+  "81": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ascherion Venom Sack"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "94": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "drops": [
+    "Crid Eyes"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "97": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot Head",
+    "Orb of Deathbot (Lv11)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 240
+  },
+  "99": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot02 Chest",
+    "Moonstone"
+   ],
+   "dropChance": 15,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 420
+  },
+  "148": {
+   "hp": 13500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 60,
+     "max": 60,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Living Rune"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 130
+  },
+  "281": {
+   "hp": 1600,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Adult Shockion Claw"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 170
+  },
+  "282": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elite Shockion Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 260
+  },
+  "283": {
+   "hp": 6000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elder Shockion Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 490
+  }
+ }
 }

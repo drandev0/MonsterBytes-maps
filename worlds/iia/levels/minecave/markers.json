@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -3265,5 +3265,165 @@
    "radiusPx": 934.9,
    "detail": "Action 6: play soundtrack, argument 37\nRadius: 500\nObject 2518 (SupportLightsa.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "41": {
+   "hp": 40,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Infant Dilirium Eyes",
+    "Orb of Infant Dilirium (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 30
+  },
+  "53": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Jouster Tongue"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 150
+  },
+  "81": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ascherion Venom Sack"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "94": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "drops": [
+    "Crid Eyes"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "97": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot Head",
+    "Orb of Deathbot (Lv11)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 240
+  },
+  "98": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot01 Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    150,
+    1999
+   ],
+   "exp": 360
+  },
+  "99": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot02 Chest",
+    "Moonstone"
+   ],
+   "dropChance": 15,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 420
+  },
+  "142": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Adult Dilirium Tail",
+    "Amethyst",
+    "Orb of Adult Dilirium (Lv6)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 85
+  }
+ }
 }

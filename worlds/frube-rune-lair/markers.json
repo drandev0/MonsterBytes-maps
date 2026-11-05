@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -237,5 +237,34 @@
    "radiusPx": 544.3,
    "detail": "Action 6: play soundtrack, argument 32\nRadius: 350\nObject 4 (RUNEPORT_FRUBEa.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "13": {
+   "hp": 18000,
+   "attacks": "aggressive",
+   "drops": [
+    "Bio Rune",
+    "Frube Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  },
+  "93": {
+   "hp": 1000,
+   "attacks": "aggressive",
+   "drops": [
+    "Trisk Tentacles"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 160
+  }
+ }
 }

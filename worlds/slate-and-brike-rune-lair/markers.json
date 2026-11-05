@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -180,5 +180,49 @@
    "radiusPx": 936.1,
    "detail": "Action 6: play soundtrack, argument 37\nRadius: 250\nObject 43 (MAINHALLg.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "184": {
+   "hp": 18000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 100,
+     "max": 100,
+     "element": "Earth"
+    }
+   ],
+   "drops": [
+    "Grey Stone Rune",
+    "Slate Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  },
+  "227": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 60,
+     "max": 60,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Slimdon Claws",
+    "Labrodorite"
+   ],
+   "dropChance": 15,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 240
+  }
+ }
 }

@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -19773,5 +19773,339 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "1": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Orb of Neglik (Lv5)",
+    "Neglik Stinger"
+   ],
+   "dropChance": 20,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "4": {
+   "hp": 2500,
+   "attacks": "passive",
+   "drops": [
+    "Taldon Eyes",
+    "Orb of Taldon (Lv9)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 150
+  },
+  "53": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Jouster Tongue"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 150
+  },
+  "63": {
+   "hp": 2800,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Eyes of Kidion"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 150
+  },
+  "81": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ascherion Venom Sack"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "90": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Naton Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "92": {
+   "hp": 2300,
+   "attacks": "aggressive",
+   "drops": [
+    "Lidion Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 170
+  },
+  "105": {
+   "hp": 100,
+   "attacks": "passive",
+   "drops": [
+    "Klondon Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 20
+  },
+  "106": {
+   "hp": 200,
+   "attacks": "passive",
+   "drops": [
+    "Valdron Meat",
+    "Orb of Valdron (Lv4)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 30
+  },
+  "108": {
+   "hp": 1500,
+   "attacks": "passive",
+   "drops": [
+    "Gope Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 110
+  },
+  "122": {
+   "hp": 1000,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Drakite Tail",
+    "Orb of Drakite (Lv8)",
+    "Aventurine"
+   ],
+   "dropChance": 15,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 150
+  },
+  "130": {
+   "hp": 300,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Stontrile Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 70
+  },
+  "170": {
+   "hp": 3000,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 165,
+     "max": 165,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Wispion Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 165
+  },
+  "171": {
+   "hp": 3500,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 150,
+     "max": 150,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Uato Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 165
+  },
+  "174": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Vigon Shell",
+    "Orb of Vigon (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 20
+  },
+  "176": {
+   "hp": 800,
+   "attacks": "passive",
+   "drops": [
+    "Uline Shell",
+    "Proving Opal Marble"
+   ],
+   "dropChance": 15,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 90
+  },
+  "177": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "drops": [
+    "Niglon Shell",
+    "Eye of the Soul"
+   ],
+   "dropChance": 15,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 140
+  },
+  "198": {
+   "hp": 140,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 35,
+     "max": 35,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ean Meat"
+   ],
+   "dropChance": 100,
+   "credits": [
+    10,
+    24
+   ],
+   "exp": 45
+  },
+  "341": {
+   "hp": 5000,
+   "attacks": "attacks murderers only",
+   "drops": [
+    "Crosp Horn"
+   ],
+   "dropChance": 100,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 200
+  },
+  "709": {
+   "hp": 150,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 1,
+     "max": 1,
+     "element": "Water"
+    }
+   ],
+   "drops": [
+    "Fish Stick",
+    "Orb of Guab Fish (Lv4)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    50,
+    139
+   ],
+   "exp": 40
+  }
+ }
 }

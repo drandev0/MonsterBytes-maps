@@ -92,6 +92,12 @@
           "count": 26
         }
       ],
+      "footprint": [
+        2578,
+        3604.4,
+        2792.5,
+        4089.7
+      ],
       "source": {
         "tool": "AuraEditor/map/1",
         "unitsPerPixel": 0.7566613852977753,
@@ -116,6 +122,12 @@
           "shown": true,
           "count": 28
         }
+      ],
+      "footprint": [
+        2763.6,
+        3246.6,
+        2937,
+        3529.3
       ],
       "source": {
         "tool": "AuraEditor/map/1",
@@ -142,6 +154,12 @@
           "count": 19
         }
       ],
+      "footprint": [
+        2611.4,
+        4149.2,
+        2792.8,
+        4435.3
+      ],
       "source": {
         "tool": "AuraEditor/map/1",
         "unitsPerPixel": 0.44621479511260986,
@@ -167,6 +185,12 @@
           "count": 27
         }
       ],
+      "footprint": [
+        4586.1,
+        3104.7,
+        4908.5,
+        3410.1
+      ],
       "source": {
         "tool": "AuraEditor/map/1",
         "unitsPerPixel": 0.5026984214782715,
@@ -191,6 +215,12 @@
           "shown": true,
           "count": 29
         }
+      ],
+      "footprint": [
+        5068.9,
+        3920.4,
+        5329.9,
+        4231.8
       ],
       "source": {
         "tool": "AuraEditor/map/1",

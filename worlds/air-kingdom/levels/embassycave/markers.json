@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "triggers",
@@ -17,5 +17,6 @@
    "radiusPx": 1668.6,
    "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 216 (Embassy_Caveb.ARW)"
   }
- ]
+ ],
+ "monsters": {}
 }

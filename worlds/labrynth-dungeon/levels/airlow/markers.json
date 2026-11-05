@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -16,5 +16,24 @@
    ],
    "detail": "Can spawn at this node, one of 9 on AI web 2 (Nedon):\nNedon (Spawner: Nedon, up to 1, 5/1000)"
   }
- ]
+ ],
+ "monsters": {
+  "752": {
+   "hp": 10000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 250,
+     "max": 254,
+     "element": "Death"
+    },
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "exp": 500
+  }
+ }
 }

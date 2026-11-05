@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -233,5 +233,41 @@
    "py": 3925.2,
    "detail": "Action 2: local portal: moves the player to the trigger's vector in this world, argument 0\nRadius: 60000\nObject 202 (Light001.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "94": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "drops": [
+    "Crid Eyes"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "334": {
+   "hp": 15000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Future Rune",
+    "Zeth Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  }
+ }
 }

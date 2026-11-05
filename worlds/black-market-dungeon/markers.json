@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "npcs",
@@ -258,5 +258,6 @@
    "radiusPx": 68.4,
    "detail": "Action 3: external portal: asks the server for a portal file, which no server loads, argument 0\nRadius: 20\nObject 424 (BLKMRKTDUNG_exitPORT02a.ARW)"
   }
- ]
+ ],
+ "monsters": {}
 }

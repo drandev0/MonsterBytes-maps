@@ -199,6 +199,12 @@
           "count": 1
         }
       ],
+      "footprint": [
+        1633.5,
+        3604.8,
+        2383.7,
+        4222.6
+      ],
       "source": {
         "tool": "AuraEditor/map/1",
         "unitsPerPixel": 0.5347996950149536,
@@ -237,6 +243,12 @@
           "shown": false,
           "count": 2
         }
+      ],
+      "footprint": [
+        5360.5,
+        687.1,
+        5926.3,
+        1315.2
       ],
       "source": {
         "tool": "AuraEditor/map/1",
@@ -283,6 +295,12 @@
           "shown": false,
           "count": 2
         }
+      ],
+      "footprint": [
+        996.5,
+        6607.6,
+        1302.9,
+        7102.6
       ],
       "source": {
         "tool": "AuraEditor/map/1",

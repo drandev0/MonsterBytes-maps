@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -2427,5 +2427,101 @@
    "py": 3674.3,
    "detail": "Action 6: play soundtrack, argument 5\nRadius: 60000\nObject 34346 (Light001.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "41": {
+   "hp": 40,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Infant Dilirium Eyes",
+    "Orb of Infant Dilirium (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 30
+  },
+  "113": {
+   "hp": 50,
+   "attacks": "passive",
+   "drops": [
+    "Clegurk Tongue",
+    "Orb of Clegurk (Lv2)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 15
+  },
+  "130": {
+   "hp": 300,
+   "attacks": "attacks murderers only",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Stontrile Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 70
+  },
+  "162": {
+   "hp": 2300,
+   "attacks": "aggressive",
+   "drops": [
+    "Clegorn Tongue",
+    "Orb of Clegorn (Lv10)",
+    "(ALL) Acolyte Ring of Water +5",
+    "(ALL) Acolyte Ring of Fire +5",
+    "(ALL) Acolyte Ring of Earth +5",
+    "(ALL) Acolyte Ring of Air +5"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "709": {
+   "hp": 150,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 1,
+     "max": 1,
+     "element": "Water"
+    }
+   ],
+   "drops": [
+    "Fish Stick",
+    "Orb of Guab Fish (Lv4)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    50,
+    139
+   ],
+   "exp": 40
+  }
+ }
 }

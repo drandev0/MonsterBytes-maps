@@ -306,6 +306,52 @@ function labelsOf(merged, lc, level) {
   return labels;
 }
 
+/**
+ * Where a level lies on its world's main map, [left, top, right, bottom] in the main map's pixels,
+ * from the boxes that place markers on it (else its drawn bounds). Null for a level that isn't
+ * under the main map's picture (the Needle's ship, a second copy of a zone far away).
+ */
+function footprintOn(main, map) {
+  const boxes = map.level?.areas?.length ? map.level.areas
+    : map.boundsMin ? [[map.boundsMin.x, 0, map.boundsMin.z, map.boundsMax.x, 0, map.boundsMax.z]] : [];
+  if (!boxes.length) return null;
+  const px = (x) => (x - main.origin.x) / main.unitsPerPixel, py = (z) => (main.origin.z - z) / main.unitsPerPixel;
+  let [l, t, r, b] = [Infinity, Infinity, -Infinity, -Infinity];
+  for (const [x0, , z0, x1, , z1] of boxes) {
+    l = Math.min(l, px(x0)); r = Math.max(r, px(x1));
+    t = Math.min(t, py(z1)); b = Math.max(b, py(z0));
+  }
+  // Clip to the picture; keep it if at least a quarter of the level lies under it (4 Falls' crypt
+  // runs past the map's east edge). A level as big as the map (a world-wide sewer) says nothing as an outline.
+  const whole = (r - l) * (b - t);
+  [l, t, r, b] = [Math.max(0, l), Math.max(0, t), Math.min(main.width, r), Math.min(main.height, b)];
+  if (r <= l || b <= t || (r - l) * (b - t) < whole * 0.25) return null;
+  if ((r - l) * (b - t) > main.width * main.height * 0.4) return null;
+  return [l, t, r, b].map(r1);
+}
+
+/** What the game says about each monster on a map, for its popups: keyed by the game's id. */
+function monstersIn(markers) {
+  const out = {};
+  for (const m of markers) for (const x of m.mobs ?? []) {
+    const mo = monsters.get(x.id);
+    if (!mo || out[x.id]) continue;
+    const o = { hp: mo.hp };
+    if (mo.aggressive) o.attacks = mo.aggressive; // "aggressive", "passive" or "attacks murderers only"
+    const hits = new Map();
+    for (const h of mo.attack?.missiles ?? []) hits.set(`${h.damageMin}|${h.damageMax}|${h.elementName}`, { min: h.damageMin, max: h.damageMax, element: h.elementName });
+    if (hits.size) o.damage = [...hits.values()];
+    if (mo.drops?.length) {
+      o.drops = [...new Set(mo.drops.map((d) => clean(d.itemName)))];
+      o.dropChance = mo.dropChancePercent;
+    }
+    if (mo.credits?.enabled) o.credits = [mo.credits.min, mo.credits.max];
+    if (mo.experienceValue) o.exp = mo.experienceValue;
+    out[x.id] = o;
+  }
+  return out;
+}
+
 for (const [file, c] of todo) {
   const base = file.replace(/\.EXG$/i, "");
   const dir = join(src, "maps", base);
@@ -338,14 +384,15 @@ for (const [file, c] of todo) {
     const layers = layersOf(merged, c.slug);
     const labels = labelsOf(merged, lc, lv.id);
     await mkdir(lout, { recursive: true });
-    await writeFile(join(lout, "markers.json"), JSON.stringify({ format: "MonsterBytes/markers/2", markers: merged }, null, 1) + "\n");
+    await writeFile(join(lout, "markers.json"), JSON.stringify({ format: "MonsterBytes/markers/3", markers: merged, monsters: monstersIn(merged) }, null, 1) + "\n");
     console.log(`${c.slug}${lv.id === "main" ? "" : `/${lv.id}`}: ${merged.length} markers (${layers.map((l) => `${l.id} ${l.count}`).join(", ")}), ${dropped} left out`);
+    const footprint = lv.id === "main" ? null : footprintOn(main, map);
     levels.push({
       id: lv.id,
       name: lv.id === "main" ? c.title : lv.name,
       source: { tool: map.format, unitsPerPixel: map.unitsPerPixel, origin: map.origin },
       width: size.width, height: size.height, maxZoom: size.maxZoom, background: size.background,
-      layers, ...(labels.length ? { labels } : {}),
+      layers, ...(labels.length ? { labels } : {}), ...(footprint ? { footprint } : {}),
     });
   }
 

@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -415,5 +415,49 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "10": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Tail of Trine",
+    "Orb of Trine (Lv8)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "12": {
+   "hp": 15000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 100,
+     "max": 100,
+     "element": "Water"
+    }
+   ],
+   "drops": [
+    "Water Rune",
+    "Zorphion Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  }
+ }
 }

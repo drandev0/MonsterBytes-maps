@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -7307,5 +7307,228 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "1": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Orb of Neglik (Lv5)",
+    "Neglik Stinger"
+   ],
+   "dropChance": 20,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "2": {
+   "hp": 900,
+   "attacks": "passive",
+   "drops": [
+    "Nigon Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 90
+  },
+  "33": {
+   "hp": 100,
+   "attacks": "passive"
+  },
+  "41": {
+   "hp": 40,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Infant Dilirium Eyes",
+    "Orb of Infant Dilirium (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 30
+  },
+  "89": {
+   "hp": 30,
+   "attacks": "passive",
+   "drops": [
+    "Flob Shell",
+    "Agate"
+   ],
+   "dropChance": 33,
+   "credits": [
+    1,
+    4
+   ],
+   "exp": 5
+  },
+  "90": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Naton Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "91": {
+   "hp": 1500,
+   "attacks": "passive",
+   "drops": [
+    "Slabon Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 90
+  },
+  "113": {
+   "hp": 50,
+   "attacks": "passive",
+   "drops": [
+    "Clegurk Tongue",
+    "Orb of Clegurk (Lv2)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 15
+  },
+  "142": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Adult Dilirium Tail",
+    "Amethyst",
+    "Orb of Adult Dilirium (Lv6)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 85
+  },
+  "174": {
+   "hp": 300,
+   "attacks": "passive",
+   "drops": [
+    "Vigon Shell",
+    "Orb of Vigon (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 20
+  },
+  "175": {
+   "hp": 600,
+   "attacks": "passive",
+   "drops": [
+    "Brag Shell"
+   ],
+   "dropChance": 100,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 70
+  },
+  "176": {
+   "hp": 800,
+   "attacks": "passive",
+   "drops": [
+    "Uline Shell",
+    "Proving Opal Marble"
+   ],
+   "dropChance": 15,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 90
+  },
+  "279": {
+   "hp": 2215,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    },
+    {
+     "min": 185,
+     "max": 185,
+     "element": "Normal"
+    },
+    {
+     "min": 50,
+     "max": 50,
+     "element": "Normal"
+    },
+    {
+     "min": 35,
+     "max": 35,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Adian Scroll"
+   ],
+   "dropChance": 100,
+   "exp": 1
+  },
+  "709": {
+   "hp": 150,
+   "attacks": "passive",
+   "damage": [
+    {
+     "min": 1,
+     "max": 1,
+     "element": "Water"
+    }
+   ],
+   "drops": [
+    "Fish Stick",
+    "Orb of Guab Fish (Lv4)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    50,
+    139
+   ],
+   "exp": 40
+  }
+ }
 }

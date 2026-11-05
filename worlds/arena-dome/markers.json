@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "portals",
@@ -137,5 +137,6 @@
    "radiusPx": 123.6,
    "detail": "Action 5: force pad: pushes the player along the trigger's vector, argument 0\nRadius: 20\nObject 216 (BOUNCE_13a.ARW)"
   }
- ]
+ ],
+ "monsters": {}
 }

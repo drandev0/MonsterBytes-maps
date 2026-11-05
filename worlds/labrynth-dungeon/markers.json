@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -448,5 +448,126 @@
    ],
    "detail": "Water zone"
   }
- ]
+ ],
+ "monsters": {
+  "675": {
+   "hp": 5000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 15,
+     "max": 19,
+     "element": "Death"
+    },
+    {
+     "min": 10,
+     "max": 10,
+     "element": "Normal"
+    },
+    {
+     "min": 15,
+     "max": 15,
+     "element": "Normal"
+    },
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Normal"
+    },
+    {
+     "min": 25,
+     "max": 25,
+     "element": "Normal"
+    },
+    {
+     "min": 100,
+     "max": 104,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Necrolaz Shell",
+    "(AP) Necrolaz"
+   ],
+   "dropChance": 10,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 29
+  },
+  "751": {
+   "hp": 20000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 240,
+     "max": 244,
+     "element": "Death"
+    }
+   ],
+   "exp": 1
+  },
+  "752": {
+   "hp": 10000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 250,
+     "max": 254,
+     "element": "Death"
+    },
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "exp": 500
+  },
+  "753": {
+   "hp": 15000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 240,
+     "max": 244,
+     "element": "Rune"
+    }
+   ],
+   "exp": 400
+  },
+  "754": {
+   "hp": 8000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 50,
+     "max": 50,
+     "element": "Death"
+    }
+   ],
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 204
+  },
+  "755": {
+   "hp": 55000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 350,
+     "max": 354,
+     "element": "Death"
+    }
+   ],
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 1
+  }
+ }
 }

@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -617,5 +617,34 @@
    "radiusPx": 65.6,
    "detail": "Action 7: text output, argument 3, once\nRadius: 50\nObject 3127 (DIALOGTRIG_17a.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "378": {
+   "hp": 72,
+   "attacks": "passive",
+   "drops": [
+    "Flob Shell",
+    "Agate"
+   ],
+   "dropChance": 5,
+   "credits": [
+    1,
+    4
+   ],
+   "exp": 5
+  },
+  "379": {
+   "hp": 200,
+   "attacks": "passive",
+   "drops": [
+    "Infant Stount Tail"
+   ],
+   "dropChance": 100,
+   "credits": [
+    2,
+    19
+   ],
+   "exp": 8
+  }
+ }
 }

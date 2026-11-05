@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "npcs",
@@ -1833,5 +1833,6 @@
    ],
    "kind": "monsters don't attack here"
   }
- ]
+ ],
+ "monsters": {}
 }

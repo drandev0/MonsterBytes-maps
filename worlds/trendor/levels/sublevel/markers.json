@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "npcs",
@@ -623,5 +623,6 @@
    "radiusPx": 932.7,
    "detail": "Action 6: play soundtrack, argument 52\nRadius: 75\nObject 1600 (musictrigger03a.ARW)"
   }
- ]
+ ],
+ "monsters": {}
 }

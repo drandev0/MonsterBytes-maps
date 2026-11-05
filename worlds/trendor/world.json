@@ -223,6 +223,12 @@
           "count": 7
         }
       ],
+      "footprint": [
+        3843.5,
+        0,
+        4690.3,
+        223.3
+      ],
       "source": {
         "tool": "AuraEditor/map/1",
         "unitsPerPixel": 0.08041014894843102,

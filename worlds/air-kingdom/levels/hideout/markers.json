@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "npcs",
@@ -123,5 +123,6 @@
    "radiusPx": 675.2,
    "detail": "Action 6: play soundtrack, argument 46\nRadius: 700\nObject 236 (3Peaks_Cavea.ARW)"
   }
- ]
+ ],
+ "monsters": {}
 }

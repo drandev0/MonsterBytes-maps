@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -6119,5 +6119,355 @@
    "radiusPx": 646.1,
    "detail": "Action 6: play soundtrack, argument 24\nRadius: 500\nObject 536 (PORTOUTa.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "4": {
+   "hp": 2500,
+   "attacks": "passive",
+   "drops": [
+    "Taldon Eyes",
+    "Orb of Taldon (Lv9)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    60,
+    799
+   ],
+   "exp": 150
+  },
+  "23": {
+   "hp": 1000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ligon Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "24": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 75,
+     "max": 75,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Gonlon Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 120
+  },
+  "54": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "Garnet"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 220
+  },
+  "55": {
+   "hp": 5000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 70,
+     "max": 70,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Grision Plasma",
+    "Orb of Grision (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    1000,
+    2999
+   ],
+   "exp": 660
+  },
+  "80": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "drops": [
+    "Kandra Brain",
+    "Orb of Kandra (Lv14)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    300,
+    2699
+   ],
+   "exp": 560
+  },
+  "94": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "drops": [
+    "Crid Eyes"
+   ],
+   "dropChance": 100,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "95": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "drops": [
+    "Phsion Wings"
+   ],
+   "dropChance": 100,
+   "credits": [
+    150,
+    1999
+   ],
+   "exp": 380
+  },
+  "134": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "drops": [
+    "Skarshar Head",
+    "Orb of Skarshar (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 470
+  },
+  "236": {
+   "hp": 3000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Wright Essence"
+   ],
+   "dropChance": 100,
+   "credits": [
+    2500,
+    4999
+   ],
+   "exp": 850
+  },
+  "241": {
+   "hp": 900,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 50,
+     "max": 50,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Eyezora Eye",
+    "Lapis Lazuli"
+   ],
+   "dropChance": 25,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 210
+  },
+  "245": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "High Priest Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    1000,
+    2999
+   ],
+   "exp": 850
+  },
+  "338": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Sliglith Beak"
+   ],
+   "dropChance": 100,
+   "exp": 80
+  },
+  "339": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 25,
+     "max": 25,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Tolplop Beak"
+   ],
+   "dropChance": 100,
+   "exp": 80
+  },
+  "340": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Vavalon Beak"
+   ],
+   "dropChance": 100,
+   "exp": 80
+  },
+  "724": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Wright Essence",
+    "(BL) Ataeus Chest Armor (Lv15)",
+    "(AP) Crom Chest Armor (Lv15)",
+    "(HM) Cain Chest Armor (Lv15)",
+    "(HF) Lillith Torso Armor (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    373,
+    942
+   ],
+   "exp": 264
+  },
+  "726": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "High Priest Plasma",
+    "(BL) Ataeus Gauntlet Armor (Lv15)",
+    "(AP) Crom Bracers (Lv15)",
+    "(HM) Cain Gauntlet Armor (Lv15)",
+    "(HF) Lillith Gauntlet Armor (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    549,
+    9999
+   ],
+   "exp": 336
+  },
+  "727": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 170,
+     "max": 170,
+     "element": "Death"
+    }
+   ],
+   "drops": [
+    "Wright Essence",
+    "(BL) Ataeus Boot Armor (Lv15)",
+    "(AP) Crom Helmet (Lv15)",
+    "(HM) Cain Face Mask (Lv15)",
+    "(HF) Lillith Tiara (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    373,
+    942
+   ],
+   "exp": 264
+  },
+  "728": {
+   "hp": 3500,
+   "attacks": "aggressive",
+   "drops": [
+    "Kandra Brain",
+    "(BL) Ataeus Thigh Armor (Lv15)",
+    "(AP) Crom Shin Armor (Lv15)",
+    "(HM) Cain Thigh Armor (Lv15)",
+    "(HF) Lillith Thigh Armor (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    279,
+    2159
+   ],
+   "exp": 204
+  }
+ }
 }

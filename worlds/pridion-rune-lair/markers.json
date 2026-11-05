@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -195,5 +195,49 @@
    "radiusPx": 789.2,
    "detail": "Action 6: play soundtrack, argument 54\nRadius: 350\nObject 4 (RUNEPORT_PRIDIONa.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "53": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Jouster Tongue"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 150
+  },
+  "109": {
+   "hp": 17000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Air Rune",
+    "Pridion Rune Key of Flight",
+    "Pridion Embryo"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  }
+ }
 }

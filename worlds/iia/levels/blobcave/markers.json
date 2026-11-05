@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -1079,5 +1079,42 @@
    "radiusPx": 566.9,
    "detail": "Action 6: play soundtrack, argument 3\nRadius: 200\nObject 2800 (STRDRWYS02e.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "41": {
+   "hp": 40,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Infant Dilirium Eyes",
+    "Orb of Infant Dilirium (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 30
+  },
+  "113": {
+   "hp": 50,
+   "attacks": "passive",
+   "drops": [
+    "Clegurk Tongue",
+    "Orb of Clegurk (Lv2)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    2,
+    9
+   ],
+   "exp": 15
+  }
+ }
 }

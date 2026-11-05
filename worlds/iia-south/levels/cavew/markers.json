@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -393,5 +393,200 @@
    ],
    "detail": "Can spawn at this node, one of 2 on AI web 149 (Cave Sirilious - I):\nDestroyer01 (LV15 BOSS) (Spawner: Cave Arilious 10 - Destroyer, up to 1, 500/1000)"
   }
- ]
+ ],
+ "monsters": {
+  "23": {
+   "hp": 1000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ligon Plasma"
+   ],
+   "dropChance": 100,
+   "credits": [
+    15,
+    74
+   ],
+   "exp": 50
+  },
+  "29": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 175,
+     "max": 175,
+     "element": "Normal"
+    },
+    {
+     "min": 0,
+     "max": 0,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Heart of Sarin",
+    "Evonsa Vial",
+    "Orb of Sarin (Lv12)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    150,
+    1999
+   ],
+   "exp": 380
+  },
+  "30": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 125,
+     "max": 125,
+     "element": "Normal"
+    },
+    {
+     "min": 165,
+     "max": 165,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Heart of Sarin"
+   ],
+   "dropChance": 100,
+   "exp": 290
+  },
+  "31": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 175,
+     "max": 175,
+     "element": "Normal"
+    },
+    {
+     "min": 0,
+     "max": 0,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Heart of Sarin"
+   ],
+   "dropChance": 100,
+   "exp": 380
+  },
+  "32": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 175,
+     "max": 175,
+     "element": "Normal"
+    },
+    {
+     "min": 0,
+     "max": 0,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Heart of Sarin"
+   ],
+   "dropChance": 100,
+   "exp": 380
+  },
+  "97": {
+   "hp": 1500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot Head",
+    "Orb of Deathbot (Lv11)"
+   ],
+   "dropChance": 15,
+   "credits": [
+    100,
+    1499
+   ],
+   "exp": 240
+  },
+  "98": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot01 Head"
+   ],
+   "dropChance": 100,
+   "credits": [
+    150,
+    1999
+   ],
+   "exp": 360
+  },
+  "99": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 90,
+     "max": 90,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Deathbot02 Chest",
+    "Moonstone"
+   ],
+   "dropChance": 15,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 420
+  },
+  "100": {
+   "hp": 17000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 100,
+     "max": 100,
+     "element": "Fire"
+    }
+   ],
+   "drops": [
+    "Tech Rune",
+    "Destroyer01 Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  }
+ }
 }

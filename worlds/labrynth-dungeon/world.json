@@ -51,6 +51,12 @@
       "maxZoom": 5,
       "background": "#333366",
       "layers": [],
+      "footprint": [
+        1931,
+        3251.4,
+        3815.2,
+        5665.1
+      ],
       "source": {
         "tool": "AuraEditor/map/1",
         "unitsPerPixel": 0.061290450394153595,
@@ -75,6 +81,12 @@
           "shown": true,
           "count": 1
         }
+      ],
+      "footprint": [
+        2655.6,
+        4589.1,
+        3618.8,
+        5552.3
       ],
       "source": {
         "tool": "AuraEditor/map/1",

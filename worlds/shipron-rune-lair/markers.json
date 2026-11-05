@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -195,5 +195,49 @@
    "radiusPx": 676.5,
    "detail": "Action 6: play soundtrack, argument 6\nRadius: 300\nObject 4 (RUNEPORT_LORDSHRITEa.ARW)"
   }
- ]
+ ],
+ "monsters": {
+  "154": {
+   "hp": 1400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 70,
+     "max": 70,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Shrite Hide",
+    "Citrine"
+   ],
+   "dropChance": 15,
+   "credits": [
+    25,
+    224
+   ],
+   "exp": 115
+  },
+  "155": {
+   "hp": 16000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 100,
+     "max": 100,
+     "element": "Earth"
+    }
+   ],
+   "drops": [
+    "Earth Rune",
+    "Shipron Key of Flight"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  }
+ }
 }

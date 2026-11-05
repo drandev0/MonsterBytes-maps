@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "mobs",
@@ -409,5 +409,190 @@
    ],
    "detail": "Can spawn at this node, one of 3 on AI web 167 (Cave NE - K):\nPridion (LV15 BOSS) (Spawner: Cave NE 11 - Boss Pridion, up to 1, 500/1000)"
   }
- ]
+ ],
+ "monsters": {
+  "41": {
+   "hp": 40,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 20,
+     "max": 20,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Infant Dilirium Eyes",
+    "Orb of Infant Dilirium (Lv3)"
+   ],
+   "dropChance": 20,
+   "credits": [
+    5,
+    14
+   ],
+   "exp": 30
+  },
+  "55": {
+   "hp": 5000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 70,
+     "max": 70,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Grision Plasma",
+    "Orb of Grision (Lv15)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    1000,
+    2999
+   ],
+   "exp": 660
+  },
+  "56": {
+   "hp": 4000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 200,
+     "max": 200,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Dark Jouster Heart",
+    "Evonsa Vial",
+    "Orb of Dark Jouster (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 440
+  },
+  "81": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 30,
+     "max": 30,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Ascherion Venom Sack"
+   ],
+   "dropChance": 100,
+   "credits": [
+    50,
+    499
+   ],
+   "exp": 130
+  },
+  "109": {
+   "hp": 17000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 80,
+     "max": 80,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Air Rune",
+    "Pridion Rune Key of Flight",
+    "Pridion Embryo"
+   ],
+   "dropChance": 100,
+   "credits": [
+    3000,
+    5999
+   ],
+   "exp": 150
+  },
+  "134": {
+   "hp": 2500,
+   "attacks": "aggressive",
+   "drops": [
+    "Skarshar Head",
+    "Orb of Skarshar (Lv13)"
+   ],
+   "dropChance": 10,
+   "credits": [
+    200,
+    2499
+   ],
+   "exp": 470
+  },
+  "278": {
+   "hp": 2000,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Elite Ascherion Venom Sack",
+    "Onyx"
+   ],
+   "dropChance": 15,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 190
+  },
+  "457": {
+   "hp": 400,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Relic"
+    }
+   ],
+   "drops": [
+    "Adult Dilirium Tail",
+    "Orb of Adult Dilirium (Lv6)"
+   ],
+   "dropChance": 8,
+   "credits": [
+    20,
+    149
+   ],
+   "exp": 64
+  },
+  "463": {
+   "hp": 500,
+   "attacks": "aggressive",
+   "damage": [
+    {
+     "min": 40,
+     "max": 40,
+     "element": "Normal"
+    }
+   ],
+   "drops": [
+    "Pidion Eye",
+    "Garnet"
+   ],
+   "dropChance": 8,
+   "credits": [
+    80,
+    999
+   ],
+   "exp": 129
+  }
+ }
 }

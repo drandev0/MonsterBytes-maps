@@ -1,5 +1,5 @@
 {
- "format": "MonsterBytes/markers/2",
+ "format": "MonsterBytes/markers/3",
  "markers": [
   {
    "layer": "npcs",
@@ -98,5 +98,6 @@
     }
    ]
   }
- ]
+ ],
+ "monsters": {}
 }
